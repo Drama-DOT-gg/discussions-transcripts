@@ -1,0 +1,36 @@
+Jerome - Let's turn the tables, Colour Nodes CloudLinux is expired about a year now and they still claim they have CloudLinux at their website.
+
+This is the result when I lookup on cPanel website.
+
+
+cPanel login: https://cpanel.colournodes.com
+Product Page: https://www.colournodes.com/web-hosting - https://drama.gg/assets/files/2021-08-11/1628654344-816532-03.png
+Jerome - Let's turn the tables, Colour Nodes CloudLinux is expired about a year now and they still claim they have CloudLinux at their website.
+
+This is the result when I lookup on cPanel website.
+
+
+cPanel login: https://cpanel.colournodes.com
+Product Page: https://www.colournodes.com/web-hosting - https://drama.gg/assets/files/2021-08-11/1628654400-102274-01.png
+Jerome - Let's turn the tables, Colour Nodes CloudLinux is expired about a year now and they still claim they have CloudLinux at their website.
+
+This is the result when I lookup on cPanel website.
+
+
+cPanel login: https://cpanel.colournodes.com
+Product Page: https://www.colournodes.com/web-hosting - https://drama.gg/assets/files/2021-08-11/1628654373-864998-02.png
+FatGrizzly - bruh
+FatGrizzly - do you actually fking think that CloudLinux can only be bought on cpanel.net?
+FatGrizzly - I just feel like you are goddamn stupid.
+A reverse dns lookup reveals that the server hostname is charlie.cloudns.io and they literally have BitNinja.io in their servers, and how on earth do you think that such a big company will use a nulled license fool.
+
+
+they have a license tho.
+
+As always, Having some fucking knowledge before creating a thread - https://drama.gg/assets/files/2021-08-11/1628667942-673342-image.png
+Jerome - FatGrizzly Expired on 3rd November 2020 and Registered on 1st May 2021
+FatGrizzly - Jerome CLN doesn't show license history.
+Tomas - It's most likely not even their server? Cloudlinux doesn't always have to be bought via cPanel
+Jamie_ - Tomas Thank you.
+Jamie_ - Let me ask Jerome, do you have anything better to do other than try and make my company look bad for things that aren't true?
+Robert - Locked this thread due to it being invalid from the get-go. If you want to add anything to this thread, DM me on Discord (That Guy#5275).

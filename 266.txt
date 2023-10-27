@@ -1,0 +1,68 @@
+Sloth - Introduction.
+Freenom is a domain registrar which provides free domains under the TLDs of .tk, .gq, .ml, .cf, and .ga. Many hosts, both free and paid, use these domains, as they're too cheap to just buy a damn domain. Hosts which use free domains are shit, every single one of them, but that's beside the point of this PSA. 
+
+Why not?
+In case you run a small website or game server, you might choose to use a free domain from Freenom, thinking nothing of it, however, using them itself could pose a risk. Sites which receive a lot of traffic get taken over by Freenom, then turned into an adult film site, and after all that you would receive an offer from Freenom to get your domain back if you pay X amount of money. Just buy a domain and don't risk the domain being taken hostage, and therefore an important aspect of your community from being taken over and turned into something inappropriate.
+
+Just buy a domain.
+Bxrk - i have never had this happen to me before
+Dviih - It's a good option if lamaker.tk(.ml .gq .cf .ga) became adult sites is a good option
+Triassic - Haven't had this ever happen, well atleast when i used to use freenom for small projects, is there any proof to back your claims? I'm not saying that i think you're lying, it'd just be interesting to see proof.
+Sloth - Happened to a friend of mine like 2 hours ago.  Also, there are tons of reviews on their trustpilot saying the same thing.
+Tomas - Seems like something they would do. When you get a domain from them it's "borrowing" rather than you owning it so it's never your own domain.
+
+Scummy
+Bxrk - Sloth proof
+Triassic - Yeah the trustpilot reviews are enough proof for me, thnx
+Sloth - https://www.trustpilot.com/reviews/600c9158755dc104c0c71661
+https://www.trustpilot.com/reviews/603cb9b9f85d7509d8e7731f
+https://www.trustpilot.com/reviews/60300ef6f85d7509d8de7ed9
+
+just to name a few
+Bxrk -  - https://winterhoax.com/assets/files/2021-03-13/1615656404-15038-image.png
+Bxrk -  - https://winterhoax.com/assets/files/2021-03-13/1615656410-322800-image.png
+Bxrk -  - https://winterhoax.com/assets/files/2021-03-13/1615656417-147117-image.png
+Dviih - Sloth Also if these guys was hosting in free hosting and not freenom fault??
+Sloth - No shit. It's freenom itself which does it. Just wanna let you know to not use Freenom, as they might take your domain away.
+Mr_Zomka - Up. Just happened to me.
+Ricardo - Look, Freenom is shit, here are the reasons:
+
+.tk, .gq, .ml, .cf, and .ga TLDs are not professional anymore
+They ban you when you use too many times the same nameservers
+Forget about support, they just close your tickets
+
+Domains are too cheap (In OVH .xyz is 1.20€), just buy one
+Mr_Zomka - Dviih I was not hosting in a free host but my domain still got stolen :/
+Mr_Zomka - Ricardo UP!
+Mr_Zomka - Sloth In my case I couldn't even pay them :/
+Robert - Sloth Happened to one of my domains too back when I still used Freenom for very small projects.
+Korudo - Sloth It is true, happened to my old .cf domain and pepenodes :/
+candy - are u smooky
+Deleted User - Sloth buy me domain ktnxbye
+Two - Sloth I can confirm. I've seen it happen to a friend of mine too. It does also state on Freenom's TOS or something that the domain "isn't yours" and you are technically "borrowing it".
+cubebuilder - Freenom will take away your domain when it expires and sell it for money. (Same thing goes if you get a lot of traffic)
+
+You can also very easily get your domain suspended for "fraud" by e-mailing their support. One of my Freenom domains got suspended because of some guy who just e-mailed freenom claiming that I DDoS with no proof. He just sent an e-mail saying that I DDoS and freenoms shitty support suspended the domain after 2 months the e-mail was sent.
+KylePlays - Yes.
+Justin - adding to @Sloth 
+https://www.wjunction.com/threads/help-my-website-is-redirected-to-a-porn-site.240996/
+
+https://www.quora.com/Is-Freenom-a-fraudulent-company-I-registered-free-ccTLD-ga-and-tk-domain-names-and-within-a-few-2-3-days-all-of-the-domains-were-taken-away-and-marked-as-Fraud-without-any-explanation#:~:text=Freenom%20is%20100%25%20a%20fraudulent,trapped%20in%20free%20Domain%20offer%20. - https://drama.gg/assets/files/2021-06-21/1624264390-363069-image.png
+Justin - Registered a domain name with them free of course, was going to pay. This is what happend. It turns out the domain I registered ( after all my research) had a fair amount of traffic. Yes . So within 48 hours ( I had about a couple of hours to test traffic) the domain was deleted from my account and guess what the name is registered as paid and the registrant is Freenom, and guess what again the domain name is parked at rookmedia collecting cash.
+
+I'm pissed off cause I researched to capture this type-in traffic. What sneaky thieving bastards
+
+
+
+
+SOURCE: https://www.namepros.com/threads/freenom-is-a-scam-and-thiefs.938824/
+BaconHead - shitnom
+comfyy - Freenom is also considered bad by Facebook and many companies due to scammers.
+Jaxon - Sloth what if my freenom site is already an adult film site 😳
+LandonHalley - Mr_Zomka You should send your website so people can see that it is true
+LandonHalley - comfyy Facebook is bad so ;-;
+AxelNetwork - e
+IoNetty - Justin Try routing it through cloudflare or something, don't think they can get the traffic. I have a directadmin web host linked through cloudflare. Cloudflare can't see the traffic on that directadmin web host. Note: I don't use freenom anyway.
+Gunner - yeah i knew it was to good to be true
+Two - its a free host, no one is going to care about this thread unless they want to make something big
+Ink - Freenoms is been shit. Their website is so fucking slow it's unreal. I never understood while I or other people ever used it. I don't get why people still trust them.

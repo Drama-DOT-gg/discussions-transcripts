@@ -1,0 +1,263 @@
+Deleted User - Side note about what happened and why they are accusing me one day mehost was raided by someone who has SSH access remember that and i only came to hear about it 2 days later and when i talk to dchu about it i ask him if he wants me to join and help after some talk he agreed and i joined guess what happened the hour i joined 5+ people dmed me asking if i raided it idk if dchu told them i may have done it or if its because i was in mehost before and was banned.and basically Dchu also went on to tell everyone i went to raid mehost and all this nonsense and this is where we at
+Deleted User - first i will let MeHost state their points before i state my defence
+IoNetty - Where did the unprofessional tag come from? Alright, first off let me state who I am. I'm Io.Netty, developer or such in mehost. Can you provide any proof for what you said? If you didn't raid mehost then provide proof of it, you already rambled in my dms once. I'll be willing to send the message links if you need, you asked me to take revenge on mehost not knowing my position there.
+
+
+Edit: I can also send photos of the dms.
+Deleted User - I clearly stated that i will let mehost state their points first
+Deleted User - before i state my defence
+IoNetty - Zachery I could see that? I'll need to wait for dchu096 to state points but I want to see what you have,  just provide proof anything you said is true. You said you couldn't in dms because you no longer had the screenshots.
+Deleted User - so that i can know how they misunderstood me and if i was really ruining their host how i could improve simple as that.
+IoNetty - Zachery You said someone with ssh raided, can you provide proof it was or was not you in this case?
+Deleted User - you yourself stated someone did rm -rf /
+IoNetty - Zachery Yea, I said someone. Can you prove proof that was or was not you? You said you were related to the raid. Show how you were involved in that case.
+Deleted User - ill not state anything else until dchu comes here and provides proper proof of ME even doing the raid at the first place where do i even come in to this whole raid thing
+IoNetty - Zachery Why can't you prove any proof now? Or any screenshots of anything? Do you even have any? You said you didn't in dms.
+Deleted User - dont make me repeat myself i will not state anything until dchu gets here and stop pestering me this is a thread not a chat
+Tomas - A thread is a running commentary of all the messages sent in your chat app. They appear within a group, private message, or channel. ... Threads appear in chat rooms, emails, and even the comment section of blogs.
+Deleted User - ik but hes flooding the thread
+Tomas - Zachery but so are your responses
+IoNetty - Zachery I'm not trying to make anyone repeat anything, just can you prove anything?
+Deleted User - just like that can mehost prove anything?
+that i raided their host
+IoNetty - Zachery What about you prove that you didn't raid mehost? You said you didn't and you provided non existant proof in my dms earlier too.
+Deleted User - i can only provide valid proof if dchu is here and first provide proof that i did it
+Deleted User - i will glady provide proof but im trying to not spread inaccurate claims and im trying to hear dchu's side of the story first
+dchu096 - hmm... let me fetch some logs. gimme a while (cmon r6 stop creating alts just to take revenge on mehost)
+Deleted User - this aint a alt its my main i changed user and this is NOT for revenge its to prove my innocence
+IoNetty - Zachery Were going through logs, also that ip you sent a while back. VPN?
+Deleted User - nope
+Deleted User - you can verify it
+IoNetty - Zachery Sorry, might have looked up the wrong ip. We were getting bruteforced at the same time.
+Deleted User - bruteforced?
+Deleted User - so just since you got bruteforced you accused me
+Deleted User - send proof of the bruetforce
+Deleted User - so that we can know that your not trying to use it as a excuse
+IoNetty - Zachery sec
+IoNetty - https://pastebin.com/p7rN2uwc
+Deleted User - Jul  4 00:03:43 vmi615669 sshd[219457]: Connection closed by not shown for security reasons port 41598 [preauth]
+Jul  4 00:04:04 vmi615669 sshd[219481]: Connection closed by not shown for security reasons port 49812 [preauth]
+Jul  4 00:04:25 vmi615669 sshd[219500]: Connection closed by not shown for security reasons port 58122 [preauth]
+Jul  4 00:04:46 vmi615669 sshd[219526]: Connection closed by not shown for security reasons port 37870 [preauth]
+Jul  4 00:05:06 vmi615669 sshd[219552]: Connection closed by not shown for security reasons port 45930 [preauth]
+Jul  4 00:05:31 vmi615669 sshd[219571]: Connection closed by not shown for security reasons port 54760 [preauth]
+Jul  4 00:05:51 vmi615669 sshd[219590]: Connection closed by not shown for security reasons port 34442 [preauth]
+Jul  4 00:06:11 vmi615669 sshd[219613]: Connection closed by not shown for security reasons port 42416 [preauth]
+Jul  4 00:06:31 vmi615669 sshd[219655]: Connection closed by not shown for security reasons port 50222 [preauth]
+Jul  4 00:06:52 vmi615669 sshd[219678]: Connection closed by not shown for security reasons port 58052 [preauth]
+Jul  4 00:07:12 vmi615669 sshd[219706]: Connection closed by not shown for security reasons port 37646 [preauth]
+Jul  4 00:07:33 vmi615669 sshd[219735]: Connection closed by not shown for security reasons port 45906 [preauth]
+Jul  4 00:07:54 vmi615669 sshd[219764]: Connection closed by not shown for security reasons port 54166 [preauth]
+Jul  4 00:08:15 vmi615669 sshd[219800]: Connection closed by not shown for security reasons port 33942 [preauth]
+Jul  4 00:08:36 vmi615669 sshd[219823]: Connection closed by not shown for security reasons port 42104 [preauth]
+Jul  4 00:08:56 vmi615669 sshd[219844]: Connection closed by not shown for security reasons port 50320 [preauth]
+Jul  4 00:09:17 vmi615669 sshd[219869]: Connection closed by not shown for security reasons port 58268 [preauth]
+Jul  4 00:09:37 vmi615669 sshd[219895]: Connection closed by not shown for security reasons port 38286 [preauth]
+Jul  4 00:09:57 vmi615669 sshd[219912]: Connection closed by not shown for security reasons port 46032 [preauth]
+Jul  4 00:10:17 vmi615669 sshd[219932]: Connection closed by not shown for security reasons port 54544 [preauth]
+Jul  4 00:10:38 vmi615669 sshd[219948]: Connection closed by not shown for security reasons port 34420 [preauth]
+Jul  4 00:10:58 vmi615669 sshd[219974]: Connection closed by not shown for security reasons port 42254 [preauth]
+Jul  4 00:11:19 vmi615669 sshd[220000]: Connection closed by not shown for security reasons port 50096 [preauth]
+Jul  4 00:11:39 vmi615669 sshd[220017]: Connection closed by not shown for security reasons port 57996 [preauth]
+Jul  4 00:12:00 vmi615669 sshd[220107]: Connection closed by not shown for security reasons port 37614 [preauth]
+Jul  4 00:12:20 vmi615669 sshd[220125]: Connection closed by not shown for security reasons port 45748 [preauth]
+Deleted User - hmmm whats the ip its coming from
+IoNetty - Zachery Some ip in south africa, not shown for security reasons like it said.
+Deleted User - and not only that so you have no valid proof i did it and you accusing me for what you think and then your saying that I raided the host to pretty much everyone
+Deleted User - IoNetty i do not reside in africa.
+Deleted User - if you want grabify me to make sure
+IoNetty - Zachery I wasn't at mehost when that happened, contact dchu. @dchu096
+Deleted User - well just send a grabify link to me in dms
+Deleted User - so you can make sure its not me
+IoNetty - Zachery  You can just use a vpn?
+Deleted User - grabify can detect vpns
+dchu096 - VPN's exist for a reason
+
+
+This is a screenshot from ipqualityscore - https://drama.gg/assets/files/2021-08-20/1629422452-362747-image.png
+Deleted User - so this states that mehost is unproffesional cus they cant protect their own data and thus they lost user data
+Deleted User - next accusing me so you dont know who it is and you go on to accuse me?
+Deleted User - there have been 4 times i have had Admin after the raid happened and even after you banned me twice and demoted me twice i never nuked your discord
+Deleted User - why do you think i never nuked it huh its a perfect chance for me
+IoNetty - Zachery We can't protect our own data? We lost some logs due to someone running rm -rf. You say it's not you but then who did it? Someone has to take the blame. If were unprofessional, okay! It was you or neil that ran rm -rf, It was probably you though, but come on. Can you prove your point? You said you had proof and you would send it when dchu cane but dchu came and you have no proof?
+Deleted User - IoNetty someone has to take a blame? you cant just accuse people for no reason and say they did it
+Deleted User - and yes you couldnt secure user data and you have lost it due to a brute force
+IoNetty - Zachery We never lost it due to a brute force, all of the brute force ips were banned. It was due to an actual person who had ssh.
+dchu096 - Zachery i would actually say, put some screenshots on if you want to start a thread like this. you are trying to take revenge on a months old things...
+Deleted User - IoNetty so tell me did i have ssh?
+IoNetty - Zachery Accuse people for no reason? Your the person who had a high change of doing it. You say it's neil, prove it then.
+IoNetty - Zachery Ask dchu that problem, not me.
+Deleted User - dchu096 no cus IoNetty went on to tell people i was gonna nuke their servers
+Deleted User - and all this BS about me nuking hosts
+Deleted User - dchu096 next  IoNetty himself said its someone with ssh did i have ssh? No
+dchu096 - Zachery well you indeed has. its not hard using the password that i set to your node earlier and try to throw it into the user root
+Deleted User - dchu096 next even after you banned me the last time and accused me i had access to direct admin admin acc did i raid? No i asked eugene to tell you
+dchu096 - and find out it actually is the same
+IoNetty - Zachery You got perms in melonnodes, what else were you gonna do. It's not proven if it was you or neil that nuked it. Prove it was neil if you think it's him. As simple as that.
+Deleted User - ive had so many oppurtuinited to raid your server why didnt i huh?
+dchu096 - Zachery well... wanna read that chat?
+Deleted User - IoNetty i never said its neil tho he is the one who accused me of deleteing a server in panel with spa
+note cactus amde me a acc which i couldnt login next he also told me he wont give me admin so tell me how its a coincidence i got admin just before the persons server was deleted
+Deleted User - and if your gonna say i hacked neils acc another poit that your secuirity is shit so what are you gonna admit to your security is shit or that your accusing me for no reason
+dchu096 -  - https://drama.gg/assets/files/2021-08-20/1629423007-983813-discord-021x85prqg.png
+Deleted User - dchu096 ill deal that with him not your concern
+dchu096 - well it is my concern. that shows you are untrustable. if i let you anywhere close to my system i would expect another wave of rm -rf
+dchu096 - from you.
+Deleted User - you didnt give me access thats the thing
+Deleted User - and it still happened
+Deleted User - and thats not valid evidence of anything
+Deleted User - ive already explained it with him
+dchu096 - Zachery the logs perfect proof ngl.
+Deleted User - so tell me this straight 1) i dont have spa or ssh access 2) i have had 7 oppurtuinities with admin in the discord perfect to nuke the whole thing and ive had admin access to direct admin i did nothing
+Deleted User - and the logs state a brute force happened
+and IoNetty says its not a bruteforce
+Deleted User - what bs is this
+Deleted User - make up your mind and if your saying i hacked your system your admiting that your data is not secured and that your host is not reliable
+Deleted User - Next even if i so called raided your host why would i still try to help wouldnt i just nuke your discord and be done with it
+dchu096 - Zachery Hello, you do indeed has SPA.
+
+im trying to find that image in my DM. but im sure a username r6 r6 with your email has a star next to the users list
+dchu096 - image provided by neil - https://drama.gg/assets/files/2021-08-20/1629423652-467507-image.png
+Deleted User - thats the thing coincidence that i so happened to have spa to a acc i couldnt access
+dchu096 - Zachery well i do agree for v2 my host is unstable and unsecured. this issue is fixed in v3 lol. that server is deleted in ash with contabo so rn even if you going to bring this up for revenge i dont have that much proof on hand as i no longer have access to that vps service
+Deleted User - let me show you some proof
+remember your wisp where you need to press restart to get pass
+Deleted User - let me show you the email on when i gained access to my wisp acc
+Deleted User -  - https://drama.gg/assets/files/2021-08-20/1629423842-385581-image.png
+Deleted User - i got this on the 26th of june
+Deleted User - when did the server get deleted?
+dchu096 - https://horizn.xyz/L4kJuqO7f7
+dchu096 - its gone now, the vps is no longer here.
+Deleted User - i asked for when the users server get deleted
+Deleted User - not vps
+Deleted User - cus you said someones server got deleted in the panel and that i did it
+dchu096 - Jul  4
+dchu096 - so a week after the email
+Deleted User - wtf
+Deleted User - when did you ban me from discord cus this was done exactly one day be
+fore i got banned
+dchu096 - the logs never lies... - https://drama.gg/assets/files/2021-08-20/1629424201-57489-notepad-ixhtyhysmt.png
+IoNetty - Zachery let me look
+IoNetty - 07/25/21
+Deleted User - Mon, 26 Jul,
+Deleted User - is when i got the email
+IoNetty - but the original ban was on 07/16/21
+Deleted User - check screenshot
+Deleted User - IoNetty ik cus i only reset password to see days after i got banned
+Deleted User - so if i got the email on 26th and the dude got his server deleted on 15 july
+Deleted User - enough proof?
+dchu096 - https://has-anxiety.xyz/HWJ27aLZfb
+hmm 👀
+Deleted User - proof that you wrongly accused me
+Deleted User - im confused now
+IoNetty - dchu096 it's different because of time zones
+Deleted User - !oNetty said it happened on 7/16/21
+Deleted User - 10 day diff? cus of timezone?
+Deleted User - Bs
+IoNetty - Zachery original ban was on 07/16/21, you were banned again on 07/25/21
+dchu096 - Zachery wait... hes talking about the first ban im talking about the 2nd one
+Deleted User - wait what?
+Deleted User - why was i banned again
+Deleted User - well even if thats so
+Deleted User - the dudes server got deleted a day before i was banned
+Deleted User - so 25th july
+Deleted User - but i got mine at 26th july
+Deleted User - so enough proof?
+dchu096 - first ban
+
+
+second ban - https://drama.gg/assets/files/2021-08-20/1629424613-642370-discord-tfshenfiil.png
+dchu096 - first ban
+
+
+second ban - https://drama.gg/assets/files/2021-08-20/1629424677-554208-discord-cjncjytdjc.png
+Deleted User - first ban was when?
+Deleted User - when i put you on drama.gg?
+Deleted User - or when you banned me for asking jesse how he got management
+dchu096 - so in other terms, zachery is banned 2 times in a period of 10 days
+Deleted User - dchu096 yes cus you banend me for asking jesse how he got management
+dchu096 - Zachery no? i never ban you for questioning staff
+Deleted User - yes you did stupid
+dchu096 - you are banned for raiding mehost
+Deleted User - wtf lemme show proof
+dchu096 - Zachery no i dont. you can ask jesse about that
+Deleted User - dchu096 a raid i never did
+Deleted User -  - https://drama.gg/assets/files/2021-08-20/1629424840-368911-image.png
+Deleted User - raid happened on 4th july like the logs said
+dchu096 - Zachery then whos that. unless you gonna tell me i raided mehost myself
+IoNetty - Jesse still has support, just saying. - https://drama.gg/assets/files/2021-08-20/1629424940-960051-image.png
+Deleted User -  - https://drama.gg/assets/files/2021-08-20/1629424972-968110-image.png
+dchu096 - theres only 3 people with ssh at that time. 
+
+You, me , neil
+
+neil could do the raid for sure but im not defending the fact you are the person whos doing it.
+Deleted User - tf
+Deleted User - when tf did i have ssh
+Deleted User - send proof of me having ssh you Never gave me ssh
+dchu096 - Zachery i indeed never gave you ssh. but remember the time you gave the gcp for free? that password is the password accross the sg node too.
+dchu096 - i can show proof on the gcp when you ask me for password
+Deleted User - wtf
+Deleted User - how tf would i know and pass for that node is astrolife
+Deleted User - so you saying that you used a pass i use for your nodes
+Deleted User - wtf is this nonsense
+dchu096 - let me fetch some logs on there regarding ssh.
+
+But i do fetched memory why you are banned. You are banned because of pinging owners team just right after you gained staff
+AEugene - Baguette
+Deleted User - dchu096 no your original statement was reports of me "harrasing jesse
+" after that you said cus i pinged owner
+note i had owner too at that timeand i pinged them to get their attention and tell them my plans
+dchu096 - Zachery and after you ping them i banned you.
+dchu096 - i really wish i still have that staff chat...
+Deleted User - dchu096 no you banned after i dmed jesse note i dmed jesse after pinging them
+dchu096 - Zachery i will check up with him about this case. but im sure you are banned for abusing the ping permission and pinged the whole owners
+Deleted User - how is that abuse
+Deleted User - i pinged 3 people who are owners to discuss with them with my plans
+dchu096 - Zachery how is that not abuse
+Deleted User - exactly how is that abuse
+dchu096 - its just a discussion, not a news why alerting the whole owners team
+Deleted User - yes its news
+dchu096 - no one just got staff the first thing is ping the whole owners for a meeting
+dchu096 - thats only what boss do.
+dchu096 - Zachery its not. discussing about current pricing as a news? you joking right
+Deleted User - i wasnt staff i was owner
+Deleted User - dchu096 no i said about plans and how to save money customer support cutting down on staff
+dchu096 - Zachery yeah does it looks like a news that the whole owners team need to know at that moment
+dchu096 - it looks like a poll to me
+Deleted User - nope
+Deleted User - send proof if your gonna use it as a point
+dchu096 - its a non important thing for sure. pining the whole owners became annoying and abusive for a small update to the plan
+dchu096 - Zachery well... i said before its 1 month old thing. i deleted the staff chat now as i pushed the staff chat into another server, unfortunly the logs dont exist at this moment. but im sure some admins like comfyy possibly knows. need me to bring him here?
+Deleted User - dchu096 no its about the whole host not plans
+Deleted User - Zachery ow to save money customer support cutting down on staff
+dchu096 - Zachery but is that your concern? you paying the host?
+Deleted User - i was a owner so yes its my concern
+dchu096 - https://is-on-suicide-watch.xyz/Yi0dx3FvZV
+
+👀
+IoNetty - Zachery you didn't pay the bills, you didn't manage finances.
+Deleted User - i was gong to help managing the finances thats exactly what i said in the whole announcement
+dchu096 - Zachery but well... eventaully thats still my job, not the whole owner team is it
+IoNetty - dchu096 I don't think anyone understands this, the owner team isn't all owners. Or that's what I think. Some are from infinitzhost, etc.
+Deleted User - i was saying i was gonna help and many more such as how we can improve the host all that which they should hear
+dchu096 - Zachery so you saying this thread became a misunderstanding between us 2? lets hop to dm we will finish the rest off
+dchu096 - i dont reckon its a misunderstanding but if thats what you think lets stop pushing this thread to the top of google.
+Deleted User - im blocked so no use and it also cus you ruined my rep by saying i raided your host and that I ruined it
+dchu096 - https://uses-an-image-host.club/B2kIgBLTHC
+oh really
+Deleted User - you just unblocked
+dchu096 - Zachery 
+
+
+i see this lol - https://drama.gg/assets/files/2021-08-20/1629427009-919351-image.png
+Deleted User - ye
+Deleted User - Zachery exactly what i said
+dchu096 - and you think drama.gg is a good place for revenge
+dchu096 - for something months old to make sure i have no logs on there i can pull out
+Deleted User - wtf
+Deleted User - no i am in drama.gg to prove my innocence
+cus IoNetty wont let me talk with you and hes being childish in my dms
+dchu096 - ofc he wont know. thats in v2 when hes not even there!
+Deleted User - i dmed him to ask him to get me in contact with you
+dchu096 -  - https://drama.gg/assets/files/2021-08-20/1629427288-827629-discord-juaw3zyjjd.png

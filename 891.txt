@@ -1,0 +1,57 @@
+asdag3adfa3fa - i turne ddown an offer from a company called tcp adn was hacked 3 months later, it was them and I post proof later 
+
+they send threats and all of them are hackers and will break and steal if you dont give them money
+
+they sell kubernetes and security and teleport which are all viruses
+they say they monitor 247 but thays fake and impossible, theyre liars and scammers
+Chirag - asdag3adfa3fa it's TPC tho
+asdag3adfa3fa - Chirag yes they are hackers
+Chirag - asdag3adfa3fa nah, I ain't believing that. At least, give some proof?
+asdag3adfa3fa - Chirag i will send email and discord dm soon
+BrendansAtWork - Another fucking 5 year old
+
+Alright kid, for starters let me make it very clear what our objectives are, in this order
+
+Protect the information of the general public
+Protect the business 
+Protect our interests and make a profit
+
+Now if we were to reach out to you, get rejected, then attack you there's a few things we're doing here:
+
+Likely killing your business (and not getting any money from you)
+Exploiting and releasing personal information about the general public who just wanted to live their lives
+Damage our reputation, making it less likely to protect other peoples data and make a profit
+ 
+Nothing here benefits us, what a coincidence!
+
+Let's also debunk some of your batshit stupid claims!
+
+I'm not aware of any ex-clients or no-turn leads from 3 months ago who have been in a recent cyber attack, because when we do we usually offer discounted disaster recovery to them to see if we can support them and hope they get back on their feet
+
+Only one of us (me) is actually trained in offensive and defensive, nobody else at TPC Group is trained in offensive security- but yes we're all hackers ; )
+I'm not letting another person who doesn't understand the meaning of the word drag it through the mud even more
+
+Kubernetes is very very much not a virus, LKE, K8s/K3s, and microk8s (all the Kub. technologies we use) are an open-source container orchestration system from Google, which utilises runc for container management.
+We use the technology to deliver high availability remote management services and client services, ensuring a secure and robust environment to keep everyone happy
+
+How is us offering SecOps as a service a virus (if that's what you're even talking about)? That doesn't even make sense, if you're talking about software we use they're all from our partners (Qualy's and Elastic) who are industry leaders.
+
+Teleport is a service used to remotely manage isolated infrastructures using SSH over HTTPS and RBAC, we utilise this with all our clients to isolate and cluster internal environments. Once again, very much not a virus- in fact it's open source!
+
+We do indeed monitor 24/7, we have staff in the US and UK on network and security ops all the time, on top of this we work with Atlassian and Elastic (of which we are a platinum partner) to deliver in-depth analytics, machine learning, synthetics and security with the alerting to go alongside it.
+
+So how about you stop with your bullshit, admit you fucked up because you don't know what you're doing and go back to crying in your corner, still waiting for your so called 'evidence'
+
+By the way I'm not talking on behalf of my company but I am very much going to defend it 😌
+
+Fuck off back to the hole you came from.
+BrendansAtWork - @Sloth Can you close this please
+asdag3adfa3fa - BrendansAtWork dont clos ei have proof and will post soon you hacked me
+asdag3adfa3fa - BrendansAtWork you ddos us then hacked our password and deleted everything
+KIVOX - @asdag3adfa3fa If you don't provide any proof in the next couple of hours this will be deleted.
+AxelNetwork - KIVOX You can delete this now kiv
+BrendansAtWork - KIVOX Can you close this and mark it as false, don't bother deleting it I want my statement to stay up
+J0SH - @BrendansAtWork silly brendan he meant TCP protocol
+asdag3adfa3fa - KIVOX i can send var syslog and auth . log it has ips one is theirs I know
+asdag3adfa3fa - J0SH no tpc company did it
+KIVOX - asdag3adfa3fa Post-it, make sure to include proof of the ips being theirs, I'll give you another 15min before locking it.

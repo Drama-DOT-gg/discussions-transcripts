@@ -1,0 +1,56 @@
+cedric - I am seriously tired of people starting "hosting companies" and basing so much stuff off of Discord. Sure you can have a Discord support server for community help but using it for internal communications and product delivery? I don't quite get that.
+
+Admittedly I used to do a lot of that stuff but people trying to make it look stupid to not do it on Discord is why I quit running a hosting company and moved on to develop a PROPER SaaS product.
+
+Here are some useful tools in case you want to start an IaaS, SaaS, or hosting company and you're planning on being serious.
+
+Basecamp: It's not a bad collaboration tool to start with.
+Google Workspace or Microsoft 365: This is a pretty standard solution, but for a reason. They've stood the test of time and are much more reliable than many other solutions.
+Hubspot: Pretty much perfect for your helpdesk.
+
+Another thing I see too much is Pterodactyl + WHMCS. Pterodactyl is made mostly for game servers, and it's still not the best for it. Minecraft server hosting and Discord hosting is really niché, yet still crowded. This is a weird combination and to be honest you should just start a general hosting company IF you're serious. Make your own management panel too, if you don't have the resources to do so you don't have the resources to start a proper host.
+
+Here's another important note: Once you start making around 50$+ a month, register your business and incorporate. In fact, you should technically do this before starting, it's just that the government gives you some leeway most of the time so you can experiment.
+
+Another thing: gain experience. Learn how to work with cloud services and manage server fleets properly. This can take you a few years, but you can do it if you actually persist.
+
+Here's another option:
+Don't start a standard hosting company. Instead, come up with a unique product/service and sell it. If it's good, users will gradually come in.
+
+To clarify, I'm not saying I don't believe in people starting hosting companies at a young age or just at any point without experience. I just want to make it clear that this "discord bot host" is probably NOT your future, and you should be patient and learn.
+
+Discouraging 10-year-old "hosting company owners" isn't going to work, because we all know kids can be ignorant. Instead, I like to take an approach in which I point these people in a better direction for if they really want to run a software/infrastructure business.
+
+But anyways, stop running "hosts" on Discord. Take the time to learn how to do it properly, and it'll work better in the long run.
+luffyy - Also @cedric add this to your list
+
+Products being sold must be working
+Josh - just want to address a few things you mentioned —
+
+you're trying to suggest that Discord isn't a suitable platform for employee communication. i'd beg to differ - it stands out from the crowd by offering all/most of the features that slack offers (+ more) but at a free price point - no one's going to use a separate platform when it's much nicer to have everything integrated in one place.
+
+hosts however that base their sales and "product delivery" on discord are without question the ones that are obviously not fit to be called actual hosting providers however everyone knows that and for the most part you'll just be ignored by any potential clients once they've realised you're entirely discord based
+
+gsuite/m365 are good for email and a collaboration workflow when y'all are working on spreadsheets together for example but for chat, nah, again i'd rather stick to software that i'm familiar with and has more features
+
+pterodactyl + whmcs is completely fine and i'd personally much rather use something that's "stood the test of time" - you're talking to game hosting providers here, not iaas platform owners, no one's going to spend thousands on a fully custom solution lol
+
+&gt; "once you start making around 50$+ a month, register your business and incorporate"
+no thanks, i'm fine operating as a sole trader/proprietorship and so are numerous other businesses out there that do the same
+
+&gt; "gain experience"
+&gt; "this can take you a few years"
+
+&gt; "don't start a standard hosting company"
+not to be rude but to be frank, telling everyone to wait three years isn't going to do shit here, lol
+
+i understand you're trying to help but this really isn't the community to be telling people to not do what every single person here is already doing - some more successful than others
+
+starting a hosting provider is fine if you're got a usp and the confidence, resources and funding to do so
+
+it might be a saturated market but nothing's impossible
+
+thanks
+cedric - Josh Good point, but business registration does protect you from liability issues if they come up.
+Josh - cedric yeah but being realistic that's not going to make a difference here
+Aesthetical - The other thing I see regarding this issue nowadays is people starting these hosts with either no money whatsoever, or with at-home stuff they shouldn't be using. This obviously results in most hosts shutting down within less than a month, due to one or more of a whole array of reasons. Adding onto your point about resources, if you don't have the money to start a host you shouldn't even be trying, as I know from current experience that if you are not making money someway or another you just won't succeed. A lot of people also think that branding the pterodactyl panel differently with custom themes sets them apart, but really it just puts you down $5 since most people dunno how to make them and so they end up buying them off people offline.

@@ -1,0 +1,184 @@
+Jerome - Pretty straight forward, they claim they get the cPanel reseller plan from iFastNet. However, when I lookup their cPanel license it's nulled. 
+At first, their cpanel link redirect to https://sv1022.hosting-server-1022.com:2083 and in the middle of the conversation they said the IP wasn't correct. 
+Discord Conversation:
+
+
+
+
+IP Address: 31.22.7.47 (In the conversation), 82.163.176.253 (Ping from their cPanel)
+Both IP Address isn't licensed
+
+
+Discord Server: https://discord.com/invite/EK5mveDQwj
+Website: https://www.verdishost.com
+cPanel: https://cpanel.verdishost.com - https://drama.gg/assets/files/2021-09-07/1630997286-397949-c429d.png
+Jerome - Pretty straight forward, they claim they get the cPanel reseller plan from iFastNet. However, when I lookup their cPanel license it's nulled. 
+At first, their cpanel link redirect to https://sv1022.hosting-server-1022.com:2083 and in the middle of the conversation they said the IP wasn't correct. 
+Discord Conversation:
+
+
+
+
+IP Address: 31.22.7.47 (In the conversation), 82.163.176.253 (Ping from their cPanel)
+Both IP Address isn't licensed
+
+
+Discord Server: https://discord.com/invite/EK5mveDQwj
+Website: https://www.verdishost.com
+cPanel: https://cpanel.verdishost.com - https://drama.gg/assets/files/2021-09-07/1630997307-664966-g3e0i.png
+Jerome - Pretty straight forward, they claim they get the cPanel reseller plan from iFastNet. However, when I lookup their cPanel license it's nulled. 
+At first, their cpanel link redirect to https://sv1022.hosting-server-1022.com:2083 and in the middle of the conversation they said the IP wasn't correct. 
+Discord Conversation:
+
+
+
+
+IP Address: 31.22.7.47 (In the conversation), 82.163.176.253 (Ping from their cPanel)
+Both IP Address isn't licensed
+
+
+Discord Server: https://discord.com/invite/EK5mveDQwj
+Website: https://www.verdishost.com
+cPanel: https://cpanel.verdishost.com - https://drama.gg/assets/files/2021-09-07/1630997318-513933-a6a17.png
+Jerome - Pretty straight forward, they claim they get the cPanel reseller plan from iFastNet. However, when I lookup their cPanel license it's nulled. 
+At first, their cpanel link redirect to https://sv1022.hosting-server-1022.com:2083 and in the middle of the conversation they said the IP wasn't correct. 
+Discord Conversation:
+
+
+
+
+IP Address: 31.22.7.47 (In the conversation), 82.163.176.253 (Ping from their cPanel)
+Both IP Address isn't licensed
+
+
+Discord Server: https://discord.com/invite/EK5mveDQwj
+Website: https://www.verdishost.com
+cPanel: https://cpanel.verdishost.com - https://drama.gg/assets/files/2021-09-07/1630997332-676610-9528e.png
+Jerome - Pretty straight forward, they claim they get the cPanel reseller plan from iFastNet. However, when I lookup their cPanel license it's nulled. 
+At first, their cpanel link redirect to https://sv1022.hosting-server-1022.com:2083 and in the middle of the conversation they said the IP wasn't correct. 
+Discord Conversation:
+
+
+
+
+IP Address: 31.22.7.47 (In the conversation), 82.163.176.253 (Ping from their cPanel)
+Both IP Address isn't licensed
+
+
+Discord Server: https://discord.com/invite/EK5mveDQwj
+Website: https://www.verdishost.com
+cPanel: https://cpanel.verdishost.com - https://drama.gg/assets/files/2021-09-07/1630997614-815045-i4ae4.png
+Jerome - Pretty straight forward, they claim they get the cPanel reseller plan from iFastNet. However, when I lookup their cPanel license it's nulled. 
+At first, their cpanel link redirect to https://sv1022.hosting-server-1022.com:2083 and in the middle of the conversation they said the IP wasn't correct. 
+Discord Conversation:
+
+
+
+
+IP Address: 31.22.7.47 (In the conversation), 82.163.176.253 (Ping from their cPanel)
+Both IP Address isn't licensed
+
+
+Discord Server: https://discord.com/invite/EK5mveDQwj
+Website: https://www.verdishost.com
+cPanel: https://cpanel.verdishost.com - https://drama.gg/assets/files/2021-09-07/1630997625-854226-74ea1.png
+Doeke - Yes, the provider we use resells from iFastNet Reseller Plan, and we have a plan from the provider who very clearly uses iFastNet. iFastNet has been around for 10 years and is a registered company, quite well known in the community. For the fact its been around for 10 years, I don't see anywhere where it is using a nulled panel.
+
+
+
+
+https://forum.infinityfree.net/t/is-this-true/9958
+https://au.hostadvice.com/hosting-company/ifastnet-reviews/#main-info
+https://au.trustpilot.com/review/www.ifastnet.com
+
+
+I will happily screenshare on Discord that we are linked with an iFastNet reseller plan through our provider if you don't believe me - https://drama.gg/assets/files/2021-09-07/1630998015-393094-image.png
+Doeke - Yes, the provider we use resells from iFastNet Reseller Plan, and we have a plan from the provider who very clearly uses iFastNet. iFastNet has been around for 10 years and is a registered company, quite well known in the community. For the fact its been around for 10 years, I don't see anywhere where it is using a nulled panel.
+
+
+
+
+https://forum.infinityfree.net/t/is-this-true/9958
+https://au.hostadvice.com/hosting-company/ifastnet-reviews/#main-info
+https://au.trustpilot.com/review/www.ifastnet.com
+
+
+I will happily screenshare on Discord that we are linked with an iFastNet reseller plan through our provider if you don't believe me - https://drama.gg/assets/files/2021-09-07/1630998239-134747-image.png
+FatGrizzly - Hey, its a dedicated ip and won't show up the verification page, but pretty sure its licensed since it has this
+
+
+
+Blame cPanel for their shit software - https://drama.gg/assets/files/2021-09-07/1630998770-334540-image.png
+Doeke - Also, just out of curiosity, why are you contacting as many hosting providers as you can to attempt to cancel them, including mine which has a valid license through iFastNet when you yourself have been done for selling nulled cpanel?
+
+https://drama.gg/d/870-crystalcloudxyz-nulled-cpanel
+
+That's a bit odd...
+Jerome - Doeke Because I am pretty sure there are many scummy server provider providing nulled cPanel to reseller, in that case I was the victim too, btw already reported to cPanel and they are still providing services.
+Doeke - Just wondering too by the way, why are you using Discord underage?
+
+Jerome - https://drama.gg/assets/files/2021-09-07/1631001695-828018-image.png
+Jerome - Doeke Try Google "I hope so definition"
+Doeke - Jerome so why say "doesn't matter lol" when I say that you're too young to even be using discord
+
+that clearly indicates that you're underage
+Jerome - Doeke I meant I doesn’t cares about able to use Discord or not, since Discord isnt part of my life and without Discord I will still be able to live.
+
+Edit: You seriously think that Discord is that important? Just a communication app
+Jerome - Fun Fact: Incomplete TOS - https://drama.gg/assets/files/2021-09-07/1631005122-714173-image-2021-09-07-165841.png
+Jerome - Fun Fact: Incomplete TOS - https://drama.gg/assets/files/2021-09-07/1631005175-754189-image-2021-09-07-165933.png
+Doeke - Jerome its because we're re-editing it right now - stop trying to find every reason to falsely cancel us lol
+
+
+Update: ToS is now fully revamped. (8:04PM AEST) (we were reforming a lot of stuff today)
+Jerome - Doeke stop trying to find every reason to falsely cancel us lol
+
+That's your fault, trying to make it sounds like I digging every corner to find wrongs from you? That's too easy
+Jerome - Doeke falsely cancel us lol
+
+falsely? lol
+Doeke - Jerome You're continuously trying to find ways to take us down when you yourself have been done for a nulled licence when ours is valid. You went around contacting multiple hosting companies trying to find information on their licenses.
+Jerome - Doeke You went around contacting multiple hosting companies trying to find information on their licenses.
+
+Why not? At least I got my point.
+Doeke - Jerome what point? that we have a nulled licence even thoujgh we dont?
+Jerome - Doeke It's a false positive ig but cPanel itself can't prove and also TOS.
+Doeke - Jerome yes, we were literally doing site maintenance and revamping things - its all fixed now. 
+
+You tried to start a drama with us when you yourself have a bad reputation when all we made was a small mistake by making the upcoming ToS live by accident. At least we didn't do anything illegal unlike yourself.
+
+We're a trusty and reliable company dedicated to our customers and their experience, hence why we have a Discord community to interact with and get to know our clients more to so we can best help them.
+Jerome - Doeke You tried to start a drama with us when you yourself have a bad reputation when all we made was a small mistake by making the upcoming ToS live by accident
+
+Whoa! So you try to starts providing services without ToS? I am sure your server has been running more than weeks.
+Doeke - Jerome A provisional ToS was already up, and we have made that very clear to upcoming clients until now, now that our ToS is complete.
+
+Do you not understand that companies change ToS over time?
+FatGrizzly - Jerome kid, you think cPanel will do anything?
+I have submitted 18 reports and they have said "We will look into it", and thats it, Case Closed
+Kowone - FatGrizzly cpanel really doesn't care much about their software getting nulled or something
+Jerome - FatGrizzly Luckily I didnt spend much time on it, only reported about 5 times.
+Jerome - Doeke Do you not understand that companies change ToS over time?
+
+Staging existed for a reason
+Doeke - Jerome 🤦‍♂️
+Jerome - Doeke 🤦‍♂️
+Jamie_ - Doeke Also, just out of curiosity, why are you contacting as many hosting providers as you can to attempt to cancel them, including mine which has a valid license through iFastNet when you yourself have been done for selling nulled cpanel?
+
+He has done like 10 in the bast couple days, I don't think he has much else to do. He also tried attacking my company after I called him out for cracking cPanel I think it was. He suddenly turned into a law expert and knew everything there was about SLA. Then thought cloudlinux was only sold from the cPanel website. I wouldn't worry about this post.
+Jerome - Jamie_ He suddenly turned into a law expert and knew everything there was about SLA.
+
+I wouldn't be surprise you are here, both of you still being exposed by me, wonder how dumb you been doing lately. SLA is stands for Service Level Agreement, it clearly says it's an agreement in the short form. I wouldn't mind if you call me a law expert but you sounds like a dumb saying it since it's pretty common sense and falsely claiming it on multiple websites.
+
+Jamie_ I wouldn't worry about this post.
+
+Yeah, pretty much this post isn't for you but sounds like you interested on this post.
+
+Jamie_ He has done like 10 in the bast couple days, I don't think he has much else to do.
+
+I am sure you have been busy lately since you couldn't wait for other host for their ToS and create a post for it. It's funny how you handle DDoS attack for calling the DDoS guy out instead of protecting your server from DDoS.
+
+Jamie_ He also tried attacking my company after I called him out for cracking cPanel I think it was.
+
+Would you like to share more about that? Like what's the outcome lol.
+Jamie_ - Jerome As it has no relevance to this post, I will reply in the abdullah post.

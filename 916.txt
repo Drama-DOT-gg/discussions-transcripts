@@ -1,0 +1,7 @@
+fat - Should Discord bots have eval commands? They sometimes are a security flaw but they funny to use. What do you think? Leave your opinion in the comments!
+gru-gaming - eval command is like fard, is good.
+Dviih - fat Yes but if it's a development bot
+dchu096 - what... eval commands are awesome you dont have to go to console just to execute the codes. it just comes in handy.
+Two - it really depends for me- i personally sometimes add it and sometimes don't... I don't have an eval command for both my discord bots that still online, but sometimes I wish it had a eval command, but I'm too lazy to add one
+Robert - I would only add it if e.g only the owner of said bot could use it instead of everyone. (Since if everyone could use it it would become a massive security issue)
+Xmomoo - eval is good, but make sure that only u that can use it on ur bot will go boom boom

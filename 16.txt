@@ -1,0 +1,1066 @@
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600049-137556-ram.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600094-328441-xeon1.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600119-521420-xeon2.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600252-187912-refund.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600296-226871-bad.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600394-721034-claims.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600475-490312-fuckzap1.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600481-209121-fuckzap2.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600486-149468-fuckzap3.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2021-02-19/1613736343-35576-image.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600622-824779-notlegit.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2020-07-24/1595600639-999958-fakevslegit.png
+Sloth - What is ZAP-Hosting?
+ZAP-Hosting is a Popular German Gameserver Host, with premium pricing and the only host that offers one-time payment servers.
+
+The events leading up to the incident
+I bought my server on the 15th of March, 2020 at 1:35 PM. It was a one-time server with 4gb of RAM, a dedicated IP and the premium performance of 400€.
+
+The fake JVM Overhead
+I asked about why my 4gb server only had 2,5gb of RAM, as reported by React. They responded by saying it is due to that the server is on a VM (It is not due to it being shared hosting) and the JVM-Overhead. Again, shared hosting.
+
+
+CPU Inconsistencies
+I asked for their CPU’s two times and got different results both times.
+
+First Time Asking:
+
+
+Second Time Asking:
+
+
+Ignoring own Terms Of Service and ignoring requests about this
+I asked about their TOS (here) in their Livechat and got ghosted and ignored.
+In their TOS they state: (and they don’t deliver refunds on their cloud servers either)
+
+(1) You have the right to revoke the contract within fourteen days without indication of reasons for revocation. The revocation period is fourteen days starting the day of the conclusion of the contract. In order to make use of your right of revocation you have to inform us (ZAP-Hosting GmbH &amp; Co. KG, Tel.: +49 (0) 251 149 811 80, E-Mail: info (at) zap-hosting.com) with a distinct declaration (i.e. a letter sent by mail or e-mail) of your decision to revoke the contract.
+
+Not abiding to EU Law and own TOS on requesting a refund within the 14 days
+Here is my ticket: (first two main messages)
+
+
+EU Law: https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-contract-terms/index_en.htm and https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Bad server performance
+As I stated, I bought a “Premium” server from them, however, the performance with normal plugins with 7 players can easily go down quickly. Image by Jokni
+
+(Pregenerated, Optimized, Paper, 1.12.2)
+
+False Claims
+They resell a Hetzner Helsinki Servers for their Helsinki site and add false claims like 2tbit DDoS protection.
+
+
+
+AND MORE:
+
+Not delivering the actual CPUs they advertise. Screenshots by Jokni
+
+
+
+
+
+
+
+Server Resets and Long Downtimes
+My server got completely wiped 2 times in a 2-month time span, which isn't acceptable.
+Downtypes with host ping down, the DDoS protection down, and other issues occur every 5-10 days, with FTP access being offline more frequently.
+
+They recently reset my entire backups, of which there were multiple, using about 5% of the allocated amount given, and most created only a week or two ago.
+
+
+
+The 3 Bucks Chargeback debt-collector incident
+I got in contact with another ZAP-Hosting survivor, who reported them to paypal, and the EU, charge backed his $3 and is being scared with “legal action” and they are “sending a debt collector”. Read it here: here
+
+TrustPilot Review Deletion and Manipulation
+They report 1- and 2-star reviews, which get deleted most of the time.
+They also pay users with ZAP-Coins (they offered me a refund but with ZAP-Coins) for giving them a good review.
+They pay out 2,5€ for a 5-star review.
+
+Reviews: Screenshots by Jokni
+
+
+Looks obviously fake
+
+
+Top: Paid. Bottom: Real Review
+
+Here's my review, oh wait it's no longer there.
+
+
+
+Is it a summerhost?
+Yea, please don't make the same decision as me, don't buy from them - https://winterhoax.com/assets/files/2021-02-19/1613736476-499224-image.png
+Jen - You hurt my head, They follow the EU law because they are too popular and if they didn't they would get in trouble
+Sloth - Jen Yeah except that it's eu law that companies must supply refunds within a 14 day period, which they do not do under any circumstance, with any product. I see more and more same stories, person bought service, service is terrible, request a refund, denied for the ever same reason. It would take a class-action lawsuit to take a company like this down and I'm sure that ain't happening anytime soon.
+Jen - Sloth They do actually, They won't give you your money back but they give you zap credits
+Sloth - They offered me half the money I paid back in zap coins and zap coins ain't money. If this were allowed was discussed once again in early 2020 but was denied in the end. Again, the companies don't give a shit cause it would take a class-action lawsuit to do anything major.
+Detective_Alpha - Sloth thats sad bro, anyways that host is gay af
+Jen - Sloth then u should lawsuit
+Sloth - Jen For just 400€? Not worth it. I'd rather just cut my losses.
+Z81D - There servers literally go down after a hr of it starting then you gotta wait about 3 days for them to start it
+Deleted User - Zap Hosting is very expensive too and offers such bad service, sad
+BaconHead - Soooooo is it still up?
+Lucas - BaconHead yes of course
+Tolis - Sloth Damn, aren't they paying you more if you win the lawsuit?
+BrendansAtWork - Sloth it's a small business a single person can do a lot of damage

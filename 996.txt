@@ -1,0 +1,80 @@
+tan_playz - can someone suggest me some real cheap vps? something like 1$/1GB ram atleast, not vps's like 100$/6GB ram lol
+
+if anyone know pls do tell me
+
+ya btw I already know contabo but I'm searching for more
+Deleted User - depends if your looking for actual enteprises such as DO,AWS,Linode,Azure,Vultr,Hetzner,cantabo 
+they wont be so cheap 
+But for the small ones i bet there are many but they are not as secure and at any time may go poof without a refund
+Deleted User - Zachery tho small ones are at most times " cheap"
+Scripted - I can sell VPS(ES) from hetzner for cheap.
+1$/GB
+Scripted - can do 0.50$/GB too
+awsamboi - Scripted what is your website?
+Grabstop - tan_playz if you join my host, CelestialHosting from https://discord.gg/Qc9jjhgX
+I can assist you with our really cheap plans!
+tan_playz - Grabstop uhuh no, I'm not going to purchase 3rd party stuff on discord lol I only purchase stuff from legit companies that actually have a billing area. Who knows if you aren't scamming
+eraters - tan_playz buy a raspberry pi
+GamerOmega - tan_playz you can try nextarray, https://nextarray.com
+its pretty cheap
+Chirag - GamerOmega better use buyvm, it's better not that expensive
+TME - Scripted Try using crycloud or ghosty, they are pretty good. I use linode for a webserver tho because I need the speed (very good speeds on linode, even tho they have an epyc cpu). Also if you go for ghosty or crycloud, try going for a plan above budget. Performance will increase 10 fold, also budget is good if you want a vps for testing. Make a note that I have used both these services in the past and they have a very nice staff team too
+
+CryCloud - https://billing.cryhosting.net/aff.php?aff=22
+Ghosty - http://billing.ghosty.host/aff.php?aff=48
+
+Also these are my affilate links xd. Please use them 🙂
+Dubs - TME hetzner.
+Giyu - Dubs hetzner is not a cheap vps hosting platform
+Giyu - go with ghosty, contabo, or buyvm ig. i personally hates crycloud
+Dubs - Giyu it is tho.. not cheap but they do vps lol
+_MrKnight_ - I'm talking about cheap they do provide cloud servers but it is not cheap
+FatGrizzly - just use buyvm or nexusbytes
+FatGrizzly - even https://racknerd.com/ryzen-vps is better
+Iceey - https://careers.mcdonalds.com/main/ - get a job
+eraters - TME CryCloud
+
+funniest joke i ever seen
+Courvix - Hetzner absolutely is cheap
+
+
+
+Lightsail is a cheap AWS option at $3.5 for the cheapest plan. You can also get fairly cheap EC2 instances on an ARM CPU which will give you 2 cores and 1GB of RAM with a gigabit uplink for about $3-$4 monthly, though it may not be compatible with everything out there. Depends. - https://i.courvix.com/9yKsW5E.png
+Grabstop - tan_playz we have a website too, that's just our support discord 😃
+tan_playz - Iceey We need to atleast be of 20 years old to get a job there in india
+tan_playz - Grabstop send me another invite
+tan_playz - TME lol thanks, I'll use your affiliate if I ever purchase 1
+tan_playz - Grabstop hey, send me the discord again cuz ur old discord invite is invalid
+Pays2Pla - eu0.co.uk
+Grabstop - tan_playz it’s on our website https://celestialhosting.xyz
+Tomas - Grabstop bro wtf is that
+
+xyz domain?? website poorly made?? fade takes forever??
+Robert - Grabstop That does not look trustworthy at all.
+
+I'd just suggest getting a Hetzner Cloud VPS or something, or, if you can't afford it just get a job.
+Tomas - Robert ^^^
+
+Grabstop Why on earth is the node on a home network?
+Grabstop - Tomas Sorry, Haven't had that before at all. 
+
+The XYZ domain was because .com was already taken and .net is incredibly overpriced.
+Since when have people been complaining about paid domains?
+
+@Robert It's my host and I trust it (why wouldn't I), the website is being reworked from when it was originally released it was from a Fiverr freelancer. Additionally, getting a job is easier said than done from where I live.
+Tomas - Grabstop considering the domain was taking, have you ever considered that there also may be another "company" operating under the same name and you should possibly use a different name?
+
+also your opinion would obviously be biased, i'd assume most owners of 'hosts' think their host is the best and most trustworthy
+tan_playz - Grabstop wheres the vps?
+Grabstop - tan_playz not on the billing panel yet, will be up within 2-4 days (had to take down to get virtualizor
+)
+tan_playz - Grabstop ok I'll be waiting, hopefully your vps is actually affordable
+iiChxrlly_ - @tan_playz 
+
+3 Result for "VPS" search
+
+➜ Hax
+➜ EUServ
+➜ Howdy
+Pays2Pla - eu0.co.uk
+Grabstop - tan_playz its just a bit more than 1$ per gb hopefully.

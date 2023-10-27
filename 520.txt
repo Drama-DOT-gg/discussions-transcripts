@@ -1,0 +1,270 @@
+FlamingPhoenix - guitarhost.xyz a free host which gives 2 free "dedicated servers", They are actually just pterodactyl docker containers. Let me start explaining,
+
+First of all, They say they have no ToS or Privacy policy. They also say they own their servers though i have ran an ip lookup and all of their vpses are from the following companies:
+
+Digital ocean, Runs n2.guitarhost.xyz and panel.guitarhost.xyz. 
+Microsoft Azure, Runs n3.guitarhost.xyz
+Contabo, Runs n4.guitarhost.xyz
+
+They are most likely using a free trial for the vpses except contabo since it doesn't have any free trials as far as i'm aware.
+FlamingPhoenix - Sending proof in a moment
+FlamingPhoenix - node 2: 
+
+
+node 3: 
+
+
+node 4: 
+
+
+panel node: - https://drama.gg/assets/files/2021-05-19/1621452629-416788-image.png
+FlamingPhoenix - node 2: 
+
+
+node 3: 
+
+
+node 4: 
+
+
+panel node: - https://drama.gg/assets/files/2021-05-19/1621452667-691975-image.png
+FlamingPhoenix - node 2: 
+
+
+node 3: 
+
+
+node 4: 
+
+
+panel node: - https://drama.gg/assets/files/2021-05-19/1621452680-328319-image.png
+FlamingPhoenix - node 2: 
+
+
+node 3: 
+
+
+node 4: 
+
+
+panel node: - https://drama.gg/assets/files/2021-05-19/1621452702-204028-image.png
+FlamingPhoenix - They say they have their own owned servers though all are rented/leased and most of the servers they have are obtained via a free trial. 
+
+Proof: - https://drama.gg/assets/files/2021-05-19/1621452763-218888-image.png
+FlamingPhoenix -  - https://drama.gg/assets/files/2021-05-19/1621452780-513794-image.png
+FlamingPhoenix -  - https://drama.gg/assets/files/2021-05-19/1621452790-285174-image.png
+FlamingPhoenix -  - https://drama.gg/assets/files/2021-05-19/1621452811-452382-image.png
+FlamingPhoenix - They own 5, Panel.guitarhost.xyz, n2.guitarhost.xyz, n3.guitarhost.xyz, n4.guitarhost.xyz - https://drama.gg/assets/files/2021-05-19/1621452859-233386-image.png
+FlamingPhoenix - Sending images of "their servers" which are actually not their's and owned by a host called dan bot hosting. - https://drama.gg/assets/files/2021-05-19/1621452900-280414-image.png
+FlamingPhoenix - Sending images of "their servers" which are actually not their's and owned by a host called dan bot hosting. - https://drama.gg/assets/files/2021-05-19/1621452914-515258-image.png
+FlamingPhoenix -  - https://drama.gg/assets/files/2021-05-19/1621452939-427999-image.png
+FlamingPhoenix - They also hire staff without any forms or anything - https://drama.gg/assets/files/2021-05-19/1621452962-313576-image.png
+RumGuru - Discord Link?
+FlamingPhoenix - RumGuru https://discord.gg/cK4HMW7Gc7
+gamerden - Hey look, that's me!
+Ray - smh
+FlamingPhoenix - This just gets more exciting doesn't it, They banned me for revealing the truth and also deleted my messages i sent. 
+
+Proof: - https://drama.gg/assets/files/2021-05-19/1621454015-232223-image.png
+Ayaan - FlamingPhoenix okay sooo first of all pranking a member is just a simple thing bruh + that you are telling me abt free trial VPS, we bought everything and we have invested a lot of money for buying VPS + domain mail server and everything. You just said right that telling members lie. Note this PRANKING A MEMBER is simple stuff
+FlamingPhoenix - Ayaan "Pranking member" 
+
+I'm sure you weren't "pranking" and you were trying to tell people fake news. You have no ToS or Privacy policy so it isn't just pranking.
+
+Can you use grammar please?
+
+Got proof you paid for stuff?
+Ayaan - And before saying bad service check thank us channel, everyone's review, and I have seen you all going every small hosting services and making fun of it, like WTF let them run their services like they want, you didn't given them money or something, did you?? Soo just mind your own business man. 👍🏻
+FlamingPhoenix - Ayaan 
+
+They are thanking you for a service that you haven't even paid for. You have just straight up ignored my question about you having proof for paying for your vpses. Guess you don't, huh?
+FlamingPhoenix - What we want? We just want for people not to be involved in data loss, It's unbelievable on the amount of free fake hosts opening up and no i don't think i want to mind my own business, Thanks.
+Ray - Ayaan  'and I have seen you all going every small hosting services and making fun of it, like WTF let them run their services like they want'
+
+We are here to defraud and expose people, you can't just let them run their servers like they want, there are rules.
+Ayaan - FlamingPhoenix 
+Wait till he comes on, I will definitely post the proof here - https://drama.gg/assets/files/2021-05-19/1621454992-267990-screenshot-2021-05-20-01-39-12-60.jpg
+Ayaan - Ray we just started our services soo. We are making our ToS
+FlamingPhoenix - Okay, I'll be waiting.
+FlamingPhoenix - Ayaan Can't run a host legally without a privacy policy bud.
+Ayaan - FlamingPhoenix yes 👍🏻
+Jxck_KV - https://prnt.sc/134t750 Node Specifications? Lmfao
+Ray - Jxck_KV read only memory lmaoo
+Jxck_KV - https://prnt.sc/134trhx - Bruh?
+https://prnt.sc/134ts45 - Doesn't know the hardware specification and just provides a 4 thread cpu that he doesnt know?
+
+And a 4 core AMD cpu? What the fuck ?
+Jxck_KV - https://prnt.sc/134u4g4
+Ayaan - Jxck_KV btw why you don't upload the full screen shot???
+Jxck_KV - because no
+theMackabu - Ayaan lmao amd64 also known as x86_64 is an cpu architecture, not cpu brand.
+RusJS - Ayaan That isnt just the case. You are putting users data into risk. Espicalky having no Pruvacy Policy for users to know what they are registering to
+BaconHead - FlamingPhoenix They should have a tos and privacy policy + they are friking lying about having dedicated servers in their home when they should tell the truth but even if they told the truth about using vpses then what's the problem with using free VPSes? Some may not have money for vpses
+Foxyfox - BaconHead If they don't have money for vpses then why tf start a host. There's plenty of wrong in using free trials to start a host, One of them being: What will happen after the trial ends? Will all users just loose their data just like that?
+Ayaan - FlamingPhoenix - https://drama.gg/assets/files/2021-05-20/1621512624-941857-1621512418520.png
+Ayaan - FlamingPhoenix - https://drama.gg/assets/files/2021-05-20/1621512647-631014-screenshot-2021-05-20-17-37-33-88.jpg
+Ayaan - Oh it's free right???
+SoyaBeans - Nice gmail
+Ray - Ayaan Can we get a screenshot of the usage in the digital ocean panel as well?
+FC5570 - FlamingPhoenix got the owner's discord?
+Xcyth - FC5570 just join the server and get it
+DarkInk - All the Invite links seem to be invalid can someone send another one?
+Xcyth - DarkInk same i need it too
+DinoTheDev - Ayaan didn't you say you host it yourself
+Sliden - oh man drama
+Ray - DarkInk 
+Xcyth 
+https://discord.gg/JqdjpZHCkN here you go
+Ray - FC5570 
+ ʳᵒʸᵃˡ| 𝓐𝔂𝓾𝓾♥ |ᵇⁱʳᵈˢ#3000
+ 597822927198748686
+Xcyth - Ray thanks!
+DinoTheDev - Ray thank you its time to put these scammers to a end
+Ayaan - Here, I don't want to increase this mess. Yes I accept my fault. But it was not real, I was just bored, just thought of pranking, and of course I was going to tell the truth, but this came out. And sir, we are not scammers. And yesterday I was telling to only 1 member. If also I would tell this stuff to 10 members then you all can say, we lie to members. But it was only 1 guy. I'm really really sorry about whatever happened. Sorry for this controversy. 🙂, I just started this host because I had a dream to make a good host. 🙂, Btw how are you all doing in this this covid situation, is everything good in everyone's house?
+FC5570 - This dude (the owner) got immature kids as dev's/admins in his server,  they have absolutely no idea how to act professional:
+https://cdn.discordapp.com/attachments/844955777022164992/844957322320543835/unknown.png
+Dude's swearing like an uncultured swine,
+
+According to the owner, he was pranking his customers cause he was bored:
+https://cdn.discordapp.com/attachments/844955777022164992/844960795305443329/unknown.png
+
+Ayaan Please learn how to manage a host and get better and professional staff
+Ayaan - FC5570 yes sir 🙂
+Ray - Ayaan you still haven't posted receipt for aws
+Ayaan - Ray we don't have aws, Digital ocean, Microsoft Azure and Contabo
+Ray - Ayaan oops, i meant Microsoft Azure.
+Ayaan - Ray ahh okay
+FC5570 - More proof of staff being unprofessional:
+https://cdn.discordapp.com/attachments/844955777022164992/844961121542471761/unknown.png
+https://cdn.discordapp.com/attachments/844955777022164992/844961334272983090/unknown.png
+https://cdn.discordapp.com/attachments/754441222424363088/844955377133289502/IMG_20210520_204047.jpg
+https://ss.fc5570.ml/ozwg
+FC5570 - Dude does not even know what CPU his vps has:
+https://cdn.discordapp.com/attachments/844955777022164992/844962796332777482/unknown.png
+Ray - smh
+Chirag - This is the same hypen who ran naxik.ga https://drama.gg/d/434-naxikga-freenom-domain-no-pp-and-tos-funny-node-specs
+hypen has tried to grab my IP, and is also 12 years old. (Can't provide proof rn as pxl.blue is down)
+only got this proof tho - https://drama.gg/assets/files/2021-05-20/1621527536-182301-image.png
+eraters - Chirag haha math go brr
+Don - Ayaan Always with Guitarhost, though it was a prank!
+Ray - Chirag woah, his id is 489366265786269704
+DinoTheDev -  - https://drama.gg/assets/files/2021-05-21/1621570835-290628-image.png
+BaconHead - DinoTheDev EXPOSED LMAO
+Sliden - ah yes you choose to sell your service without tos - https://drama.gg/assets/files/2021-05-21/1621602637-738048-image.png
+Sliden - Ray they also wont show usage of their digital ocean vps from digital ocean panel
+Ray - @Ayaan mind sending us the receipt for Microsoft Azure and the receipt for the new Singapore server?
+Also show us the usage in digital ocean panel.
+Sliden - Ray 
+"pterodactyl": {
+    "domain": "https://panel.guitarhost.xyz",
+    "key": "LwVBK0Bw8JFqGAq4pNx3bM6u1gQVVnfz8k7Ae82JS1i6sLMi"
+  },
+  idk what this does but you can have it
+Tomas - Sliden LMFAO
+DinoTheDev - Sliden LAMO API KEY
+Sliden - DinoTheDev Really? tilts head
+Ray - Sliden lmfao
+Chirag - bump
+Chirag - New domain: guitarhost.tech
+Puggo - Damn.. - https://drama.gg/assets/files/2021-05-28/1622234923-381240-image.png
+Puggo - Removing the Pterodactyl copyright sign and adding guitar host to redirect to your website.. Dayumm
+Deleted User - Looks like they good a new Google Cloud node? - https://cdn.riverside.rocks/a/kookaburra-kitten-christmas.png
+DiscordUser - It looks like they stole the server pictures from DanBot Hosting (DBH) and they stole there layout for the server and changed a few emojis in the channels. They also stole the logo and then just put there name onto of it. Proof: This is the GutiarHost bot avatar.
+  
+
+This is dan bot hosting bot avatar. - https://drama.gg/assets/files/2021-06-12/1623487308-429377-screenshot-2021-06-12-at-094143.png
+DiscordUser - It looks like they stole the server pictures from DanBot Hosting (DBH) and they stole there layout for the server and changed a few emojis in the channels. They also stole the logo and then just put there name onto of it. Proof: This is the GutiarHost bot avatar.
+  
+
+This is dan bot hosting bot avatar. - https://drama.gg/assets/files/2021-06-12/1623487388-254729-screenshot-2021-06-12-at-094301.png
+DiscordUser - More proof:
+This is what there server layout looks like: Now this may not look the  exact same but what they probably did is got someone to copy it and change a few of the emojis.
+
+
+
+This is dan bot hosting as you clearly can see they basically stole the layout and changed a few emoji like I said in the other post. - https://drama.gg/assets/files/2021-06-12/1623487550-970558-screenshot-2021-06-12-at-094544.png
+DiscordUser - More proof:
+This is what there server layout looks like: Now this may not look the  exact same but what they probably did is got someone to copy it and change a few of the emojis.
+
+
+
+This is dan bot hosting as you clearly can see they basically stole the layout and changed a few emoji like I said in the other post. - https://drama.gg/assets/files/2021-06-12/1623487600-625486-screenshot-2021-06-12-at-094634.png
+Sliden - Guitar host deleting bad reviews.
+FC5570 - Their whole Discord server is copied from DBH (discord.gg/dbh) all the channels and other stuff. This host is ran by kids who DM advertise to members of other hosts:
+
+The dude who advertised is a helper in that server 😂 
+
+Their staff deletes bad reviews and they say they don't have any. Proof that I reviewed:
+
+you can see the slowmode in the left bottom corner, Their staff (who also dm advertised, screenshot above) deleted my review - https://drama.gg/assets/files/2021-06-12/1623487815-321183-image.png
+FC5570 - Their whole Discord server is copied from DBH (discord.gg/dbh) all the channels and other stuff. This host is ran by kids who DM advertise to members of other hosts:
+
+The dude who advertised is a helper in that server 😂 
+
+Their staff deletes bad reviews and they say they don't have any. Proof that I reviewed:
+
+you can see the slowmode in the left bottom corner, Their staff (who also dm advertised, screenshot above) deleted my review - https://drama.gg/assets/files/2021-06-12/1623487766-487941-image.png
+FC5570 - Very professional staff 💯 - https://drama.gg/assets/files/2021-06-12/1623488125-69355-image.png
+FC5570 - Very professional staff 💯 - https://drama.gg/assets/files/2021-06-12/1623488356-433401-image.png
+Chirag - FC5570 one of the staff members called "Itz_AK" got my ip using dashactyl logs and tried to dox me, little did he know he clicked on a grabify link in his email lmao.
+DiscordUser - It looks like they stole from a bots GitHub page... Like a invite bot and now claiming its there own by putting there own logo and giving no credit to the people who make it 
+Proof: https://github.com/manage-invite/manage-invite-bot and if you check there server by joining it and you do -help you can see the exact same help command with no credit from the people who made it.
+Chirag - It won't be hard for me to kill this host if they hadn't banned every single one of my alts.
+FC5570 - DiscordUser Yep their invite logs is stolen
+FC5570 - @Ayaan please get better staff - https://drama.gg/assets/files/2021-06-12/1623488445-51526-image.png
+L4db - oh boy another shub connor shubham verlekar greenbull
+Chirag -  - https://drama.gg/assets/files/2021-06-12/1623488741-304783-screenshot-2021-06-12-14-33-43-28.jpg
+Chirag -  - https://drama.gg/assets/files/2021-06-12/1623488767-213489-screenshot-2021-06-12-14-31-13-71.jpg
+Chirag -  - https://drama.gg/assets/files/2021-06-12/1623488769-279743-screenshot-2021-06-12-14-30-37-62.jpg
+Chirag - did someone use ms paint to make this shit? - https://drama.gg/assets/files/2021-06-12/1623488912-46491-image.png
+FC5570 - Chirag i think their website is copied aswell i remember seeing that design somewhere
+Armic - Chirag Could you send proof of this?
+Chirag - Armic 
+my old ISP - https://drama.gg/assets/files/2021-06-12/1623489453-437614-image.png
+FC5570 - apparently @Ayaan nuked one of their helpers' server - https://drama.gg/assets/files/2021-06-12/1623489790-929812-image.png
+Chirag - ayaan, phantom, hypen have already been plenty of proof about this, yet ak still is a staff member.
+also, hypen is 12 (refer to naxik.ga thread https://drama.gg/d/434-naxikga-freenom-domain-no-pp-and-tos-funny-node-specs)
+
+(see the date hypen said) - https://drama.gg/assets/files/2021-06-12/1623489924-3183-image.png
+FC5570 - Ayaan is giving his alts admin in his server 😂 - https://drama.gg/assets/files/2021-06-12/1623490518-978633-image.png
+vikingww2 - FlamingPhoenix for the record, these are stolen images from a legitimate hosting provider called dan. He's been providing free hosting for users for a few years, is legit and is based only on donations. Kinda hurtful that he would claim those are his servers. You can check out the real images in #server-pics in discord.gg/dbh. He also posted a few videos. Any purchases he makes, he most of the time asks the comunity wether we want for example more storage or more ram. Overall a really friendly guy.  (Just thought I'd explain where those images originate from.)
+Deleted User - They stole CentroNodes' logo animation, and they claim that it was for their beta testers Twitter. Wdym, if it was for beta testers, then why it's public? :KEKW:
+
+They are also claiming that they're giving 2 free dedis on the same Twitter account, and they have the same excuse, the Twitter account is pretty old, and that it was for beta testers.
+Deleted User - They banned me KEKW
+FC5570 - DinoTheDev proof?
+ShinyPlasm - Ayaan thanks for doxing him lmao - https://drama.gg/assets/files/2021-06-23/1624429679-589345-image.png
+DinoTheDev - ShinyPlasm hahaha what....
+Itz_Ak - Chirag Lmao you started acting here too? You gave me your old ISP right? Thats why i asked you why dont you change it. Nice lie, dont try to fool atleast these innocent peoples my dear.
+Itz_Ak - FC5570 boi?? Why do you even care about ayaan and his servers 😂😂 just dont be jealous my dear, stop and mind your work. Lmao i was thinking, how beautifully you care about ayaan, wow are you gay 😂😂
+Itz_Ak - Anybody know the fact that @Chirag Is an IP grabber? He have shown me my IP and even told my location, acc name. He pretends that others are grabbing his IP while hiding the truth he is an IP grabber. Tip: He even friks up his friends IP and will misuse it. Just be carefull when dealing him, dont share data with him.
+Itz_Ak - vikingww2 Dear boi, can you show proof that guitar host stole the image? Show proof that we stealing their images.
+Itz_Ak - DiscordUser Dear user, do you ever know that the SERVER image is copyrighted 
+
+FlamingPhoenix Thats our wish?
+Itz_Ak - Chirag Why do you even have to care about that lol, Omg i forgot you are a guy who loves and looks every activity of ours 😂
+Jedrik - Itz_Ak do you ever know that the SERVER image is copyrighted
+
+It's not lmao
+Itz_Ak - Chirag Why dont you show people the messages you sent me and abused and threatened us? Its easy to delete your own and highlight our parts, usually kids who dont have nuts do this 😂
+Itz_Ak - Jedrik Then is it your wish? 😂
+Itz_Ak - Chirag Because you are noob who cant even create an alt that can bypass our anti alt system, and you gonna fuk up our host? What you can do is go to your mama and drink milk 😂😂😂
+Jedrik - Itz_Ak ?? You're making no sense
+Itz_Ak - Chirag One kid (Dont know if we can call him even a "Kid" such a retarded kid) thought i will be getting scad if he got my gmail and tap on forgot gmail and get my phones model number and tell me that i hacked you 😂😂 also thought if he knows my ip and gets the location, i will be scared like how he was.
+BaconHead - Itz_Ak is there a problem with him being gay? Anyways, how does posting some screenshot of some dude using alts make you gay? Stop being a bitch and homophobe.
+BaconHead - @Itz_Ak imagine being so unoriginal that you have to copy some other host's logo
+Pornhub - I can confirm. they actaully watch new users servers too. Plus they are using free trials. i have now reported them to contabo as the are using a customer account not a business. against their ToS. Along with digital ocean too
+
+![screenshot]](https://i.imgur.com/tb6ZZbI.png)
+DinoTheDev - Pornhub cuz its logged in a channel
+Pornhub - and they watch them on the panel its self. i had some stuff happen on its own
+Stef - DinoTheDev it's guitarhost.tech
+FC5570 - Itz_Ak awww don't get butthurt buddy
+FC5570 - BaconHead retarded bastards what else can you say 😂
+SathvikHegde - They sold their host 🤣🤣🤣
+vikingww2 - Itz_Ak show
+
+Dont call be boi, and simply go in discord.gg/dbh then #server-pics
+Ricky - HI, Ricky here. I've noticed the drama that's been going around here, and if one of you  with knowledge could please DM me with some insight, that would be great. I'd be able to post the situation in a channel.
+GoHill3 - Ricky Hi GoHill here. I've noticed you have been writing shit around here, and if you could please DM me with some brain cells, that would be great. I'd be able to shitpost this completely dead host in a channel.
+SchoolRobotProMachine500 - GoHill3 true

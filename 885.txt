@@ -1,0 +1,14 @@
+aPitza - For those who don't know what InfinityFree is, it's a free web hosting company. So I was looking for a web host and this came in front of me so I used this, I hosted a website there with my domain and I left it for like a week because I had some stuff to do in real life, in the main file I just put "hello" to test if the web was working ( at the time I hosted the website) and now when I came back I saw this TERRIBLE shit happened to my website.
+
+
+
+I don't remember ever signing up for this shit. Everything is just the worst in their website. - https://drama.gg/assets/files/2021-08-15/1629016294-183349-rls.png
+chrissss - You sure your domain hasn't expired?
+chrissss - Nope, it hasn't but your domain nameservers are set to your registrars', hence the parking page. - https://drama.gg/assets/files/2021-08-15/1629016664-775039-image.png
+aPitza - chrissss I just updated the nameservers back to the default after seeing that
+chrissss - aPitza No- the page it's currently on is a domain parking page.
+comfyy - aPitza This page is a Porkbun parking page. and is the InfinityFree you're talking about it https://infinityfree.net right? And currently It shows a DNS_PROBE_POSSIBLE error.
+Robert - InfinityFree is reselling iFastNet's free hosting with a service called MyOwnFreeHost. It has a lot of limitations (50k hit limit per day on a site, you are only allowed to use x amount of resources, the "unlimited storage" is a lie due to the inode limit and the fact that everything in your site's directory has to be on your site according to their terms, etc). iFastNet (not InfinityFree since they can't control much at all) does have advertising pages like that, yes, but that is a PorkBun parking page. The only reason as to why you would get one of those pages from iFastNet (which this one isn't in the first place) is because the DNS hasn't propagated yet (which takes ages due to how their system is made).
+XInterverse - It's either DNS propagation or your computer's DNS cache. If you don't know what that is then Google it or ask their support forum, where you should've asked first.
+Auphora - blame it to DNS not infinityFree
+Robert - This thread was invalid from the get-go. If you would like to add anything to it DM me on Discord (That Guy#5275).

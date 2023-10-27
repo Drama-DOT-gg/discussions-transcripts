@@ -1,0 +1,65 @@
+HarryW - I came across this host in the Dashactyl advertise channel and this host seems to afford Contabo VPS's (nothing wrong with Contabo) but can't afford a £5 domain (sometimes not even that). Their Dashactyl Panel has no Reverse Proxy or SSL Certificate the link to that is http://rapnodes.ml:1234 | Their Multi-Egg that they are using also has a Freenom Domain. Apparently due to their Terms of Service, they are a registered company in Egypt, Cairo 11911. I did an Egypt Company Search and RapNodes does not come up which probably means it is not registered.  The owners of this host are Xmomoo#2222 CoffeeSilver8#2357  and Lil Panda#3225 . Their Discord - https://discord.gg/dhEE7Sga4K - https://drama.gg/assets/files/2021-08-07/1628328209-795026-image.png
+HarryW - I came across this host in the Dashactyl advertise channel and this host seems to afford Contabo VPS's (nothing wrong with Contabo) but can't afford a £5 domain (sometimes not even that). Their Dashactyl Panel has no Reverse Proxy or SSL Certificate the link to that is http://rapnodes.ml:1234 | Their Multi-Egg that they are using also has a Freenom Domain. Apparently due to their Terms of Service, they are a registered company in Egypt, Cairo 11911. I did an Egypt Company Search and RapNodes does not come up which probably means it is not registered.  The owners of this host are Xmomoo#2222 CoffeeSilver8#2357  and Lil Panda#3225 . Their Discord - https://discord.gg/dhEE7Sga4K - https://drama.gg/assets/files/2021-08-07/1628328558-964430-image.png
+Xmomoo - First of all, Rapnodes is still new, which means not everything perfect and i was working on everything, second in Egypt registered online isnt going through the system, third we were planning to get new domain. forth the vps not me who paying for it,
+SamCoThePug - Xmomoo If you are planning on getting a new domain, dont open till you get that new domain. .ml domains are shit, they're free and just dont use it for hosts. please.
+HarryW - I just got banned.
+Kowone - Xmomoo First of all, Rapnodes is still new, which means not everything perfect and i was working on everything
+
+doesn't mean everyone would give you a chance to be "proper" host.
+
+Xmomoo second in Egypt registered online isnt going through the system
+
+what the fuck you mean by this?
+
+Xmomoo third we were planning to get new domain.
+
+hope it's not another free domain.
+
+Xmomoo forth the vps not me who paying for it
+
+how stupid you are letting people pay for your nodes?
+Xmomoo - why would that guy with name "HarryW" make his account just for report us - https://drama.gg/assets/files/2021-08-07/1628331016-615299-img-20210807-120135.jpg
+Xmomoo - Kowone Actually i am not letting ppl pay my nodes, it was second owner which left and he is my friend and he still paying for it which is out of your business
+rhys - Xmomoo he didn't just make his account though did he? 
+
+
+
+seems like inspect element to me bud! - https://drama.gg/assets/files/2021-08-07/1628331427-324262-lbcx6lqo.png
+Xmomoo - from the account that he spoke to me from it
+
+rhys
+HarryW - Xmomoo I spoke to you from my main account. Also why would I pay for nitro on an alt account?
+Xmomoo - Well, lets make this clear, we will get new domain not the free one, second reverse proxy will be done in 2 days, third i will rewrite the tos and and the registration part, and i just wanna say that we do not need to be registered because we rnt over a year, anything else??
+Xmomoo - HarryW Probably epic games nitro
+Ibrahim - Xmomoo  Then why'd you release if everything wasn't perfected? SSL is SO simple to set up, a domain is REALLY cheap and Freenom is HORRIBLE for hosting company's, After your website gets a lot of traffic on Freenom they lock down your website and demand payment for a FREE domain, when you could've just bought a cheap .xyz or a free .co.uk for a year.
+HarryW - Ibrahim and don't forget the Freenom redirection to porn sites
+Xmomoo - Ibrahim Well, we will sort this, anything else?
+Ibrahim - HarryW fr
+Xmomoo - in 2 days everything will be sorted out.
+Ibrahim - Xmomoo for now I'd suggest shutting down for a bit until it's resolved, but you do you
+HarryW - Xmomoo Like why release a host with nothing properly setup? If you're going to make a host do it properly.
+Xmomoo - Ibrahim yep that's what i am going to do
+HarryW - Xmomoo Are you sure you're not looking at the wrong account? HarryW#0001
+Xmomoo - HarryW okay bud, i will stop the service until everything okay
+Ibrahim - Xmomoo alright, sounds good then. have a good day
+Xmomoo - HarryW , nvm it was wrong account sorry for that
+Xmomoo - Can we mark this as solved ?
+rhys - Xmomoo no not until it's solved properly.
+Chirag - @Xmomoo  Aren't you the guy who said "Eggactyl sucks LOL"?
+Sorry to say, but your host sucks.
+Xmomoo - Chirag lmao
+Kowone - Xmomoo at least i can afford some ex62-nvme dedicated server sheeesh
+dchu096 - Hmm... rapnodes now xoomoo? after rapcraft.ml? (which recdirects to electrohost...)
+Xmomoo - dchu096 u r too late lol, the server already deleted
+mj02010 - Xmomoo why did rapnodes get delete u did not even say to staff
+Anoymousperson - Xmomoo arent u the guy who raided mehost?
+dchu096 - Anoymousperson please dont bring mehost here... Its not related. That node that xoomoo touched on its deleted with cancellation already so yeah...
+Xmomoo - dchu096 huh?
+Xmomoo - mj02010 actually i explained to everyone who dmed me, and its not related to the thread, its other problem
+Anoymousperson - dchu096 ok.
+Scripted - We have rebranded to FusionHost
+and we no longer use Freenom and we have done reverse proxy.
+We removed our company registration from our website.
+https://gp.fusiondev.xyz
+https://cp.fusiondev.xyz
+Scripted - Can this thread get marked as resolved?

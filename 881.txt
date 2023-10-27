@@ -1,0 +1,184 @@
+Jerome - At https://www.colournodes.com/minecraft , Colour Nodes mentioned "We achieve at least a 99% uptime across all nodes. If downtime occurs, you will be correctly compensated!"
+
+However, this is only time they mentioned about SLA in their legal docs.
+
+The TOS (terms of service) mentioned "(c) No refunds will be provided for any service outrage (unless at the discretion of ColourNodes), nor do we ensure a continuous operation is guaranteed. However, compensation in the form of credit will be provided to your user account based on the internal Service Level Agreement."
+
+They misused the word "Internal Service Level Agreement", which is an SLA deal with their server provider, staff but not customer. They did not provide any information other than that.
+
+By looking at their website hosting product page, the promise up to 99.99% of uptime! (https://www.colournodes.com/web-hosting)
+
+and look back to their status page... (https://status.colournodes.com) - https://drama.gg/assets/files/2021-08-13/1628850274-832183-cn1.png
+Jerome - At https://www.colournodes.com/minecraft , Colour Nodes mentioned "We achieve at least a 99% uptime across all nodes. If downtime occurs, you will be correctly compensated!"
+
+However, this is only time they mentioned about SLA in their legal docs.
+
+The TOS (terms of service) mentioned "(c) No refunds will be provided for any service outrage (unless at the discretion of ColourNodes), nor do we ensure a continuous operation is guaranteed. However, compensation in the form of credit will be provided to your user account based on the internal Service Level Agreement."
+
+They misused the word "Internal Service Level Agreement", which is an SLA deal with their server provider, staff but not customer. They did not provide any information other than that.
+
+By looking at their website hosting product page, the promise up to 99.99% of uptime! (https://www.colournodes.com/web-hosting)
+
+and look back to their status page... (https://status.colournodes.com) - https://drama.gg/assets/files/2021-08-13/1628850526-491506-image-2021-08-13-182843.png
+Jerome - At https://www.colournodes.com/minecraft , Colour Nodes mentioned "We achieve at least a 99% uptime across all nodes. If downtime occurs, you will be correctly compensated!"
+
+However, this is only time they mentioned about SLA in their legal docs.
+
+The TOS (terms of service) mentioned "(c) No refunds will be provided for any service outrage (unless at the discretion of ColourNodes), nor do we ensure a continuous operation is guaranteed. However, compensation in the form of credit will be provided to your user account based on the internal Service Level Agreement."
+
+They misused the word "Internal Service Level Agreement", which is an SLA deal with their server provider, staff but not customer. They did not provide any information other than that.
+
+By looking at their website hosting product page, the promise up to 99.99% of uptime! (https://www.colournodes.com/web-hosting)
+
+and look back to their status page... (https://status.colournodes.com) - https://drama.gg/assets/files/2021-08-13/1628850955-999822-cn3.png
+Jerome - At https://www.colournodes.com/minecraft , Colour Nodes mentioned "We achieve at least a 99% uptime across all nodes. If downtime occurs, you will be correctly compensated!"
+
+However, this is only time they mentioned about SLA in their legal docs.
+
+The TOS (terms of service) mentioned "(c) No refunds will be provided for any service outrage (unless at the discretion of ColourNodes), nor do we ensure a continuous operation is guaranteed. However, compensation in the form of credit will be provided to your user account based on the internal Service Level Agreement."
+
+They misused the word "Internal Service Level Agreement", which is an SLA deal with their server provider, staff but not customer. They did not provide any information other than that.
+
+By looking at their website hosting product page, the promise up to 99.99% of uptime! (https://www.colournodes.com/web-hosting)
+
+and look back to their status page... (https://status.colournodes.com) - https://drama.gg/assets/files/2021-08-13/1628850999-15759-image-2021-08-13-183638.png
+Callum - Hi @Jerome,
+
+Callum from ColourNodes here.
+
+US01 has reached 99% uptime as stated on our website. Our web server has reached just below 99.99% uptime and relevant clients were indeed compensated for the downtime at the time, even though this downtime was due to routine maintenance.
+
+Furthermore, stating 99.99% on our web hosting page is not an error or typo, this is a completely separate service with different infrastructure.
+
+We set an expectation of uptime, we say that when this is not reached then affected clients receive credit, this is what we do and have done. I don't see what the issue is here?
+
+Your points regarding the minor misphrasing on our ToS have been noted and will be amended to further reflect our most recent policies and practices. Even so, this is a minor misphrasing and doesn't in any way affect our client's experience or rights.
+
+As far as I am aware, you are not a client of ours and we have had no issues raised to us via any of our support methods so I'm not sure how you would even know if we have been meeting our promise of compensating downtime or not. This is not a case of an unhappy client, this is an unprovoked attack towards us.
+
+Thanks
+Two - lmao kids- imagine trying to expose someone else's host after they exposed yours. trying to make invalid drama I see- your first attempt do be like: https://drama.gg/d/871-colournodescom-nulled-cloudlinux/2
+
+No. Stop wasting your time here, Jerome. We all know you've been exposed by the person who owns this host.
+Jerome - Callum We set an expectation of uptime, we say that when this is not reached then affected clients receive credit, this is what we do and have done. I don't see what the issue is here?
+
+Seems like you don't know what SLA is, you don't have SLA document to the public and you claim to have internal SLA which is totally misleading to the consumer and doesn't make sense. Internal SLA have nothing to do with your client, it's between your server provider and you. Please consult a lawyer and prepare a proper document
+
+Callum As far as I am aware, you are not a client of ours and we have had no issues raised to us via any of our support methods so I'm not sure how you would even know if we have been meeting our promise of compensating downtime or not. This is not a case of an unhappy client, this is an unprovoked attack towards us.
+
+Your host doesn't comes with proper legal documents and you are hoping people to purchase your service?
+Jerome - Callum Furthermore, stating 99.99% on our web hosting page is not an error or typo, this is a completely separate service with different infrastructure.
+
+I guess you misunderstood the words I meant to, I didn't mention about it's an error or typo
+Jerome - Callum Even so, this is a minor misphrasing and doesn't in any way affect our client's experience or rights.
+
+I am sure you do affect client's rights, you just fake promise a guarantee and since you did not state it clearly at the SLA (or not even have SLA) client couldn't dispute for how much he/she could have due to the rights you stated at the TOS. 
+
+No refunds will be provided for any service outrage (unless at the discretion of ColourNodes)
+Jerome - Two However, solely on one sided just making you sounds like a clown. They do admitted 
+
+Callum Your points regarding the minor misphrasing on our ToS have been noted and will be amended to further reflect our most recent policies and practices.
+Jamie_ - Jerome Funny, the guy who cracks cPanel (which is illegal) suddenly knows everything about law.
+Jamie_ - Jerome It has stayed at 99.99% for a while and when it dropped the customers where compensated accordingly. I don't think there is an issue with that at all.
+Two - Jerome says the clown. 
+
+You can't say anything if you are the clown yourself. 
+How about you fix your own host, before accusing them of doing something that isn't necessarily required for a host?
+
+Besides, you aren't the client yourself. You can't complain about uptime.
+
+Please do something more worthwhile your time.
+Jamie_ - @Robert can this be closed and marked as resolved please. This guy is an absolute skid and has no clue how to even run his own host.
+Jamie_ - Jerome Our host comes with the proper legal documents, it was a minor misphrasing in our documents that will be fixed.
+Scripted - Jamie_ Its not him cracking, its his provider, kvservers.
+Callum - @Jerome.
+
+Firstly, people do purchase our services, it's sure a hell of a lot more successful than your host.
+
+Secondly, then why did you bring up the 99.99% uptime on web hosting? Because we didn't meet the 99.9% this month? That's why we credited affected customers as mentioned multiple times.
+
+Thirdly, I love how you have just claimed we fake promise a guarantee. This guarantee is not fake. As mentioned, our web hosting slipped below the advertised uptime therefore affected clients were indeed credited for this.
+
+Finally, seeing as you seem to be so fascinated and have such an issue with our legal documentation, I will ask my solicitor to go through it for me and make any relevant changes simply because the self-appointed expert of law @Jerome has an issue with it.
+Jamie_ - Scripted It isn't the point, he changed his cpanel link to a grabify link which redirected to a rickroll after I called him out. You wanna call that mature? Professional?
+Robert - Locked this thread due to it being (mostly) invalid from the get-go and due to it being resolved. If you want to add anything to this thread, DM me on Discord (That Guy#5275).
+Jerome - You claimed the word SLA in your reddit account (https://www.reddit.com/user/colournodes/) and promoting your host at other website (https://minecraftserverhosts.com/hosts/colournodes/) which included the keyword SLA. However, you did not have proper SLA and claimed you have it. This is a scam!
+
+Jamie_ minor misphrasing in our documents
+
+Are you sure that's minor for claiming a document you don't have on multiple sites?
+
+Callum Secondly, then why did you bring up the 99.99% uptime on web hosting? Because we didn't meet the 99.9% this month? That's why we credited affected customers as mentioned multiple times.
+
+Please take a look at your status page, 9 months of service and 4 months are under your guarantee. You call that a guarantee? 
+
+Jamie_  can this be closed and marked as resolved please.
+
+Marked as resolved? I don't even saw your SLA document is on your website. Are you going to continue your scam? 
+
+Jamie_  It isn't the point, he changed his cpanel link to a grabify link which redirected to a rickroll after I called him out. You wanna call that mature? Professional?
+
+It's our right to collect IP Address as stated in our privacy policy but we did not publicly shows your IP address nor attacking it. For how we use your IP address, please refer back to our privacy policy. I see not an issue to redirecting to Rickroll link, we did not go against any legal. 
+
+Two How about you fix your own host, before accusing them of doing something that isn't necessarily required for a host?
+
+I already fixed my own host, it's time for you to spend your time wisely as we do not have anything to do with you. Doing something necessarily required? They mentioned they have SLA but sadly no, how about asking them not to advertise SLA so they won't have to face this situation?
+Jerome - Jamie_ This guy is an absolute skid and has no clue how to even run his own host.
+
+Calling me skid just because I exposed you? Too bad, that's not how debating works. Grow up, don't argue like a kid.
+Jamie_ - Jerome Are you going to continue your scam?
+
+No because this will be sorted. You could have just used one of our support methods and or sent me a DM however you decided to be a jack ass and make a post about it. I tried asking you why you were cracking cPanel and got banned and IP grabbed.
+
+Jerome Calling me skid just because I exposed you? Too bad, that's not how debating works.
+
+You haven't "exposed" me. Using that word proves you are a 12 year old. I am not the one grabbing peoples IPs and cracking cPanel. You wanna talk about legality? Cracking cPanel is illegal. Even if you didn't crack it, you knowingly used it and banned me for pointing it out.
+
+Not everyone here is a law expert. If an SLA needs to be publicly shown, DM us and tell us. Your other post has been closed because of your idiocy. 
+
+Like I said this issue will be sorted and that is all. @Robert this can now be marked as resolved and closed.
+Jerome - Jamie_ You could have just used one of our support methods and or sent me a DM however you decided to be a jack ass and make a post about it.
+
+I think it's nessesery to let the public knows about this issue as you SHOULD knows what you're using the words to advertise or describe your service. You're just like using a word without even cares what is it and use it multiple times. 
+
+Jamie_ I tried asking you why you were cracking cPanel and got banned and IP grabbed.
+
+It's good to know but it's the past, for your information I did not take any illegal action on your IP address.
+
+Jamie_ Using that word proves you are a 12 year old
+
+Ohh I wonder how you prove it, what kind of evidence you have? By the way, stop saying something you have nothing to prove on, you're just keep trying to got off topic.
+
+Jamie_ Cracking cPanel is illegal. Even if you didn't crack it, you knowingly used it and banned me for pointing it out.
+
+You're welcome to report to cPanel, however we already take action to the provider. 
+
+Jamie_ Like I said this issue will be sorted and that is all. @ThatGuy this can now be marked as resolved and closed.
+
+This issue isn't resolve if you didn't sort it out. You mentioned 'will' means you haven't resolve it. Why are you rushing to close the thread?
+Jamie_ - Jerome What are you rushing to close the ticket?
+
+Yes, because I have a jack ass making my company look bad for something that will be fixed. We have gone about this the right way but you aggravated the situation when you didn't just accept that we will fix it.
+Jamie_ - At this point, we are going to ignore further replies to this thread. We are going to fix the SLA issue and we will contact a moderator when done to get this closed. Thank you for pointing out this crucial issue to us.
+
+Have a good day.
+comfyy - Jerome I think it's nessesery to let the public knows about this issue as you SHOULD knows what you're using the words to advertise or describe your service. You're just like using a word without even cares what is it and use it multiple times.
+
+ALWAYS Open up a ticket or DM the owners/management.
+comfyy - @Jerome just use this as a general rule of thumb. https://drama.gg/d/510-a-hoaxing-guide
+NetworthJoiner - With 20% less staff
+Jamie_ - @Robert This post can now be closed and marked as resolved as we have removed all claims of SLA for review.
+Two - Jerome I already fixed my own host, it's time for you to spend your time wisely as we do not have anything to do with you. Doing something necessarily required? They mentioned they have SLA but sadly no, how about asking them not to advertise SLA so they won't have to face this situation?
+
+just asking, why was I banned for no reason? I didn't even mention anything about cpanel, but when I joined, I was just banned for existing, and saying hi?
+Two - Jerome not really proof but just screaming words at other people but ok
+
+idk why I replied to this twice
+Jerome - Two No? Join again if you want to
+Two - k whatever
+Jerome - Jamie_ This post can now be closed and marked as resolved as we have removed all claims of SLA for review.
+
+Oh really? - https://drama.gg/assets/files/2021-09-12/1631423889-862596-image-2021-09-12-131808.png
+Jamie_ - Jerome Thank you so much for pointing out this crucial error! We will fix it now! 😃
+Jerome - Jamie_ Forgetful kid
+Robert - This thread seems to be resolved, so I will lock it. If you want to add anything to the thread, DM me on Discord (That Guy#5275).

@@ -1,0 +1,521 @@
+Revolver - https://tzsolutions.tech/ - TechZack owns TZ Solutions and he gets defensive and bans people who question/criticize their legitimacy.
+
+Everything on their Hostify template website links to their Discord server. This whole operation is on their Discord server, including billing through discord. They don't even have a proper billing platform. I can't stress enough to hosts that Discord is not a billing platform, so stop using Discord for everything. They're also advertising their hosting on other SMP's Discord servers who are paying customers. I don't know what kind of deal they made with their customers, but if I'm paying them already and not being sponsored for a free server, then why this promotion?
+
+The promotion in a paying customer's SMP server below, he made a channel dedicated to TZ Solutions.
+
+
+They're using a .tech domain, which you can get for free from the Github Student Developer Pack. When I DM'ed one of their customers on the host's legitimacy, the customer told the owner (TechZack) about me and I immediately got banned from TZSolutions Discord server. Now, the customer didn't mean it or even thought I was going to get banned. Some hosts just can't take simple criticism even when it's in private messages. The customer was very useful and complying to my investigation and research on TZSolutions. The customer did told me their marketing practices below, which is purely through DM advertising on Discord. Here's the convo below:
+
+Okay
+Here i just copied the discussion
+Zombieplays04122 — 08/27/2021
+Hello
+TZ Solutions — 08/27/2021
+How are you doing?
+Zombieplays04122 — 08/27/2021
+Im good
+TZ Solutions — 08/27/2021
+I was wondering how much RAM does your server have?
+Zombieplays04122 — 08/27/2021
+6
+TZ Solutions — 08/27/2021
+How much do you pay for that?
+Zombieplays04122 — 08/27/2021
+Too much, 33.98
+TZ Solutions — 08/27/2021
+Jesus/
+Zombieplays04122 — 08/27/2021
+mhmh
+ther server is about to expire in like 2 hours so i can switch hosting soon
+TZ Solutions — 08/27/2021
+Well... I might be able to offer you a deal if you would like that would be cheaper.
+Zombieplays04122 — 08/27/2021
+I would
+TZ Solutions — 08/27/2021
+What would you need storage/RAM wise?
+Zombieplays04122 — 08/27/2021
+about 6 or 7, because of plugins and world generation
+TZ Solutions — 08/27/2021
+Okay and should I say about 100GB Storage?
+Or 200GB?
+Zombieplays04122 — 08/27/2021
+100 gb sounds good, my current storage is 10 gb which is pretty bad
+TZ Solutions — 08/27/2021
+I could do 
+
+4 vCores
+8GB DDR4 RAM
+100GB SSD
+DDOS Protection
+Dedicated IP
+
+For 18GBP
+Zombieplays04122 — 08/27/2021
+A month?
+TZ Solutions — 08/27/2021
+Correct
+But that means you'd have much more performance compared to the host your on now.
+Zombieplays04122 — 08/27/2021
+Thats more than i pay for right now, its 60 dollars every 3 months for me
+TZ Solutions — 08/27/2021
+You just said.
+Zombieplays04122 — 08/27/2021
+Thats for every month
+*3 months
+Hmm
+Here let me check something first then i will decide
+first question
+TZ Solutions — 08/27/2021
+I might be able to get it a little cheaper hold on.
+Zombieplays04122 — 08/27/2021
+okay then
+Also, are there services for quickly moving how my server is to your hosting site?
+TZ Solutions — 08/27/2021
+Yes there is.
+Zombieplays04122 — 08/27/2021
+Thats helpful, thank you.
+TZ Solutions — 08/27/2021
+Region Wise EU or NA?
+Zombieplays04122 — 08/27/2021
+NA
+TZ Solutions — 08/27/2021
+I can do EU for 15GBP ($20 USD) z
+
+That would include DDOS Protection 2 Cores of a CPU and 8GB RAM and also being on a Panel
+
+This would also stop you being on a Overallocated Server as you would have your own server just for you.
+Zombieplays04122 — 08/27/2021
+I like that deal
+Alright then
+TZ Solutions — 08/27/2021
+I might be able to cater for NA
+TZ Solutions — 08/27/2021
+Right I can cater EU or NA now.
+If that is fine for you I can sort out the payment and get your server up so we can start migrating from your old server.
+Zombieplays04122 — 08/27/2021
+Alright
+Im in florida so if there is a better area for that than ill take it.
+TZ Solutions — 08/27/2021
+It will be in Chicago so you won't be effected.
+Do you want to hop into a Voicecall?
+You missed a call from 
+TZ Solutions
+ that lasted 2 minutes.
+ — 08/27/2021
+Zombieplays04122 — 08/27/2021
+Sure, sorry i was doing something
+TZ Solutions
+ started a call that lasted 2 hours.
+ — 08/27/2021
+TZ Solutions — 08/27/2021
+No worries.
+I'll be waiting there.
+
+They gave the customer a Chicago location even though the customer said that he was in Florida, which I will get into later about their deceptive locations. They use HostVenom and their specs for the Chicago location are i7-6700K and likely 64 GB ram (the max memory that processor can handle). The irony here is when they say: "That would include DDOS Protection 2 Cores of a CPU and 8GB RAM and also being on a Panel This would also stop you being on a Overallocated Server as you would have your own server just for you." Really? The i7-6700K only has 4 cores/8 threads and you're giving them 2 cores, which is half of the processor already and 1/8 of the system's memory. If you do the same to one more customer and allocate them 2 cores, then your cores aren't dedicated anymore, they're shared/overallocated.
+
+
+In their discord, they claim to have secured Los Angeles, Miami, and New York (since the beginning of the month of August 2021). Sounds very much like the whole premium ReliableSite squad, but no. Further investigation shows that they have only one of these locations. In fact, they use Contabo-New York, Hostvenom-Chicago, OVH-Montreal. That's very concentrated on the northeast of North America. https://securitytrails.com/list/apex_domain/tzsolutions.tech
+
+euvps-1.tzsolutions.tech Fyeweb - UK
+navps-2.tzsolutions.tech OVH - Montreal
+navps-3.tzsolutions.tech HostVenom - Chicago
+navps-4.tzsolutions.tech Contabo - New York
+
+Also this:
+
+🤦Boy, your main website is just a one-page static HTML page. It doesn't serve any special purpose other than linking everything back to their Discord server. So about the "hardware upgrade" aka moving to another shared hosting provider. They are currently using NovoNode shared web hosting. - https://cdn.discordapp.com/attachments/875884186496532491/882355671671128175/chrome_42424224x.png
+Revolver - https://tzsolutions.tech/ - TechZack owns TZ Solutions and he gets defensive and bans people who question/criticize their legitimacy.
+
+Everything on their Hostify template website links to their Discord server. This whole operation is on their Discord server, including billing through discord. They don't even have a proper billing platform. I can't stress enough to hosts that Discord is not a billing platform, so stop using Discord for everything. They're also advertising their hosting on other SMP's Discord servers who are paying customers. I don't know what kind of deal they made with their customers, but if I'm paying them already and not being sponsored for a free server, then why this promotion?
+
+The promotion in a paying customer's SMP server below, he made a channel dedicated to TZ Solutions.
+
+
+They're using a .tech domain, which you can get for free from the Github Student Developer Pack. When I DM'ed one of their customers on the host's legitimacy, the customer told the owner (TechZack) about me and I immediately got banned from TZSolutions Discord server. Now, the customer didn't mean it or even thought I was going to get banned. Some hosts just can't take simple criticism even when it's in private messages. The customer was very useful and complying to my investigation and research on TZSolutions. The customer did told me their marketing practices below, which is purely through DM advertising on Discord. Here's the convo below:
+
+Okay
+Here i just copied the discussion
+Zombieplays04122 — 08/27/2021
+Hello
+TZ Solutions — 08/27/2021
+How are you doing?
+Zombieplays04122 — 08/27/2021
+Im good
+TZ Solutions — 08/27/2021
+I was wondering how much RAM does your server have?
+Zombieplays04122 — 08/27/2021
+6
+TZ Solutions — 08/27/2021
+How much do you pay for that?
+Zombieplays04122 — 08/27/2021
+Too much, 33.98
+TZ Solutions — 08/27/2021
+Jesus/
+Zombieplays04122 — 08/27/2021
+mhmh
+ther server is about to expire in like 2 hours so i can switch hosting soon
+TZ Solutions — 08/27/2021
+Well... I might be able to offer you a deal if you would like that would be cheaper.
+Zombieplays04122 — 08/27/2021
+I would
+TZ Solutions — 08/27/2021
+What would you need storage/RAM wise?
+Zombieplays04122 — 08/27/2021
+about 6 or 7, because of plugins and world generation
+TZ Solutions — 08/27/2021
+Okay and should I say about 100GB Storage?
+Or 200GB?
+Zombieplays04122 — 08/27/2021
+100 gb sounds good, my current storage is 10 gb which is pretty bad
+TZ Solutions — 08/27/2021
+I could do 
+
+4 vCores
+8GB DDR4 RAM
+100GB SSD
+DDOS Protection
+Dedicated IP
+
+For 18GBP
+Zombieplays04122 — 08/27/2021
+A month?
+TZ Solutions — 08/27/2021
+Correct
+But that means you'd have much more performance compared to the host your on now.
+Zombieplays04122 — 08/27/2021
+Thats more than i pay for right now, its 60 dollars every 3 months for me
+TZ Solutions — 08/27/2021
+You just said.
+Zombieplays04122 — 08/27/2021
+Thats for every month
+*3 months
+Hmm
+Here let me check something first then i will decide
+first question
+TZ Solutions — 08/27/2021
+I might be able to get it a little cheaper hold on.
+Zombieplays04122 — 08/27/2021
+okay then
+Also, are there services for quickly moving how my server is to your hosting site?
+TZ Solutions — 08/27/2021
+Yes there is.
+Zombieplays04122 — 08/27/2021
+Thats helpful, thank you.
+TZ Solutions — 08/27/2021
+Region Wise EU or NA?
+Zombieplays04122 — 08/27/2021
+NA
+TZ Solutions — 08/27/2021
+I can do EU for 15GBP ($20 USD) z
+
+That would include DDOS Protection 2 Cores of a CPU and 8GB RAM and also being on a Panel
+
+This would also stop you being on a Overallocated Server as you would have your own server just for you.
+Zombieplays04122 — 08/27/2021
+I like that deal
+Alright then
+TZ Solutions — 08/27/2021
+I might be able to cater for NA
+TZ Solutions — 08/27/2021
+Right I can cater EU or NA now.
+If that is fine for you I can sort out the payment and get your server up so we can start migrating from your old server.
+Zombieplays04122 — 08/27/2021
+Alright
+Im in florida so if there is a better area for that than ill take it.
+TZ Solutions — 08/27/2021
+It will be in Chicago so you won't be effected.
+Do you want to hop into a Voicecall?
+You missed a call from 
+TZ Solutions
+ that lasted 2 minutes.
+ — 08/27/2021
+Zombieplays04122 — 08/27/2021
+Sure, sorry i was doing something
+TZ Solutions
+ started a call that lasted 2 hours.
+ — 08/27/2021
+TZ Solutions — 08/27/2021
+No worries.
+I'll be waiting there.
+
+They gave the customer a Chicago location even though the customer said that he was in Florida, which I will get into later about their deceptive locations. They use HostVenom and their specs for the Chicago location are i7-6700K and likely 64 GB ram (the max memory that processor can handle). The irony here is when they say: "That would include DDOS Protection 2 Cores of a CPU and 8GB RAM and also being on a Panel This would also stop you being on a Overallocated Server as you would have your own server just for you." Really? The i7-6700K only has 4 cores/8 threads and you're giving them 2 cores, which is half of the processor already and 1/8 of the system's memory. If you do the same to one more customer and allocate them 2 cores, then your cores aren't dedicated anymore, they're shared/overallocated.
+
+
+In their discord, they claim to have secured Los Angeles, Miami, and New York (since the beginning of the month of August 2021). Sounds very much like the whole premium ReliableSite squad, but no. Further investigation shows that they have only one of these locations. In fact, they use Contabo-New York, Hostvenom-Chicago, OVH-Montreal. That's very concentrated on the northeast of North America. https://securitytrails.com/list/apex_domain/tzsolutions.tech
+
+euvps-1.tzsolutions.tech Fyeweb - UK
+navps-2.tzsolutions.tech OVH - Montreal
+navps-3.tzsolutions.tech HostVenom - Chicago
+navps-4.tzsolutions.tech Contabo - New York
+
+Also this:
+
+🤦Boy, your main website is just a one-page static HTML page. It doesn't serve any special purpose other than linking everything back to their Discord server. So about the "hardware upgrade" aka moving to another shared hosting provider. They are currently using NovoNode shared web hosting. - https://cdn.discordapp.com/attachments/875884186496532491/882361605365571604/unknown.png
+Revolver - https://tzsolutions.tech/ - TechZack owns TZ Solutions and he gets defensive and bans people who question/criticize their legitimacy.
+
+Everything on their Hostify template website links to their Discord server. This whole operation is on their Discord server, including billing through discord. They don't even have a proper billing platform. I can't stress enough to hosts that Discord is not a billing platform, so stop using Discord for everything. They're also advertising their hosting on other SMP's Discord servers who are paying customers. I don't know what kind of deal they made with their customers, but if I'm paying them already and not being sponsored for a free server, then why this promotion?
+
+The promotion in a paying customer's SMP server below, he made a channel dedicated to TZ Solutions.
+
+
+They're using a .tech domain, which you can get for free from the Github Student Developer Pack. When I DM'ed one of their customers on the host's legitimacy, the customer told the owner (TechZack) about me and I immediately got banned from TZSolutions Discord server. Now, the customer didn't mean it or even thought I was going to get banned. Some hosts just can't take simple criticism even when it's in private messages. The customer was very useful and complying to my investigation and research on TZSolutions. The customer did told me their marketing practices below, which is purely through DM advertising on Discord. Here's the convo below:
+
+Okay
+Here i just copied the discussion
+Zombieplays04122 — 08/27/2021
+Hello
+TZ Solutions — 08/27/2021
+How are you doing?
+Zombieplays04122 — 08/27/2021
+Im good
+TZ Solutions — 08/27/2021
+I was wondering how much RAM does your server have?
+Zombieplays04122 — 08/27/2021
+6
+TZ Solutions — 08/27/2021
+How much do you pay for that?
+Zombieplays04122 — 08/27/2021
+Too much, 33.98
+TZ Solutions — 08/27/2021
+Jesus/
+Zombieplays04122 — 08/27/2021
+mhmh
+ther server is about to expire in like 2 hours so i can switch hosting soon
+TZ Solutions — 08/27/2021
+Well... I might be able to offer you a deal if you would like that would be cheaper.
+Zombieplays04122 — 08/27/2021
+I would
+TZ Solutions — 08/27/2021
+What would you need storage/RAM wise?
+Zombieplays04122 — 08/27/2021
+about 6 or 7, because of plugins and world generation
+TZ Solutions — 08/27/2021
+Okay and should I say about 100GB Storage?
+Or 200GB?
+Zombieplays04122 — 08/27/2021
+100 gb sounds good, my current storage is 10 gb which is pretty bad
+TZ Solutions — 08/27/2021
+I could do 
+
+4 vCores
+8GB DDR4 RAM
+100GB SSD
+DDOS Protection
+Dedicated IP
+
+For 18GBP
+Zombieplays04122 — 08/27/2021
+A month?
+TZ Solutions — 08/27/2021
+Correct
+But that means you'd have much more performance compared to the host your on now.
+Zombieplays04122 — 08/27/2021
+Thats more than i pay for right now, its 60 dollars every 3 months for me
+TZ Solutions — 08/27/2021
+You just said.
+Zombieplays04122 — 08/27/2021
+Thats for every month
+*3 months
+Hmm
+Here let me check something first then i will decide
+first question
+TZ Solutions — 08/27/2021
+I might be able to get it a little cheaper hold on.
+Zombieplays04122 — 08/27/2021
+okay then
+Also, are there services for quickly moving how my server is to your hosting site?
+TZ Solutions — 08/27/2021
+Yes there is.
+Zombieplays04122 — 08/27/2021
+Thats helpful, thank you.
+TZ Solutions — 08/27/2021
+Region Wise EU or NA?
+Zombieplays04122 — 08/27/2021
+NA
+TZ Solutions — 08/27/2021
+I can do EU for 15GBP ($20 USD) z
+
+That would include DDOS Protection 2 Cores of a CPU and 8GB RAM and also being on a Panel
+
+This would also stop you being on a Overallocated Server as you would have your own server just for you.
+Zombieplays04122 — 08/27/2021
+I like that deal
+Alright then
+TZ Solutions — 08/27/2021
+I might be able to cater for NA
+TZ Solutions — 08/27/2021
+Right I can cater EU or NA now.
+If that is fine for you I can sort out the payment and get your server up so we can start migrating from your old server.
+Zombieplays04122 — 08/27/2021
+Alright
+Im in florida so if there is a better area for that than ill take it.
+TZ Solutions — 08/27/2021
+It will be in Chicago so you won't be effected.
+Do you want to hop into a Voicecall?
+You missed a call from 
+TZ Solutions
+ that lasted 2 minutes.
+ — 08/27/2021
+Zombieplays04122 — 08/27/2021
+Sure, sorry i was doing something
+TZ Solutions
+ started a call that lasted 2 hours.
+ — 08/27/2021
+TZ Solutions — 08/27/2021
+No worries.
+I'll be waiting there.
+
+They gave the customer a Chicago location even though the customer said that he was in Florida, which I will get into later about their deceptive locations. They use HostVenom and their specs for the Chicago location are i7-6700K and likely 64 GB ram (the max memory that processor can handle). The irony here is when they say: "That would include DDOS Protection 2 Cores of a CPU and 8GB RAM and also being on a Panel This would also stop you being on a Overallocated Server as you would have your own server just for you." Really? The i7-6700K only has 4 cores/8 threads and you're giving them 2 cores, which is half of the processor already and 1/8 of the system's memory. If you do the same to one more customer and allocate them 2 cores, then your cores aren't dedicated anymore, they're shared/overallocated.
+
+
+In their discord, they claim to have secured Los Angeles, Miami, and New York (since the beginning of the month of August 2021). Sounds very much like the whole premium ReliableSite squad, but no. Further investigation shows that they have only one of these locations. In fact, they use Contabo-New York, Hostvenom-Chicago, OVH-Montreal. That's very concentrated on the northeast of North America. https://securitytrails.com/list/apex_domain/tzsolutions.tech
+
+euvps-1.tzsolutions.tech Fyeweb - UK
+navps-2.tzsolutions.tech OVH - Montreal
+navps-3.tzsolutions.tech HostVenom - Chicago
+navps-4.tzsolutions.tech Contabo - New York
+
+Also this:
+
+🤦Boy, your main website is just a one-page static HTML page. It doesn't serve any special purpose other than linking everything back to their Discord server. So about the "hardware upgrade" aka moving to another shared hosting provider. They are currently using NovoNode shared web hosting. - https://cdn.discordapp.com/attachments/875884186496532491/882357227837599755/unknown.png
+Revolver - https://tzsolutions.tech/ - TechZack owns TZ Solutions and he gets defensive and bans people who question/criticize their legitimacy.
+
+Everything on their Hostify template website links to their Discord server. This whole operation is on their Discord server, including billing through discord. They don't even have a proper billing platform. I can't stress enough to hosts that Discord is not a billing platform, so stop using Discord for everything. They're also advertising their hosting on other SMP's Discord servers who are paying customers. I don't know what kind of deal they made with their customers, but if I'm paying them already and not being sponsored for a free server, then why this promotion?
+
+The promotion in a paying customer's SMP server below, he made a channel dedicated to TZ Solutions.
+
+
+They're using a .tech domain, which you can get for free from the Github Student Developer Pack. When I DM'ed one of their customers on the host's legitimacy, the customer told the owner (TechZack) about me and I immediately got banned from TZSolutions Discord server. Now, the customer didn't mean it or even thought I was going to get banned. Some hosts just can't take simple criticism even when it's in private messages. The customer was very useful and complying to my investigation and research on TZSolutions. The customer did told me their marketing practices below, which is purely through DM advertising on Discord. Here's the convo below:
+
+Okay
+Here i just copied the discussion
+Zombieplays04122 — 08/27/2021
+Hello
+TZ Solutions — 08/27/2021
+How are you doing?
+Zombieplays04122 — 08/27/2021
+Im good
+TZ Solutions — 08/27/2021
+I was wondering how much RAM does your server have?
+Zombieplays04122 — 08/27/2021
+6
+TZ Solutions — 08/27/2021
+How much do you pay for that?
+Zombieplays04122 — 08/27/2021
+Too much, 33.98
+TZ Solutions — 08/27/2021
+Jesus/
+Zombieplays04122 — 08/27/2021
+mhmh
+ther server is about to expire in like 2 hours so i can switch hosting soon
+TZ Solutions — 08/27/2021
+Well... I might be able to offer you a deal if you would like that would be cheaper.
+Zombieplays04122 — 08/27/2021
+I would
+TZ Solutions — 08/27/2021
+What would you need storage/RAM wise?
+Zombieplays04122 — 08/27/2021
+about 6 or 7, because of plugins and world generation
+TZ Solutions — 08/27/2021
+Okay and should I say about 100GB Storage?
+Or 200GB?
+Zombieplays04122 — 08/27/2021
+100 gb sounds good, my current storage is 10 gb which is pretty bad
+TZ Solutions — 08/27/2021
+I could do 
+
+4 vCores
+8GB DDR4 RAM
+100GB SSD
+DDOS Protection
+Dedicated IP
+
+For 18GBP
+Zombieplays04122 — 08/27/2021
+A month?
+TZ Solutions — 08/27/2021
+Correct
+But that means you'd have much more performance compared to the host your on now.
+Zombieplays04122 — 08/27/2021
+Thats more than i pay for right now, its 60 dollars every 3 months for me
+TZ Solutions — 08/27/2021
+You just said.
+Zombieplays04122 — 08/27/2021
+Thats for every month
+*3 months
+Hmm
+Here let me check something first then i will decide
+first question
+TZ Solutions — 08/27/2021
+I might be able to get it a little cheaper hold on.
+Zombieplays04122 — 08/27/2021
+okay then
+Also, are there services for quickly moving how my server is to your hosting site?
+TZ Solutions — 08/27/2021
+Yes there is.
+Zombieplays04122 — 08/27/2021
+Thats helpful, thank you.
+TZ Solutions — 08/27/2021
+Region Wise EU or NA?
+Zombieplays04122 — 08/27/2021
+NA
+TZ Solutions — 08/27/2021
+I can do EU for 15GBP ($20 USD) z
+
+That would include DDOS Protection 2 Cores of a CPU and 8GB RAM and also being on a Panel
+
+This would also stop you being on a Overallocated Server as you would have your own server just for you.
+Zombieplays04122 — 08/27/2021
+I like that deal
+Alright then
+TZ Solutions — 08/27/2021
+I might be able to cater for NA
+TZ Solutions — 08/27/2021
+Right I can cater EU or NA now.
+If that is fine for you I can sort out the payment and get your server up so we can start migrating from your old server.
+Zombieplays04122 — 08/27/2021
+Alright
+Im in florida so if there is a better area for that than ill take it.
+TZ Solutions — 08/27/2021
+It will be in Chicago so you won't be effected.
+Do you want to hop into a Voicecall?
+You missed a call from 
+TZ Solutions
+ that lasted 2 minutes.
+ — 08/27/2021
+Zombieplays04122 — 08/27/2021
+Sure, sorry i was doing something
+TZ Solutions
+ started a call that lasted 2 hours.
+ — 08/27/2021
+TZ Solutions — 08/27/2021
+No worries.
+I'll be waiting there.
+
+They gave the customer a Chicago location even though the customer said that he was in Florida, which I will get into later about their deceptive locations. They use HostVenom and their specs for the Chicago location are i7-6700K and likely 64 GB ram (the max memory that processor can handle). The irony here is when they say: "That would include DDOS Protection 2 Cores of a CPU and 8GB RAM and also being on a Panel This would also stop you being on a Overallocated Server as you would have your own server just for you." Really? The i7-6700K only has 4 cores/8 threads and you're giving them 2 cores, which is half of the processor already and 1/8 of the system's memory. If you do the same to one more customer and allocate them 2 cores, then your cores aren't dedicated anymore, they're shared/overallocated.
+
+
+In their discord, they claim to have secured Los Angeles, Miami, and New York (since the beginning of the month of August 2021). Sounds very much like the whole premium ReliableSite squad, but no. Further investigation shows that they have only one of these locations. In fact, they use Contabo-New York, Hostvenom-Chicago, OVH-Montreal. That's very concentrated on the northeast of North America. https://securitytrails.com/list/apex_domain/tzsolutions.tech
+
+euvps-1.tzsolutions.tech Fyeweb - UK
+navps-2.tzsolutions.tech OVH - Montreal
+navps-3.tzsolutions.tech HostVenom - Chicago
+navps-4.tzsolutions.tech Contabo - New York
+
+Also this:
+
+🤦Boy, your main website is just a one-page static HTML page. It doesn't serve any special purpose other than linking everything back to their Discord server. So about the "hardware upgrade" aka moving to another shared hosting provider. They are currently using NovoNode shared web hosting. - https://cdn.discordapp.com/attachments/875884186496532491/882359661674758154/pnvOeWV.png
+The_Fallen - A user named Nott#9857 has been advertising for them and is straight up slandering other hosts https://cdn.discordapp.com/attachments/882423288188514304/882842650884055090/unknown.png https://cdn.discordapp.com/attachments/882423288188514304/882842865930223656/unknown.png
+Sydney - The_Fallen I have yet to see a server with DDR5....
+The_Fallen - Sydney A computer can't run DDR5 as normal RAM, its just not something that has been worked out, only GPUs can run DDR5
+Error404 - The CEO Confirmed that the DM Advertiser and the User on MCM "NotHaxx" was not involvement of their hosting needs and has contacted every host that was affected by the issue and some sort of Lawsuit is taking place against this user Nott.
+
+I don't see an issue with the fact this host uses a Template? is that an issue as I don't see why that is a problem. Let them be them for that.
+Revolver - Error404 Woah there bud, those are some big scary words "Lawsuit". It seems like you're just trying to cover up your tracks but failed. A lawsuit for DM advertising on Discord is the biggest joke I've heard today. You got all your customers through DM advertising, and you got exposed for it, so that's why you're making a big deal out of it?
+
+I never said that using a template was an issue, so why you trying concentrate on that instead of all the other things like discord billing?
+
+The biggest problem here Error404 or should I say TechZack... is that you still won't admit to DM advertising. Yeah, I know it's you TechZack behind that 404error account. You're just simply trying to avoid and dissolve the responsibility by acting we didn't know it was your doing. Stop using "The CEO" and "them", we know it's you TechZack.
+Oliver1234dotdot - The_Fallen Use the goddamn drama.gg built in image uploader
+Oliver1234dotdot - Anyone that can link me their discord server? All the links on their website doesnt work

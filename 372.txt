@@ -1,0 +1,180 @@
+Abooz - Flaticon is a hilarious retarded scammer.
+
+Guy was normal back when i first met him, then issues started when i placed my first order.
+His cPanel "provider" had an issue with licensing:
+https://ngx.has-your-fard-card.xyz/Kd7JPAwjBRqrW4Bf
+https://ngx.has-your-fard-card.xyz/rSJQ5r4Gx519g8PJ
+
+Admits to using cracked/nulled cPanel:
+https://ngx.has-your-fard-card.xyz/1vKUPYQIYpAV6kEn (their own api lmao)
+https://ngx.has-your-fard-card.xyz/vCVHSDCAjEOmXLGM (cpanel crack no work after upadte :0 )
+https://ngx.has-your-fard-card.xyz/7AxyDLO3b8shmlwO (crack license expired :0 )
+
+Steals code from whmcs:
+https://ngx.has-your-fard-card.xyz/oDXgRgzm1v3xFZlP
+
+Tries to sell me a whmcs hacking book:
+https://ngx.has-your-fard-card.xyz/Xf58fFU0EC73SfN0
+
+Abuses whmcs.host:
+https://ngx.has-your-fard-card.xyz/0b1PzRKwg2MuegFi
+
+Has no time to do the stuff i pay him to do:
+https://ngx.has-your-fard-card.xyz/HfIBax06i6TrajJm
+
+ThosHost Virus?
+https://ngx.has-your-fard-card.xyz/khkTD4axpa14ErSr
+
+Admits to faking "Company Awards":
+https://ngx.has-your-fard-card.xyz/AIZz2IBVt3Sa6C9C
+
+Premium minecraft hosting:
+https://ngx.has-your-fard-card.xyz/SLC5K6VOYNMydNa4
+
+Ok now the storytime:
+Started nicely, guy had a sense of humor, was nice and helpful. When I first ordered from him thats when problems started. It did not want to activate the service due to "cpanel provider" having downtime (see image above). After my service was activated it had much downtime and it was VERY VERY VERY slow. Files started dissapearing, the system kept crashing, account creation was unusable. After all that the server just died and he had to reinstall it (all data was lost). We went quiet after the service expired. I decided to order a dedi from him (8 euros at the time) and it all went fine. 1 day before it should have expired the server magically was wiped and he denied any responsibility for anything. When i ordered the dedi directly from OneProvider (was 6 euro at the time) he told me he would give me full billingfox support but when i asked him for basic help setting up his response would always be "The server is not in my account so i can't help you" then he would proceed to ignore me for the rest of the day. Recently he opened a "bank" (anyone smells money laundery?). Imagine trusting that guy with your money when he can't even run a stable webserver. :joy:
+
+Hope he gets exposed for all his bullshit.
+
+
+EDIT:
+Forgot to add some important stuff!
+Uses cheapest business addy from registeraddress.co.uk: https://ngx.has-your-fard-card.xyz/HJ5ldxmQncr98Csm
+
+After i said billingfox is buggy he blocked me and deleted all my services.
+Ajvar - This is true
+ShemBane - Abooz by bank you mean take your money and give it to him if yes hellllll no
+Abooz - ShemBane yes ofc
+Pandq - I had the same, with this dude, when I first bought the reselling service I thought it will never crash, how there were good reviews on youtube and trustpilot. But I was wrong, I did not investigate as good as I needed to.
+
+I bought the first package of the reseller webhost, and billingfox pro. (4.50 euros)
+And after 5 days of experience, the first incident happened, BillingFox crashed and it reseted all of the things from the website. I was ok with it, I put all the things back. but then guess what?
+
+My webhost keep crashing and I knew sh*t about the reselling features. I only did what flaticon recommended to me, but It keep crashing. I got dd0s attacks afterwards because I had reseller hosting from "Thos Host" and I was angry, but flaticon said that the firewall dropped the proxy who dd0sed my "hosting service" and then, I found out that FlatIcon moved to CWP. When I got used to CPanel, he moved to CWP ( Centos Web Panel ) and he said he would move to QWPanel, or what it's called ( his own panel ) aka CPanel remake v2.
+
+If you ask any questions, don't hesitate to reply to my comment.
+Abooz - Pandq QWP? that will be cringe as he said he will store user passwords in a json.
+yeah trash hosting bad cracked/stolen software and slow servers. Premium downtime host!
+Pandq - Abooz I had 3 months of this, What do you mean? I hated flaticon's hosting, as how It got more worser. At start It was more ok, good support and everything. But now, look at it. We're now on drama.gg saying to ppl the truth.
+Abooz - Pandq yeah no one exposed him before
+FlatIcon - Abooz uh, I didn't said that I will store passwords as json lol, why are you lying. (for first instance why would someone use an unsecure method like this, there should be password_hash if it would be with PHP and it should be using a random hashing token)
+And (again) i didn't deleted your services after you said that, i just blocked you, but i didn't deleted your services (bruh), again, why are you lying.
+
+Also these messages are pretty old (like very old)
+Also yeah, I admit that did that thing with whmcs (but hey, again, outdated)
+Also a website itself cannot be a virus, the dangerous site ahead screen would appear just when (there's a very similar domain existing and have some traffic, like thoshost.com) or the SSL certificate is not installed or isn't renewed, it can also happen if you have an outdated browser or wrong time set on PC. (as an example could be this: https://prnt.sc/11dv2t5, same problem, thee SSL certificate just have to be renewed
+*)
+Also the lang files are just a big array, none of the translations are copied from WHMCS (bruh again)
+Pandq - FlatIcon Hello, as I saw you blocked me, I was gone to contact OVH Support because my dedicated server got suspended for absolutely no reason.
+
+You messaged me, what you did wrong to me. The support was extremely perfect, but the performance was crap. I thought the reviews I saw on youtube and the reviews on trustpilot was ok and real. But they were not. I had 3 months of reseller hosting at you and in these 3 months, 1 month was meh, 2 months was not okay. I got dd0sers attacking my site, and the dd0s protection did not work. You said I have 250 Gbps dd0s protection, I don't understand. You did nothing to me wrong, just the performance and your hosting's performance was a bit crap.
+
+I know you work hard but, I don't really liked that BillingFox was not good optimized and It crashed + we needed to reinstall it like everytime, and then when I put the store after an update to billingfox the data is gone. All of it.
+FlatIcon - Pandq Yep, i admit it, the performance was pretty bad and i would take it as motivation for the future, about the ddos protection, whenever there's an attack ongoing i would have to start the mitigation trough the panel, if you want anything as an apologize let me know.
+
+(i don't know why but i take that thread a way too personally, i blocked you because i have a lack of patience and i'm a little bit stressed now, you know)
+Pandq - FlatIcon Okay, I understand it.
+FlatIcon - Pandq Well, let me know if there's anything else to clarify (i mean damn, i couldn't sleep pacefuly without solving that problem)
+Z3usAdv - sugaci puța
+Abooz - FlatIcon right after you blocked me you expired my seo pack which now does not work
+FlatIcon - Abooz damn, when that happened I choose the wrong expiration date, and it is not a monthly service at all (because it is not like it would drop your search engine rankings)
+Abooz - bro
+https://ngx.has-your-fard-card.xyz/hmPGxaWEQf9fSUSE
+FlatIcon - Abooz I want you to copy and paste product specifications right here.
+Abooz - i want you to explain why my service is called search engine optimisation?
+FlatIcon - Abooz It is a "pompous name", do you only read the title of the product and buy? I mean.. literally 2 centimeters lower there's clearly stated 
+"... sumbit your website
+to 40+ search engines
+worldwide." (Btw: https://prnt.sc/11e3aj6 , i still don't understand why are you telling me about this when you literally said "Yeah")
+
+i will let an admin or moderator to check this thread
+Cian - Pandq 
+
+Pandq I thought the reviews I saw on youtube and the reviews on trustpilot was ok and real. But they were not.
+
+They are definitely not real lol. He gives you discounts for leaving a 5 star review and a hEaRt on his billingfox page. Kinda sus :/
+exelen - Oh yes, don't you love when a host is using nulled cPanel? - https://drama.gg/assets/files/2021-04-14/1618432706-872556-image.png
+exelen - Oh yes, don't you love when a host is using nulled cPanel? - https://drama.gg/assets/files/2021-04-14/1618432711-968955-image.png
+FlatIcon - exelen Lol, that's a dedicated IP address, check nameserver IPs.
+
+
+
+
+the DNS only IP's are linked to 188.212.101.6 server
+
+
+
+And you can check yourself. ^_^
+
+As a note: When there are more dedicated IPs on a cPanel dedicated server, there shouldn't be a license for each IP address, only for main dedicated server IP* - https://drama.gg/assets/files/2021-04-14/1618433115-487756-image.png
+FlatIcon - exelen Lol, that's a dedicated IP address, check nameserver IPs.
+
+
+
+
+the DNS only IP's are linked to 188.212.101.6 server
+
+
+
+And you can check yourself. ^_^
+
+As a note: When there are more dedicated IPs on a cPanel dedicated server, there shouldn't be a license for each IP address, only for main dedicated server IP* - https://drama.gg/assets/files/2021-04-14/1618433146-47125-image.png
+FlatIcon - exelen Lol, that's a dedicated IP address, check nameserver IPs.
+
+
+
+
+the DNS only IP's are linked to 188.212.101.6 server
+
+
+
+And you can check yourself. ^_^
+
+As a note: When there are more dedicated IPs on a cPanel dedicated server, there shouldn't be a license for each IP address, only for main dedicated server IP* - https://drama.gg/assets/files/2021-04-14/1618433217-976460-image.png
+exelen - btw, do you remember this? WHMCS licenses? - https://drama.gg/assets/files/2021-04-14/1618433741-599959-image.png
+exelen - btw, do you remember this? WHMCS licenses? - https://drama.gg/assets/files/2021-04-14/1618433782-954922-image.png
+FlatIcon - exelen Yeah, i remember, i did some pretty bad shit right there.
+Cian - FlatIcon
+
+Yeah, i remember, i did some pretty bad shit right there.
+Alot of what you did was pretty bad shit, :kek:
+FlatIcon - Cian I just said that, there's a reason for that i'm not longer doing this.
+eraters - Ayo, FlatIcon, what's your discord bb
+Ajvar - FlatIcon ljubi brat
+Ajvar - pojedes koje jaje samnom
+RumGuru - Ajde nek su i balkanci ovdje
+Withdrawal - jaje??
+Abooz - RumGuru lol
+Pandq - Abooz ok
+RumGuru - Abooz e kako se zoves na dc?
+RumGuru - Withdrawal ajde a lazes da nisi sa balkana lol
+Withdrawal - RumGuru What??!?!??
+RumGuru - Withdrawal lol
+Abooz - RumGuru NGX#6969 main
+Paradox - ce faceti baieti flaticoin e hacharman
+Paradox - Fake proofs guys
+Paradox - abooz asta sa ma pis pe rasa ta
+Abooz - Paradox bro u denying almost a year worth of proof
+Paradox - Abooz bro u denying almost a year worth of proof
+
+yea yea
+Abooz - Paradox bro its clear this guy used all sorts of cracked software and that his services are bad
+Pandq - lmfao
+Pandq - FlatIcon Can you unblock me on discord? Because, you blocked me for no reason. and yeah
+FatGrizzly - Invalid SSL, lovely - https://drama.gg/assets/files/2021-07-02/1625231567-416554-image.png
+FatGrizzly - hmmm - https://drama.gg/assets/files/2021-07-02/1625231604-972523-image.png
+FlatIcon - FatGrizzly yep. i just saw that yesteday, now it looks like everything is fine.
+and i cannot say BillingFox is a high-grade product, but it's still better than nulling whmcs, it's like comparing CWPPro to cPanel, not exceptionally good, but acceptable.
+As a note: i think that the thread on let has been made when there was BillingFox 8.6 if i remember correctly, i can say that there was an awful default theme at that moment.
+¯_(ツ)_/¯
+Abooz - FlatIcon You can't really compare billingfox with anything. It's uniquely shit. It cant even activate an order on its own.
+Jerome - Abooz None of your images link is working, please update
+FlatIcon - Abooz 
+noted, there's a "Create order" thing in the admin dashboard, there you can activate an order.
+So.. let me know some other constructive feedback.
+comfyy - Abooz You can't really compare billingfox with anything. It's uniquely shit. It cant even activate an order on its own.
+
+Boxbilling exists.
+Abooz - Jerome will
+NGX - FlatIcon yeah but it maxes the system out when auto activating the service then proceeds to fail.
+FlatIcon - NGX A, it depends if the addon of the service has an automatic service setup system created, the structure changed over time and now that thing is automatically added in every automation addon so yeah.

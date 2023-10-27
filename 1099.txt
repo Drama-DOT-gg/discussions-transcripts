@@ -1,0 +1,61 @@
+Two - I would say stop making posts about DBH in drama.gg, but then I'd be a hypocrite, but... stop making posts about DBH please.
+
+
+
+From what I've seen, rumors and non-rumors from various sources, here's what I see. Keep in mind this post can be biased, some information may be false, and there could be false assumation:
+
+
+
+DanBot Hosting is a free host. A ton of free hosting providers have trouble, but it seems to me like this host never had trouble until this data breach happened. This host was able to maintain 20 nodes without too many problems, discluding many downtimes and few other issues, so this host looks like it has good reputation on keeping a host up.
+
+A problem DanBot hosting had is a ton of downtimes, which clearly makes sense if you see here: https://cdn.discordapp.com/attachments/899035482678255628/899035489020047401/unknown.png (all of the nodes are down due to the raid. there were constant downtimes in DanBot though.) Don't expect a free host to have perfect downtimes. People should expect a ton of downtimes if they attempt to especially handle 20 nodes.
+
+It seems like Dan actually cares about this issue, and he is trying to make it better. I give him my respect for trying to make a free host he doesn't gain much from to be better. He has his own job, and he's definitely busy with other things too. Even if Dan is found guilty of the raid and data breach (which I highly doubt), he is still trying to make DanBot a good host.
+
+Don't expect every host "needing to be" perfect. Please. There will always be problems.
+
+
+
+https://drama.gg/d/1071-dbh-scummy-hosting/2 This thread is BS.
+https://media.discordapp.net/attachments/899035482678255628/899056256835264612/unknown.png (not mine) "*Updated With Lawsuit" what a joke.
+
+
+
+I'll try to be the least biased to both sides now, but I'll be stating this right now, I support DanBot Hosting.
+
+Most of these stuff from this section of the post is going to be based off the thread, https://drama.gg/d/1084-danbot-hosting-raided-massive-data-leak .
+
+I will assume all the screenshots aren't edited.
+
+(more against danbot)
+
+According to the thread, it said Dan didn't update Pterodactyl Panel after they released a huge security release while Dan knew about it. I doubt anyone actually did that. The proof given doesn't really... show any proof or I didn't read their "proof" correctly... but according to Dan (as shown at https://drama.gg/d/1084-danbot-hosting-raided-massive-data-leak/123 ), he did actually forget to update all the panel servers. According to Dan, DanBot is load balanced (which is a good thing) but Dan forgot to update all of the panels. Of course people forget things, but I guess this is a terrible mistake.
+( according to Chirag, at https://drama.gg/d/1084-danbot-hosting-raided-massive-data-leak/246 , he says the chance this happened is very low ... but according to Solo, at https://drama.gg/d/1084-danbot-hosting-raided-massive-data-leak/249 , he/she says there's a 75% chance routing isn't up to date)
+
+According to Solo, Dan "most likely leak[ed] config.json which stored API keys, SSH login, bot token, etc..." (sources: https://drama.gg/d/1084-danbot-hosting-raided-massive-data-leak/55 ) Solo is claiming he could've. This is possible, but possibly just a rumor. Also, this shows Dan stored sensitive data in JSON files, which could be a bad thing. More proof given after that message in the thread where Armic claims to had the config leaked to him multiple times. (but it's just a possible rumor, no one knows if it's true)
+
+(more for danbot now)
+
+According to https://drama.gg/d/1084-danbot-hosting-raided-massive-data-leak/230 , it shows that people's bots got "hacked" (or their tokens leaked) towards after the raid. People's bots got "hacked", which shows that whoever so called "hacked" the panel had file access, or possibly admin access- meaning someone probably got administrator access and stole files. According to Dan, "Possibility of files being leaked. (Unable to verify this. Dedicated servers were NOT logged into. Any data would of been downloaded via the panel." There's not too much proof that this is what really happened, so I can't say much with this.
+
+According to Dan, Solo could've been a person who did this. He was the only one with full control. He had the bot token too, and it would be a coincidence if both the panel and server has been raided at the same time. This is also another possible rumor.
+
+
+
+kinda spent too long writing this so imma just end it here too lazy to continue...
+
+If you are going to say anything is wrong or something, please say it with good cnc.
+I hate when people just say "lmao", or something that doesn't relate to the thread at all. Also, don't advertise your stupid stuff here (looks at Ricky).
+DinoTheDev - yea no im not reading that essay sum it up for me
+Two - DinoTheDev basically:
+it's a fricking free host- what do you expect... they somehow have 20 LEGAL nodes though (even though maintains go brr) so they prob know how to handle dbh
+danbot was down due to a bot token leak and their panel was raided at the same time too, which is highly suspcious
+dan cares about his host- even if he's "guilty" of these inconveniences, he's trying to make his host better for FREE too so you gotta give him respect for that
+don't expect every host to be perfect
+https://drama.gg/d/1071-dbh-scummy-hosting/2 is a fucking joke, bullshit. ( reason: https://media.discordapp.net/attachments/899035482678255628/899056256835264612/unknown.png )
+dan forgot to update every ptero panel (he load balances, humans make mistakes)
+small rumor that dan leaked config files before (Armic claims to)
+whoever "raided" had access to bot files but due to etc, the raider had admin access (so only dan or solo most likely) 
+too lazy to write more
+DinoTheDev - Two ah thx
+Armygamer303 - is there anyone still in dbh cause due to raid i got banned ;(

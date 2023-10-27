@@ -1,0 +1,127 @@
+GoHill3 - This thread is about how Shershah, Chirag, dxqt respond to guiding someone destroying their entire VPS https://drama.gg/d/1118-dashactyl-support
+Shershah guided a guy who ask at Dashactyl Discord server about how to install Chirag's egg (Eggactyl) abd Shershah use Base64 to encoded the remove server file command and ask the guy to run it. And the guy really did run it and actually destroy his VPS. So the guy's friend make a threads about it. And turns out Drama.gg community stand at Shershah side and blame the guy for being new to Linux and doesn't know what does the command does. Jamie_ the owner of Dashactyl also stand by Shershah side. The whole thread turn out to be making fun of him.
+Tomas - If he ran it, it's on him really - he SHOULD have better knowledge of Linux before running commands he has no idea what do.
+GoHill3 - Tomas You can't blame a guy asking for help, it's still a bad community tho
+GoHill3 - The best part is the owner of the community think it's okay to do so
+Tomas - GoHill3 I didn't blame the guy for asking for help, I blamed the guy for not bothering to even look into what command he's running does.
+
+It's just on being gulliable.
+
+If there's already a thread on something, you really don't need to make another one - it's just more work for the people who maintain this forum &amp; then they need to merge the threads.
+Music4lity - GoHill3 The entire community does not agree with Shershah. The people responding in that thread are members of that Dashactyl community.
+GoHill3 - Tomas so what are you telling me is it's okay to guide someone doing the command destroy their VPS?
+GoHill3 - Tomas It's not because of the incident, it's because of their respond to the incident
+Tomas - GoHill3 No, but that still doesn't change the fact that they ran it without even checking what it did 🤷
+
+You don't just, say, overwrite a bootfile without actual knowledge.
+GoHill3 - Tomas Yes, the person who run the command has fault too, but do you think it's okay to guide someone to do that?
+sumukh_9765 - Shershah is a good guy
+eraters - sumukh_9765 while i have other beliefs, it's still on the person who took a joke seriously
+
+
+really though, a thread on someone following joke instructions. have you all really stopped low enough? are you actually retarded?
+Shershah - eraters I have a quick answer. Yes I did that to prevent skids. This thread is useless just like other gohill threads. And there is not any sumukh fault or he is in these things so better stop saying anything to him. 😃
+FatGrizzly - GoHill3  YES, If a person doesn't even have basic linux knowledge, he shouldn't be starting a host.
+astyx8 - FatGrizzly sums up the answer for this entire thread xD
+UnkownGuy - Tomas not rlly most ppl in the dashactyl support and in drama.gg community are toxic asf
+Jamie_ - Bro, if you don't like my fucking community, THERE IS A LEAVE BUTTON FOR YOU. DON'T CRY ABOUT IT.
+
+here you go: https://letmegooglethat.com/?q=how+do+I+leave+a+discord+server+and+not+cry+about+a+community
+Jerome - Jamie_ Also there's a shutdown command on your VPS, you can just shut down and DDoS attack gone. Don't cry about it too.
+Jamie_ - Jerome Yes, taking situations to other threads. Good one Jerome. I am not going to shut down my companys entire dedicated server just for a DDoS attack that can be sorted. Are you ok in the head? There are hundreds of users on this forum and you have somehow managed to piss of 90% of them.
+Jamie_ - Jerome Your amazing idea is now being praised within the community. - https://drama.gg/assets/files/2021-10-20/1634737370-520475-image.png
+Jerome - Jamie_ I am not going to shut down my companys entire dedicated server just for a DDoS attack that can be sorted. Are you ok in the head?
+
+Ah yes, can be sorted. Sounds like your DDOS protection company can't even handle it and crying at Drama.gg
+Jamie_ - Jerome Ah yes, can be sorted. Sounds like your DDOS protection company can't even handle it
+
+Was it sorted? Yes. We use Corero and Hivelocity together on our game servers and they are both great companies. Just not really designed for a giant layer 7 attack on only 1 port.
+Jerome - Jamie_ So why are you crying at drama.gg? 
+https://drama.gg/d/909-abdullah0001-ddoser-threatening-to-dox-lots-of-downtime-on-company/175
+Jamie_ - Jerome So why are you crying at drama.gg? 
+https://drama.gg/d/909-abdullah0001-ddoser-threatening-to-dox-lots-of-downtime-on-company/175
+
+As I said in my other post, that is called calling out a ddoser. Nowhere did I cry in that to my knowledge.
+Jerome - Exposing ddoser causing colournodes.com bad uptime
+@Jamie_  : NOOOOOOOOOOOOOOOO I am definitely not crying over bad uptime, I am just calling out a ddoser.
+Exposing Dashactyl staff destroying other people server
+Also @Jamie_ : YES YES YES This is definitely crying over broken server.
+Jamie_ - Jerome YES YES YES This is definitely crying over broken server.
+
+Yeah, well done. They were. They constantly came into the dashactyl discord and complained about how unfair it is. Thats called crying. I didn't go anywhere apart from the drama.gg threat to call him out about the ddosing situation and say how unfair it is.
+Jerome - Jamie_ provide some proof? Also your incident happening in your dm, how are you suppose to cry at dm?
+Jamie_ - Jerome provide some proof? Also your incident happening in your dm, how are you suppose to cry at dm?
+
+Provide proof of what? And what incident happening in my DM!? You are really confusing me today jerome
+6969 - Can we just all agree that you are kinda stupid if you ask how to fix that in this community
+you had the Dashactyl Discord Server and their docs for the right commands in my opinion it's his fault.
+Ptero - Dashactyl is so toxic, so you join their discord cuz u need help right? nah than some drama.gg fcker comes along and makes u run a command to destroy your vps "wow so fun right, cuz i came to this server for help to destroy my vps" listen if you have a goddamn support server for your tool or smthing u should expect some idiots to come and not have knowledge, just cuz of that doesnt mean you have to destroy their vps
+Ptero - and ur calling out hosts like my my for being childish pffft , at this point drama.gg is more childish and way too toxic
+Jerome - Jamie_ Provide proof of what?
+
+Proof of they crying at your server? Not sure you're acting dumb lately or something.
+
+Jamie_ And what incident happening in my DM!?
+
+ddoser
+Jerome - Ptero ikr, they didn't handle their joke well and end up destroying someone server. Now they just gonna blame you for being stupid.
+Jerome - Jamie_ Your amazing idea is now being praised within the community.
+
+The amazing idea comes from you... I will give you a credit.
+
+Jamie_ Bro, if you don't like my fucking community, THERE IS A LEAVE BUTTON FOR YOU. DON'T CRY ABOUT IT.
+Jamie_ - Jerome Proof of they crying at your server?
+
+Just look in the support channels and chat channels. You were literally one of them crying in the support channels. You can ask multiple people.
+Jamie_ - Jerome Now they just gonna blame you for being stupid.
+
+Well, yes. That is the logic that 20+ people here have told you. If you run random commands, you get a random result. Don't be retarded.
+Jamie_ - Jerome The amazing idea comes from you... I will give you a credit.
+
+When in the flipity flappity flying pelican fuck did I say that the solution to a ddos attack was to shutdown your VPS. That was all you, you absolute specimen.
+Jerome - Jamie_ Just look in the support channels and chat channels. You were literally one of them crying in the support channels.
+
+When did I even cry? If I didn't let him know the command will nuke his server, I bet no one would tell him. 
+
+Jamie_ That is the logic that 20+ people here have told you. If you run random commands, you get a random result. Don't be retarded.
+
+Nah, why do you even call that "random commands"? 
+Command provided by Dashactyl's staff = random commands
+Does that mean Dashactyl's docs are full of random commands?
+Jerome - Jamie_ When in the flipity flappity flying pelican fuck did I say that the solution to a ddos attack was to shutdown your VPS
+
+and the solution to toxic community is leave the server and not fixing it
+Jerome - Lesson learned, don't trust Dashactyl's staff. Conclusion for the whole thread.
+Jamie_ - Jerome to toxic community is leave the server and not fixing it
+
+Well if you took some time out of your day to read the other post, I have apologised on behalf of them and said that this will be fixed. What more do you want me to do? Go and fucking spank them?
+Jamie_ - Jerome When did I even cry? If I didn't let him know the command will nuke his server, I bet no one would tell him.
+
+He would find out the hard way.
+
+Jerome Nah, why do you even call that "random commands"?
+
+If someone gives you a command off the internet you have no clue what it does, it is classed as random. I am not giving you an English lesson here.
+6969 - where is this whole tread going to 🤣  🤣  🤣  🤣  🤣
+Jerome - Jamie_ I have apologised on behalf of them and said that this will be fixed. What more do you want me to do? Go and fucking spank them?
+
+You apologised? That sound impossible, you even banned the guy and me from your server lol.
+Jerome - Jamie_ If someone gives you a command off the internet you have no clue what it does, it is classed as random.
+
+I see, online documentation can be thrown away and tutorials website should be taken down
+Jamie_ - Jerome you even banned the guy and me from your server lol.
+
+AND YOU FUCKING WONDER WHY LMFAO 🤣🤣🤣🤣
+Jamie_ - Jerome I see, online documentation can be thrown away and tutorials website should be taken down
+
+Again, bending my words. I never said they should be taken down you idiot.
+Jerome - Jamie_ I never said they should be taken down you idiot
+
+Again, if everyone shouldn't trust them, why should they exists?
+
+Jamie_ YOU FUCKING WONDER WHY
+
+Did I? Already predicted
+Jamie_ - Jerome Again, if everyone shouldn't trust them, why should they exists?
+
+Jerome Did I? Already predicted - https://drama.gg/assets/files/2021-10-31/1635721366-731641-yoda-makes-sence.gif

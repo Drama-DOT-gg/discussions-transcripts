@@ -1,0 +1,24 @@
+PGBhai - Hello 
+I purchased some resources as a bundle from this site, pterodactyl-addons.com .
+later i have contacted the creator of the resource, and he told me this website owner Localhost is a scammer he sell unauthorized copies of each developers.
+
+when i charge-backed on paypal he responded as a good guy... later he shown his evil face
+
+
+he deleted his messages but i have taken screenshot 
+
+
+
+i can provide all screenshots - https://i.imgur.com/ZwzVAom.jpeg
+Jamie_ - Finally someone has called this guy out. My company bought quite a few addons from him back when we were using 0.7. We found out they were leaked, tried asking for our money back and only gave it back when we threatened legal action.
+Oliver1234dotdot - PGBhai He havent been active for years on his site, atleast not what I know of
+PGBhai - Oliver1234dotdot he adds some leaked resources in like every 10-15 days
+WolfLover - Yes its just reselling plugins which is not allowed
+INfoUpgraders - https://pterodactylmarket.com ftw 💪
+Aniket - Damn, a friend of mine did told me about this scam, he even has some addons which are available on GitHub for free.
+tenzfan - The only time I've seen him rewrite any code after getting it from ptero market or github is if it no longer works. Willypro made an egg that allowed for a VPS in pterodactyl. Willypro had a IP whitelist in the egg so that people couldn't pirate his egg (it later turned out he got this code from github) 
+
+LocalHost ended up removing the IP whitelist and selling it, but thats around the only time he's done anything
+LemonDrp2 - I have a whole document about him all his scams and everything about him. I have being investigated for long time.
+luffyy - pterodactyl-addons.com is now legit
+LemonDrp2 - luffyy yea I know it goes to the real SITE.

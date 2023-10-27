@@ -1,0 +1,502 @@
+AkshaySharma - Hi, I am pretty sure that you know me! If you don't know me you will know me in sometime! 🙂
+So, I want to talk about DaryNodes. A Hosting which is full of scammers. 
+
+1) All you guys know if any hosting overload it's node then what will happen. Same here then have AMD RYZEN 7 1700X [BIDDING SERVER] from Hetzner[Auction]. They bought 64 GB Node and overloaded it to 131 GB Ram.
+You know what will happen if any hosting overload it's node double triple times.
+
+2) Storage Issues!
+:- If you buy their 2 GB Ram Plan you will get only 1.72 GB and left ram they won't give you. Same with Storage if you buy 8 GB storage which is with 2 GB Ram plan, you will get only 7 GB Storage. So, If all are paying full money so why they are cutting ram and storage.
+
+
+
+3) Storage Mega Issue 2.0
+:- If you are buying 16 GB Ram you will get enough CPU but on the other hand you won't get Storage. No one can survive in 40 GB SSD only and who will survive in Overloaded Ram and Storage. Youtubers can't survive.
+
+
+4) Lots of Grammar Mistakes in Website
+They even don't know english how to make website. They are using Template called "Flex Start!". Also they wrote free plans panel but where it is. I know it is closed but they don't have time to update website.
+
+By above conversation it is that DaryNodes is completely Scammer!
+Also, They don't have their backup systems. In case Hosting deletes our server data then they can't give it back.
+They also robbing paid plugins from their server users.
+
+Their Fucking Privacy Policy is "DARYNODES have rights to erase anyone's data
+ without any information!" - https://drama.gg/assets/files/2021-10-05/1633447581-416624-1.png
+AkshaySharma - Hi, I am pretty sure that you know me! If you don't know me you will know me in sometime! 🙂
+So, I want to talk about DaryNodes. A Hosting which is full of scammers. 
+
+1) All you guys know if any hosting overload it's node then what will happen. Same here then have AMD RYZEN 7 1700X [BIDDING SERVER] from Hetzner[Auction]. They bought 64 GB Node and overloaded it to 131 GB Ram.
+You know what will happen if any hosting overload it's node double triple times.
+
+2) Storage Issues!
+:- If you buy their 2 GB Ram Plan you will get only 1.72 GB and left ram they won't give you. Same with Storage if you buy 8 GB storage which is with 2 GB Ram plan, you will get only 7 GB Storage. So, If all are paying full money so why they are cutting ram and storage.
+
+
+
+3) Storage Mega Issue 2.0
+:- If you are buying 16 GB Ram you will get enough CPU but on the other hand you won't get Storage. No one can survive in 40 GB SSD only and who will survive in Overloaded Ram and Storage. Youtubers can't survive.
+
+
+4) Lots of Grammar Mistakes in Website
+They even don't know english how to make website. They are using Template called "Flex Start!". Also they wrote free plans panel but where it is. I know it is closed but they don't have time to update website.
+
+By above conversation it is that DaryNodes is completely Scammer!
+Also, They don't have their backup systems. In case Hosting deletes our server data then they can't give it back.
+They also robbing paid plugins from their server users.
+
+Their Fucking Privacy Policy is "DARYNODES have rights to erase anyone's data
+ without any information!" - https://drama.gg/assets/files/2021-10-05/1633447865-297646-screenshot-29.png
+Kowone - AkshaySharma If all are paying full money so why they are cutting ram and storage.
+
+they're not cutting resources, it's just how pterodactyl think it is, for example, the host allocates 1000MB, of course pterodactyl won't think it is actually 1GB.
+iiChxrlly_ - Let me answer this real quick.
+
+1) It is okay to use hetzner auction server and set the ram to 128gb or upper. It depends on the processing power if they can handle the amount of server or not.
+2) They are just dumb, they should use calculator instead of using 2000 MB (1.72 GB) if they put 2048 MB (2.00 GB) You will get the resource u bought. Same answers with storage too!
+3) Well.. about the storage issues, is it alot already for small servers. But, if you really need high storage you gotta request one. 
+Well im not gonna complain about the price since it matches already with the plans.
+4) If they got a lot of freaking grammar/spelling mistakes, then they are a kid who owns a hosting. And yeah about the privacy policy. "DaryNodes have rights to erase anyone's data without any information or update given to the community" its absolutely ridiculous and its making people mad.
+
+This hosting is really not recommended.
+Also, give me the server invite link. I will spy on the host till the thread is done.
+FatGrizzly - iiChxrlly_  I will spy on the host - https://drama.gg/assets/files/2021-10-05/1633449367-816208-image.png
+AkshaySharma - Hosting Discord Server - https://discord.gg/ZHDf8zP2
+iiChxrlly_
+iiChxrlly_ - AkshaySharma Ty!
+Oliver1234dotdot - AkshaySharma It really depends if they use non-binary calculations or binary calculations.
+
+Technically 2000MB is 2GB in non-binary.
+AkshaySharma - The can give 2048 MB but they aren't giving they mentioned 2048 MB but they gave 2000 MB and also there panel is down daily
+for almost 4 -5 hrs
+AkshaySharma - iiChxrlly_  See the Limit of Database they are providing. Just 3 only of 16 GB Ram Server. Why we pay much for database? Minimum databse limit should be 8 - 10 of 16 GB Ram
+Kiku - AkshaySharma my dear friend i think u have degein thr website for me. if u are thinking Grammer mistake then u should pay attention in ur english class nothing else and qe are ensure about node health and we are carefull towards that. and That cpu is Only using 30% after so much load. and did u get any performance issue may i know let the node to be allocate 400gb ram.  thr Cpu is Amd Ryzen Pro 7 something like that and daily we monitoring the performance. and join English class pls.
+Kiku - iiChxrlly_ ah!!  Bro u are right on that ram . i will use calculater but in  vc customer force us to give some extra ram for showing their friends etc etc. so we did and u can ask customer that we don't have any storage restrictions. if they demand for 100gb storage we are  ready to provide and while any client buy a service from us we ask them how much storage do u need. most of them said give us 10 gb or 20 when it will full u may increase it. and as akshay share the ss here. do u know we gave that YT a 10 gb bungee server with bot protection in free when he purchase a 6gb ram service.  u may come to discord for proof. 🤞
+Kiku - FatGrizzly aure Sir ans if u find any mistake pls info me so that i can rectify it and i will try my best not to repeat
+Kiku - AkshaySharma Nope panel is not down. u are ddos tool are not enough to make it down. 😉
+Kiku - iiChxrlly_ and akshay get ban from DaryNode as he always ddos me amd try to divert the customer to play in his SMP . 😐
+Shershah - So I use to work as a developer in darynodes and I am explaining you my experience. So when I join I saw a very good welcoming staff and owner is also of very good nature as well. Staff are really hard working except some staffs are creating mess. Owner and staff never abuse even when someone abuse them or say something to owner or staff. This whole thread is only made because One kid who want to get his shitty smp sponser and try to spam dms and ddos darynode.
+AkshaySharma - Kiku  DO YOU EVEN KNOW ABOUT DDOS ? AND YOU HAVEN'T EXPLAINED OR SAY THAT YOU ARE GIVING UNLIMITED STORAGE. BY VC HOW CAN YOU PROVE THAT YOU ARE GIVING UNLIMITED STORAGE
+Aaron_ - AkshaySharma Just don't use their host if you have a problem lol. But where is this unlimited storage listed on?
+Aaron_ - Kiku You have made a lot of spelling mistakes yourself while telling someone to take an english class lol
+Aaron_ - Shershah That really explains everything! 
+
+
+
+A little bit of context: A person (lets call him Akshay's friend) wanted to host a bedwars event along with his friends. Akshay wanted to provide him with a vps for the Minecraft server with decent specs for FREE which sounded hella sketchy to me. I never talked with Akshay about it, but Akshay's friend provided me with some information about it. - https://drama.gg/assets/files/2021-10-08/1633697062-11926-image.png
+Aaron_ - Shershah That really explains everything! 
+
+
+
+A little bit of context: A person (lets call him Akshay's friend) wanted to host a bedwars event along with his friends. Akshay wanted to provide him with a vps for the Minecraft server with decent specs for FREE which sounded hella sketchy to me. I never talked with Akshay about it, but Akshay's friend provided me with some information about it. - https://drama.gg/assets/files/2021-10-08/1633697094-77565-image.png
+Kiku - Aaron_ um!! sorry for that. i was shocked when  he write about website. akshay gave me the template i just share the file to. my friend and he host it. now he is saying that mistake in website what does it's mean.
+AkshaySharma - Not issue in Site. It is good but there are grammar mistakes. Yes, I made that site but I updated code 3 times and sent it to Kiku for hosting it but he didn't
+AkshaySharma - Aaron_  Know about PC Host?
+Aaron_ - AkshaySharma You got a pc in germany?
+AkshaySharma - My Friend is in Germany
+Grabstop - AkshaySharma very likely
+AkshaySharma - Aaron_  and from where my host matter came? We are talking about DaryNode which is full of scammers
+Aaron_ - Grabstop Ikr
+Aaron_ - AkshaySharma I fail to understand what you are trying to prove here. Didn't you just dramagg KIKU and DaryNodes because you couldn't get the resources you wanted on your preferred host as a staff?
+Grabstop -  - https://drama.gg/assets/files/2021-10-09/1633802199-831453-image.png
+Grabstop - "2 decades" also favicon is from ScarceHost
+iiChxrlly_ - Kiku cap, i dont ddos lmfao, stop the cap kid
+iiChxrlly_ - List of DaryNode
+#1 - Pinging everyone for just a tutorial about "How to make a bungeecord server" BUT! They also using EasyRoast thumbnail in their videos.
+
+
+ EasyRoast - BungeeCord Tutorial
+  
+ DaryNode - BungeeCord Tutorial
+ 
+
+
+More Information About System Specs, Plans, etc.. Soon will be released! - https://drama.gg/assets/files/2021-10-09/1633807762-192666-image.png
+iiChxrlly_ - List of DaryNode
+#1 - Pinging everyone for just a tutorial about "How to make a bungeecord server" BUT! They also using EasyRoast thumbnail in their videos.
+
+
+ EasyRoast - BungeeCord Tutorial
+  
+ DaryNode - BungeeCord Tutorial
+ 
+
+
+More Information About System Specs, Plans, etc.. Soon will be released! - https://drama.gg/assets/files/2021-10-09/1633807878-805947-image.png
+calcal - Kiku bro what?? u need to pay attention in ur classes. 'thr Cpu' i cant jasusg sgsh. 'and join English class pls' i cant
+Aaron_ - After talking with Akshay, it seems like this whole thread was created because he didn't get what he asked for. Apparently less than 12 databases on a server is bad for him. He wants to create a million databases on a single server for his "needs".
+Aaron_ - If there's any free host that wants to buy him a dedicated server with r5 3600 and setup ptero + dash so that he can do his bedwars tournament, then dm him right away!
+Shershah - As I said earlier. Dary nodes is not a scam.
+Aaron_ - But it also shouldn't run the way it is right now
+Shershah - whats happening there?
+colaaaa - The owner doesn't know anything about how to run a host. He doesn't know how to use the ptero panel properly and he is very unprofessional. All though he may not scam, he isn't a good option to use for a host.
+AkshaySharma - @colaaaa  Yup, What we can expect from shit 9th class Child
+AkshaySharma - He even don't know how to setup Database so that everyone can create
+AkshaySharma - @Kiku  First, See your English
+AkshaySharma - @Aaron_  From where Bedwars Tournament Matter came? I never asked about it.
+AkshaySharma - Fucking Shit 9th Class Child, don't about anything. They even don't have Backup Systems.
+Shershah - AkshaySharma Do you even know how to setup dashactyl for you fucking bedwars?
+Shershah - AkshaySharma says you?
+Shershah - AkshaySharma Do you know how to create db for ptero? Do you even know a little linux?
+Shershah - You are just shit posting here.
+AkshaySharma - Why I want Dashactyl? Why I want Bedwars?
+
+Shershah
+Shershah -  - https://drama.gg/assets/files/2021-10-12/1634021849-711343-screenshot-20211012-122557.jpg
+Shershah - AkshaySharma imagine being called a mc developer 😂 - https://drama.gg/assets/files/2021-10-12/1634021917-416550-screenshot-20211012-121002.jpg
+Aaron_ - AkshaySharma Yeah man totally.
+Aaron_ - Shershah "I am installing Dashactyl from putty" "Will it be okay", Nah my guy is just polishing his professional skills
+Aaron_ - AkshaySharma "don't about anything"? Please fix your english first
+Aaron_ - AkshaySharma And you don't know how to either, plus What can we expect from a first grade kid like you?
+OGVenom - LOL WE JUST BANNED THIS GUYS THATS WHY HE IS DOING THIS #AKSHAY THE SCAMMER
+Shershah - OGVenom Watch caps kid.
+calcal - Shershah minimod in the making
+AkshaySharma - OGVenom  I don't care
+AkshaySharma - Shershah If we don't know anything, we can take help as I took from that guy. Fit it in your Mind.
+AkshaySharma - Hm, Daily DaryNodes Sucking 😂
+Aaron_ - AkshaySharma Lets not forget you still didn't answer my questions in dms and you have no idea how to run a host yourself. I don't see how the tag "Scammers" work here.
+Aaron_ - AkshaySharma Yeah my guy you are totally not here for that
+Shershah - AkshaySharma Eh u ran rm -rf /* what a noob. So stfu
+Shershah - I can give you support ban so nobody will help you in dashactyl.
+Kiku - @Shershah @Aaron_  Ignore that kid let him to satisfy his ego and @colaaaa  this is  not a joke to give any one admin access of the panel so i didn't gave u Sorry for that!!.  @AkshaySharma  what issues u are facing idk and Even u didn't purchase any service from us .So dont blame. it's better for u dont hope anything from me.
+Kiku - iiChxrlly_ thank u sir we will change the thumbnail  . 🤞
+Shershah - Kiku I will be always there for darynodes. 🤗
+AkshaySharma - Shershah Give, I don't care
+AkshaySharma - Kiku baccha  toh tu h gaand m danda daal le apni 😂
+Shershah - AkshaySharma OH what to give? Dick? OH ye, I am with ur mom she is like "AHhhhhhrha"
+Think before abusing "my friends". Kid, You got no life, just begging for resources and then if that host owner didnt give a fuck about u then you like " OH FUCK MAN, HOW HE DIDNT NOTICE ME? NOW HE HAVE TO MEET ME AT DRAMA.GG". Idiot stupid kid. ZnVjayB5b3Vyc2VsZg== decode this.(base64 btw).
+Aaron_ - Shershah LMAO
+Kiku - Shershah Thank u dude for ur lovely support. Sry i didn't  understand u. 😭 . Thank uuuuuuu
+Kiku - AkshaySharma dikha dia apna aukaat. Jal jal aor jal
+Shershah - Kiku my discord tag is: Shershah#0001
+Kiku - Shershah  Bhai how did u know that i am finding u? btw friend accept karle agar map kardia hoga to
+colaaaa - Kiku I didn't leave because I didn't get admin access, I left because you scam and I got proof of it. So, shut the fuck up.
+colaaaa - Kiku Also, go back to following your illegal tos - https://drama.gg/assets/files/2021-10-15/1634259722-394300-image.png
+Kiku - colaaaa U may get lost
+Kiku - colaaaa let it be legal or illegal  what issue u are facing when all my customer are satisfied
+AkshaySharma - Giving rishwat to your customers that why they are satisfied
+OGVenom - AkshaySharma jaalii naa loll
+BaconPowered - SCAMMER COMPANY DARYNODES IS SCAM ALRRT STAY AWAY DARYNODES IS SCAM ALERT EMERGRNCY !!!!!!! 🚨 🚨 SCAMR COMPANY!!! ALERT SCAM COMPANY DARYNODES!!!
+AkshaySharma - BaconPowered Hm, Right
+AkshaySharma - Also they are aren't professional
+IKnowWhoRaidedDBH - BaconPowered stop being a weirdo
+Shershah - BaconPowered Imagine being a alt or a friend of AKshay kid. Can you learn some spelling?
+Shershah - AkshaySharma Hello @AkshaySharma I like to consult with you in dms. My discord id is: Shershah#0001
+Shershah - BaconPowered https://drama.gg/u/BaconPowered xD
+BaconPowered - Shershah shut the fuck up my daddy @Solo and my wife jamz 😋 @DiscordUser know I am not alt you should shut!!!!
+Shershah - BaconPowered AH can you stop shit posting everywhere kid?
+Rickylmao - LOL
+Aaron_ - LMAO
+AkshaySharma -  - https://drama.gg/assets/files/2021-10-17/1634486553-617396-image.png
+Shershah - AkshaySharma He dont even have valid proof.
+AkshaySharma - Shershah 
+
+
+F SPAM BY KIKU - https://drama.gg/assets/files/2021-10-17/1634489919-641085-image.png
+AkshaySharma - "Unprofessional" They are Unprofessional because they are kid and lack of knowledge. How to do anything. He even don't have any DDOS Protection. It is easy to DDOS by any small tool
+Shershah - AkshaySharma this is not a proof..
+AkshaySharma - Shershah Hm, Will show you proof
+Shershah - AkshaySharma do you?
+Shershah - AkshaySharma ok
+AkshaySharma - Don't worry. DaryNodes is shutting down soon.
+
+
+https://media.discordapp.net/attachments/866364031594135643/899328995059990609/Screenshot_2021-10-17_214154.png?width=796&amp;height=427 - https://drama.gg/assets/files/2021-10-17/1634490113-387526-image.png
+AkshaySharma - When my friend is asking for refund. He blocked him
+AkshaySharma -  - https://drama.gg/assets/files/2021-10-17/1634490233-468968-image.png
+AkshaySharma -  - https://drama.gg/assets/files/2021-10-17/1634490279-204260-image.png
+Shershah - AkshaySharma i have to ask abt this
+AkshaySharma - Ask. Ask
+Kiku - AkshaySharma  u fu**king kid just sh!!! use ur braind and for ur kind info forgot the dream of making DaryNode down.
+
+ya so let me clear u all ---
+
+A kid hindustanti gamer he send me 1rs first then 1000rs amd he said after delivery he will give 3k i said no. this is not possible then he send a ss of 3k . but i didn't get the amount then i said try to contact the bank and i am trying to contact them. then his client dm me that pls refund my money i said who are u then he said Hindustani dm him to pay me. i told him that i didn't recive the money but wait let me confirm in my bank. then he said i need a vps i order for him and i said him if i got 3k then no need to pay and if i didn't then pay me. he agree then i order a vps after that he said refund me i said how is this possible after ordering... then he that i deal with Hindustani so talk with Hindustani after these Hindustani dm and to refunds 1k o gave him back then he dm and he said pls give 3 k also i said till now i didn't recive wait let me comfirm in my bank then i will return u. then his client again dm and he said give my money back i said i didn't get any response so wait then i took so details their was a little argu etc and i forward all the details to my bank they said server down wait for somw hrs and i info his client to wait till bank server get up he said ok. then Hindustani start spamming that i scam his friends and he mention a person to whome i don't know at all ok now think who is scamming that fu... kid @AkshaySharma is saying i scam Rockno and that Hindustani is saying i scammed his friends. here are the ss. then bank response me and they said yes u recive the money but as our bank server wre down it didn't get upload. then i dm his client as u are saying u deal with Hindustani u ask Hindustani for refund and as i got payment through Hindustani i will contact him. i dm Hindustani that stop spamming that we scam u with out any proof. if u abuse our hosting then no refund ( mention in tos) . i said i will cut 300rs per abuse and i came to know he abuse us 3 time ( might be more not sure) which is 900 rs i cut 800rs and i refund them. so now u say... and @AkshaySharma get out of ur dream dude. - https://drama.gg/assets/files/2021-10-17/1634492667-993395-unknown.png
+Kiku - AkshaySharma  u fu**king kid just sh!!! use ur braind and for ur kind info forgot the dream of making DaryNode down.
+
+ya so let me clear u all ---
+
+A kid hindustanti gamer he send me 1rs first then 1000rs amd he said after delivery he will give 3k i said no. this is not possible then he send a ss of 3k . but i didn't get the amount then i said try to contact the bank and i am trying to contact them. then his client dm me that pls refund my money i said who are u then he said Hindustani dm him to pay me. i told him that i didn't recive the money but wait let me confirm in my bank. then he said i need a vps i order for him and i said him if i got 3k then no need to pay and if i didn't then pay me. he agree then i order a vps after that he said refund me i said how is this possible after ordering... then he that i deal with Hindustani so talk with Hindustani after these Hindustani dm and to refunds 1k o gave him back then he dm and he said pls give 3 k also i said till now i didn't recive wait let me comfirm in my bank then i will return u. then his client again dm and he said give my money back i said i didn't get any response so wait then i took so details their was a little argu etc and i forward all the details to my bank they said server down wait for somw hrs and i info his client to wait till bank server get up he said ok. then Hindustani start spamming that i scam his friends and he mention a person to whome i don't know at all ok now think who is scamming that fu... kid @AkshaySharma is saying i scam Rockno and that Hindustani is saying i scammed his friends. here are the ss. then bank response me and they said yes u recive the money but as our bank server wre down it didn't get upload. then i dm his client as u are saying u deal with Hindustani u ask Hindustani for refund and as i got payment through Hindustani i will contact him. i dm Hindustani that stop spamming that we scam u with out any proof. if u abuse our hosting then no refund ( mention in tos) . i said i will cut 300rs per abuse and i came to know he abuse us 3 time ( might be more not sure) which is 900 rs i cut 800rs and i refund them. so now u say... and @AkshaySharma get out of ur dream dude. - https://drama.gg/assets/files/2021-10-17/1634492668-49679-unknown.png
+Kiku - AkshaySharma  u fu**king kid just sh!!! use ur braind and for ur kind info forgot the dream of making DaryNode down.
+
+ya so let me clear u all ---
+
+A kid hindustanti gamer he send me 1rs first then 1000rs amd he said after delivery he will give 3k i said no. this is not possible then he send a ss of 3k . but i didn't get the amount then i said try to contact the bank and i am trying to contact them. then his client dm me that pls refund my money i said who are u then he said Hindustani dm him to pay me. i told him that i didn't recive the money but wait let me confirm in my bank. then he said i need a vps i order for him and i said him if i got 3k then no need to pay and if i didn't then pay me. he agree then i order a vps after that he said refund me i said how is this possible after ordering... then he that i deal with Hindustani so talk with Hindustani after these Hindustani dm and to refunds 1k o gave him back then he dm and he said pls give 3 k also i said till now i didn't recive wait let me comfirm in my bank then i will return u. then his client again dm and he said give my money back i said i didn't get any response so wait then i took so details their was a little argu etc and i forward all the details to my bank they said server down wait for somw hrs and i info his client to wait till bank server get up he said ok. then Hindustani start spamming that i scam his friends and he mention a person to whome i don't know at all ok now think who is scamming that fu... kid @AkshaySharma is saying i scam Rockno and that Hindustani is saying i scammed his friends. here are the ss. then bank response me and they said yes u recive the money but as our bank server wre down it didn't get upload. then i dm his client as u are saying u deal with Hindustani u ask Hindustani for refund and as i got payment through Hindustani i will contact him. i dm Hindustani that stop spamming that we scam u with out any proof. if u abuse our hosting then no refund ( mention in tos) . i said i will cut 300rs per abuse and i came to know he abuse us 3 time ( might be more not sure) which is 900 rs i cut 800rs and i refund them. so now u say... and @AkshaySharma get out of ur dream dude. - https://drama.gg/assets/files/2021-10-17/1634492668-85599-unknown.png
+Kiku - AkshaySharma  u fu**king kid just sh!!! use ur braind and for ur kind info forgot the dream of making DaryNode down.
+
+ya so let me clear u all ---
+
+A kid hindustanti gamer he send me 1rs first then 1000rs amd he said after delivery he will give 3k i said no. this is not possible then he send a ss of 3k . but i didn't get the amount then i said try to contact the bank and i am trying to contact them. then his client dm me that pls refund my money i said who are u then he said Hindustani dm him to pay me. i told him that i didn't recive the money but wait let me confirm in my bank. then he said i need a vps i order for him and i said him if i got 3k then no need to pay and if i didn't then pay me. he agree then i order a vps after that he said refund me i said how is this possible after ordering... then he that i deal with Hindustani so talk with Hindustani after these Hindustani dm and to refunds 1k o gave him back then he dm and he said pls give 3 k also i said till now i didn't recive wait let me comfirm in my bank then i will return u. then his client again dm and he said give my money back i said i didn't get any response so wait then i took so details their was a little argu etc and i forward all the details to my bank they said server down wait for somw hrs and i info his client to wait till bank server get up he said ok. then Hindustani start spamming that i scam his friends and he mention a person to whome i don't know at all ok now think who is scamming that fu... kid @AkshaySharma is saying i scam Rockno and that Hindustani is saying i scammed his friends. here are the ss. then bank response me and they said yes u recive the money but as our bank server wre down it didn't get upload. then i dm his client as u are saying u deal with Hindustani u ask Hindustani for refund and as i got payment through Hindustani i will contact him. i dm Hindustani that stop spamming that we scam u with out any proof. if u abuse our hosting then no refund ( mention in tos) . i said i will cut 300rs per abuse and i came to know he abuse us 3 time ( might be more not sure) which is 900 rs i cut 800rs and i refund them. so now u say... and @AkshaySharma get out of ur dream dude. - https://drama.gg/assets/files/2021-10-17/1634492712-638842-screenshot-2021-10-17-23-09-04-053-comfampayin.jpg
+Kiku - AkshaySharma  u fu**king kid just sh!!! use ur braind and for ur kind info forgot the dream of making DaryNode down.
+
+ya so let me clear u all ---
+
+A kid hindustanti gamer he send me 1rs first then 1000rs amd he said after delivery he will give 3k i said no. this is not possible then he send a ss of 3k . but i didn't get the amount then i said try to contact the bank and i am trying to contact them. then his client dm me that pls refund my money i said who are u then he said Hindustani dm him to pay me. i told him that i didn't recive the money but wait let me confirm in my bank. then he said i need a vps i order for him and i said him if i got 3k then no need to pay and if i didn't then pay me. he agree then i order a vps after that he said refund me i said how is this possible after ordering... then he that i deal with Hindustani so talk with Hindustani after these Hindustani dm and to refunds 1k o gave him back then he dm and he said pls give 3 k also i said till now i didn't recive wait let me comfirm in my bank then i will return u. then his client again dm and he said give my money back i said i didn't get any response so wait then i took so details their was a little argu etc and i forward all the details to my bank they said server down wait for somw hrs and i info his client to wait till bank server get up he said ok. then Hindustani start spamming that i scam his friends and he mention a person to whome i don't know at all ok now think who is scamming that fu... kid @AkshaySharma is saying i scam Rockno and that Hindustani is saying i scammed his friends. here are the ss. then bank response me and they said yes u recive the money but as our bank server wre down it didn't get upload. then i dm his client as u are saying u deal with Hindustani u ask Hindustani for refund and as i got payment through Hindustani i will contact him. i dm Hindustani that stop spamming that we scam u with out any proof. if u abuse our hosting then no refund ( mention in tos) . i said i will cut 300rs per abuse and i came to know he abuse us 3 time ( might be more not sure) which is 900 rs i cut 800rs and i refund them. so now u say... and @AkshaySharma get out of ur dream dude. - https://drama.gg/assets/files/2021-10-17/1634492712-756095-screenshot-2021-10-17-23-08-48-164-netone97paytm.jpg
+Kiku - Don't u think my privacy also matters. hm fine
+Kiku - AkshaySharma i show u ur position . Stay happy
+opHu - Kiku Is A Scammer He Scam Rockno He Edit The Ss And Try To Fool Him If You Are Right Give The Latest Ss Of Recieving 3k And Dont Fucking Edit it And I Know Many People Who Got Scammed By Kiku And After All The Thing Darynode Is Shit #close Darynode A Scammer Hosting Who Only Needs Cash To Their Ass They Are Charging For Abuse You Are Also Harassing To Not To Refund There Money And Also He Is Very Good He Have 7k subs On Youtube And 1.5k members on discord He Can Easily Fuck You - https://drama.gg/assets/files/2021-10-17/1634494568-305676-img-20211017-103425.png
+StudyKumar - #close Darynodes There A lot Of Proof Against DaryNodes Just Close DaryNodes Either They scam People
+ROSE - ss is proving kiku is scammer just always wants money just report darynodes to save people from scam #cloase darynode lets taught a lesson to this kid
+DARKONE - Rockno Is A Nice Guy Kiku Shit Boy Always Scamming People #close darynodes to save people from scamming lets raise a voice and f this lil kid
+goodguy - @AkshaySharma  This Shit Is Not Company This Is A Base Of Scammers #close Darynoden and save people from scamming taught this lil kidd a lesson
+Kiku - goodguy get out
+Kiku - opHu wait dude take online class as my bank confirm me i gave u money back and wiat now ehre is rockno coming. he deal with Hindustani ask him and cut Hindustani money not ur. Gye out
+Kiku - opHu keep going it's helping me a lot. burn burn as much u can. it's making me happy
+Kiku - see these he should ask Hindustani not me. and why u abuse my hosting without any proof. spam dude as much u can. IDC be lucky to get back 3.2k - https://drama.gg/assets/files/2021-10-17/1634495560-552660-img-20211018-000127.jpg
+opHu - Kiku  If He Comes You Guys Suffer From Massive Trouble And He Shutdown your shit hosting hungry for money cut 800 for abuse He just give his views what you have done to him just show us history you fuckin bitch #close darynodes
+Kiku - opHu get lost fuk.... kid. No chance to get back ur 800 . simple i said refund not possible take service he said he will dela with him so why. and Spam as much u can. as ur mother is beside me just making a sound ah!!!! .
+opHu - Afterall you abuse hindustani gamer in chat and block him so he talk you with directly indirectly you scamming rockno because this money is of rockno
+opHu - because my mother is just trying to say ah your mother is licking my sons dick just take your mother to home either she might be fucked my donkey and elephent too because your mother have a big fantasy
+Shershah - opHu just wanna confirm u live in zoo?
+Kiku - opHu  u are not too. much lucky dude.
+opHu - Dont Be Fuckin Shy Just Send Your Mother To Zoo There Are lot Of Animals For Your Mother And One More Thing Your Mother Have A disease To Not Get Pregnent So Where Do you Come @Kiku  @Shershah
+Shershah - opHu why u mention me? Can i know?
+opHu - lol fuckin lil kids trying to teach father how to fuck @Kiku  @Shershah
+opHu - Shershah then how the fuck you mention me
+Shershah - I just asking you if you live in zoo or something.
+opHu - @Shershah  and @Kiku  beside this Just Serch your Mother Father If You Cant Find Just tell But One Thing I Flush You Both In toilet How do YOu Guys survive A mirecale In medical Science
+Shershah - opHu stop mentioning me stupid fat dumb mother fucker. Go and learn some english idiot kid.
+Kiku - @opHu u get scard or what why are u from ur alt id #alt id of Hindustani. kid just fu... up from animal careful they may reject u also 🤣
+Shershah - opHu 
+Read this b4 making alts dumbo. - https://drama.gg/assets/files/2021-10-17/1634496808-463595-screenshot-20211018-002158.jpg
+AkshaySharma - Kiku Ok, But what is the Ban Reason? "Trust Issue"?
+Kiku - AkshaySharma dude trust issue means not interested to take risk. in DaryNode if any one get ban due to trust issue then 0% refund and chance to get ban from whole Dary Network. ( it's not for u as u are my friend.) it's basically the relation over..... if these basically happen when u spam dms or abuse with out any information or hiding something which is important to know.nothing else......
+Kiku - we can slove all these issue easily. all are miss understanding.  If u have any questions then ask me  or create a ticket. Why so much argu on these. IDK
+DARKONE - Wtf u are abusing Rockno Gaming Do You Know Who Is He You are abusing him - https://drama.gg/assets/files/2021-10-18/1634532778-599485-screenshot-2021-10-18-10-18-12-49-572064f74bd5f9fa804b05334aa4f912.jpg
+GoHill3 - DARKONE Please go back to school and learn English again
+DARKONE - GoHill3 ok
+DARKONE - DARKONE kiku with alt account
+AkshaySharma - DARKONE  Yes, Now Kiku started coming from ALT accounts
+Aaron_ - Kiku Please blur personal info.
+Aaron_ - opHu Please get out of Drama.gg
+Aaron_ - opHu ok, You sound like a kid who just learnt the swear words
+opHu - Aaron_ kiku with another account lil kid who fuck himself lil noob kid
+opHu - Aaron_ are you the owner of drama.gg how can you tell me to get out you 8yrs old lil noob kid fuck you
+Kowone - lol the opHu "person" just learned how to swear?
+opHu - Kowone another account lol
+AkshaySharma - Kiku now just started to make alts
+Aaron_ - opHu Learn to view the account creation date 😁
+Aaron_ - opHu When are we fucking? Wouldn't fucking a 8yo would make you a pedo? I mean I don't care 🤷
+Aaron_ - Kowone Yes! they have been doing good in classes recently. He is getting better at swearing each day D: I'm jealous!!!!
+AlphaDarky - DARKONE actually i don't think it is just check both of their English
+AlphaDarky - Kowone yes by seems
+Kiku - AkshaySharma no dude i am busy with exam i am not having much time to do i promise i am not. if i started doing that then what will difference between u and me
+Kiku - Aaron_ ok sir
+AkshaySharma - Hm, You took 800rs because client abused you. Right, But where in your Host it is written that you will cut huge amount of money if anyone abuse?
+Aaron_ - AkshaySharma By having eyes I have read that he said 300rs would be cut while making the deal.
+AkshaySharma - Aaron_  
+
+First test your eyes - https://drama.gg/assets/files/2021-10-21/1634817513-658071-image.png
+Kiku - AkshaySharma  Wait ask the clients that we said him if u want refunds full amount can't be done but a around like if u pay 4k u will get atlist more then 3k . and i said that hindustani that with out any reason abuse will charge u 300 and etc etc...
+Aaron_ - AkshaySharma What are you trying to prove? He said the same thing I just said.
+AkshaySharma - Kiku  You are saying that you will cut 300rs but I can see 800rs
+HMSSTARGAMING - DARYNODE ONLY KNOW 3THINGS MUTEING,BANNIN,KICKING
+Shershah - HMSSTARGAMING muting, kicking, banning and u r right
+Shershah - He also used to use aws free trial for his free services.
+Shershah - @Sloth u should add confirm tag.
+HMSSTARGAMING - yes darynode only know these things
+Shershah
+Aaron_ - Shershah I thought you were supporting your little friend LMAO
+AkshaySharma - HMSSTARGAMING  right if you ask anything they will just mute or ban you
+HMSSTARGAMING - AkshaySharma they don’t have a little bit patience they are like mad dogs
+AkshaySharma - That Much Downtime huh?
+
+
+
+Link : https://status.darynode.site/ - https://drama.gg/assets/files/2021-10-29/1635507140-495723-image.png
+Aaron_ - Akshay Sharma
+
+An Ex staff of a lot of sketchy indian hosts, copying others codes without giving credits (not once by the way), trying to complain about me on a server in hopes of demoting me where I'm not a staff (And blocking when getting exposed), Unprofessional, complaining about hosts when he doesn't know anything about dashactyl and pterodactyl. 
+
+An invite link to his bot: https://dsc.gg/pikamusics
+The github repo he copied the code off of: https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js (All he did was change some embed colors, deleted commands and removed the credits.)
+
+
+
+
+
+Will be adding more things to this post once I can - https://drama.gg/assets/files/2021-10-29/1635505738-144531-image.png
+Aaron_ - Akshay Sharma
+
+An Ex staff of a lot of sketchy indian hosts, copying others codes without giving credits (not once by the way), trying to complain about me on a server in hopes of demoting me where I'm not a staff (And blocking when getting exposed), Unprofessional, complaining about hosts when he doesn't know anything about dashactyl and pterodactyl. 
+
+An invite link to his bot: https://dsc.gg/pikamusics
+The github repo he copied the code off of: https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js (All he did was change some embed colors, deleted commands and removed the credits.)
+
+
+
+
+
+Will be adding more things to this post once I can - https://drama.gg/assets/files/2021-10-29/1635505812-868132-inkedunknown-li.jpg
+Aaron_ - Akshay Sharma
+
+An Ex staff of a lot of sketchy indian hosts, copying others codes without giving credits (not once by the way), trying to complain about me on a server in hopes of demoting me where I'm not a staff (And blocking when getting exposed), Unprofessional, complaining about hosts when he doesn't know anything about dashactyl and pterodactyl. 
+
+An invite link to his bot: https://dsc.gg/pikamusics
+The github repo he copied the code off of: https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js (All he did was change some embed colors, deleted commands and removed the credits.)
+
+
+
+
+
+Will be adding more things to this post once I can - https://drama.gg/assets/files/2021-10-29/1635506026-551112-image.png
+Aaron_ - Akshay Sharma
+
+An Ex staff of a lot of sketchy indian hosts, copying others codes without giving credits (not once by the way), trying to complain about me on a server in hopes of demoting me where I'm not a staff (And blocking when getting exposed), Unprofessional, complaining about hosts when he doesn't know anything about dashactyl and pterodactyl. 
+
+An invite link to his bot: https://dsc.gg/pikamusics
+The github repo he copied the code off of: https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js (All he did was change some embed colors, deleted commands and removed the credits.)
+
+
+
+
+
+Will be adding more things to this post once I can - https://drama.gg/assets/files/2021-10-29/1635506210-9727-123.jpg
+AlphaDarky - Aaron_ The github repo he copied the code off of: https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js (All he did was change some embed colors, deleted commands and removed the credits.)
+
+hmm tell the owner about is aswell
+Aaron_ - I will be sure to do that.
+Tomato - Thanks but sadly, we usually can't do much against those, expect asking them to stop doing it
+Aaron_ - Tomato Oh wow the man himself right here! It must be frustrating people using your code and never giving you credits.
+XEONGAMING - darynodes is simple OP, it has good staff also and i dont experience any issues with it and i was just afking now for  some coins so i came here to just look.
+sandy8465 - XEONGAMING TAXEVASION OP
+sandy8465 - no registered company op 
+no proper billing panel of billing system to send recipts just taking all money without paying taxes is illegal
+Shershah - Darynodes dont even pay for there stuffs. Kiku is begger/ gold digger. 
+Kiku dont even pay for his domain and his nodes. He scammed many of his ex-executives. 
+Demon cat(ex-manager) is soo nice that he provided darynodes 2 nodes and hetzner account where he hosted. He Is admin in lush nodes too and demon have 2 dedis of lush on that same hetzner account. 
+Kiku is jealous of lushnodes and he bought 4 to 5 dedis more from demon cat account. ( dcha = demon cat hetzner account) and dcha got billed 650 usd. So then hetzner blocked ips of that dedis. And kiku dont even care of demon cat health. I remember when demon cat had high fever then kiku dont even care about it. All he care about is dedi from demon. And then demon cat decided to pay billed ammount on wednesday but he asked me if kiku is scammer because kiku behaviour got changed since demon cat got fever. So we decided to test kiku. Demon acted like that he cant pay anymore of nodes as he got fired from his job. At the moment when demon cat sended this message then kiku replied: You are scammer and even fake friend and poor begger. And demon cat even gifted nitro to kiku. Proof that demon cat gifted him nitro: 
+
+
+I dont have proof of that msgs but I have proof that demon pays for his dedi.
+
+
+
+and kiku is dumb asf. - https://cdn.discordapp.com/attachments/901073316327084032/918465814900920381/unknown.png
+Shershah - Darynodes dont even pay for there stuffs. Kiku is begger/ gold digger. 
+Kiku dont even pay for his domain and his nodes. He scammed many of his ex-executives. 
+Demon cat(ex-manager) is soo nice that he provided darynodes 2 nodes and hetzner account where he hosted. He Is admin in lush nodes too and demon have 2 dedis of lush on that same hetzner account. 
+Kiku is jealous of lushnodes and he bought 4 to 5 dedis more from demon cat account. ( dcha = demon cat hetzner account) and dcha got billed 650 usd. So then hetzner blocked ips of that dedis. And kiku dont even care of demon cat health. I remember when demon cat had high fever then kiku dont even care about it. All he care about is dedi from demon. And then demon cat decided to pay billed ammount on wednesday but he asked me if kiku is scammer because kiku behaviour got changed since demon cat got fever. So we decided to test kiku. Demon acted like that he cant pay anymore of nodes as he got fired from his job. At the moment when demon cat sended this message then kiku replied: You are scammer and even fake friend and poor begger. And demon cat even gifted nitro to kiku. Proof that demon cat gifted him nitro: 
+
+
+I dont have proof of that msgs but I have proof that demon pays for his dedi.
+
+
+
+and kiku is dumb asf. - https://cdn.discordapp.com/attachments/901073316327084032/918465836501573663/unknown.png
+Shershah - Darynodes dont even pay for there stuffs. Kiku is begger/ gold digger. 
+Kiku dont even pay for his domain and his nodes. He scammed many of his ex-executives. 
+Demon cat(ex-manager) is soo nice that he provided darynodes 2 nodes and hetzner account where he hosted. He Is admin in lush nodes too and demon have 2 dedis of lush on that same hetzner account. 
+Kiku is jealous of lushnodes and he bought 4 to 5 dedis more from demon cat account. ( dcha = demon cat hetzner account) and dcha got billed 650 usd. So then hetzner blocked ips of that dedis. And kiku dont even care of demon cat health. I remember when demon cat had high fever then kiku dont even care about it. All he care about is dedi from demon. And then demon cat decided to pay billed ammount on wednesday but he asked me if kiku is scammer because kiku behaviour got changed since demon cat got fever. So we decided to test kiku. Demon acted like that he cant pay anymore of nodes as he got fired from his job. At the moment when demon cat sended this message then kiku replied: You are scammer and even fake friend and poor begger. And demon cat even gifted nitro to kiku. Proof that demon cat gifted him nitro: 
+
+
+I dont have proof of that msgs but I have proof that demon pays for his dedi.
+
+
+
+and kiku is dumb asf. - https://cdn.discordapp.com/attachments/901073316327084032/918465878071341066/unknown.png
+Shershah - Darynodes dont even pay for there stuffs. Kiku is begger/ gold digger. 
+Kiku dont even pay for his domain and his nodes. He scammed many of his ex-executives. 
+Demon cat(ex-manager) is soo nice that he provided darynodes 2 nodes and hetzner account where he hosted. He Is admin in lush nodes too and demon have 2 dedis of lush on that same hetzner account. 
+Kiku is jealous of lushnodes and he bought 4 to 5 dedis more from demon cat account. ( dcha = demon cat hetzner account) and dcha got billed 650 usd. So then hetzner blocked ips of that dedis. And kiku dont even care of demon cat health. I remember when demon cat had high fever then kiku dont even care about it. All he care about is dedi from demon. And then demon cat decided to pay billed ammount on wednesday but he asked me if kiku is scammer because kiku behaviour got changed since demon cat got fever. So we decided to test kiku. Demon acted like that he cant pay anymore of nodes as he got fired from his job. At the moment when demon cat sended this message then kiku replied: You are scammer and even fake friend and poor begger. And demon cat even gifted nitro to kiku. Proof that demon cat gifted him nitro: 
+
+
+I dont have proof of that msgs but I have proof that demon pays for his dedi.
+
+
+
+and kiku is dumb asf. - https://drama.gg/assets/files/2021-12-11/1639199529-808924-image.png
+Shershah - Darynodes dont even pay for there stuffs. Kiku is begger/ gold digger. 
+Kiku dont even pay for his domain and his nodes. He scammed many of his ex-executives. 
+Demon cat(ex-manager) is soo nice that he provided darynodes 2 nodes and hetzner account where he hosted. He Is admin in lush nodes too and demon have 2 dedis of lush on that same hetzner account. 
+Kiku is jealous of lushnodes and he bought 4 to 5 dedis more from demon cat account. ( dcha = demon cat hetzner account) and dcha got billed 650 usd. So then hetzner blocked ips of that dedis. And kiku dont even care of demon cat health. I remember when demon cat had high fever then kiku dont even care about it. All he care about is dedi from demon. And then demon cat decided to pay billed ammount on wednesday but he asked me if kiku is scammer because kiku behaviour got changed since demon cat got fever. So we decided to test kiku. Demon acted like that he cant pay anymore of nodes as he got fired from his job. At the moment when demon cat sended this message then kiku replied: You are scammer and even fake friend and poor begger. And demon cat even gifted nitro to kiku. Proof that demon cat gifted him nitro: 
+
+
+I dont have proof of that msgs but I have proof that demon pays for his dedi.
+
+
+
+and kiku is dumb asf. - https://cdn.discordapp.com/attachments/887277743149056021/910917640787230720/unknown.png
+Shershah - Darynodes dont even pay for there stuffs. Kiku is begger/ gold digger. 
+Kiku dont even pay for his domain and his nodes. He scammed many of his ex-executives. 
+Demon cat(ex-manager) is soo nice that he provided darynodes 2 nodes and hetzner account where he hosted. He Is admin in lush nodes too and demon have 2 dedis of lush on that same hetzner account. 
+Kiku is jealous of lushnodes and he bought 4 to 5 dedis more from demon cat account. ( dcha = demon cat hetzner account) and dcha got billed 650 usd. So then hetzner blocked ips of that dedis. And kiku dont even care of demon cat health. I remember when demon cat had high fever then kiku dont even care about it. All he care about is dedi from demon. And then demon cat decided to pay billed ammount on wednesday but he asked me if kiku is scammer because kiku behaviour got changed since demon cat got fever. So we decided to test kiku. Demon acted like that he cant pay anymore of nodes as he got fired from his job. At the moment when demon cat sended this message then kiku replied: You are scammer and even fake friend and poor begger. And demon cat even gifted nitro to kiku. Proof that demon cat gifted him nitro: 
+
+
+I dont have proof of that msgs but I have proof that demon pays for his dedi.
+
+
+
+and kiku is dumb asf. - https://drama.gg/assets/files/2021-12-11/1639199637-150597-image.png
+Shershah - Darynodes dont even pay for there stuffs. Kiku is begger/ gold digger. 
+Kiku dont even pay for his domain and his nodes. He scammed many of his ex-executives. 
+Demon cat(ex-manager) is soo nice that he provided darynodes 2 nodes and hetzner account where he hosted. He Is admin in lush nodes too and demon have 2 dedis of lush on that same hetzner account. 
+Kiku is jealous of lushnodes and he bought 4 to 5 dedis more from demon cat account. ( dcha = demon cat hetzner account) and dcha got billed 650 usd. So then hetzner blocked ips of that dedis. And kiku dont even care of demon cat health. I remember when demon cat had high fever then kiku dont even care about it. All he care about is dedi from demon. And then demon cat decided to pay billed ammount on wednesday but he asked me if kiku is scammer because kiku behaviour got changed since demon cat got fever. So we decided to test kiku. Demon acted like that he cant pay anymore of nodes as he got fired from his job. At the moment when demon cat sended this message then kiku replied: You are scammer and even fake friend and poor begger. And demon cat even gifted nitro to kiku. Proof that demon cat gifted him nitro: 
+
+
+I dont have proof of that msgs but I have proof that demon pays for his dedi.
+
+
+
+and kiku is dumb asf. - https://drama.gg/assets/files/2021-12-11/1639199692-45020-image.png
+Shershah - Darynodes dont even pay for there stuffs. Kiku is begger/ gold digger. 
+Kiku dont even pay for his domain and his nodes. He scammed many of his ex-executives. 
+Demon cat(ex-manager) is soo nice that he provided darynodes 2 nodes and hetzner account where he hosted. He Is admin in lush nodes too and demon have 2 dedis of lush on that same hetzner account. 
+Kiku is jealous of lushnodes and he bought 4 to 5 dedis more from demon cat account. ( dcha = demon cat hetzner account) and dcha got billed 650 usd. So then hetzner blocked ips of that dedis. And kiku dont even care of demon cat health. I remember when demon cat had high fever then kiku dont even care about it. All he care about is dedi from demon. And then demon cat decided to pay billed ammount on wednesday but he asked me if kiku is scammer because kiku behaviour got changed since demon cat got fever. So we decided to test kiku. Demon acted like that he cant pay anymore of nodes as he got fired from his job. At the moment when demon cat sended this message then kiku replied: You are scammer and even fake friend and poor begger. And demon cat even gifted nitro to kiku. Proof that demon cat gifted him nitro: 
+
+
+I dont have proof of that msgs but I have proof that demon pays for his dedi.
+
+
+
+and kiku is dumb asf. - https://cdn.discordapp.com/attachments/901073316327084032/918151665058725918/unknown.png
+Shershah - Darynodes dont even pay for there stuffs. Kiku is begger/ gold digger. 
+Kiku dont even pay for his domain and his nodes. He scammed many of his ex-executives. 
+Demon cat(ex-manager) is soo nice that he provided darynodes 2 nodes and hetzner account where he hosted. He Is admin in lush nodes too and demon have 2 dedis of lush on that same hetzner account. 
+Kiku is jealous of lushnodes and he bought 4 to 5 dedis more from demon cat account. ( dcha = demon cat hetzner account) and dcha got billed 650 usd. So then hetzner blocked ips of that dedis. And kiku dont even care of demon cat health. I remember when demon cat had high fever then kiku dont even care about it. All he care about is dedi from demon. And then demon cat decided to pay billed ammount on wednesday but he asked me if kiku is scammer because kiku behaviour got changed since demon cat got fever. So we decided to test kiku. Demon acted like that he cant pay anymore of nodes as he got fired from his job. At the moment when demon cat sended this message then kiku replied: You are scammer and even fake friend and poor begger. And demon cat even gifted nitro to kiku. Proof that demon cat gifted him nitro: 
+
+
+I dont have proof of that msgs but I have proof that demon pays for his dedi.
+
+
+
+and kiku is dumb asf. - https://cdn.discordapp.com/attachments/901073316327084032/918185260930449538/unknown.png
+Shershah - And now kiku planning to scam TakedownIvy#7802. And yes kiku study in 9th grade. (14 years old)
+Shershah -  - https://drama.gg/assets/files/2021-12-11/1639200152-989578-image.png
+__SECRET__ - Shershah lmao who the hell gave a child debit card
+Shershah - __SECRET__ Fun fact he dont have anything like debit card or credit card
+__SECRET__ - Shershah so what does he use?
+Shershah - __SECRET__ fampay. Also he did not give any money to demon cat from his paid host.
+__SECRET__ - Shershah oof I forgot i live Indian and fampay / paytm and more used then PayPal
+__SECRET__ - he must be politician
+Shershah -  - https://cdn.discordapp.com/attachments/901073316327084032/919629976687497256/unknown.png
+Shershah -  - https://cdn.discordapp.com/attachments/901073316327084032/919630053913026620/unknown.png
+ThatTheredstoner - I stumbled upon this while I was scrolling through drama.gg, I just want to say that all of your English suck and it might have been miscommunication between the seller and the customer that makes people misunderstand and think it's a scam. I personally never used this hosting(I'm not a fan of cloud hosting) before and I hope you guys sort this out soon
+Loser - lol
+Sydney - I love how early everyone on this forum who bitches about grammar has bad grammar. 
+
+This shit hurts my brain
+ThatTheredstoner - Sydney same
+Sydney - Beastboymann How do I shut the fuck off? It is getting all over my lawn, and my neighbors don't like the puddles of fuck in my yard. Your expertise in this field would be greatly appreciated. 
+
+ALSO! Why does knowing english make me a bitch? Just asking...
+ThatTheredstoner - Beastboymann Exactly, shut up.
+AkshaySharma - Shershah Nice Behavior of Kiku 😂 He even don't talk with his Hosting Managers properly so what we can expect from his Customers.
+AkshaySharma - @Aaron_  Now Read Shershah's post and understand how DaryNode begging
+Aaron_ - AkshaySharma You haven't answered my questions since september or before.
+HMSSTARGAMING - AkshaySharma I feel sad for shearshah and demon they both helped that bloody kiku soo much in making hosting good.but this bloody bastard just think about him self.he don’t care anyone.
+A72 - Tomato sad
+typicalGta - iiChxrlly_ they're not dumb, they're promising 1GB which equates to 1000MB, if they were to promise 1GiB then it'd make sense that they allocate 1024MB.
+
+I wonder if it's really NVMe tho, since it's a auctioned metal from hetzner it most likely has an SSD or a repurposed NVMe at the least, Best not to offer storage plans with that. Most big-medium providers have big pools of which they allocate storage to their users.
+
+Since it's a summer host, the spelling mistakes should be ignored anyways. Seriously?
+typicalGta - iiChxrlly_ kiddo, you can barely perform a DoS attack. It's cap we all know 😆
+iiChxrlly_ - typicalGta any proof of me ddosing then?
+Kiku - LOL this also exist. Carry on haters! Try all ur  best by spreading fake news...
+Aaron_ - Kiku My fucking god.
+__SECRET__ - Kiku LOL this also exist. Carry on haters! Try all ur  best by spreading fake news...
+
+leave ur home and die no one cares about u bozo u
+Zach - __SECRET__ ay ay ay be respectful to everyone, no breaking the community guidelines
+Shershah - Zach bro he is trying to cool toxic kidz.
+TheYeetster - typicalGta Tell me where you have seen a host use GiB instead of GB. Your argument is retarded.

@@ -1,0 +1,48 @@
+IoNetty - Hey! This is a bit of a paid host tier list, made one before but i'm trying to make it better. If you have any suggestions on what to add please respond to the thread, thanks.
+
+Minecraft Server Hosting tier list. 
+
+Note, this was completely unbias. I paid for this out of my own pocket. This whole review is 100% honest.
+
+WitherHosting - https://witherhosting.com
+
+CPU: Intel Core i9 10900K
+
+CPU Performance: 104CPS, that's really good! - Note, this was measured with Chunky, a chunk rendering plugin. It tests CPU Performance.
+
+Memory: WitherHosting uses DDR4 3200MHz to push the i9 10900K well with your server. - Note, this is your server cache you can say, what runs it as well as it can.
+
+Storage: 100% NVMe storage to provide great performance, my server started in 1 second! - Note, this is what holds your server. With the fast storage your server is lighting fast.
+
+Locations: WitherHosting has a plethora of locations, here they are! https://witherhosting.com/locations.html - Note, this is where the host has servers. So where your minecraft server can get located.
+
+Final: WitherHosting has great performance on a budget with 1$ per GB ram and cheap cores to go with your server, I would use it! Here is a promocode for everyone who read this far. Code: Performance
+
+Notes: Location used was NYC and server specs were 4GB Ram and 4 VCores.
+
+PebbleHost - https://pebblehost.com
+
+CPU: Intel Xeon E5-1650V3
+
+CPU Performance: 15CPS, that's REALLY bad. They also modified the scores, why did it show 1500? - Note, this was measured with Chunky, a chunk rendering plugin. It tests CPU Performance.
+
+Memory: PebbleHost uses DDR4 2400MHz, pretty overrated for the Intel Xeon E5-1650V3 but it's pretty good.
+
+Storage: Enterprise Grade SSD storage to provide pretty good performance with the Intel Xeon E5-1650V3. 
+
+Locations: PebbleHost has Canada &amp; Europe, pretty much it.
+
+Final: Tried to modify scores. BOO. Performance sucked anyway.
+
+Notes: Location used was North America / Canada and server spces were 4GB Ram Budget.
+Deleted User - IoNetty here are a few hosts you should add Colournodes,Powelt,Kubbur,scalacube
+FatGrizzly - Review something.host &lt;3
+Mayaa - Review lamaker.tk
+astyx - Witherhosting uses mobirise :0
+GoHill3 - Zachery Go better forum.
+
+Unless you have something special - https://drama.gg/assets/files/2021-10-19/1634652984-169705-1634531429-264769-vxaf5m7s1i.png
+GoHill3 - So WitherHosting.com and PebbleHost is a scam huh?
+GoHill3 - I think I accidentally deleted the reply, it turns into grey. I have to repost it
+IoNetty - GoHill3 no..? i honestly gave some suggestions
+SchoolRobotProMachine500 - IoNetty please add explosive burned toaster hosting solutions to the list it is the leading #1 hosting provider in the world with 8 locations and the website is hacked by bad hacker right now but when I will unhack it you can find it at http://explosive-burned-toaster-host.tk

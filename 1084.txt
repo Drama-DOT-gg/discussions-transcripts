@@ -1,0 +1,343 @@
+Dragonizedpizza - DanBot Hosting (DBH) had a massive raid, and a data leak, with all servers, users and server data being deleted. While a lot could be blamed on the raider, yooo???#3061, some parts of it could be blamed on Dan himself. The raid was because of a Pterodactyl vulnerability. The update was released, and Dan knew about it, yet he didn't upgrade. Pterodactyl themselves only released what the vulnerability was after 2 weeks of releasing the update. Many people told Dan about the update, yet he ignored it. Dan dug himself this hole.
+
+This data leak includes emails, server files, possibly IP addresses, and more.
+Dragonizedpizza - Proof: - https://drama.gg/assets/files/2021-10-14/1634206076-83823-image.png
+Dragonizedpizza - Proof: - https://drama.gg/assets/files/2021-10-14/1634206127-329725-image.png
+MaxIsDumbLoL - lmfao
+Triassic - lmfao seriously
+allmohrac - f
+RileCraft - welp
+Dragonizedpizza - was going to happen, sooner or later. dan's irresponsibility towards the host and him denying issues with it wouldn't have led him anywhere else.
+Triassic - rip user data 🙁
+blox - could've been prevented if dan updated the panel
+Sliden - ptero*
+Dragonizedpizza -  - https://drama.gg/assets/files/2021-10-14/1634208537-803450-image.png
+Aaron_ - But why light mode
+Triassic - Dragonizedpizza Technically, backups could have been downloaded, so...
+Iceey - This shit is a joke 😆
+Z81D - because im perm banned from dbh forever legit life keep sending screenshots this is the only place i can get info lol
+FC5570 - f
+SumUne - Dragonizedpizza i can't read that cuz of light mode
+SumUne - Dragonizedpizza lol one of the main reasons for not updating panel would be cuz doing the changes again
+ItsJustNickDev - Exactly what this forum is a drama.
+Its maked bigger than it exactly is.
+There isn't alot leaked.
+And just saying he is the only one that has access to all the nodes and to the panel so don't blame him for not updating.
+Yes it may is a big fault but nobody is perfect.
+And if your gonna say he should have given someone access to the nodes then this will happen but on a larger scale.
+Its harder to own a free host then you think.
+IKnowWhoRaidedDBH - hey hottie @Solo mind explaining how your friend "trio" invited the dbh raider? 🙂
+I guess you got something to do with this, then &lt;3
+For people who don’t know, solo is trio's close friend. - https://i.imgur.com/YyAwuG8.jpg
+Dragonizedpizza - ItsJustNickDev this isn't made bigger than what it is. Dan didn't address a bug, and it got his host raided, as well as all his users' files leaked. he loaded a backup which is over a month old, which may not seem like much too long ago, but its still unacceptable for a host with 10,000+ clients.
+Dragonizedpizza - IKnowWhoRaidedDBH trio is his own person. solo is not trio, trio is not solo. trio can do whatever he wants, doesn't mean solo is involved in it.
+IKnowWhoRaidedDBH - awww @Solo another friend here &lt;3 - https://i.imgur.com/9cUSsDM.jpg
+Dragonizedpizza - Z81D you're unbanned now, everyone is.
+IKnowWhoRaidedDBH - Dragonizedpizza ah yes, trio is solo's close friend and for some reason invites the same person who raided dbh… sussy 😳
+Dragonizedpizza - Triassic 
+...but its just him confirming it, and he has lied about alot of things, so... - https://drama.gg/assets/files/2021-10-14/1634216486-544561-image.png
+Dragonizedpizza - IKnowWhoRaidedDBH it may be a coincidence? you're just jumping to conclusions without any evidence.
+IKnowWhoRaidedDBH - Dragonizedpizza oh yeah, so many coincidences… 😂
+HARDY_SLICE - Aaron_ same question. Btw why did u unfriend me in discord :/
+pplover04 - wow man so sad i cry
+Dragonizedpizza - Aaron_ I have an opera extension that replaces white with black and black with white, but I just booted a new OS, and logged in on firefox
+Dragonizedpizza - IKnowWhoRaidedDBH 2 coincidences, and I have no idea who Bison is
+IKnowWhoRaidedDBH - Dragonizedpizza I have way more proof, waiting for solo's response here before sending it &lt;3
+pplover04 - IKnowWhoRaidedDBH 
+Expose everyones ass
+pplover04 - Dragonizedpizza 
+bison deez nuts
+FatGrizzly - all i see dan being a kid,
+he totally didn't care about security of his host/panel and just let it go.
+
+He could have locked the panel admin behind Cloudflare Access, or could have used access limits literally with cloudflare firewall rules.
+IKnowWhoRaidedDBH - pplover04 I will, if ill need to &lt;3
+pplover04 - IKnowWhoRaidedDBH  Love you xoxo
+DinoTheDev - IP addresses didn't get exposed (From what he said). Anyways this is Dans fault as there was also a @ everyone announcement in the pterodactyl server tell people to update.
+Willypro7 - Server invite?
+pplover04 - Willypro7 discord.gg/dbh
+pplover04 - DinoTheDev i agree that it's dans fault too
+DiscordUser - Z81D Z8, everyone has been unbanned since the hacker banned everyone in the server... you can join back.
+PolyAnthi - After what has happened with DBH, I do not trust them anymore. Most people in the community probably agree. We've lost a full month worth of data when Dan claimed to backup "every 2/3 days". For a host this big, they should be backing up their data at least every week because something like this would be bound to happen (as a host this big would normally get targetted). Overall, I think Dan thinking a month backup is fair enough on the community and that he lies about uptime is just horrible and unfair on the community.
+Oreo - FatGrizzly Hey, just wondering what are the steps someone would have to do to "lock the panel admin behind Cloudflare Access", cause it sounds interesting and sounds like it can increase security. I wanna test it out on a private panel xD. - https://drama.gg/assets/files/2021-10-14/1634223486-599920-chrome-f4qgld4lx2.png
+dxqt - Oreo he mean firewall not access...
+FatGrizzly - dxqt i meant both
+dxqt - you can just add a rule that block everyone from accessing the panel
+FatGrizzly - Oreo add me on discord FatGrizzly#5803 i can explain better there
+Oreo - dxqt yeah, but I wanna know how to block access to the admin side, not everyone.
+dxqt - Oreo then block your admin area url
+Dragonizedpizza - And I've just been banned for no reason (atleast that's what I can perceive, considering no one is telling me anything. 
+). Perhaps its because I blame it on Dan (like I should) for not updating ptero. - https://drama.gg/assets/files/2021-10-14/1634228030-628344-image.png
+Dragonizedpizza - He responds in less than a minute when I first sent him a message, but doesn't respond in what's now 3 hours.
+pplover04 - Dragonizedpizza he could be busy rn, idk
+Solo - IKnowWhoRaidedDBH You are literally a moron.
+you know we have many groups and servers, if anything that means the raider was close, and not necessarily trio. And the reason DBH got raided which MR. Dan isn't mentioning is his retarded ass most likely leaking config.json which stores API keys, SSH login, bot token, etc....
+
+and if that's not enought, proof that i didn't have anything to do  with it, since mr dan also has a notpad filled with ips, 1 of them is amongs them.
+
+
+also please have some courage and make a post on using your main, you're just sounding like a clown. - https://drama.gg/assets/files/2021-10-14/1634241024-357623-2021-10-14-14-17-41.png
+Solo - Dan is simply 2 faced, he'll do anything to avoid taking responsibility for what happened, and if he does he'll prob blame it on ignorance and not him being retarded, cause as far as I know the bot's token was nowhere near the main panel (since DBH uses a different VPS to host the bot) Therefor, claiming that the security breach happened tho is very wrong and could've happed if that wasn't the actual reason, Dan still did something wrong to leak the bot's token (which he's for some reason still blaming me for). BTW that wouldn't be the first time dan leaked something and was too lazy to regenerate. @Xcyth  had DBH's manage bot token for months before dan regenned it - https://drama.gg/assets/files/2021-10-14/1634241427-779522-image.png
+Chirag - Solo since mr dan also has a notpad filled with ips, 1 of them is amongs them
+
+fyi, hop into mariadb, SHOW * FROM audit_logs;
+there
+you can see all the IPs there with the actions
+Solo - Chirag does that mean he should store them? Are you retarded or acting like a retard?
+
+Especially since it's the notepad file he uses for is for his questionable activities on the internet 🤭
+Xcyth - Solo hes acting like a retard because he is a retard
+Solo - Xcyth ah, fair
+PolyAnthi - Solo He owns a multi egg thing or something so he's definitely special.
+Xcyth - PolyAnthi yeah me and his mom think he's special
+PolyAnthi - You can include me in that statement
+Chirag - Solo does that mean he should store them
+
+mariadb is a fucking database, what do you expect it to do? pterodactyl saves it.
+Solo - Chirag you're actually an illiterat retard
+Chirag - Solo calm down retard.
+a database is meant to store stuff.
+Solo - Chirag theres a different between ips being in a database on a server and ips being on his fucking pc in a notepad. stop being a pet
+Chirag - Solo what if he checked the IP from the db?
+Ricky - Join https://discord.gg/Cpw9G48SXr, I have made a channel talking about the raid. Including who is apart of it, etc.
+Ricky - These little minions working for Dan are trying to remove me. They know about my server, they know that people know the truth. While you still can, join my server.
+
+It contains and explains what happened in the raid, what got leaked, who did it, what the reason is.
+We also have "exposed" some other hosts, including falixnodes, and darynodes.
+Now of course, we don't have all the information. If we're missing some information, you can DM me. My DMs are open. I'd be glad to receive your knowledge on the current situation.
+
+Our team likes to expose these little cunts.
+_MrKnight_ - Ricky hey asshole, stop advertising. Drama.gg is a forum to expose these cunts, if u want to expose people make a thread here, don't try to advertise ur fuckedup dc to reduce the traffic!
+_MrKnight_ - Ricky And u are talking about hosts which was exposed ages ago, for fuck's sake get out of ur den and touch the fucking grass
+Xcyth - Chirag I knew you were retarded I didn't know you're that retarded. I think your whole family tree is retarded and every generation the level of retardness increases. Its in the genes
+Dragonizedpizza - Ricky bro legit stfu
+Chirag - Xcyth imagine being that retarded that you can't patch disk filling lmao, and imagine using HDDs for your so called "free host"
+Dragonizedpizza - wait what
+he uses HDDs for his host??
+IKnowWhoRaidedDBH - Solo guess what? The Ricky guy already exposed you, for being this yooo??? alt! 🥺
+I have way more proof to expose you, but I just don’t want to completely destroy your public image. 
+Why don’t you just admit it? You know that all this shit you did can get you termed from discord? &lt;3
+IKnowWhoRaidedDBH - Dragonizedpizza yes, xcyth's host uses HDDs. Their TOS was stolen from DBH, and guess what? One of the listed.host owners (and I’m not saying who at the moment) contributed to this raid! ☹️
+_MrKnight_ - Dont DBH stolen Iceey's tos?
+_MrKnight_ - Also if I'm sure, discord won't term your account until u do attacks/talk about harming via discord I think just supporting a raid won't term your account
+_MrKnight_ - But im happy , a Shit host like dbh Managed to suffer ike this
+Solo - IKnowWhoRaidedDBH I have way more proof to expose you, but I just don’t want to completely destroy your public image.
+
+stop bluffing my guy
+Solo - IKnowWhoRaidedDBH you're literally full of bs my guy LMAO
+Solo - _MrKnight_ honestly same, the only sad thing is i spent a lot of time on it
+Chirag - Dragonizedpizza yep
+Chirag - IKnowWhoRaidedDBH just do it
+FadedSkies - Chirag yet you're still here lol. Why care what kinda shit we have? You're not paying for it, I am.
+FadedSkies - IKnowWhoRaidedDBH imagine having to give a fuck tho, y'all really got nothing better to do other than talk shit. Lol, find it funny cuz this is what y'all do 24/7
+Iceey - FadedSkies And all you do 24/7 is trash people for doing this 24/7 bum head ass hypocrite 😂
+FadedSkies - Iceey do I though?
+Iceey - Can't take a fucking argument so you say "imagine having to give a fuck tho", ese you ain't shit in here, so I don't think they give a fuck about your opinion either. On the other hand I do because you're being a bum ass twat thinking you're hard when you ain't
+FadedSkies - Pretty sure I'm not on here 24/7 though, cuz I got a job and I'm not gonna be on here talking shit like crazy.
+14191 - Dragonizedpizza why you use light mode 😠
+Iceey - FadedSkies Get the fuck off of here and go work then 😂
+FadedSkies - Iceey wow you're so cool. Nobody gives a single fuck about you.
+FadedSkies - Iceey nah you can go to work
+Iceey - FadedSkies 😂 which one of us in an office right now? 😄
+Iceey - That they own?
+FadedSkies - Do I care though?
+Iceey - I don't give a shit if you care or not I care a shit about you acting hard when you ain't, simple as ese.
+FadedSkies - I'm not acting hard tho lmfao, stupid ass ppl
+Iceey - FadedSkies Right, you're also very intelligent I suppose...
+FadedSkies - Lol, got nothing better to do 😂 whack
+Iceey - Says who? We both in this bitch
+FadedSkies - U right 💀
+Chirag - FadedSkies at least, iceey doesn't own a shitty free host which uses hdd lmao
+Iceey - I'm just waiting on my 400GBP payment, don't mind me.
+FadedSkies - Chirag Lol yet you're still here my guy, I pay for my shit. I'm not using free trials nor anything that's suspicious or trash. But if you may do, you can do whatever
+FadedSkies - I know it isn't, but I still pay for it. I'm not flexing. If I wanted to be a scumbag I would've gotten free trials
+Chirag - FadedSkies kubbur doesn't randomly delete all your data unlike listed so shut
+FadedSkies - Chirag I don't have anything to do with the servers, I only buy them/purchase it.
+Chirag - lol - https://drama.gg/assets/files/2021-10-15/1634306086-8301-screenshot-2021-10-15-19-23-34-43-8110815a90a63ac3d3d945cf32a1cf14.jpg
+FadedSkies - Wasn't me though was it 🤷
+allmohrac - FadedSkies sup skies
+BaconPowered - guys dont worry he raid to improve host security together because security partner was taking a few notes! You should be happy to see they are doing together to improve security!
+IKnowWhoRaidedDBH - BaconPowered What in the actual fuck did I just read?
+YusufYaser - BaconPowered improving security by leaking data? improving security by ignoring pterodactyl security updates?
+BaconPowered - IKnowWhoRaidedDBH bro shut op bro solo do it to improve security with Dan  they secretly don’t want to tell but they op bro freinds. so bro shut and get your fact right. They just do it to improve security together because security partner was taking a few notes.
+BaconPowered - YusufYaser bro security partner was taking a few notes they do it together to improve security
+IKnowWhoRaidedDBH - BaconPowered man, go get some help.
+YusufYaser - BaconPowered are you a human with a brain? i never saw that kind of stupidity.
+Chirag - YusufYaser - https://drama.gg/assets/files/2021-10-15/1634309066-20079-screenshot-2021-10-15-20-13-17-77-572064f74bd5f9fa804b05334aa4f912.jpg
+YusufYaser - Chirag still, his reply doesn't make any sense.
+BaconPowered - YusufYaser bro I am most intelligent person in world, jamz 😋 can confirm
+YusufYaser - BaconPowered bro I am most intelligent person in world
+
+absolutely clear
+BaconPowered - YusufYaser just ask jamz 😋 @DiscordUser jamz can confirm I am most intelligent in earth
+Chirag - YusufYaser mhm, it does to me. I guess you've never heard about load balancing
+IKnowWhoRaidedDBH - BaconPowered advice: get some help
+IKnowWhoRaidedDBH - YusufYaser you dumb load balancers are smart just like @Chirag said
+YusufYaser - Chirag "he raid to improve host security together"
+YusufYaser - this is what he said
+Solo - Iceey mate, you got a kfc pfp ain't no one hiring you fatass
+Solo - YusufYaser
+ 
+you know when you delete a config file and it downgrades the entire software 🤣 - https://drama.gg/assets/files/2021-10-15/1634309839-34322-image.png
+BaconPowered - Solo Bro you op bro that help improve security I want to be like you when I grow up you did awesome thing helping a host improve security together!
+YusufYaser - Solo lmaooo
+Chirag - Solo lmao, you're dumb solo
+Chirag - YusufYaser well ik that guy (bacon) is dumb
+Solo - Chirag says the one who likes following other people's opinions without being provided any proof or context. you're literally a sheep
+IKnowWhoRaidedDBH - Solo you should know it, dbh automatically updates panels with a script, if you delete the script's config the panel gets downgraded
+IKnowWhoRaidedDBH - Solo sheeps are cool 🐑
+still better than being an imposter (like you ) &lt;3
+Solo - BaconPowered it wasn't me but I will gladly take the credit! 👍️
+Solo - IKnowWhoRaidedDBH you still haven't sent your proof that will "destroy my public image"
+BaconPowered - Solo you still op strong bro
+Solo - IKnowWhoRaidedDBH congrats your iq dropped by 30 points
+IKnowWhoRaidedDBH - Solo I am giving you a second chance. Then, your public image will be completely destroyed!
+BaconPowered - Solo I will remove 30 social credit from his profile, op bro solo
+Solo - IKnowWhoRaidedDBH I don't believe in second chances, please destroy me daddy! 😩
+BaconPowered - Solo op bro solo don’t mind him he is just stupid idiot, I am making thread to expose him!
+IKnowWhoRaidedDBH - Solo I am giving you a second chance because everyone do. And why you using horny stickers?
+Solo - IKnowWhoRaidedDBH cause I am very horny right now.
+IKnowWhoRaidedDBH - Solo You’re the first person I see that gets horny and excited when nuking discord servers.
+BaconPowered - Solo daddy solo you so cool 😋
+Solo - IKnowWhoRaidedDBH No, I am horny and excited over your ability to destroy my public image 😩
+BaconPowered - Solo 😋 daddy solo
+IKnowWhoRaidedDBH - Solo Stop being a horny script kiddo
+Solo - IKnowWhoRaidedDBH No that'd be @Chirag he's kind of a skid. I make my own stuff! 
+
+But yes attack me more daddy!!!!!😩
+IKnowWhoRaidedDBH - Solo horny kiddo. Let me know, you going to work for listed.host now?
+Chirag - Solo he's kind of a skid.
+
+well yeah, I make scripts and then I use them since I'm lazy to install them manually
+BaconPowered - Solo op bro solo we need more daddy power 😋
+Solo - IKnowWhoRaidedDBH fuck no, i ain't working for any hosts. i made that very clear on multiple occasions. and even if i do that's non of your business daddy 😩
+BaconPowered - Solo solo op bro wanna be my daddy 😋
+IKnowWhoRaidedDBH - Solo stop with this fucking joke
+Solo - IKnowWhoRaidedDBH I'm not joking daddy! 😩 😊
+IKnowWhoRaidedDBH - Solo get a life
+Solo - IKnowWhoRaidedDBH The only possible like i see is with you 😩
+FC5570 - @IKnowWhoRaidedDBH go on, destroy his public image, send some proof it was him who raided dbh, why are you changing the topic?
+Solo - FC5570 Dude do you think you can convince him to date me 😉
+IKnowWhoRaidedDBH - FC5570 I am not changing the topic, he is.
+FC5570 - IKnowWhoRaidedDBH ok, doesn't matter. Still waiting for proof
+IKnowWhoRaidedDBH - FC5570 
+
+FC5570 
+
+FC5570
+Chirag - IKnowWhoRaidedDBH send the proof, destroy solo's image (non existent)
+BaconPowered - FC5570 me and daddy solo reputation depends on leaker 😋
+Solo - 🤭 Dan got a rare case of male periods 🤭
+BaconPowered - Solo daddy solo you give him period? 😋
+Solo - BaconPowered na he's too bipolar he developed periods
+FC5570 - what kind of proof is this @IKnowWhoRaidedDBH - https://drama.gg/assets/files/2021-10-15/1634311841-196933-img-20211015-205931.jpg
+BaconPowered - imagine FatGrizzly#5803 asking to ban me, daddy @Solo save me 😋
+IKnowWhoRaidedDBH - FC5570 you are missing the drama.gg proof intent
+FC5570 - haha very funny. Got no proof do you?
+IKnowWhoRaidedDBH - FC5570 I have so much proof that can destroy his public image, but I give him a second chance!
+Solo - IKnowWhoRaidedDBH i am not going to change, please post the proof. 😩
+Chirag - IKnowWhoRaidedDBH then fucking send it
+FC5570 - IKnowWhoRaidedDBH ok, go on, destroy his public image, I'm pretty sure he doesn't care. Got anything else to defend your accusations? No? Ok 👌
+IKnowWhoRaidedDBH - Chirag no, I am giving him another chance
+Chirag - IKnowWhoRaidedDBH dm me on discord, Chirag.#0001
+BaconPowered - Solo daddy solo 😋
+IKnowWhoRaidedDBH - Chirag no, I don’t want to reveal my identity. I will just say that I am a donator in the danbot hosting discord server.
+Iceey - Solo I don't need to be hired when I employ myself.
+Iceey - Feel free to connect with me on linkedin 🙂
+BaconPowered - Iceey let’s ride up to kfc with my daddy @Solo
+Dragonizedpizza - 14191 bro legit stfu
+Iceey - BaconPowered Pullup to my office on the way, Kalkofnsvegur 2, 101 Reykjavík. 3rd Floor K-315 "KVM Group Limited".
+BaconPowered - Iceey where is this
+BaconPowered - Dragonizedpizza light mode is for inferior human
+BaconPowered - Iceey and why you posted your address here hackers can get your position and kidnap you or something bad!
+Iceey - That's my office address... and my address is on my companies' profile anyways
+Dragonizedpizza - BaconPowered "daddy solo" uses light mode
+BaconPowered - Iceey oh wait you the guy from kubbur group limited
+BaconPowered - Dragonizedpizza daddy solo is superior with or without lightmode 😋
+Iceey - BaconPowered sure I guess you can call it that
+BaconPowered - Iceey my friend once called it icevm fard incorporated! but it was epok joke! 😋
+Iceey - nice
+BaconPowered - Iceey I will send kfc nuggets to your address of kubbur group limited office!
+RudimentaryLin - this chat honestly makes me feel like doing this - https://drama.gg/assets/files/2021-10-15/1634313369-261897-image.png
+BaconPowered - RudimentaryLin is this  daddy solo dedi?.
+RudimentaryLin - this is a bloody thread on a DanBot Hosting leak, not your KFC nuggets or your shitty office
+RudimentaryLin - BaconPowered no.
+Iceey - RudimentaryLin Ye I know ese, just fucking around eh
+BaconPowered - RudimentaryLin DID YOU JUST SAY KUBBUR GROUP LIMITED OFFICE IS SHITTY? GET READY FOR DESTRUCTION OF DESTRUCTIONS!
+BaconPowered - RudimentaryLin daddy solo dedi is healthy 😋
+BaconPowered - anyone need an advisor?
+Jedrik - BaconPowered Yeah, I have erectile dysfunction, what do I do
+BaconPowered - Jedrik just take erectile pills 😋
+RudimentaryLin - ok, if you want to use this as a shitpost, I shall too
+BaconPowered - RudimentaryLin I am just a indipendent advisor trying to do my work.
+RudimentaryLin -  - https://drama.gg/assets/files/2021-10-15/1634314332-395647-image.png
+RudimentaryLin -  - https://drama.gg/assets/files/2021-10-15/1634314344-857847-image.png
+BaconPowered - RudimentaryLin @mods delete this inappropriate post!!
+BaconPowered - @Iceey when I can visit KUBBUR group limited office?
+BaconPowered - and does icevm incorporated have another office so I can visit it too
+Dragonizedpizza - https://ice-wm.org/
+BaconPowered - Dragonizedpizza This is not icevm incorporated link !!!! Guys don’t click!!!! 🚨
+BaconPowered - @Chirag is KDE made by kvm group? - https://i.imgur.com/kJcIzEP.jpg
+BaconPowered - I AM READING GENERAL CHAT IN DRAMA.GG DONT BAN ME PLS I DID NOT DO ANYTHING PLS !!!!!! 🚨
+BaconPowered - 340426742466609152
+BaconPowered - @Iceey oh can you please explain to me how dediguard work? I want to buy it for bacon powered host premiu
+BaconPowered - hahahah I was acting or was i
+BaconPowered - Ok so I can reveal my account who want my disocrd id
+Rickylmao - Hello. I'm Ricky. I've noticed some drama going around with DanBot Hosting. 
+
+A little information:
+DanBot Hosting, with raids, bad services, horrible uptime, false advertising. (Saying their uptime is 100%. 🧢cap) &amp; scamming people who have donated. They have horrible security, and the owner Daniel doesn't give a single fuck. The hacker yooo??? was able to receive some DBH clients tokens. 
+Evidence 1 of bots being hacked right after dbh raid
+Evidence 2 of bots being hacked right after dbh raid
+Evidence 3 of bots being hacked right after dbh raid
+these are message links. Will only work if you're in the DBH server.
+These are just 3 of many users who have experienced their bots being hacked right after the raid.
+
+Much more information can be found HERE. Remember to change your passwords. Especially after that DBH raid.
+You can DM me on Discord, if you want me to add anything else. 
+Our info is backed up by tons of users, and a portion of what Dan has said.
+
+Stay safe out there.
+Rickylmao - Oh yes, it was also confirmed that solo was apart of the little raid. Wonder what darkerink is gonna say after he said that's not true 😂
+Solo - Rickylmao uwu proof please?
+trio - i got 2 dicks in my hand, jerkin off a fuckin man.
+Triassic - impressive
+Solo - trio It's wet as fuck, I lick it up. My cum is whiter than the klan
+trio - im hewe to confiwm solo did it. cus hes fwiends with me 🥺
+Armic - trio I also did it.
+trio - Armic yes you did
+Solo - And i am confirming trio dit it cause he posted an invite link in a server!
+trio - Solo ya
+DinoTheDev - RudimentaryLin nah do this cuz you a human
+
+fs rm "/brain" *
+system start commit-not-alive
+fs rm "/body/brain/config"
+system restart brain
+RudimentaryLin - just about none of those commands are valid
+RudimentaryLin -  - https://drama.gg/assets/files/2021-10-16/1634355586-606274-image.png
+Jamie_ - I was having a chat with dan and this is what he said to me. I think it is a fair response in his defense but don't come attacking me for my opinion. - https://drama.gg/assets/files/2021-10-16/1634376189-790209-image.png
+Chirag - I'm sure that this sounds weird, but there was around a 0.00013333333% chance that the pterodactyl exploit was used and was successful, more explanation in the next reply
+Chirag - the exploit is extremely hard to use, there seems to be no way to get a cache key.
+even if they got the cache key, they'd still have to bruteforce through 1000000 (10 to the power of 6) oauth2 keys, giving it a 1/1000000 chance, since one panel was actually updated, the chances decrease even more (75% chance of success even after the 1/1000000 chance)
+Jamie_ - Ricky Ok you are really starting to annoy me on this forum. The point of this forum is not to post everywhere you can and post your discord link, it is exposing people. And what you have wrote about DBH, you haven't done a single bit of research and instead braindumped onto a discord message. Let me quote you on this you said here: 
+
+"How'd this happen? Dan | DBH#9700, the owner of DanBot Hosting was using an outdated version of pterodactyl. Guess what, the members were well aware what could've happened. They notified and kept telling Dan | DBH#9700, every single day for over 2 weeks! He didn't give a shit, he knew this would happen. He let thousands of his clients IPs, passwords, and even emails get leaked. 🤣"
+
+As mentioned in this thread, he updated one of his panels to the latest version. I agree he should have updated the other 3 however he just forgot as humans do and people don't know he has 4 panels for load balancing so were happy when he upgraded one. You then go on to say that the hacker got clients IPs and passwords. Now if you use that thing in your head called a brain, pterodactyl admin side gives you neither of those unless if the hacker accessed the MySQL database storing the passwords encrypted, which then the hacker would have to get the decryption key from the panels files which would need VPS access. Now if you again took the time to do a bit of research, nothing like VPSs was accessed. Same with IPs, that would need MySQL access if they use a MySQL session driver, or VPS access if they use a filesystem or redis session driver.
+
+Please do more research before just braindumping onto a discord server that you are advertising on this forum. It makes you look a bit silly to be honest.
+Jamie_ - My post above is not supporting what DBH is doing, it is just proving the ricky ass hole wrong ^^
+Solo - Chirag there's a 75% chance of being routed to a non up to date version
+Chirag - Solo there's still a 1/1000000 chance you manage to brute force the correct Oauth2 key. since they're 6 digits long and the numbers can range from "0,1,2,3,4,5,6,7,8,9" 10 numbers. so 10 to the power of 6.
+iiChxrlly_ - ty for unbanning everyone includes me lol, i was banned from dbh a year ago with no reason lol all i remember is leaving my bot hosted in dbh
+Deleted User - Chirag dont forget they also change every minute
+honiism - DiscordUser Can you tell us the link please?
+Discord - I'll post it again here...
+Discord - Ahem... I got some good news (or bad) about dbh's drama!
+
+
+
+
+As you can see dan does keep some docs of IPS. - https://drama.gg/assets/files/2021-10-23/1634973940-932477-image.png
+Discord - Now, Its been claimed that dan has ddosed someones panel. - https://drama.gg/assets/files/2021-10-23/1634974177-85695-screenshot-2021-10-23-at-082740.png

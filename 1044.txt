@@ -1,0 +1,57 @@
+Two - If you can afford servers/VPSes/dedicated servers from reliable well-known brands, don't use a free host, even though it's for testing or etc reason. 
+
+
+
+First of all, what is a free hosting provider? Well, in this thread, a "free hosting provider" will be considered a hosting provider that is free of charge of money, with exceptions to built-in currencies on these hosts. These free hosting providers can have a way of making money.
+
+Now, we have to define what's a "good" free hosting provider. In order to define that, we need to know what a good host in general is at first.
+
+Good hosting providers in general have:
+
+Professional staff. This includes they must have knowledge about hosts, and what the host is about.
+Good uptime.
+Runs everything legally. No nulled/cracked WHMCS.
+Usually a registered company.
+Has a good budget, and can handle paying for server costs.
+Doesn't overallocate.
+Doesn't run on any "free" domain, VPS, another hosting, etc.
+Good owner that can handle the hosting provider, and organize everything.
+Has a website, and doesn't run straight from a third party platform, like Discord.
+Has legal documents. (terms of services, privacy policy, etc)
+Not a scam in general.
+Not run by kids.
+There's a ton more. I made another thread about what is considered a good host here. https://drama.gg/d/846
+
+Now, every good hosting provider doesn't have everything listed above, so don't expect every good free hosting provider to do things like not overallocating. No host is perfect.
+
+
+
+Moving on, now we know what a good host is, what's a good free host?
+
+Well, one aspect of that is that it's free... but it has a way to get money. The hosting provider needs to be able to maintain itself and it needs to be able to stay up. This is part of what is a good host in general, but this in itself is important, because the host needs to stay up if you want to use it. 
+
+Second of all, expect maintains, or some 'shit' limitation. For example, server.pro has a 1 hour limit (unless you do the captcha), and Aternos servers automatically shut down after a period of inactivity. Don't expect even any free host to be 'perfect'. They all have their own pros and cons.
+
+Third of all, they shouldn't sell your (server) data. People will disagree with me on this, but going through your server files and etc to sell is an invasion of privacy, and they would be leaking your work. You don't want that to happen to your server don't you? If they just send you promotional emails (not related about your server), that's a completely different story, since they wouldn't be leaking what you're making.
+
+[you see, I can't think of anything right now, so i'm just going to write this here]
+
+
+
+So, in my opinion, here are some hosting providers I'd say are "good" or "decent" free hosting providers:
+
+CentroNodes
+Some people will disagree with me with this. The main reason why people hate CentroNodes is that you need to make coins to create servers. You basically have to AFK on a website, cryptomine, or etc to get coins, then you can create servers. If you are one of those people who are going to say "why not cryptomine and make money yourself?", that completely defies the definition of free hosts. You aren't the one handling all the server stuff, nor are the one needing a cryptomine wallet, PayPal, a credit card, or anything like that to use the host. CentroNodes seems like it can clearly sustain itself for a long time, and makes enough money for their nodes. I wouldn't use this host if you aren't willing to keep an miner on your computer.
+
+(some things I wrote about centronodes are now outdated, but centronodes still is good)
+
+DanBot Hosting
+Ok. This host has many downtimes in what I've seen and heard of, and may have some unprofessional staff due to the way the host is managed, but... it's a free host. Expect downtimes. Also, the staff aren't unprofessional in a bad way. They are people from the community and they talk with the community. Getting to know people who use the host, and keep these 'relationships' or something, are actually a really good way of... something.. that rarely hosts do. (Also, Dan is pretty epic.) The host has a website, but something that bothers me is that the host doesn't really seem to get the money it's deserving or enough to keep it sustain. The owner seems to pay for everything, which does show that the owner does care about the community. In a recent conversation I had with Dan (why am I writing this so professionally), it seems like the host can actually sustain itself (regardless of the downtimes), since the owner has a job that pays enough for the nodes. The host definitely overallocates, but you should expect that in a free host. I wouldn't use this host if you want to keep uptime on your server.
+
+[i can only think of one more but it isn't really a host but it's just a cool discord bot, it's really hard to find decent/good free hosts]
+Two - also, i was half sleeping while making this thread. why did i write this? well, i saw several "is there any good free/cheap host" threads in drama.gg multiple times, and i may as well make a thread that hopefully stops these types of posts
+
+feel free to add on
+Tomas - IoNetty If you have users registered on your server then you have collected data?
+Sebasorova - This is a really good post, is hard to find an stable and proffessional free host, and sometimes theyre not legal runned or they has some economy problems to run, anyway good post
+Two - IoNetty thats just plain up advertising where you arent supposed to...

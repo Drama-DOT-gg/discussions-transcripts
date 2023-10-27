@@ -1,0 +1,12 @@
+bandit - So first of all, nothing against anyone personal this thread is made just so they can overlook their mistakes and maybe fix them in the future. Let the screenshots speak for themselves, the CPU &amp; RAM Graph is from some random bot I hosted there just to see the usage. As can be seen from screenshots (they are a few days old so there might be more servers) they have 500+ servers of atleast 500mb, which totals up to 250gb on a 16gb contabo node, also the usage is capped at 100% and they deny overallocation.
+https://imgur.com/a/9pxggfJ
+bandit - Also, there's a bunch of screenshots so I just uploaded them on imgur to prevent this thread being blocked by 20 images.
+bandit - Also, nice optimization for mobile devices on the website you're killing it guys!! - https://drama.gg/assets/files/2021-10-25/1635163733-200781-image.png
+bandit -  - https://drama.gg/assets/files/2021-10-25/1635164178-196708-image.png
+Giyu - bandit i wanna die
+Giyu -  - https://drama.gg/assets/files/2021-10-25/1635164502-787121-discord-uxecqmvcuh.png
+PolyAnthi - Giyu Whats wrong with this?
+Deleted User - Got ips of nodes? So that we can go check for abuse
+Giyu - PolyAnthi sorry to say i dont trust a host which runs 500 servers in a 16gb contabo node and montly purges it
+PolyAnthi - Zachery Abuse of what?
+Giyu - @Zachery - https://drama.gg/assets/files/2021-10-25/1635164706-368430-discord-mmydwnnn4m.png

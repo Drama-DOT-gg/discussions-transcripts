@@ -1,0 +1,188 @@
+Jamie_ - Dijx cloud platform is run by Jex#4555 on discord and I used to work for them. Firstly it took them over 2 months to buy whmcs from release and in that 2 months he made the excuse constantly he "Had a social life too". Yeh, and you wanna run a good business. He also uses a 16gb contabo node with a 4 vcore processor. He seems to think that AMD EPYC is just 1 cpu as he says they have an AMD EPYC cpu when people ask lol.
+He also is using a 1gb EC2 node from amazon as their US node
+Nice. Using a free VPS for your host. Also one of their ex-staff members downloaded my files from a server I had with them and took my bot token and everything (And it is a verified bot too.) 
+Jex also never stuck with any idea I gave and whenever I did try and push one like switching from 1.0 pterodactyl to 0.7 for addons and theming then he constantly accused me of being pushy. Whenever I threatened to leave as well he always blamed it on the fact that we weren't switching to 0.7 but instead it was because nothing had happened at all and I was getting bored. Also one of their current staff members has a DNDW role in the winterhoax discord. Jex also likes to bring up my past and other winterhoaxes that I have proven wrong like me using a website builder for someone, but he is yet to use that brain of his to see the evidence I showed him. I bet he will reply to this talking about my past lol. In conclusion, DO NOT buy from these guys, you get a shitty cpu from a shitty VPS that can barely handle 2 minecraft servers. (Discovered that one in my testing).
+
+Will post updated here. - https://winterhoax.com/assets/files/2021-03-07/1615153467-77177-image.png
+Jamie_ - Dijx cloud platform is run by Jex#4555 on discord and I used to work for them. Firstly it took them over 2 months to buy whmcs from release and in that 2 months he made the excuse constantly he "Had a social life too". Yeh, and you wanna run a good business. He also uses a 16gb contabo node with a 4 vcore processor. He seems to think that AMD EPYC is just 1 cpu as he says they have an AMD EPYC cpu when people ask lol.
+He also is using a 1gb EC2 node from amazon as their US node
+Nice. Using a free VPS for your host. Also one of their ex-staff members downloaded my files from a server I had with them and took my bot token and everything (And it is a verified bot too.) 
+Jex also never stuck with any idea I gave and whenever I did try and push one like switching from 1.0 pterodactyl to 0.7 for addons and theming then he constantly accused me of being pushy. Whenever I threatened to leave as well he always blamed it on the fact that we weren't switching to 0.7 but instead it was because nothing had happened at all and I was getting bored. Also one of their current staff members has a DNDW role in the winterhoax discord. Jex also likes to bring up my past and other winterhoaxes that I have proven wrong like me using a website builder for someone, but he is yet to use that brain of his to see the evidence I showed him. I bet he will reply to this talking about my past lol. In conclusion, DO NOT buy from these guys, you get a shitty cpu from a shitty VPS that can barely handle 2 minecraft servers. (Discovered that one in my testing).
+
+Will post updated here. - https://winterhoax.com/assets/files/2021-03-07/1615153521-940019-image.png
+Jamie_ - Dijx cloud platform is run by Jex#4555 on discord and I used to work for them. Firstly it took them over 2 months to buy whmcs from release and in that 2 months he made the excuse constantly he "Had a social life too". Yeh, and you wanna run a good business. He also uses a 16gb contabo node with a 4 vcore processor. He seems to think that AMD EPYC is just 1 cpu as he says they have an AMD EPYC cpu when people ask lol.
+He also is using a 1gb EC2 node from amazon as their US node
+Nice. Using a free VPS for your host. Also one of their ex-staff members downloaded my files from a server I had with them and took my bot token and everything (And it is a verified bot too.) 
+Jex also never stuck with any idea I gave and whenever I did try and push one like switching from 1.0 pterodactyl to 0.7 for addons and theming then he constantly accused me of being pushy. Whenever I threatened to leave as well he always blamed it on the fact that we weren't switching to 0.7 but instead it was because nothing had happened at all and I was getting bored. Also one of their current staff members has a DNDW role in the winterhoax discord. Jex also likes to bring up my past and other winterhoaxes that I have proven wrong like me using a website builder for someone, but he is yet to use that brain of his to see the evidence I showed him. I bet he will reply to this talking about my past lol. In conclusion, DO NOT buy from these guys, you get a shitty cpu from a shitty VPS that can barely handle 2 minecraft servers. (Discovered that one in my testing).
+
+Will post updated here. - https://winterhoax.com/assets/files/2021-03-07/1615153719-561745-image.png
+Fallen - Well sounds like someone is having a bad day so they had to take it out on Dijx?
+MicroBot - ayo djix shit
+Fallen - MicroBot ayo stfu noob
+Jamie_ - Fallen Nah I have spoken to you in DMs and told you I was gonna do this lol. It is all true, have the proof there.
+MicroBot - First they still do use contabo fallen confirmed that.
+Jamie_ - MicroBot correct
+Fallen - Jamie_ Cranky Cranky child.
+MicroBot - Fallen lmao you have dndw
+Fallen - MicroBot so?
+JexUK - Full response coming here soon, give me a minute while I get some mf apple juice
+luca - JexUK orange juice ftw
+Fallen - JexUK You tell em Jex
+JexUK - luca how dare you. That is a sin
+luca - JexUK how is it a sin
+JexUK - luca Let's not get into this here LMAO
+luca - JexUK alr DM me on discord
+downi.#6644
+Jamie_ - JexUK Full response? Like I said in my original post, you will bring up MY past no doubt, say I was crying over not using 0.7 when this is about dijx. I have provided proof of what you are doing and the fact you will bring up my past over your company, lol
+Jamie_ - My past has shit to do with dijx and that was prooved wrong ages ago lol - https://winterhoax.com/assets/files/2021-03-07/1615154882-841667-image.png
+Fallen - Jamie_ Well maybe don't cry over shit and there would be no issues.
+Jamie_ - Fallen Lmao so now the guy with a DNDW role has come in? Never cried about shit, he likes bringing up peoples pasts as he has no other argument to make lol
+JexUK - Stop bickering or I'll get the belt
+Jamie_ - Using Amazon EC2 for your host might not refect great on your company lol
+Jamie_ - JexUK See, He cannot even take a situation where someone is obliterating his quote on quote "company" and he still thinks its a joke
+JexUK - We were using EC2 as a test node, in which we temporarily moved one free customer onto it (back when we did free plans). We are no longer using EC2 as a public node, it was and always has been for testing purposes. We would never put paying customers on any platform below an Intel i7-7700K/Ryzen 5 3600. Anyway I'm in the middle of writing this up so will you please z i p  i t
+Fallen - Jamie_ Yeah I have DNDW for something I did, You should have it to for being a pain in the ass and a dickhead.
+JexUK - Jamie_ I wouldn't say a kid writing something on a small platform is 'obliterating'
+Fallen - JexUK exactly
+Jamie_ - JexUK You have neither of those CPUs and you are still using it, you called is US.01 and you can see on your website you said you are still using it - https://winterhoax.com/assets/files/2021-03-07/1615155340-776310-image.png
+Jamie_ - You asked me to put a free ddos script on your contabo server and then when I removed it you got ddosed for 5 hours straight - https://winterhoax.com/assets/files/2021-03-07/1615155363-749799-image.png
+JexUK - Jamie_ We were, for around 24 hours, using US-01 as a node while we migrated to a new webserver. Once we were done with migration, we instantly moved the free client back onto a higher performance node
+Fallen - Jamie_ Yeah cuz u ddosed us.
+JexUK - Jamie_ We now have encryption and DDoS protection handled by both Cloudflare and our third party providers.
+JexUK - JexUK Also, would just like to mention, you have DDoS attacked one of our main nodes multiple times. Even when I explicitly told you not to. I'll reference this in a later post
+Jamie_ - JexUK "Higher performance node" the contabo one that can be taken offline like a knife through butter and has 4v cores, 16gb of ram and can only run 2 minecraft servers at a struggle?
+Jamie_ - JexUK Actually I did not, I would like to see proof of this.
+Jamie_ - JexUK You cannot proxy a TCP connection through cloudflare so you are lying
+JexUK - Jamie_ 
+Here are the full specifications of DE-01 for you:
+4 vCores from a  AMD EPYC 7282 16-core 32-thread CPU, base clock of 2.8GHz
+8GB DDR4 3000MHz RAM (You incorrectly referenced it being 16GB)
+200GB NVME SSD
+200mbit/s connection up&amp;down
+
+Note: This is one of our nodes, not our entire system lmao
+JexUK - JexUK We are expecting to handle 4 clients per server of that spec. Anyway this is not the point lmfao
+Jamie_ - JexUK Ah yes my fault, a full host on 4v cores of a bad CPU and 8gb of that sweet ram and from, contabo ;)
+Jamie_ - JexUK It is as it is a part of dijx
+Jamie_ - JexUK and 200gb of storge? you are taking the piss lol
+JexUK - Here's proof of the emails we recieved from the third-party provider. 
+
+Here's a transcript from our provider's email:
+Dear [My Name],
+
+We are contacting you because, right now, your server at [Provider] is the target of an extremely large network attack - https://winterhoax.com/assets/files/2021-03-07/1615155755-977883-image.png
+JexUK - Jamie_ 50GB per client ain't too shabby to be fair
+Jamie_ - JexUK I have screenshots somewhere of that being from you claiming @MicroBot so I guess he can comment on this one
+Jamie_ - JexUK So you wan't to host 4 clients per node?
+JexUK - Jamie_ indeed, we can purchase on demand - anyway, should we move on from this petty argument?
+Jamie_ - JexUK So you are now saying you want me to remove this because you don't like how true it is? and the fact you want to host 4 clients per node all on contabo is making me laugh my ass off right now im happy you said it here on winterhoax for everyone to see
+JexUK - For an 8GB node, we are planning to have anywhere from 2-8 Minecraft clients. This is so people can have high bandwith, dedicated CPU resources (AKA. Not Shared vCore) and so we can scale as necessary.
+Jamie_ - JexUK IF IT IS A VPS IT HAS VIRTUAL CORES YOU DUMB ASS
+Jamie_ - Maybe just purchase a dedi like a normal host and then you might have a chance at being on the list of nearly acceptable hosts
+JexUK - Jamie_ Well aware of how a vCore works. What I'm saying is instead of sharing performance of a vCore, clients have a quarter of that CPU dedicated solely to their server, meaning the CPU performance isn't shared across multiple clients and the performance is gauranteed.
+Jamie_ - JexUK This everyone, is a perfect example of why you should not buy from this company. This is the owner.
+JexUK - Jamie_ ... Tell me what is wrong with dedicating performance to clients
+JexUK - JexUK Something you're not familiar with, I assume?
+Jamie_ - JexUK I am not familiar with? I have dedis that I run my company on and we are doing just fine with a dedi which can run around 100 people itself. Every heard of shockbyte or someone? Welcome to the hosting industry
+JexUK - JexUK Did you not read this, Jamie_
+JexUK - JexUK We are dedicating performance to clients, simple as that
+Jamie_ - So just because they made an account on their free panel it means they ddosed you? hmmm @Fallen @MicroBot Wanna say anything about this? - https://winterhoax.com/assets/files/2021-03-07/1615156571-547837-image.png
+Jamie_ - JexUK you want to buy a VPS for every 4 clients
+MicroBot - ![img]https://smallkids.is-inside.me/llxktOvE.png)
+just get some of those
+Jamie_ - MicroBot he doesn't know how lol
+JexUK - Jamie_ They worked for a competitor, who incidentally threatened to attack our servers. We noticed that they got added to our db and were confused as to what they were doing. Shortly after, we were DDoS attacked for 8 or so hours I think? We had reasonable suspicion to believe it was them, however after further discussion this was closed.
+We did not pursue legal action, etc.
+Jamie_ - JexUK You did not pursue legal action as as a 15 year old, you cannot
+JexUK - Jamie_ Pursuing action as a business. Or legal advisor. Anyway let's not get into this again lmooooo
+Jamie_ - JexUK you are not a registered business lolll
+JexUK - Jamie_ lmfao ok bud
+Fallen - Jamie_ You are not a proper person lolll u are a registered child
+JexUK -  - https://winterhoax.com/assets/files/2021-03-07/1615156980-780137-image.png
+Jamie_ - Jamie_ - https://winterhoax.com/assets/files/2021-03-07/1615156989-944890-image.png
+JexUK - You're no better! lmao
+Two - JexUK Isn't 1 vCore a half a core, instead of a quarter of a core?
+Jamie_ - JexUK did I say I was registered and does my company have shit to do with this? thought not
+JexUK - Two 1 vCore = a whole core, but virtualised.
+Jamie_ - JexUK never claimed to be registered or take legal action as a claimed registered business
+JexUK - JexUK A vCPU stands for virtual central processing unit. One or more vCPUs are assigned to every Virtual Machine (VM) within a cloud environment. Each vCPU is seen as a single physical CPU core by the VM's operating system.
+Jamie_ - JexUK virtualized = a lot slower and shit
+Bxrk - /
+Bxrk - Whats the point in this?
+JexUK - Jamie_ Someone commits a crime, you can sue them. Simple as that. Anyway, should we stop with this whole legal stuff and move on? or are you still holding desperately on to points
+JexUK - Bxrk This dude just wants something to do lmao
+Jamie_ - JexUK nobody asked, cares and already knew
+JexUK - Jamie_ bxrk asked, I delivered :) simple
+Bxrk - JexUK lmao is it a fake thread?
+JexUK - Bxrk Nah, believe it or not this guy is serious
+Jamie_ - Bxrk Ah look the guy with a shitty free host named summerhost. Read from the beginning my friend and be careful, you have multiple winterhoaxes about you already.
+Fallen - JexUK LOL
+Jamie_ - Bxrk You are lucky to not have DNDW yourself
+JexUK - Jamie_ You're pretty good at starting shit, huh?
+Fallen - Jamie_ Oh now ur drifting away from the topic of this thread.
+Jamie_ - JexUK Serious about letting people know to not let them waste their money on your quite basically scam
+Fallen - JexUK Yes he is, I give him an A+ for effort!
+Jamie_ - Fallen Anyway jex thinks brining up past is a good way to handle things lol
+Fallen - Jamie_ U are the only scam in the hosting industry.
+JexUK - Jamie_ Oh, so now we're a scam? Alright, sure buddy
+Jamie_ - JexUK Oh yes I am, And I have good reason too.
+Fallen - Jamie_ Well if the past can take u down then i will hop on that train to.
+Jamie_ - Fallen Ooo we coming at me now? Gonna bring up my past or something?
+Bxrk - Jamie_ 
+
+
+wow "multiple" okay, - https://winterhoax.com/assets/files/2021-03-07/1615157400-632411-image.png
+JexUK - Jamie_ There are better, more mature and more effective ways to handle these sorts of situations.
+Fallen - Jamie_ Nah im not as salty as u and Jex are in this childish argument.
+Jamie_ - Fallen Take me down? I have 1 winter hoax about me that got proved wrong
+Fallen - Jamie_ Well clearly you should have more.
+JexUK - Jamie_ Make that 2 by tomorrow lmaooo
+Bxrk - @JexUK  Jex, he just wants to "expose" hosts because he has nothing to do, also he has not even tried my hosting. + Bringing up SummerHosting stuff up in here, what are you a comedian?
+luca - 102 posts in less than an hour wow
+Fallen - Bxrk LOL True.
+Fallen - luca Yup
+Jamie_ - Bxrk I never started anything about your host at all. I just saw it.
+Jamie_ - JexUK Hell yeh I am excited to see this and prove it wrong.
+Jamie_ - JexUK Can you do it now actually? need something to do at 11 at night
+Bxrk - Jamie_ You lied about us having multiple threads on SummerHosting, when that thread was made it was bad yes, but now its great.
+JexUK - Jamie_ bedtime
+Fallen - Bxrk Sounds like Jamie
+Jamie_ - Bxrk Then I apologise and take it back, but just be careful as winterhoaxes can do a lot.
+Bxrk - @Jamie_ Your a fucking idiot, you see other people exposing hosts and you try to do it yourself and look like an idiot
+Fallen - JexUK Yes it is Jamie's bedtime.
+Fallen - He needs to get a full 12 hrs to wake up and not be a salty bitch.
+JexUK - Bxrk well said
+Bxrk - Jamie your parents have called and said its your bedtime
+Jamie_ - Bxrk No, Just worked for this guy and wanna make sure nobody else gets involved. I mean this guy wants to buy a VPS PER 4 clients. Like wtf
+Fallen - Bxrk They also called and asked me to tell u that you were adopted that's why u don't fit in.
+Jamie_ - JexUK Well your maturity is sure shining through.
+Bxrk - Jamie your not cool with your profile picture (i really hope you dont think you are)
+Fallen - Jamie_ I know right!!! It's so much better then yours!
+Bxrk - how about you shut the fuck up jamie and move on (tip: dont expose hosts if you dont know how to)
+Jamie_ - Bxrk Its an old one, Have not been on this site in a while so I have not changed it lol.
+Fallen - Bxrk I second this.
+Jamie_ - Bxrk I could go on a lot more about this host however I do not have the energy to at this time, if he makes a winterhoax about me I will go on till hells end.
+Bxrk - Fallen :)
+Jamie_ - Bxrk I made this to warn people about this idiot, have you not seen what he was talking about?
+Bxrk - Jamie_dude stop bringing peoples ideas down its a new host ffs
+Fallen - Jamie_ You already went past the end of hell.
+Fallen - Jamie_ You are warning people about a "scam" that is not a scam.
+Bxrk - Jamie its past your bed time
+Fallen - Bxrk Yes.
+Jamie_ - Bxrk 5 months old and it took them 3 to buy whmcs and figure out how to add it to their website
+Bxrk - Jamie_ shut 👏the  👏 fuck 👏 up 👏
+Jamie_ - Their co owner fallen has DNDW aswell
+Bxrk - Jamie_ and your point?
+Jamie_ - Bxrk He has a rep of doing things to get that role and he is now a co owner of this retarted company
+Bxrk - Jamie_ maybe they were old things that he has stopped now
+Jamie_ - Bxrk They have not, go have a shower I can still smell all this bs coming off of you
+Bxrk - Jamie_ lmao ok i was trying to be nice but now you said that
+Jamie_ - Bxrk Message me on discord, Jamie_#0001
+Bxrk - So Jamie, you create a winterhoax for someone trying their best to make everything right, you probably just thought of winterhoaxing some host because you were bored, nice guy aren't you? Its past your bedtime, how about you go to bed? Instead of trying to have a go at someone for trying their best and no im not adding your discord
+Jamie_ - Bxrk He is not doing his best, He had a hissy fit over me wanting to leave once and I made this to make people aware of this company. Feel free to message me on discord as I want to talk to you.
+Bxrk - Jamie_ no we can talk here
+Jamie_ - Bxrk In reply to you being "nice", you called me an idiot multiple times, told me it was time for my bed aparently. Yeh sure mate. Also learn what is actually going on first before coming at a post like this. I see you are fairly new to the community.
+Bxrk - Jamie_ sarcasm go brrr
+Two - You should state out how much vCore is equal to a normal core, because techinally speaking, 1vCore can equal a quarter of a core, a half a core, or etc.
+
+Anyways, I'm out of here.

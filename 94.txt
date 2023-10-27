@@ -1,0 +1,854 @@
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599663176-801404-img-3948.jpeg
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599661855-333074-img-3946.jpeg
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599661866-30239-img-3947.jpeg
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599661890-565586-unknown-5.png
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599661878-357793-unknown-2.png
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599661881-516313-unknown-3.png
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599662357-955939-feafc9995175dc4aca44eba708cc767f-png.jpeg
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599662109-623374-62758ad75d51b8ed98063e61c2ba093f-png.jpeg
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599662198-964322-c409eb35ebaf1827380a3fc84ebc4df7-png.jpeg
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599662227-141209-2f7b0fbb8341e6231a1cbdfc324fd61b-png.jpeg
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599662196-19475-d12951b92ca112c8b2aa60b23bc26e2e-png.jpeg
+Sloth - Note: This thread has been created with info provided by Endermined. A vague draft was written by me, however the majority is by Endermined. If you want to ask for additional info or anything related to this post, don't ask me, as I just created this thread for Endermined as he did not have the time to create a thread structure, and just filled in the blanks.
+
+What is MarCloud?
+MarCloud is a 30+ Server Minecraft Network and free online file cloud provider run by a teenager, Marcel. It may look like a great server and service to the outside world, but inside it was filled with abuse, deception, hatred, ddosing, scamming, nulling and lying. This, is Endermined's story.
+
+How it began
+Endermined, ex-owner of Hye Hosting, now owner of Heimsnet, ran a Minecraft Minigame Server Network called Miners League. Endermined was playing a bedwars game on his server with a friend, when a player named Marcelektro joined his server's lobby. Endermined promptly switched focus, joined the lobby server and greeted Marcelektro with a “Hello”. Marcelectro greeted back, and Endermined asked Marcelektro if he wanted to play a couple rounds of bedwars. Marcelektro however complemented Endermined’s custom lobby which he wanted to explore. What Endermined didn’t know at the time, was that Marcelektro was actually downloading his spawn world to use on his own server, MarCloud. After a while, Marcelektro joined the bedwars server (after downloading the lobby world). They played 5-10 rounds on Endermined‘s custom bedwars maps (while playing, Marcelektro continued to download these for his own use). Later, Marcelektro said he owned a server called MarCloud.net and he asked Endermined if he wanted to check it out. Endermined agreed and said sure! After looking at Marcloud, Endermined thought it was really cool. He joined the community, got to know it well, came to love it and became a part of it.
+
+2 weeks later
+
+Endermined once again joined MarCloud.net and started a round of bedwars, but instead of seeing other maps, he saw his own custom made maps, from his own server (the lobby map was actually not used here, but later on Marcelektro shows Endermined he had downloaded the spawn). Endermined messaged Marcelektro on Discord promptly, and told Marcelektro to remove the maps. This he did, however he didn't do it immediately, but only after a couple of weeks of repeatedly telling and invoking him to do so. After a while, Marcelectro somehow brought Endermined to become a manager at MarCloud.net, and the next two years of his life turned into the following:
+
+The Abuse
+Marcelektro always claimed everything on MarCloud.net to be custom coded, and before becoming a manager at MarCloud, Endermined believed it was custom coded, ran by a friendly owner (except the stealing maps part) and more, however that quickly changed. Staff was abused, told to download nulled plugins and website/forum themes, forced into running the entire server, ordered to lie and so much, much more.
+
+Jan Marinka
+Jan Marinka was forced into downloading all these nulled resources, and had to run MarCloud.net for 2 months, as Marcelektro had set his discord status to invisible. After a while, Jan Marinka resigned and after that framed by Marcelektro by him "blowing up" the lobby. Marcelektro of course blamed Jan Marinka and destroyed his image as co-owner at MarCloud.net. He did this as he was mad that he had to come out of hiding. As Endermined knew Jan Marinka personally, he just couldn't believe that it was him. So he started an investigation. Now, Endermined was actually next in line to be Jan Marinka's successor, but Marcelektro decided to have an election instead. After that a new election was ran for who gets the co-owner role on MarCloud.net. While this was ongoing Endermined temporarily stopped his investigations into the staged lobby grief as he was running for co-owner. The other candidate was Wolfo, but I will talk about the election later later.
+
+Red Haired Man
+Red Haired was a propaganda person, told to say how awesome, custom coded and great everything is. Well he actually believes it. Marcelektro intentionally manipulated this and made him believe this propagandous material and he still believes in this propaganda to this day.
+
+Wolfo
+Wolfo was manipulated by Marcelektro during the election into hating Endermined, however I will touch on this later. Endermined and Wolfo are pretty much best friends today.
+
+Endermined
+Endermined was also abused while the two year timespan of him working at MarCloud.net. He was yelled at, forced to do things he didn’t want to do, and more. He left multiple times but Marcelektro used what he learned from his psychology class brought him back every time.
+
+The co-owner election
+After Jan was framed, Marcelektro ran a election on who gets to become co-owner of the MarCloud.net Minecraft Server. Only Wolfo and Endermined ran. Wolfo was told by Marcelektro, that Endermined was a bad person, and Endermibed was told by Marcelektro that Wolfo was a bad person. Thatway he built up the competitiveness between the two. He would make up lies between the two constantly making them just hate each other until it turned into a big explosion. (Endermined won the election in a landslide)
+
+Marcelektro
+Deceptive, abusive, lying and overall incompetent server and service owner. I will talk about his free file sharing service and Minecraft server separately. Enzonet.nl, his own hosting company, run by Wolfo, later.
+
+MarCloud Minecraft Server
+Completely custom coded and running on a 64 core selg hosted server - this is false. He also stated on the servers playercount hover, that they were "Partnered with Hye Hosting", which he also stated in his discord (he was not partnered by any means). 96% of his servers are completely downloaded. The knock-it server is a perfect example of being completely downloaded, and only the scoreboard and branding has been changed. Here is the server he downloaded. He has claimed the Knock-It server is actually a custom gamemode he though of himself. He also "custom coded" his plugins, however they are not. You can notice with ease that they are downloaded and in some cases nulled. Whilst talking about why his code wasn’t working with Endermined (a java developer) he sent a python code snippet, without knowing that Endermined knows java. Endermined caught on immedietly, also when Marcelektro talks about programming and how it works, his statements litrally make - sense whatsoever. Just try talking to him about anything related to programming and you can see for yourself. As the MarCloud.net Minecraft Server Network is made of 30 servers, he says that it runs on a 64 core server in a separate house (he claims to have 2 houses, one which is his own). However he runs 30 servers on a i3 8100 with 16gb of ram. He said that this is just the bungee, but this is false apparently.
+
+Proof:
+
+
+Servers crash constantly. And this is not all. For every step of development (finding plugins, configuring plugins, using plugins, setting up stuff, etc.) he needed help from other staff.
+
+MarCloud WebDrive
+Ah yes, the great (again) custom coded drive system by Marcelektro called MarCloud WebDrive. Calling it custom coded is not only false, but also against the license of nextcloud, the software he actually uses. This is, again, self hosted. Other than that there is t much to say about this, so let’s get to the next big story point;
+
+Enzonet
+After many years of experience Endermined created Hye Hosting, and with that followed huge success. Marcelektro got jealous and started Enzonet (name after his cat, Enzo, he has 2 cats, Leon and Enzo, his anticheat LeonAHack is named after Leon, although, his anticheat is just Matrix AC with modified messages, nothing custom as he claims), his own host, behind Endermined‘s back, the co-owner of his establishment. Wolfo took over as head of Enzonet and they began working on it. After getting stuck on setting up pterodactyl, they reached out in the pterodactyl discord server, however this couldn’t help resolve their issue so they had no choice but to reach out to Endermined, who assisted them, but upon questioning why he wasn't involved, they just kicked him out of the project, then a confused Endermined left MarCloud.net (again) for Marcelektro who was trying to compete inside of a project he leads. After a few months, when Wolfo and Ender were friends, Ender realized EnzoNet wasn't having any growth, so he decided to take it under Hye's wings.
+
+Marcel‘s 50k Server Botnet
+After Endermined exposing marcel for everything he had done, essentially turning his community against him, Marcel fought back with a 1tbps DDoS attack from 50k servers on the Hye Hosting website. This attack went through Cloudflare and the website went offline for multiple days. Marcel knew he just attacked the frontend, so he threatened to attack the backend if he continued to speak about this issue. He even threatened to attempt database breaches. Hye Hosting had great security measures in place, so Endermined did not have any worries about the database, but the downtime would certainly be an issue, so he agreed.
+
+Proof:
+
+
+
+
+
+
+
+
+
+
+
+You may ask yourself if I am allowed to post this, but I have full permission by Endermined
+Proof:
+
+
+And thats it. I will update this as new information comes out - https://winterhoax.com/assets/files/2020-09-09/1599661724-312817-img-3950.jpeg
+Endermined - GG Good thread! Nice :)
+Deleted User - This is a perfect example of a real thread. Nice.
+Endermined - This is one of the most broad scandals I think have ever been on the site lol
+Jen - @Endermined Lmao, Didn't this guy ddos u?
+
+His site do be lying - https://winterhoax.com/assets/files/2020-09-20/1600622812-170319-image.png
+AngeloWannabe - No wonder why the servers lagged! The premade server you linked is filled with Skripts!
+Jen - My Question is, If his account got banned for under age on discord
+but his girlfriend has an account still
+Does that mean his Girlfriend is a pedo cause she is older? LMAO
+Sloth - AngeloWannabe and cause he hosted 30 servers on a 16gb i3
+rookie - The "blowing up" in question was in fact me.
+RusJS - Sloth good thread noice
+unrushed - bunch of errors with this thread.
+
+how do you know what I believe?
+I'm said to be a propaganda person. First of all no one controls me. If I wanted to leave I would. I'm sorry if you had a bad experience that is on you.
+I was not told to say anything.
+and finally you left out half of the story to manipulate this into your own twisted story of deception.
+I believe half of your arguments were misunderstandings.
+
+For yall that don't know I'm red haired man.
+
+Don't twist a story into something you don't know half of the details about. You don't know what I know and what I believe. Don't use me as a propaganda tool to push a narrative .
+eraters - unrushed whats the other half then
+unrushed - Idk the multiple attempts to harass our staff team and  members after multiple bans.
+
+Accounts:
+Endermined #0020; 431840972838666241        (MAIN)
+𝕯𝖆𝖗𝖐 𝕬𝖓𝖌𝖊𝖑#6228; 476458299986804757
+Tim Cook#7929; 481110264675041281
+!HelloWorld#9384; 601384372427423748 
+HELLO#6228; 476458299986804757
+
+Next thing. I'm pretty sure we put this behind us ,but he made this thread. I'm not going to view this thread and just be criticized for shit that is not real.
+Endermined - @unrushed you just pretty much demonstrated what was written above right there
+Jedrik - Marcelektro:
+
+Official Response (Read First):
+https://forum.marcloud.net/threads/a-falsified-thread-about-marcloud-from-hye-heimsnet-endermined.145/
+
+Extra Information
+
+
+
+Note: Posting this for Marcelektro since he cannot register for an account at the moment - https://winterhoax.com/assets/files/2021-01-14/1610624428-211091-screenshot-2021-01-14-19-40-12-38.jpg
+Jedrik - Jedrik - https://winterhoax.com/assets/files/2021-01-14/1610624607-332872-screenshot-2021-01-14-19-42-36-64.jpg
+SubErm - not everything is true my ig
+BaconHead - Yeah I asked him and he said that sloth was lying in some areas!?
+SnailDOS - Damn. That's insane. MarCloud was my competitor. Pretty sad...

@@ -1,0 +1,72 @@
+J0SH - Hi, I just made this post to inform fellow free host owners that this guy is going around running netscans on all the hosts, so far we have proof he's done it on QuackHost, IdleyHost and FalixNodes. He is running a port scanner on proxies or something. If you keep getting locked by hetzner, check if this guy has anything to do with it! his id is 711245294532296895
+
+
+Its quite weird. the server.jar looks corrupted and at the bottom says 
+
+
+You can't restart the server, It looks as if he starts the server then edits the jar so you can't restart it. 
+Here is a screenshot from Idley
+https://cdn.discordapp.com/attachments/731913264556146689/789872332414910464/unknown.png
+
+Here is some of the console logs
+
+
+More:
+SCR 28724 F https://socksvip24h.blogspot.com/feeds/posts/default
+Scrapped 60662 proxies.
+[PortChecker] Working ports = 8830 | 19494 / 60662 | R = xxx | OT: 40282
+[PortChecker] Working ports = 9209 | 20687 / 60662 | R = xxx | OT: 38275
+[PortChecker] Working ports = 9453 | 21497 / 60662 | R = xxx | OT: 37527
+[PortChecker] Working ports = 9666 | 22154 / 60662 | R = xxx | OT: 37123
+[PortChecker] Working ports = 9813 | 23485 / 60662 | R = xxx | OT: 36230
+[PortChecker] Working ports = 9910 | 27410 / 60662 | R = xxx | OT: 32694
+[PortChecker] Working ports = 10031 | 31501 / 60662 | R = xxx | OT: 28767
+[PortChecker] Working ports = 10109 | 36000 / 60662 | R = xxx | OT: 24370
+[PortChecker] Working ports = 10138 | 40778 / 60662 | R = xxx | OT: 19636
+[PortChecker] Working ports = 10139 | 46467 / 60662 | R = xxx | OT: 14008
+[PortChecker] Working ports = 10141 | 52170 / 60662 | R = xxx | OT: 8350
+[PortChecker] Working ports = 10143 | 56409 / 60662 | R = xxx | OT: 4174
+[PortChecker] Working ports = 10143 | 58530 / 60662 | R = xxx | OT: 2086
+[PortChecker] Working ports = 10146 | 59589 / 60662 | R = xxx | OT: 1042
+[PortChecker] Working ports = 10148 | 60107 / 60662 | R = xxx | OT: 520
+[PortChecker] Working ports = 10150 | 60371 / 60662 | R = xxx | OT: 259
+[PortChecker] Working ports = 10150 | 60498 / 60662 | R = xxx | OT: 129 - https://winterhoax.com/assets/files/2020-12-19/1608391062-235623-image.png
+J0SH - Hi, I just made this post to inform fellow free host owners that this guy is going around running netscans on all the hosts, so far we have proof he's done it on QuackHost, IdleyHost and FalixNodes. He is running a port scanner on proxies or something. If you keep getting locked by hetzner, check if this guy has anything to do with it! his id is 711245294532296895
+
+
+Its quite weird. the server.jar looks corrupted and at the bottom says 
+
+
+You can't restart the server, It looks as if he starts the server then edits the jar so you can't restart it. 
+Here is a screenshot from Idley
+https://cdn.discordapp.com/attachments/731913264556146689/789872332414910464/unknown.png
+
+Here is some of the console logs
+
+
+More:
+SCR 28724 F https://socksvip24h.blogspot.com/feeds/posts/default
+Scrapped 60662 proxies.
+[PortChecker] Working ports = 8830 | 19494 / 60662 | R = xxx | OT: 40282
+[PortChecker] Working ports = 9209 | 20687 / 60662 | R = xxx | OT: 38275
+[PortChecker] Working ports = 9453 | 21497 / 60662 | R = xxx | OT: 37527
+[PortChecker] Working ports = 9666 | 22154 / 60662 | R = xxx | OT: 37123
+[PortChecker] Working ports = 9813 | 23485 / 60662 | R = xxx | OT: 36230
+[PortChecker] Working ports = 9910 | 27410 / 60662 | R = xxx | OT: 32694
+[PortChecker] Working ports = 10031 | 31501 / 60662 | R = xxx | OT: 28767
+[PortChecker] Working ports = 10109 | 36000 / 60662 | R = xxx | OT: 24370
+[PortChecker] Working ports = 10138 | 40778 / 60662 | R = xxx | OT: 19636
+[PortChecker] Working ports = 10139 | 46467 / 60662 | R = xxx | OT: 14008
+[PortChecker] Working ports = 10141 | 52170 / 60662 | R = xxx | OT: 8350
+[PortChecker] Working ports = 10143 | 56409 / 60662 | R = xxx | OT: 4174
+[PortChecker] Working ports = 10143 | 58530 / 60662 | R = xxx | OT: 2086
+[PortChecker] Working ports = 10146 | 59589 / 60662 | R = xxx | OT: 1042
+[PortChecker] Working ports = 10148 | 60107 / 60662 | R = xxx | OT: 520
+[PortChecker] Working ports = 10150 | 60371 / 60662 | R = xxx | OT: 259
+[PortChecker] Working ports = 10150 | 60498 / 60662 | R = xxx | OT: 129 - https://winterhoax.com/assets/files/2020-12-19/1608391139-643322-image.png
+J0SH - Btw this isn't a host obviously, I'm just using winterhoax as a lot of  host owners lurk around here.
+ExoticalCat - Interesting
+Pamar - I'd like to confirm about yes this person did netscan in FalixNodes and IdleyHost, it seems his server.jar have fetching proxies list, check if those proxies works and (this is my opinion, I have no evidence on that) and it was used to check some website/game/program accounts like Minecraft which have caused Hetzner and other free hosting machine providers to lock nodes due to a lot of interactions with a lot of ips in same time
+Saqib - Hm he has done this 4hosts..
+MCKingSam - What a legend! Only the strong shall survive.
+Tomas - MCKingSam Well, only the ones that ban him/his IP from their platform shall survive

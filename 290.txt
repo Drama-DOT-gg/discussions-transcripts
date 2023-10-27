@@ -1,0 +1,29 @@
+luffyy - so ive been looking in to fryxel hosting. and after some i time i found out that that they used a nulled theme and when i confronted them they deleted my tickets and me messages. when you look closer they have claimed it in their site that the theme was created by fryxel itself - https://cdn.discordapp.com/attachments/823198717607018497/823202556510994492/unknown.png
+Zhytrix - Reply
+
+I've been with the team since the start of Fryxel, i've seen both of the CEO's work on the theme and the website..
+As well as all the bots they have in discord are custom programmed.
+
+Honestly i don't see the point of exposing the host for Illegal Activities..
+Even if, in any way, fryxel would've conducted illegal activities, we stated we would like to see a message from the original creator of the theme...
+
+As long as the original creator you have in mind doesn't send us a message or creates a ticket we can't handle this situation any  further on legal grounds.
+
+If there's anything wrong and you have any proof that we're wrong on legal grounds.
+Please make sure to send it to Meld.nl, that is one of the places where you can report Dutch violations of the copyright law... (and even then, the original creator must report us, again, due to legal reasons he would have to provide proof that he's the original creator.)
+
+That stated, 
+
+I personally think for him/her to report us violating the law would take them a lot of their valuable time, so i don't see the point in doing that...
+
+Thank you for taking your time to basically write a bad review without using our service or support.
+
+Zhytrix - Fryxel Marketing
+luffyy - can i see proof of purchase of the theme then?
+luffyy - i did talk to the ceo when i confronted him about claiming the theme as his own creation he said he did NOT buy the theme when you can clearly see it is the PureUI theme
+luffyy - i would also like to know the reason i was banned from the discord. is it for exposing you?
+Zhytrix - luffyy as stated above, on legal grounds we're not discussing this with you...
+
+If your friend (as you called him) would like to discuss this with the board he's welcome to create a support ticket himself.
+luffyy - he has no obbligation to join your discord server to ask you if u purchased it or nulled it. your at fault here. this is a site where posts can get over 20k views you either prove your selves for purchasing the theme here and explain why you claimed to have created the theme
+eraters - i can confirm that it is pureUI, go into the code of https://cp.fryxel.com/auth/login and search for pure in inspect element - https://winterhoax.com/assets/files/2021-03-24/1616598488-74363-image.png

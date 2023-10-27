@@ -1,0 +1,162 @@
+FatGrizzly - So me, @Tomas and some other people were looking into this shitty host.
+And here yo go.
+
+These dudes were using Nulled WHMCS and once we found out, they completely locked out using CloudFlare.
+https://pbs.twimg.com/media/EvAHShkXMAA46-1?format=jpg&amp;name=medium
+https://i-am.ddosing-your.site/FtxSSJK1
+
+And They were using Nulled cPanel too.
+Server IP=5.9.24.229(I was a bit late in posting this here, they now moved to plesk, it has a 14 day trial, waiting for that to expire).
+https://i-am.ddosing-your.site/6xOHB7QJ
+https://cdn.discordapp.com/attachments/816695804202450964/816707583804047430/unknown2.png
+
+and its a old screenshot where HNG(the 13/14 year old owner) banned me for being rude.
+https://media.discordapp.net/attachments/816695804202450964/816742775135273011/unknown.png
+https://cdn.discordapp.com/attachments/816695804202450964/816742820471504926/unknown.png
+(SarveshMrao was a senior staff at that time).
+
+Asking(Begging) people on how to crack cPanel, later being tired he bought Nulled cPanel.
+https://media.discordapp.net/attachments/816695804202450964/816850041264013322/Screenshot_20210303-224952.png?width=325&amp;height=436
+
+https://media.discordapp.net/attachments/816695804202450964/816937009649025044/ttd.png
+
+Premium Professional CO Owner(allroundernaman):
+https://media.discordapp.net/attachments/799708335758639104/803936982723330048/unknown.png
+https://media.discordapp.net/attachments/799708335758639104/804280011912642560/unknown.png?width=383&amp;height=435
+https://media.discordapp.net/attachments/799708335758639104/804280197083562004/unknown.png?width=483&amp;height=436
+
+
+And for giveaways they dont spend their money at all, They use the good old HostGator x Whmcs method to giveaway .host domains. 😐
+https://media.discordapp.net/attachments/799708335758639104/804596514352922694/unknown.png
+btw he doesn't know how to spell emergency. 
+
+and also they change their server hostname everyday(and forgets to update it in whmcs), to prevent attacks
+https://i-am.ddosing-your.site/4UJ2gtYr
+
+Owner and Co Owners play in general chat:
+https://media.discordapp.net/attachments/799708335758639104/804744529152442408/unknown.png?width=556&amp;height=436
+
+Their server doesnt even have 150+ members, but only partners with 200+ members servers:
+https://cdn.discordapp.com/attachments/799708335758639104/814063461821710366/unknown.png
+
+https://i-am.ddosing-your.site/ef4xE3MV (This was done by SarveshMRao)
+
+and I just asked for my Ticket Transcript and now they complain that my dms were off and their bot crashed, as it contained some exposed info about their Host the Co Owner just deleted that channel.
+https://i-am.ddosing-your.site/2hTueY4R
+
+https://i-am.ddosing-your.site/2vbaA2k8
+
+And for their uptime: 
+from their statuspage(noobs forgot to update it):
+https://i-am.ddosing-your.site/dEB7l0rP
+and for real uptime, you can check the monitoring channel in their server, and btw their servers go down everyday
+
+The number of times they abused WHMCS.HOST:
+https://i-am.ddosing-your.site/k1Ceocaj
+https://i-am.ddosing-your.site/qy6bwaT1
+https://i-am.ddosing-your.site/ucb1lJoG
+https://i-am.ddosing-your.site/2NLCMmOW
+
+And more domains for himself, and I will leave some links down here,
+and yes, I must wait for 14 days until I contact Plesk cuz they might be using a trial license.
+
+Links:
+Discord: https://i-am.ddosing-your.site/2NLCMmOW 
+Website: https://treetophost.com
+XInterverse - Basically, this is their summary:
+
+Nulled
+Rude staff
+illegal company
+Can't even manage hosting properly
+The CEO [NAME REDACTED FOR PRIVACY] acts like he knows everything but he's just a 13 year old idiot who wants to roleplay as a leader
+The Co-Owner says he has retired but still manages the company (basically IQ: 0)
+If they think you know the secret about them using nulled scripts they delete all evidence and ban you
+They steal and delete your data (See here and here)
+They respond to complains like these with "Thanks for letting us know, we will try to improve" on Disboard but on the Discord server they're completely different and rude because they control Discord but can't do much on Disboard - aka they're retarded asf.
+RusJS - XInterverse discord
+XInterverse - RusJS https://discord.com/invite/nke7hh3
+Tomas - XInterverse (he may mean the link)
+FatGrizzly - @RusJS https://discord.com/invite/nke7hh3
+XInterverse - Tomas lol just realised (sent him on DM)
+XInterverse - Stay away from TreeTopHost, many people are beginning to realize what kind of company this is.
+Don't lose your data and waste time arguing with an illegal company with rude scammers.
+maddant - I can confirm they are really shitty people &amp; a bad host overall.
+Bxrk - they had a go at me for posting the winterhoax link lmao
+Bxrk - also deleted the winterhoax link yes i have a message logger for exposing reasons - https://winterhoax.com/assets/files/2021-03-09/1615299548-75869-image.png
+Bxrk - deleted the message and banned me - https://winterhoax.com/assets/files/2021-03-09/1615300201-87021-image.png
+XInterverse - Apparently writing a complaint to a partner is called DM Advertising and it's rule breaking?
+Woah the Co-Owner has much more IQ than me!
+
+
+
+Thanks to Naman Vrati for teaching me that complaining is called DM Advertising! - https://winterhoax.com/assets/files/2021-03-09/1615300870-717360-image.png
+XInterverse - Apparently writing a complaint to a partner is called DM Advertising and it's rule breaking?
+Woah the Co-Owner has much more IQ than me!
+
+
+
+Thanks to Naman Vrati for teaching me that complaining is called DM Advertising! - https://winterhoax.com/assets/files/2021-03-09/1615300887-819866-image.png
+XInterverse - Apparently writing a complaint to a partner is called DM Advertising and it's rule breaking?
+Woah the Co-Owner has much more IQ than me!
+
+
+
+Thanks to Naman Vrati for teaching me that complaining is called DM Advertising! - https://winterhoax.com/assets/files/2021-03-09/1615300947-853167-image.png
+Sydney - Joined, and about 6 hours later, someone DMed me asking how I got the link. And if I knew this thread existed. 
+
+Either a staff member failing to check out whoever joins, or someone from this thread
+FatGrizzly - Sydney umm, can you reveal the guy who dmmed you?, I guess it must be Kamei or allroundernaman
+Abooz - Trash host
+FatGrizzly - and btw, they try hard for nulled cPanel lmao(from the email screenshot).
+https://i-am.ddosing-your.site/X0dpMtYA
+
+try hard for free reseller host too,
+https://i-am.ddosing-your.site/v8UE0vro
+Tomas - FatGrizzly have also looked into the free reseller thing and all it does is sell your info
+
+fun times for him
+FatGrizzly - well and btw, as this is confirmed can mods/admins add dat confirmed tag? or I must provide more proofs?
+XInterverse - LOL they just banned me and my friend because we exposed them. The Co-Owner Naman was speechless and he didn't even give a reason for a ban cuz their rules didn't say anything about telling the truth.
+Guess he wants people to believe this nulled scam.
+Sydney - FatGrizzly An account named webdev (Default pfp, not a new account)
+Bxrk - SHEESHSHSHSHHSHHHHHHHHHH - https://winterhoax.com/assets/files/2021-03-10/1615399147-68009-image.png
+Tomas - Naman basically banned everyone who joined from here
+EdwardSnowde - whats their website imma try it to see how good the tps is with my base 300 plugin tester
+Tomas - EdwardSnowde it's webhosting
+Jedrik - Tomas bet their webhosting can't even handle WorldEdit smh
+Two - (I'm probably not going to join the server, if you are one of the toxic owners looking to see if I joined to ban me. np saved you time.)
+
+I read the Discord Terms of Services multiple times, and that is not considered DM advertising. You can report people for DM advertising, and they will disable DM advertisers' accounts. If they don't ban the user for your definition of "DM advertising", it's not considered DM advertising. At most, they'll say just block them.
+
+If you really believe that's DM advertising, try reporting them yourself: https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731 (use message links, not images, they won't accept images)
+
+They won't disable "Naman"'s account (in this case), because it is not considered DM advertising.
+
+just for people who own that host to read this
+Tomas - Two naman owns the host-ish
+XInterverse - EdwardSnowde https://treetophost.com
+Sydney - XInterverse Downtime in action - https://winterhoax.com/assets/files/2021-03-11/1615455904-519213-image.png
+FatGrizzly - lol, now he will accuse me that I am doing something with their servers....
+https://i-am.ddosing-your.site/VIWutAo9
+
+Fake reviews.... does anyone here agree with that? :joy:
+RusJS - FatGrizzly i joined the server yesterday and i got instantly banned for no reason i was litterally just chatting in general then they accused of something straight away
+FatGrizzly - https://tenor.com/view/noice-nice-click-gif-8843762
+
+I just got banned for exposing them, lmao
+EdwardSnowde - Tomas Fine ill compile a shit ton of WordPress plugins
+Bxrk - TreeTopHost (TTH) is stupid 😃
+Sydney - FatGrizzly Holy shit, the site is still down!
+FatGrizzly - Sydney oh man, wow, a very good Premium Downtime Host
+Diana - FatGrizzly the site is still down lmao
+FatGrizzly - Well yeah, he locked down his discord server lol, out of curiosity who are you?..
+Sydney - FatGrizzly A random person.
+Bxrk - its such a shit host wtf?
+exelen - TTH finally died? pog
+
+https://exelen-loves.anime-thighs.club/showimage?key=o8Df302nff
+FatGrizzly - POG
+Abooz - exelen deserved
+Bxrk - Abooz lmao it’s finally
+Bxrk - gone...

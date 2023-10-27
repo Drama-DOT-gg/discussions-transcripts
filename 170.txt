@@ -1,0 +1,16 @@
+TMKC - LicenseHosts (licensehosts.com) are a scam site straight out.  We used them as a license reseller for our site NavoHosting.  After using it for a while, it seemed like it worked just fine.
+However, we where recently told that their licenses are a scam. They told us that themselves, but where trying to be really cryptic about it.
+
+Their email stated that "due to that WHMCS has patched some holes, we are unable to verify licenses".
+Someone with more than 1 IQ can easily understand what that means.
+We immediately removed the WHMCS module for the reseller account we had with LicenseHosts and went to WHMCS Limited and reported them to their fraud department.
+
+But here is the funny thing... I had 14 USD added to the account (had 25 when we started the entire thing), and now, my account don't work. I tried the password reset but I don't get an email. I made sure to check so that the email was correct which it was since it has emails in it from LicenseHosts.  This means that they scammed me out of my last 14 USD all together. I have already put in PayPal claims on every payments to LicenseHosts with proof of scam.
+
+And if their WHMCS licenses are a scam, what do you think the rest of the licenses are?
+
+If you have any payments, go to PayPal ASAP and issue a claim on any and all payments to them. The receiver is called "sovlow" (sovlowpay@gmail.com).  Lets take these guys down! - https://winterhoax.com/assets/files/2021-01-25/1611554009-953123-licensehosts.png
+JAY - Proof of completly removing it - https://winterhoax.com/assets/files/2021-01-25/1611564662-447468-screenshot-20210125-085039.jpg
+MicroBot - Just if you are starting a host get money before starting if you dont have any dont start one.
+And pay fr for that stuff dont use people like them
+onyx - I just got an email back from WHMCS, they're looking into the fact that LicenseHosts PIRATED WHMCS THEMSELVES LMFAO

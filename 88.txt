@@ -1,0 +1,432 @@
+MCKingSam - Holo Hosting LLC is an absolutely terrible company. Do not use them.
+
+They:
+Do not care about customer data.
+Do not force SSL on their main site (at risk of data interpretation)
+Have disrespectful staff members that like to discriminate users.
+The owner has publicly stated he is too lazy to enable forced HTTPS.
+Do not have a public privacy policy or terms of service on their site.
+
+Proof of my findings will be attached below (most of my messages were purged by the owner of the discord server, however I have an eye witness)
+
+
+
+
+
+This is what I could gather after the initial purge. For the section on laziness and disrespectful staff please contact eraters#0001 on discord as he was an eye witness.
+
+Brief summary of the events without images?
+Disrespectful Staff - Muted my friend because "they don't like his voice"
+Laziness - The owner stated in a discord server that the reason the main site doesn't have forced HTTPS is because he's too lazy to enable it. - src
+MCKingSam - Holo Hosting LLC is an absolutely terrible company. Do not use them.
+
+They:
+Do not care about customer data.
+Do not force SSL on their main site (at risk of data interpretation)
+Have disrespectful staff members that like to discriminate users.
+The owner has publicly stated he is too lazy to enable forced HTTPS.
+Do not have a public privacy policy or terms of service on their site.
+
+Proof of my findings will be attached below (most of my messages were purged by the owner of the discord server, however I have an eye witness)
+
+
+
+
+
+This is what I could gather after the initial purge. For the section on laziness and disrespectful staff please contact eraters#0001 on discord as he was an eye witness.
+
+Brief summary of the events without images?
+Disrespectful Staff - Muted my friend because "they don't like his voice"
+Laziness - The owner stated in a discord server that the reason the main site doesn't have forced HTTPS is because he's too lazy to enable it. - src
+MCKingSam - Holo Hosting LLC is an absolutely terrible company. Do not use them.
+
+They:
+Do not care about customer data.
+Do not force SSL on their main site (at risk of data interpretation)
+Have disrespectful staff members that like to discriminate users.
+The owner has publicly stated he is too lazy to enable forced HTTPS.
+Do not have a public privacy policy or terms of service on their site.
+
+Proof of my findings will be attached below (most of my messages were purged by the owner of the discord server, however I have an eye witness)
+
+
+
+
+
+This is what I could gather after the initial purge. For the section on laziness and disrespectful staff please contact eraters#0001 on discord as he was an eye witness.
+
+Brief summary of the events without images?
+Disrespectful Staff - Muted my friend because "they don't like his voice"
+Laziness - The owner stated in a discord server that the reason the main site doesn't have forced HTTPS is because he's too lazy to enable it. - src
+Jen - MCKingSam Our Main site isn't used for Transactions There for there is no need for forced SSL
+We do put it on any site that involves account data or Transactions with Money/Currency
+Sloth - Just a tip, but you can make images appear by adding a: - https://winterhoax.com/example.png
+Jen - Sloth Sam Got offended that I said I care more about my paid Customers than my free customers,
+Sams a little bit of a *****
+MCKingSam - I'm not offended, I'm stating the flaws your company has, but you just seem to be a bit salty about it. Also. another thing to note, https://holobilling.xyz/ is a WHMCS Portal and takes in a lot of customer data. This includes email addresses, phone numbers, addresses etc. The issue here is that they do not have a public privacy policy which is extremely concerning
+Jen - MCKingSam Right, You sound dumb?
+Its a WHMCS thing, its not just us
+Many other hosts who use whmcs do it????
+Skynode.pro uses it
+I mean there are many others
+Jen - MCKingSam I mean its not a lot of information either way
+You can always fake those details
+And staff don't see it because they are limited to what they can do
+MCKingSam - Yikes, multiple issues here.
+
+You should care about all data no matter what.
+Skynode.pro use it with a privacy policy in place to ensure that their customers feel safe, and so that they know what happens to their data.
+Yes, it is a lot of information? Don't know what planet you're on to think it's not a lot of information.
+Jen - MCKingSam Okay then don't use us its that simple
+If you have an issue don't use us
+We don't need you
+MCKingSam - That's not a valid point? You're not painting a very good picture of yourself here.
+mxnugget - I respect Jen, but not having a privacy policy is a real problem, both legally and for your customers satisfaction.
+Usually people don't read it, but it needs to be there.
+mxnugget - MCKingSam Well, you need to collect that data for safety reasons. I don't see this as a problem. Personally when I use small hosting companies I prefer to name my address to " abcdefg 15, sadsdf" or something like that.
+Jen - mxnugget We have a privacy Policy
+We just have not setup our site fully cause its 1 day old
+We apologize for not providing the information when we finish setting it up it will be shown
+Jen - mxnugget But its clearly shown in our discord
+mxnugget - Jen It needs to be on your website too. Not all people use Discord.
+Jen - mxnugget All of our members are from our discord
+We don't have anyone that isnt in our discord
+mxnugget - Jen Legally it doesn't matter. It needs to be on your website. Police won't care if it is on Discord.
+MCKingSam - mxnugget Yes, I know that. I've owned hosting companies which operated in the same way, but they had a public privacy policy. However, HoloHosting need their privacy policy to be publically visible on their billing site. This is not only a legal issue, it's also a security matter.
+Jen - mxnugget I understand, And once the website is fully setup it will be on there
+MCKingSam - Jen You shouldn't be offering services without a public terms of service or privacy policy in place.
+Jen - MCKingSam I will make sure this thread gets taken down as well
+Jen - The reasons why there was no TOS or PP
+Also the reason why the website has no TOS
+Or privacy
+Is because it was installed last night
+and I had to go to sleep
+So I was unable to really update it yk
+I was just getting it to work with pterodactyl
+it wasn't ment to be cause it was sketchy
+Jen - It was just ment for Pterodactyl and Virt to work
+Not for Production as of yet
+MCKingSam - This thread won't be removed? If it is, then this place would be deemed biased.
+Okay? So you should've waited until the next day to release.
+Jen - MCKingSam If you were Patient and waited until this afternoon the site would be fully setup.
+MCKingSam - You shouldn't be providing services then? Until your site has a privacy policy or terms of service, you should no longer offer services. Enough damage has already been done, though.
+Jen - MCKingSam Well, Instead of acting like a pure bitch
+Why don't you make a support request
+Tell us
+Then We will fix the issue, There was no need to make so many threads over a silly issue that can be resolved in minutes
+Endermined - Owner is Anti-LGTPQ - https://winterhoax.com/assets/files/2020-09-19/1600529857-709835-image.png
+Endermined - Owner is Anti-LGTPQ - https://winterhoax.com/assets/files/2020-09-19/1600529878-756350-image.png
+Jedrik - what's the P for
+Endermined - wrong spelling...
+Jen - Endermined Theres nothing wrong with being Anti LGBTQ, its what I believe in, Deal with it and grow up lmao
+No one cares, As long as I provide great service we will remain open,
+Endermined - You don't provide great service though lmao
+Jedrik - gReAt sErViCe
+Jen - Endermined And what's to say i don't? We have very good Services for Paid Offering Fast VPS's
+Fast Paid MC Hosting as well
+Jedrik - I'm wheeping
+Jen - We use i7s and Xeon E5 1650s
+Endermined - Yes because 2nd gen i7 is really fast am I right?
+Endermined - You can talk when you use DDR4 on your entire lineup...
+Jen - Endermined For Budget VPS I would agree yes its fast
+Jen - Endermined I don't need Pure DDR4 for my whole lineup
+Jen - Endermined When you are offering 73 Cents per GB you can talk
+Oh wait, U dont have hosting lmaoo
+Endermined - @Jen that's too far
+Jen - Endermined Not really, its called playing fair
+You point out a flaw and so did i
+Endermined - I did what was necessary.
+Jedrik - for bare minimum that you call "great service"
+Jen - Endermined So did I, I did what was Necessary
+Jen - Jedrik We offer Xeon E5 1650s as well, Thats powerful for a VPS
+Thats also what ender used
+Endermined - What did you do? @Jen
+Soyabn9 - Lmao this continues. Prob will never stop.
+Ash - Soyabn9 Yes But Tbh McSams Points Are Facts
+Jen - Endermined What's the point of free speech, Not everyone has to like LGBTQ
+I won't accept any shit from that group and thats final, hate me all u want idc.
+But Posting that was absolutely stupid
+Endermined - @Jen No. You are absolutely stupid.
+Jen - Endermined your Entitled to your own Opinion
+Endermined - @Jen Yes. Yes I am.
+Ash - Also Jen Bans You If Say TacoBell :(
+Jen - Ash Thats most uncertainly untrue
+I banned you for spamming not for The Taco Bell
+Iceey - You're not entitled to your own opinion on an NGO platform. Learn your legals kids.
+Jen - Iceey Lmao, Who said this is an NGO Platform?
+Jen - Iceey Also yes you are, Everyone has there different side of view
+If you wanna press charges on me then do it bitch
+Iceey - Jen Please just once look the word up.
+Pulse - I agree with the other comments. I understand you haven't released yet, which is why the TOS and PP weren't there. But you should have required a login to visit the site until it was completely done. Just my opinion though.
+Jen - Pulse We can't
+But yes we do provide the services we offer
+Pulse - Do you use cPanel?
+Jen - Pulse No
+Pulse - I am not sure how to set a password for the site on anything except cPanel, but I do know that there is a way.
+Korudo - You can do it using some simple php, here is an example I made, https://stelardevelopment.xyz/login.php (It doesn't work because it thinks the mysql is broke but it is not!) but it depends on what kind of encryption such as if you want it built-in or pop out
+Iceey - You're not entitled to your own opinion and freedom of speech under something not government owned.
+Iceey - @Jen just look it up
+Emericion - Endermined About Jen being anti-lgbt nothing is wrong right there no need to bring liberalism.
+Sloth - do you have stupid
+Emericion - the point?
+HCS - Emericion There is something wrong with be anti LGBTQ+ they said the death penalty should be brought back for them.
+Emericion - Yet they still can express their feelings (obv non violent ways)  most of the request of death penalties  in many developed countries (not poland) will be fill buster or canceled. There is also different levels in being anti lgbtq some have high such as death penalty you mentioned earlier and some just dislike them according to religious or beliefs etc. My point is you can't force someone to like lgbtq everyone is different.
+Sloth - pro lgbt isn't the same as loving lgbt
+HCS - Stating that the law that LGBTQ can be killed in france should become a law again is not ok, they also said OVH is anti LGBTQ because its a french company
+Jen - @Endermined Your not born gay, Being gay is a choice you make
+Its either you are straight or gay, There's no Complications .
+Its just like a job, Its a choice you make on wanting to do it or not
+its Not something thats forced on u unless someone is forcing u.
+Korudo - Jen Google "gender dysphoria" please.
+Endermined - @Jen your a fucking idiot
+mxnugget - great service - https://winterhoax.com/assets/files/2020-09-20/1600625642-318111-image.png
+Matteo - For someone who doesn't care, lmao i'm dying.
+Jen - mxnugget we prevented that issue by switching to another provider.
+The issue will not happen again
+We also applied off site backups using OVH Cloud
+Matteo - Holo is a joke tbh
+Matteo - We HaVe LlC bEcAuSe We PuT tHaT iN oUr NaMe
+Endermined - @Jen are you saying you don't use contabo anymore??? You just claimed to have switched to another provider
+
+HOAXERS: FACT CHECK NOW!!!
+Jen - Endermined For the EU Side we moved from EU Contabo
+However we are still soon Migrating USA From Contabo to AWS
+Endermined - You said you didn't use it anymore. Not your still in the process of migration. And oh wow your "quality" contabo service. Contabo is so "quality" and I right? That "quality" service needing downtime for migration. Nice.
+Jen - Endermined I don't really care what u think
+I'm providing free service out of Generosity.
+Endermined - @Jen I'm pretty sure in the past you've claimed not to waste/burn your money.... Hmmmmmmm....
+Jen - Endermined I'm not And i'm not in the mood today
+Today has been shit
+Endermined - Every day is shit for Holo.
+Endermined - https://holo.host
+
+Ooh looks like you have a trademark issue
+Jen - It's not a trademark issue
+They do not do the same thing as us.
+They do totally different stuff.
+Nothing to be concerned about
+Endermined - Just because someone doesn't have the same business model as you doesn't mean your trademark issue is "eliminated".
+Jen - @Endermined Holo Hosting isn't a trademark lmao. There's a difference between an LLC and a trademark name
+Endermined - Ima just check with the holo.host team. Give me a few hours please.
+Ash - Endermined Lol Hes gonna get sued maybe idk
+Sloth - Endermined and? What‘d they say?
+mxnugget - holo go brr
+eraters - hey can somebody pass me some popcorn this is fun to watch
+Iceey - Jen There's also something called intellectual property but eh who knows that's not anything to worry about right?
+Hyper - I have more proof that holo hosting actually collect your data if an email if appear on spam and google it marks danger it mean holo hosting didn’t pay google to make secure that they are collecting your Data - https://winterhoax.com/assets/files/2020-09-21/1600710394-42233-d19e7b28-e32b-4a20-971b-d50837254e2b.jpeg
+Jen - Hyper First of all That's Wisps mail Servers
+Lmao
+Jen - Hyper Are you retarded
+we dont own WISP
+Hyper - It’s holo hosting email lmaoo
+Jen - Hyper No, By the looks of that email template it came from the WISP pterodactyl Panel
+Which uses WISPs Email Servers
+AYS - "holo hosting didn’t pay google to make secure" please go make your facts right, you cant pay google to make it "secure"
+Jen - Yeah, it has to have an Email Certificate
+Hyper - AYS the fact they collect your data
+Hyper - Jen it literally say holo hosting LLC lmaooooo
+Iceey - That's not proof bud
+Iceey - "seems" dangerous does not mean it's dangerous.
+eraters - yeah im with iceey on this one
+Jen - Hyper Brah, We literally use WHMCS
+Anyone who uses WHMCS it will collect your data
+Are you stupid or something?
+Every Company Collects it, Even NordVPN Lmao
+When you Fucking Pay your literal billing address is collected
+HCS - Google will mark a lot of emails as spam.
+Jen - And no i dont mean Nord uses WHMCS
+Im just saying
+eraters - is my wittle baby angwy? does he need a nappy nap?
+Jen - eraters I'm not happy this whole month, This year has been shit for me
+Just leave me alone eraters, Get your needy ass out of here
+Jen - Lmao its stupid to say this
+But even lamaker acts better than you
+Iceey - Jen you don't get to pull a "difficult" card here.
+Jen - Iceey Ye my bad
+Sorry
+Its still true tho
+Even Lamaker is More professional than eraters lmao
+Jedrik - Welcome to the Depressed Hoax-Host Owners Club
+Iceey - Hyper I think you need to relearn English bud.
+Hyper - Iceey well I’m from China and on google translator it say my sentences are right
+Iceey - Hyper I'm sorry are you trying to support or deflate your argument?
+Hyper - Iceey I know my English aren’t good I’m doing an argument about this hosting service
+Iceey - I recommend duolingo.
+eraters - i am scared to redownload the app
+Hyper - Iceey well you know only basic English
+Jedrik - Iceey ^ using it to learn Japanese
+Iceey - Sure bud.
+Hyper - Iceey imagine giving your data to holo hosting lmaooooo and talking shit
+Iceey - Hyper I don't give Holo Hosting any data? Haven't even been on their site.
+
+If you haven't realized already I'm a WH Moderator, not here to be biased just here to quiet skids like you.
+MCKingSam - Jen Don't get me wrong, I'm also Anti LGBT. That's just my opinion. However, I don't believe it's a good idea to state that in a business environment. If someone was lgbt, I would still serve them with the same respect as a normal customer as that's no concern to me in business, and doesn't violate any polices. All customers are equal.
+Jen - MCKingSam I don't refuse service to people if they are gay
+All i said was I'm Anti LGBTQ
+I never said I would fucking refuse to serve them
+Jen - Its just what I believe in, People will grow up and move past it
+HCS - Jen Didnt you say you should bring back the laws to have them killed?
+Matteo - HCS what the fuck did he really omw
+Hyper - Jen ok you just admitted that your company steal personal data noice! - https://winterhoax.com/assets/files/2020-09-22/1600782396-275269-e62986da-df20-4772-ae24-a95697053aab.gif
+Jen - Hyper Using WHMCS doesnt mean we sell personal data
+I said it collects it through the database when a user signs up on our website
+We never Sell personal data, Your literally making no sense lmao
+Matteo - Jen Holo is a Hoax where is the confirmed tag ?
+Jen - Matteo We are not a hoax lmao
+We just do things and Publicly they look bad yes, However we do provide the accurate service we advertise.
+MCKingSam - @Sloth Could we get a confirmed tag?
+Jen - MCKingSam Lmao trying to confirm nothing,
+Next time do your research
+holohosting.xyz isnt our main site
+Someone on Github made it
+Thats why its not forced ssl you dumb ass
+Jedrik - Jen How the fuck are we supposed to know what the fuck your main website is? You have like 500 of them, we don't just go around like you pulling bullshit out of our arse
+Jen - Jedrik Do better research next time lmao
+If you think your so good confirm its ours
+HCS - Jen - https://winterhoax.com/assets/files/2020-09-22/1600797441-971656-image.png
+Jedrik - Jen Fuck you mean are there whole textbooks about your fucking site?
+Jedrik - Jen Alright hold on let me do some research - https://winterhoax.com/assets/files/2020-09-22/1600797610-818388-screenshot-2020-09-23-01-59-36-34.jpeg
+Jen - Jedrik You need to verify ownership of the website dumbo
+You can't just assume we own it cause our name is on it
+Thats like saying Microsoft Scam websites look exactly the same as microsoft
+Microsoft totally scammed u bro
+Jedrik - Jen 
+
+HCS &lt; I mean you clearly own it
+Jedrik - Jedrik fuck I need more sleep
+Jedrik - Jen Don't mind my message above but, holohosting.xyz was the site YOU were crying to us that we copied it
+Jedrik - and you mentioned multiple times My website so you clearly own it
+AspectOfficial - They oversell Hetzner Dedicateds with 6 core CPU's. And saying they will get 60 cores lmfao. - https://winterhoax.com/assets/files/2020-09-24/1600967977-520024-image.png
+Jedrik - 🤭
+Triassic - Easly uses the 60 CPU Core plan and claims they have 60 CPU Cores, as far as i know, Jen sold them this, not sure if Easly can be blamed or not, but using shady providers is not good.
+Jen - Triassic We have a Quad Core Xeon And also its not a 6 Core CPU
+We have assigned a CPU that actually has enough cores to power what customers need
+its not oversold, As I've listed we use Co-located hardware, We have proven to each customer with great Value and Honor of using a Hetzner rack that each Dedicated Server can be custom fit for each customer.
+Please If you ever need anything contact us, We ran lscpu for our customer that got 60 Cores and it indeed showed a 60 Core CPU with 4 CPU Sockets
+Triassic - Virtualizor lets you overallocate cpu cores. You can't just claim you showed some customer proof about having 60 cpu cores without posting any actual proof to us.
+Iceey - Triassic vCPUs are almost never actual cores.
+Deleted User - Iceey problem is when it's advertised as real cores
+Iceey - lscpu doesn't do shit, it just get the "cores" allocated.
+Jen - @Iceey @Triassic Jeekie We give each Customer Real proof that we have the Core Count by using the lscpu command, it does show legit 60 Cores or whatever CPU we assign we will always be honest
+There's no vCores or nothing that we lie about, Please do your research next time before making such claim
+Jen - @Iceey we ran lscpu on the Node not the customers VPS
+Iceey - Jen lscpu isn't bios integrated so it's easily faked, show us $ cat /proc/cpuinfo and I'll consider that as sufficient proof.
+Jen - Iceey I can run that for sure!
+1 moment
+Deleted User - Jen again, I made no claims I was simply commenting
+Jen - Iceey That command doesnt work btw
+Jen - It says command not found
+Iceey - Jen cd into /proc/cpuinfo ig
+Jen - Doesn't let me 
+Says too many arguments
+Jen - Jedrik Jen Don't mind my message above but, holohosting.xyz was the site YOU were crying to us that we copied it
+
+Our Website looks nothing like that r u dumb?
+MCKingSam - Lmfao 60 cores.. an E5 1650v3 does not have 60 cores. I think you mean vCores probably capped at 1 dedicated core max.. also how the fuck can you profit out of that? It's stupid. Considering it looks like you're giving extra disk (1TB) and 24 IPs?
+MCKingSam - Iceey Jen doesn't understand how linux works lmao.. it appears he tried copying your full message instead of going into the directory
+Ash - MCKingSam Sad thing is people are falling for jens scams of 60 cores and 192gb
+MCKingSam - Ash yeah.. just like easly.club
+Ash - MCKingSam sway hosting was about to get it but they bought im trying to talk sence into the executive xD
+Endermined - a 1650v3 actually is only single socket. You can't do anything dual/quad socket with it, so it's really not possible to have 60 cores with that cpu...
+Ash - Endermined also cpu is throttled
+Endermined - Well if the overallocation on the cpu at a 60 core level. Not suprised.
+eraters - Jen no you still use contabo
+MCKingSam - Lmao
+ressonix - @Jen Just curious here because I may have missed this part, but what state is your business registered? I see you've appended LLC to your company name which would imply that you've registered it in the United States. I don't know if you know this, but company registrations are public data and if you imply that you're registered when you are not the Internal Revenue Service can fine you for it. I've looked through a few state databases so far and haven't found a registration for Holo Hosting LLC yet.
+
+EDIT: Provided in Discord: https://www.arkansas-register.com/811241451-holo-hosting-llc
+
+Here's the official link on the Arkansas state website: https://www.sos.arkansas.gov/corps/search_corps.php?DETAIL=552420&amp;corp_type_id=&amp;corp_name=HOLO+HOSTING+LLC&amp;agent_search=&amp;agent_city=&amp;agent_state=&amp;filing_number=&amp;cmd=
+eraters - It’s back up now. But the company isn’t registered under Jen’s real name because he isn’t old enough to do it. It’s registered to Justin Kamerman (TMC)
+andrexisretarded - eraters who the shit that
+ressonix - eraters Looks like that person is devoutly Christian from their social media, so I highly doubt that Jen is that person from their immature actions in the Discord server. I'm kind of wondering at this point if the Justin guy even knows someone registered a business in his name.
+eraters - Justin is tmc, the person with the "CEO MASTER OF HOLO HOSTING LLC" role in the holo discord
+ressonix - eraters Okay, gotcha. I haven't been in their Discord so I wasn't aware of that. I just find it odd that someone like that would allow someone who seems to be so immature speak on behalf of his company. It definitely doesn't help their image at all, I can tell you that.
+andrexisretarded - eraters ah kthxbai
+andrexisretarded - eraters also unrelated but switch the shit to edge
+eraters - no
+Deleted User - I used to respect jen but now ive read this
+eraters - A friend of mine showed me a youtube video on how to ssh into a pterodactyl image, so I decided to try it out to check the specs with neofetch. As you can see here, they have the Intel Xeon E5-1650 v3 at a good 3.5ghz.
+
+Let's google how many cores that has.
+
+Oh! It only has 6 cpu cores, which confirms the only six cores on the VPS reseller. - https://winterhoax.com/assets/files/2020-09-29/1601389903-822107-image.png
+eraters - A friend of mine showed me a youtube video on how to ssh into a pterodactyl image, so I decided to try it out to check the specs with neofetch. As you can see here, they have the Intel Xeon E5-1650 v3 at a good 3.5ghz.
+
+Let's google how many cores that has.
+
+Oh! It only has 6 cpu cores, which confirms the only six cores on the VPS reseller. - https://winterhoax.com/assets/files/2020-09-29/1601389941-834040-image.png
+Robert - And, to back eraters, the Intel Xeon E5-1650 v3 does not support multiple sockets - https://winterhoax.com/assets/files/2020-09-29/1601390240-446435-afbeelding.png
+eraters - i like how its very rarely that we agree with each other
+vijaypondini - So let's see. Justin ( Known as TMC ) has scammed us all. He has made a redirect of https://holobilling.xyz/ to now https://fuckholohosting.xyz/
+He removed WHMCS access to our admin panel, which means we cannot cancel paid subscriptions with our users. It also means that recurring every month or so people are paying for services that are no longer existing, which also falls short of another scam.
+He changed his name in discord from TMC to "JustinTK#1234" now, because he didn't want to be spammed with messages, and wanted to hide his identity. His business he registered is what he ruined himself, he scammed, he took money away from people and still is ( we are asking them to cancel the subscription from their accounts ).
+
+Anyone think TMC is a good guy now? I don't think so :)
+Jedrik - vijaypondini I've always thought of tmc as scummy, doesn't change anything about Holo :) The victim card ain't working here :)
+vijaypondini - Jedrik I don't intend to come into this conversation at all . Just stating facts and things that happened today.
+eraters - vijaypondini He only did it because holo is a scam
+eraters - This is actually false! His Co-Owner (Shroom#7258) made it. Good job giving your staff credit for work. Also the site doesn't change the ssl status, that's all on the host. - https://winterhoax.com/assets/files/2020-10-01/1601555961-24789-image.png
+mxnugget - Deleting customers VPSes accidentally or for god knows what reason, having no SSL on a billing site and now hiring dumb staff that betrayed Holo and scammed the clients, I like how Holo ages :)
+Jen - mxnugget You really sound smart but you don't, Our VPS Hosting is not touched by other admins, So  like no VPS's have been Accidentally deleted in accordance to my brain not urs, Because after all TMC wanted the fate he got the fate. I'm not supporting a person that causes me to close
+mxnugget - Jen not VPSes, free game servers* - https://winterhoax.com/assets/files/2020-10-01/1601557832-221743-image.png
+Jen - mxnugget Not sure how thats an Accidental Deletion??? Maybe you should really think a lot harder,
+That was a contabo Incident not a Holo Incident.
+mxnugget - Jen Doesn't matter, it's your host, not Contabo's host.
+Jedrik - Not sure how thats an Accidental Deletion??? Maybe you should really think a lot harder,
+That was a contabo Incident not a Holo Incident.
+
+The man who believed that contabo was the best ^ and was talking about it being better constantly
+mxnugget - Jedrik eh Contabo is still great imo
+HCS - eraters I have screenshots of Jen saying it was there site
+mxnugget - very professional - https://winterhoax.com/assets/files/2020-10-01/1601558365-768911-image.png
+Jedrik - ha - https://winterhoax.com/assets/files/2020-10-01/1601558413-536398-image.png
+andrexisretarded - Having free MC nodes deleted  
+Having a billing site without SSL  
+Having dumb staff that betrayed Holo and scammed their customers  
+As a professional team, Holo is locking all chats after TMC destroyed Holo
+andrexisretarded - andrexisretarded made by shitmyass network which own nucleus
+mxnugget - andrexisretarded you're getting annoying.
+and your jokes are bad
+Ash - Tmc a fucking god g
+AYS - Added confirmed tag, their reseller plans include 60 cores, cpu they are using is single socket one, only has 6 cores. They are selling it for 22.50 a month, that would mean over 10 machines for just one reseller.
+Jen - AYS Its okay, We have a merger now!
+Jedrik - Jen Dang what kid did you bait to fall for your bullshit this time
+Jedrik - So apparently they're back and.. underfunded? - https://winterhoax.com/assets/files/2020-10-01/1601581827-258618-screenshot-2020-10-02-03-48-11-05.jpeg
+mtt - Name is now changed to Century Hosting and i think Watzon owns the host now. So far, the hosting prices are not likeable tbh :/ - src
+Jedrik - sounds like a fucking lie to change the name to century hoaxing kekw
+vijaypondini - The new company now, Century Hosting, is owned by Watzon and Jen. They're offering Minecraft paid hosting at about 1.5$/gb of ram ( it'll change soon i think ), and offering VPS soon after that. They do have funds @Jedrik though.
+
+At the moment, it's been 12 hours, and we got the site up and running https://century-hosting.com/ and only jen, watzon, and jaryn ( who coded the website in 12 hours from a WHMCS template ) has administrative access.
+
+They're taking a fresh start, and resetting entirely. 
+That's all i know for now
+vijaypondini - vijaypondini That's now 0.75 cents/gb of RAM, and we have unbeatable prices by any other paid host.
+HCS - vijaypondini for what specs
+Cian - HCS Intel Celeron @ 900MHz
+DDR2 RAM
+Unlimited Floppy Disk Storage!
+10MB/s Bandwidth 👌
+Matteo - vijaypondini Lmao, i got colocated US hardware that's even cheaper dummy. Where's his 60 core hetzner dedi lmaooo
+Jen - Cian This is Most Uncertainly Incorrect, We do not offer such low specs.
+Jen - Matteo Okay, No one really asked you if you did.
+HCS - Jen He was joking you do offer pretty low specs but you do have pretty low prices, I spoke to some staff confirming over allocation of ram would take place, not always a bad thing it depends how much.
+Jedrik - vijaypondini unbeatable prices by any other paid host.
+
+Jen ^^
+Jen - @HCS Totally, Over Allocating, Every single node is reserved 1GB of free ram left. - https://winterhoax.com/assets/files/2020-10-03/1601727719-61814-image.png
+Endermined - @Jen Your free nodes are not overallocated with 1gb free ram left, you litrally set the limit to 300GB on 16GB Nodes on your free servers. I've seen it with my own eyes.
+Jedrik - yikes
+Jen - Endermined I don't see any other node. - https://winterhoax.com/assets/files/2020-10-03/1601731720-905289-image.png
+ItsUnFazedX - I don't recommend dealing with Jen. Sketchy dude and is possibly the one that was smacking Heimsnet's nodes not too long ago.
+Jen - ItsUnFazedX Lmao, I'm gonna smack that ass next
+Jen - ItsUnFazedX Don't expose heimsnet's protection like that
+Koisip - So updated story what happened.
+Holo Hosting merged with Century Hosting. 
+The owner, Watzon, basically did an uprising and got rid of every staff member.
+
+Watzon has done illegal things like ddos and threaten others.
+Website: https://winterhoax.com/d/126-century-hosting-and-watzon-16-year-old-skid/12
+
+[Holo Hosting Is Technically dead and has a different name/owner]
+BaconHead - ok

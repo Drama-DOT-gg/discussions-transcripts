@@ -1,0 +1,53 @@
+Deleted User - Ok so let's start with the lying:
+At via we had de0 (panel) and de1. De0 was a 4GB node only for the panel. Rus said he was getting us a De2 and after he installed it he said it wasnt ready. A day later he says its ready and we put our stats bot on there. Guess what it shows? The De0 information. Rus had just put wings on the panel vps and said he bought us a node. 
+Rus gave us a De3. He said that De3 was its own node and not being used on raided. Our de3 stats went online and it showed the same stats as a raided node. The same thing happened with heik. De3 = some raided node = Free1. They are all the same vps's. Rus told me these vps's were different.
+Ok now with the scam hosts:
+All of his hosts have managed to shutdown within a week of opening, Lavanodes shutdown and so did raided. Now heik is basically dead. He seems to always shutdown his hosts a week after opening. At least via lasted a month before the full shutdown.
+
+K thats it idrc wut others say im just here to show rus's past.
+RusJS - ThatBad wdym this makes no sense.. I didn't provide any nodes the ips are different to scueges vpss that you got
+eraters - its free why are you complaining
+Deleted User - RusJS wut u said there makes no sense
+U did provide nodes
+eraters - Now heik is basically dead.
+
+would be fine if you didnt nuke the nodes
+Deleted User - eraters im not complaining? He was lying about where de3 was used
+Deleted User - rus says I didn't
+Deleted User - apparently those nodes were from somewhere else
+Deleted User - and not for heik
+eraters - eraters im not complaining? He was lying about where de3 was used
+
+
+
+yet again, it's free.
+Deleted User - anyone here if ur sus dm me for proofs
+Jedrik - eraters yet again, it's free.
+Jedrik - ThatBad You're not backing up your claims in the thread, add evidence over the next 48 hours or I'll have to lock this
+Deleted User - Well I cant upload anything cuz it keeps saying smth went wrong
+Deleted User - Proof of de2 being de0:
+https://cdn.discordapp.com/attachments/612343175075594241/774184061186080808/1604649568225.jpg
+Deleted User - Proof of de3 being heik free1:
+I dont have much proof of this since oreo checked it himself
+Unusual activity for a unused node: https://cdn.discordapp.com/attachments/612343175075594241/774184099165765672/1604649651741.jpg
+Oreo:
+https://cdn.discordapp.com/attachments/612343175075594241/774185587576930364/1604650596880.jpg
+Deleted User - For the scam hosts thing just go look at the raided, lavanodes, heik announcements etc
+KingRektYou - Honestly, you included like no proof as to this, but yeah I can agree that rus is a shady guy, as I have had an experience with him myself.
+
+When I was wishing To purchase something, rus insisted  that I wire the money into his credit card, which isn’t a thing in the Uk (he just gave me the CreditCard number). When I explained to him that this wasn’t possible, he then insisted that I pay him via a streamlabs link, I have attached proof of this.
+
+I have also enclosed proof of him just being generally incompetent, and not knowing what he is doing/the costs of doing business. He additionally cancelled my servers after having them for two days as I ‘was using them too much’ and ‘it costs us too much’, when I paid the price he asked, I have also attached this proof
+eraters - ThatBad heik free1 is 48gb ram
+RusJS - ThatBad i also dont understand what any of this means.... you try to threaten me in my dms. and check my winterhoax thread about you. all evidence there :). you are the most winterhoaxed person why would anyone believe you
+RusJS - KingRektYou wdym lmfao? that wasnt me... that was Raiwy. and you think this on with LavaNodes? well its not its Heik lmfao
+Deleted User - k
+RusJS - ThatBad yea right announcements with full of proof of you deleting our stuff that we had data prot
+RusJS - ThatBad why would i trust you with a 300+ member server dont get it
+RusJS - ThatBad also already admitted that it is :)
+MCKingSam - I'd like to inform you that I have now revived HeikNodes to a fully functional state, and made everything operational again. We now have a client area, 2 x 32GB Ryzen 5 3600 VPS's from a Hetzner Dedicated Server and a strong customer base. If you have any problems, just let me know and I'll sort them.
+Tomas - MCKingSam He probably won't let you know as most of this doesn't really work. He was given this for FREE. Then, he figured he still had access to the nodes so then he deleted all of the data on it and killed the whole VPS, yet he still had the guts to write an article about it.
+eraters - the lion, the witch, and the AUDACITY of this bitch
+Cian - eraters LMAO 😂
+Iceey - I haven't seen any actual proof of well anything here...
+Jedrik - Please contact me thru discord if you would like this thread unlocked to provide sufficient proof

@@ -1,0 +1,29 @@
+Jamie_ - There is a 15 year old names Luffy (luffy#9999) who owns ArkHost and he is a very immature guy. He kept nuking a channel for a bot that I made which reset its ID and made the bot go offline because the ID changed and he would always complain and say that it is my fault however I had told him not to nuke it. next when I said I was don't with his bull crap I said I would leave and I took my nodes with me. He decided however to go onto them and completely overclock and fry the shit out of them. I got this message from my node manager as you can see below.
+
+He then proceeds to claim I "Stole his github code" which I was never added to for 1 and 2 I never new he had code on github. He then proceeds to say he will sue me because I "threatened" to turn off a bot I made because he kept making it crash and complaining. Then he asks my friend to do something on screenshare and got access to his account then sent me an IP grabber link in the for of a short URL. Unfortunately, He deleted the messages so I can't provide a screenshot. He also send this link here: https://iplogger.org/logger/8rdnt32kAYG5/tab=info/ in a groupchat with him and the people he does arkhost with "claiming" he got my IP and attempted to ddos my VPN IP. I am clever and use a VPN before I click random links. Please be careful of this guy and I am trying to get his company shut down for him ddosing and just being completely immature. - https://winterhoax.com/assets/files/2021-01-12/1610442080-655704-img-7868.jpg
+Two - Here's how this drama started. Luffy kept nuking a channel, which alerted and spam pinged staff when the node was offline. Jamie threatened multiple times to turn off the Discord bot if Luffy kept nuking the channel. It was giving me 100 notifications, so I understand why Luffy would have nuked it. Soon, Jamie got mad enough and said he would delete the Discord bot, but another developer said he would make it himself, then Jamie said "no". Jamie was mad over a single channel ID because he constantly had to change it, which gotten annoying. Soon, Luffy "joked" about suing Jamie and di state it was a joke and Jamie didn't find it funny, therefore blocked Luffy and spam pinged @everyone on the Discord server "exposing" the DM messages, which have also clearly stated that Luffy said it was a joke. Jamie took back 2 nodes his friend let them borrow for ArkHost, but 5 servers were lost in the process because Jamie told his friend to immediately shut down the node. Soon, I, Two, have tried to resolve this issue myself. Everything became chill again until the next day.
+
+There was a raid on ArkHost's server, and someone exploded a node of Jamie's friend's node. 
+Given permission to put Jamie and Luffy in a group chat, I created a group chat for them to discuss it.
+
+Most of the people in the group were in Jamie's therefore most of the arguments were invalid and bias. From what I've seen, most of them prove only showed evidence of what happened, but not who did it. Keep in mind Luffy and Jamie left this group chat on Discord, but the group chat wasn't deleted, for future purposes, in case more proof is found on what exactly happened.
+
+In the raid, many people were banned by a Discord bot, and all the channel was deleted. Luffy suspected Jamie to raid, but evidence shows that it was most likely not Jamie. Jamie seemed to not even know about the raid until I told him about it, and Jamie's response was that they "deserved" it. The Discord bot token was "leaked" in staff chat, which Jamie, Video Squad (Jamie's friend), and few other staff had access to, therefore Luffy thought it was Jamie. No one actually knows who used the Discord bot to raid. Video Squad's thinking is "the bot got compromised probably".
+
+About the node exploding, Jamie and Video Squad thought Luffy purposely broke the node, which caused Video Squad's house to almost getting on fire. The result of the event caused an i7 to overheat and break. They originally thought Luffy did it, but there was no proof of it, except the fact Luffy had access to the node. According to the IP comparison, it didn't display the same information, therefore showing that there's a chance Luffy didn't break the node. In shorter words, Luffy didn't break the node. 
+
+My main question of these tragic events is "who did it". There is an insufficient amount of evidence that Jamie raided the Discord server, nor Luffy broke the nodes. In fact, most of the evidence shows that Jamie didn't raid the server.
+
+The closest thing found about Luffy possibly breaking the node is that the IPs are both from the same country, but the IPs seemed to be different in the comparison, or at least what information the IP had. I doubt Luffy would be a person to break the node though because Luffy simply doesn't act like that.
+
+Keep in mind I can't confirm if Luffy actually sent an IP logger to Jamie. If Luffy did send an IP logger to Jamie, Video Squad attempted to IP log Luffy too.
+
+Also, the last statement is false. Jamie stated "Please be careful of this guy and I am trying to get his company shut down for him ddosing and just being completely immature.", but Luffy has no experience on DDOSing, nor DDOSing is not related to this drama at all.
+Bear - Two i just cant even be bothered to read this
+All i see is blaming everything on a raid on the discord server of the host. 
+Improve your staff
+Don't blame everything on the raid, mate
+Two - Bear Never said I was taking a side. Both sides are blaming each other for stuff they don't have 100% proof about. Anyone could've raided and broke the node.
+
+The only proof luffy has about the raid is that Jamie had the bot token.
+The only proof Jamie has is that the IP is from India.

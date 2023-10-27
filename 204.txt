@@ -1,0 +1,15 @@
+Nino - Just a General Request before creating a post on the site saying a company is using nulled WHMCS, speak to the owners because, recently a topic was opened on my company when we were just having a payment issue with WHMCS, this makes us look bad and make people think we have used a NUlled WHMCS when we really don't
+Jedrik - I totally agree, we often receive appeals for misconceptions.
+
+Double Check, Triple Check, etc. your evidence before posting a thread or post on the website. Simple misconceptions can ruin a whole brand.
+Jedrik - Not necessarily "talk to the owners" as we can't trust word of mouth, however find a way to fact check your information.
+typicalGta - Agreed, Simple miscommunications and people not taking a proper look at hosts ruin whole reputations. Many people act childishly here who's name I shall not call out but simply they act like dicks and the level of toxicity is just so much here. Though there are quite nice people and the Staff teams seams very understanding and non bias so I feel like this has a lot more potential but Winterhoax seams to not use that power effectively.
+QwipticxDev - Why run hosts?
+Ash777 - QwipticxDev cuz you have a hell of free time
+EdwardSnowde - I would just recommend that you check the site with a license checker from x provider, Blesta, WHMCS, and WiseCP and most things have a checker that you can check the license with them before adding Nulled Software.
+
+https://www.whmcs.com/members/verifydomain.php WHMCS license checker
+https://account.blesta.com/client/plugin/license_verify/ Blesta license checker
+https://my.wisecp.com/en/license-verification WiseCP license checker
+
+Yes as Nino said, they just haven't paid their license, but I would personally give it a week, check if it is still not valid I would add Nulled Software

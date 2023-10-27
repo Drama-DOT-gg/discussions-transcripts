@@ -1,0 +1,204 @@
+EmeraldMike - So some backstory on this host. the owners are blackcat and Rihard
+They used to just be a MC server. Then they got a VPS for their MC servers and it always got overallocated by blackcat. This was also around the time my host was starting up and you will see why this is important. So I bought a node and a little later Rihard(that owns the VPS btw) offered to use it for my host and I said sure. Now arc profits where low and HUGE SERVERS where popping up where I had to balance the earning system and reset everyone's coins. So Rihard sees this and got mad so he says fuck you I am making my own host but he did let us get the data off first. So back story out of the way. now the juicy stuff! So he claimed what I did was unfair and thought he could do better. Also because I wanted to poke them I told them to remove some code I made when they where a MC server. They did remove the code. After their dumbasses start asking for devs and not just asking OUTRIGHT BEGGING. Ofc i was one person they begged. they also begged my co-ower Matt. Now that doesn't sound too bad but they are basically copying everything about my host and don't rlly know shit about running a host yet somehow go and buy VPSs. So they asked me to do there crap so I took the chance and pulled the biggest troll of all time. Now the owner being dumb couldn't setup DNS so I went to freenom and picked up and domain and proceeded to install ptero using that. Still the owner thinks I set it up and his domain. Legit dumest owners out there. i will post pics as replies. Also if your too lazy to install ptero and have IQ i can do that lol.
+EmeraldMike - Also for anyone that's wonding the real panel the owner is looking for is right here https://yes.meowvps.ml/ 
+but don't tell him (;
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613780775-441695-image.png
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613780793-43349-image.png
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613780800-404913-image.png
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613780851-492650-image.png
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613780873-903109-image.png
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613780919-900560-image.png
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613780936-739689-image.png
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613780980-835760-image.png
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613780993-109826-image.png
+EmeraldMike - oh yeah they like to say good boi a lot like we are dogs LOL - https://winterhoax.com/assets/files/2021-02-20/1613781050-824049-image.png
+MicroBot - discord?
+EmeraldMike - MicroBot thought no one would ever ask
+https://discord.gg/wm7tAnfU27
+they have a main server for their MC but eh who cares about that
+Vanquish - I fucking LOVE freenom hosts.
+Vanquish - https://discord.gg/fYwnTxx5xG another invite if the other gets termed
+EmeraldMike - Also i forgot to add their OrIgInAlItY
+
+
+
+also their "Dev" that does their site. - https://winterhoax.com/assets/files/2021-02-20/1613781352-905476-image.png
+EmeraldMike - Also i forgot to add their OrIgInAlItY
+
+
+
+also their "Dev" that does their site. - https://winterhoax.com/assets/files/2021-02-20/1613781364-597785-image.png
+EmeraldMike - Also i forgot to add their OrIgInAlItY
+
+
+
+also their "Dev" that does their site. - https://winterhoax.com/assets/files/2021-02-20/1613781389-334230-image.png
+EmeraldMike - Also i forgot to add their OrIgInAlItY
+
+
+
+also their "Dev" that does their site. - https://winterhoax.com/assets/files/2021-02-20/1613781696-647861-image.png
+EmeraldMike - the IQ of there dev is something else - https://winterhoax.com/assets/files/2021-02-20/1613783774-257387-image.png
+mtt - Literally BEGGING me to install panel and dashactyl.
+
+
+
+
+All of these right after they removed the node and left our host. - https://winterhoax.com/assets/files/2021-02-20/1613784251-553240-screen-shot-2021-02-19-at-132451.png
+mtt - Literally BEGGING me to install panel and dashactyl.
+
+
+
+
+All of these right after they removed the node and left our host. - https://winterhoax.com/assets/files/2021-02-20/1613784369-980788-screen-shot-2021-02-18-at-120601.png
+mtt - Literally BEGGING me to install panel and dashactyl.
+
+
+
+
+All of these right after they removed the node and left our host. - https://winterhoax.com/assets/files/2021-02-20/1613784379-287912-screen-shot-2021-02-19-at-132307.png
+mtt - this is the full dm or something but like... what even is this - https://winterhoax.com/assets/files/2021-02-20/1613784641-189982-screen-shot-2021-02-19-at-203009.png
+mtt - Like, first of all. 
+If you don't know how to install PTERODACTYL PANEL or a simple express js DASHBOARD. 
+You should not be running a host, let alone a free host.
+If they can't even do that, they cannot fix any simple bugs or anything...
+
+FAILLLLLLLLL
+Deleted User - mtt installing pterodactyl panel is too simple. Even a retarded kid like me able to do so.
+mtt - Chycada They probs dont even know how to properly use any of the scripts at this point LMFAOOO
+EmeraldMike - It's so easy I can install it onto my windows PC lmao.
+Ima try using a VM of unbuntu
+James - EmeraldMike yh but pterodactyl claim those who don't have experience with the Linux os should turn back 
+
+just saying btw that puts others off idk if they tried or not * - https://winterhoax.com/assets/files/2021-02-20/1613821045-13559-image.png
+CODER-nodejs - James well if you look to them they are toddlers they even bought a corebot for over 8$ even there are some YouTube tutorials with pterodactyl installation and they should have been watching them if not they are in trouble
+CODER-nodejs - EmeraldMike even with proxmox
+James - CODER-nodejs isn't core bot free or is that something else I'm thinking of
+CODER-nodejs - James - https://winterhoax.com/assets/files/2021-02-20/1613821535-781056-637ba2f5-a91b-4ecb-8c34-bc5015b642b6.jpg
+CODER-nodejs - They are angry with us - https://winterhoax.com/assets/files/2021-02-20/1613821982-149859-986ac8aa-0fe7-4b5a-957e-e092281789d9.png
+James - CODER-nodejs no crap XD
+EmeraldMike - I was actually going to be nice and reinstall it once they found it and explan how it works but they decided to raid. Oh well just proves how dumb they are. Also don't waste your time installing it for them.
+EmeraldMike - Also got banned from both of there servers
+James - EmeraldMike they are installing it and most of what you said is just for attention next time back up your claims with evidencial images or documents
+EmeraldMike - James  they are probably having mystical doing it because he is the only one smart enough. The reason this post was made was because of their shit staff and the fact that they abuse people and they ripped off my host by outright copying it.
+EmeraldMike - The owners can't do shit on their own
+James - EmeraldMike nothing wrong with that i cant install pterodactyl and when i "was" running game hosting we had no issues
+James - EmeraldMike you rlly not to stop waisting peoples time this post is all because you installed pterodactyl for them and they never XD
+
+"ha ha ha!!"
+James - James i bet you feel proud of your self
+EmeraldMike - James  yeah clearly you are not getting anything about why this post was made. Either way their host is gonna fail.
+James - EmeraldMike nah you just gotta give them time and expireance to learn the ropes if you actually had a brain you will know they need to gain more expireance
+
+"bullying new hosts aint cool"
+EmeraldMike - They don't know crap. Most of their stuff is templated. Only made because they thought my host is unfair because 1 coins per 8 minutes is stupid
+James - EmeraldMike and they just need to know where the community is happy and them to keep nodes running its called making a profit to keep host up and to expand iv been there
+EmeraldMike - James  this is more on the owners rather than the host. I wouldn't have made this if it wasn't for why it was made and if the owners put effort instead of copying from others
+James - EmeraldMike instead of hating give them some slack and stop hating because you waisted your time setting up pterodactyl and you got fired for scamming 
+
+mabey you can get of your sweaty ass and get a life
+EmeraldMike - And legit Spamming their devs to do shit they can't
+James - EmeraldMike proof?
+James - EmeraldMike its called using resources they got access too
+EmeraldMike - James  I was board and set it up under a different domain just to troll them so in my eyes totally worth the 2 minutes lmao
+EmeraldMike - James  DID YOU NOT SEE THE POSTS BY ME AND MATT
+James - EmeraldMike you would know this if you have spent months building a host from scratch staying up day and nights to make sure your clients will get what they deserve
+EmeraldMike - Read the full post then come back
+James - EmeraldMike and wow! you installed pterodactyl
+James - EmeraldMike i did all i see is a toxic kid trying to boost his ego
+EmeraldMike - James  well didn't take that long lol however I did had to experiment more in the beginning but yes I understand how making a host is but I didn't do the shit they did here
+EmeraldMike - James  works better  on vpss
+James - i declare this post to be utter: SPAM and someone trying to boost there ego because they got fired and came crying to the community to make them feel better
+EmeraldMike - I still remember trying to install it on a windows VM
+James - EmeraldMike stop changing subject
+EmeraldMike - James  bruh I made this watch before I got fired FYI
+EmeraldMike - James  just trying to clear up any miss conception
+James - EmeraldMike i understand you have an opinion but why would you make a thread about a host that cant install pterodactyl ik alot of hosts who pay devs its easier
+James - =============== POST RESOLVED =========================
+EmeraldMike - James  because of the abusive dumb owners
+James - EmeraldMike abusive how XD
+
+because they have the will to change the coins amount and time so they can pay for services 
+
+its called adapting
+EmeraldMike - If I came across any random free host that is just starting I wouldn't hoax them if anything I would probably offer to help them. In this case however it's people with bad history that don't even try
+EmeraldMike - James  that was ne that updated coins on my host LOL. For the record on of the owner used to let us his VPS
+James - EmeraldMike then why did you make this host 
+
+id understand if they was on the fall of failing if they have been going for several months
+James - EmeraldMike he never he reset it
+EmeraldMike - James  you mean post not host i assume
+James - EmeraldMike both
+EmeraldMike - James  wait it still has my install lmao
+James - winterhoax is for exposing hosts no one cares about your opinion thats why this thread will never be verified
+Jen - lol
+James - Jen hi
+EmeraldMike - James 
+The host was made by Rihard i have my own one that is different
+Because I want people to be aware of what not to do and not work for them.
+Jen - Bro every time there is a new free host
+everyone always posts it here even if they did nothing worng
+this Forum is just turning into people just bullying them
+its not even a real forum anymore
+James - EmeraldMike dude you are so childish
+EmeraldMike - James  never asked to be verified lol but I am exposing their host and how it is shit
+James - Jen exactly
+James - EmeraldMike verified means its true
+James - EmeraldMike no exposing its you being a jerk and just chatting crap
+EmeraldMike - If this post can be left up. I won't add anymore and will just wait for them to fail. I am not just bullying a new host for no reason I am just exposing the shit practices of their host and how it was made after the owner who used to work for me got mad because I changed my coin system.
+James - EmeraldMike What practices you dont make sense kid
+EmeraldMike - James  did you not even read the post
+James - EmeraldMike Ye thats the funny part
+EmeraldMike - Yeah maybe Matt or someone can explain better
+James - EmeraldMike mk get someone to fight your battles
+EmeraldMike - I mean Matt is kinda involved here.
+Also they raided my server after the owner figured it out lmao
+James - EmeraldMike proof?
+EmeraldMike - James  proof of raid or matt
+EmeraldMike -  - https://winterhoax.com/assets/files/2021-02-20/1613829938-734886-screenshot-20210220-090417-discord.jpg
+James - thats not a raid XD
+EmeraldMike - Hmmm yeah idk why but when I checked my phone I had lot of notifications. Nvm
+EmeraldMike - Also their dev doesn't understand domains and ips because I told him the panel didn't have a ip and didn't even question it
+eraters - Jen i hope mine doesnt do that lmao
+eraters - ok ok hear me out, what the hell? - https://winterhoax.com/assets/files/2021-02-20/1613841327-171843-4fffe610-b951-442d-be2f-07684802c137.jpg
+mtt - Want to clear some stuff up.
+
+Emerald did not scam anyone at all
+The pterodactyl panel was installed in an alt domain because the DNS didn’t work or something and their 'dev' didn’t know anything at all.
+He admits being too harsh but he fixed things up with the owner/s.
+Developer aka BoscoChung was demoted as he didn’t know anything. (Literally asked what a gamenode is and doesn’t even know how DNS works)
+All personal stuff has been fixed an arranged by Emerald and BlackCat.
+There are still some other stuff that is wrong but it will be fixed for sure eventually.
+yes, I was involved in a minor part. Just by the part of me being begged for installing panel which is irrelevant  anymore.
+
+That is all I have to say :) Have a great day.
+CODER-nodejs - Can I have the server invite?
+mtt - CODER-nodejs 
+https://discord.gg/KKctVWQ5
+CODER-nodejs - Thanks
+Rihard - eraters  These are permanent not monthly payments
+CODER-nodejs - Rihard check your dms
+Rihard - i did it
+BlackCat - i will say what i have to say.
+
+I was literally afk when all this happened, i wasnt on my pc and when i got back just saw James as a dev, Emerald Mike banned  and a vps-hosting channel. I knew Emerald did nothing wrong he told me that he was pranking rihard to test his iq. Emerald is back now as a developer and there should be now no drama about it. We are all sorry for that drama and drama i made frist. Noones perfect, deal with it.
+BlackCat - mtt i agree with you. He didnt scam anyone. Just everyone on my staff team told me that emerald scammed and i didnt belive it. After i made a deal with rihard that hes getting hes dev back. I was happy for him to get dev back.
+BlackCat - mtt also im sorry for begging. Im starting to learn how to setup ptero, dash, etc. Just cant do it rn cuz we dont have free vps rn
+Nebby - FlaringPhoenix Ahhh my eyes omg im blind now.
+EmeraldMike - FlaringPhoenix  WAIT TF it point's to their thing
+eraters - dark: 
+light: 
+
+never bothered to change branding - https://winterhoax.com/assets/files/2021-02-25/1614282304-755929-image.png
+eraters - dark: 
+light: 
+
+never bothered to change branding - https://winterhoax.com/assets/files/2021-02-25/1614282315-772019-image.png
+EmeraldMike - their discord got raided
+and the panel went OOF
+EmeraldMike - https://cdn.discordapp.com/attachments/761326352560291840/814674224341319710/unknown.png - https://winterhoax.com/assets/files/2021-02-26/1614304312-628008-image.png
+EmeraldMike - https://cdn.discordapp.com/attachments/761326352560291840/814674224341319710/unknown.png - https://winterhoax.com/assets/files/2021-02-26/1614304345-287876-image.png
+EmeraldMike - eraters  yEaH 10/10 tHeMe. BeTtEr ThAn tHe OnE i Am BuYiNg
+EmeraldMike - EmeraldMike FOR MYSELF
+Jen - https://www.youtube.com/watch?v=Qt65bQhrDDk
+EmeraldMike - Also the most biased owner award goes to Rihard for legit accepting a shit app from a friend and denying a very good one from someone else

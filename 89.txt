@@ -1,0 +1,25 @@
+Iceey - What is a Terms of Service (ToS)? A Privacy Policy (PRIV), GDPR, COPPA? Does it make my host legit?
+
+A TOS is an agreement contracting a relationship of a Seller (Provider), User and or Client. (Usually favors the Seller)
+
+A Privacy Policy is similar to the ToS but it focuses on data and privacy of the Client. (Usually favors the Client)
+
+ a) GDPR (General Data Privacy Rule) is a set of data privacy regulations enforced by the European Union and some of its transnational agreements which applies to all business registered by a corporate registry or simply an individual operation serving customers from the regions described above.
+
+ b) COPPA (Children's Online Privacy Protection Act(Rule)) is also a set of data privacy regulations this time enforced by the United States of America which protects Children under the age of 13 online. It applies to all businesses providing services to U.S. citizens.
+ 
+ c) CCPA (The Californian Consumer Privacy Act) Is heavily influenced by the EU's GDPR but only applies to residents of the state of California U.S., often described as (do not sell my data)
+
+Simply having these documents doesn't not make your business legit, trustworthy nor in any way professional. Reasons being the non-limited following:
+
+ a) not enforceable (make sure to keep track of ground proof of the Client's acceptance, therefore it becomes a contract(ed))
+ 
+ b) generated, stolen and not edited. (You're a Data controller providing services to many Data Subjects (Client) which means you need a custom ToS and most certainly Priv. Something generated won't do its duties.
+ 
+ c) not following your own ToS, Priv. The Provider is just as accountable as the Client if not more when it comes to legal agreements and if you don't follow your own rules you may be fined a hefty amount. Sources from the UK (ItGovernance.co.uk) state that a violating Controller of GDPR (General Data Privacy Rule) is fined anywhere up to €20M or 4% of annual profit.
+ 
+ 
+ Where do I get a TOS? PRIV?
+ Hire someone, or write it yourself, get advice, but don't generate it.
+ 
+YOU ARE REQUIRED TO HAVE A TOS AND PRIV TO COMPLY WITH BASICALLY ANY DATA AND CONSUMER RULE

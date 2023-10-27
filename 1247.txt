@@ -1,0 +1,12 @@
+FlyingMane - Really controversial opinion, but hear me out.
+When i check contabo reseller companies that are well set up i think that they are just as good as private run hosts, if not better. 
+Look, i used to buy from Contabo, they used to be hot shit. I don't see a huge issue with their hardware now tho. If a company buys a node and resells it, especially for a decent price, they are doing a favor for the average not tech savvy mc hosts, that don't want to/don't know how to set up an SSH node
+
+Contabo reselling has a bad rep because the average reseller is a 5 year old kid hoping to become the next Apex Hosting, who doesn't know how to set up shit and tries to cut corners on security and whmcs
+
+T l: Dr - I really don't see the reason for hating on Contabo resellers, if their companies are registered and their prices are reasonable
+Aaron_ - FlyingMane I actually agree with you, afaik there's a ton of hosts who cannot resell contabo shit just because it will affect their reputation.
+FlyingMane - Aaron_ i have a friend that resells Contabo but can't say it because he will lose customers, even tho he is registered and has premium whmcs
+Aaron_ - FlyingMane Ah.
+FlyingMane - Aaron_ Yeah which sucks cuz his server never lag or shit like that
+Aaron_ - FlyingMane I mean you guys keeping it a secret is still a bit 🤷

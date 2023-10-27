@@ -1,0 +1,180 @@
+MayankKumar - I saw this host called legit node and found that they were providing Asia node servers at a very cheap price..
+So, i thought of checking there in1 node and there panel..
+
+in1--
+`C:\Users\mayank&gt;ping in1.legitnode.xyz
+
+Pinging in1.legitnode.xyz [35.200.207.101] with 32 bytes of data:
+Reply from 35.200.207.101: bytes=32 time=111ms TTL=57
+Reply from 35.200.207.101: bytes=32 time=107ms TTL=57
+Reply from 35.200.207.101: bytes=32 time=134ms TTL=57
+Reply from 35.200.207.101: bytes=32 time=95ms TTL=57
+
+Ping statistics for 35.200.207.101:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 95ms, Maximum = 134ms, Average = 111ms
+
+C:\Users\mayank&gt;curl ipinfo.io/35.200.207.101
+{
+  "ip": "35.200.207.101",
+  "hostname": "101.207.200.35.bc.googleusercontent.com",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "org": "AS15169 Google LLC",
+  "postal": "400070",
+  "timezone": "Asia/Kolkata",
+  "readme": "https://ipinfo.io/missingauth"
+}`
+
+
+panel-
+
+`
+
+
+C:\Users\mayank&gt;ping gp.legitnode.xyz
+
+Pinging gp.legitnode.xyz [35.193.29.177] with 32 bytes of data:
+Reply from 35.193.29.177: bytes=32 time=324ms TTL=55
+Reply from 35.193.29.177: bytes=32 time=331ms TTL=55
+Reply from 35.193.29.177: bytes=32 time=329ms TTL=55
+Reply from 35.193.29.177: bytes=32 time=544ms TTL=55
+
+Ping statistics for 35.193.29.177:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 324ms, Maximum = 544ms, Average = 382ms
+
+C:\Users\mayank&gt;curl ipinfo.io/35.193.29.177
+{
+  "ip": "35.193.29.177",
+  "hostname": "177.29.193.35.bc.googleusercontent.com",
+  "city": "Council Bluffs",
+  "region": "Iowa",
+  "country": "US",
+  "loc": "41.2619,-95.8608",
+  "org": "AS15169 Google LLC",
+  "postal": "51502",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+}`
+
+
+they call themselves as "Legit" and are abusing gcp free trial lmao
+Aaron_ - Hey, could you send me your discord tag? I think I know you.
+Aaron_ - Also do they have a discord server?
+pwned - The terms of service channel is empty lol. No TOS.
+pwned - "Campony" - https://drama.gg/assets/files/2021-12-30/1640861812-874653-a1529f67-7085-47b8-a32b-1d0496004989.jpg
+Jen - pwned Their website isn't up for me
+Link?
+pwned - Jen https://legitnode.xyz/index.html
+Jen - pwned 
+Yeah idk if they block the US or what? - https://drama.gg/assets/files/2021-12-30/1640861979-176327-image.png
+pwned - Jen Now when I refresh the page the website crashes lol.
+Jen - pwned ikr how odd
+pwned - Aaron_ https://discord.com/invite/Amq9sHC6J5
+JOGINDAR - stop abusing legitnode they are legit and provide me the est performance ok and thier website is under maintainance i asked them and they told me  that one guy name shershai was taken a free trial from them and   he told them that he will pay after 5 days and so they waited and after 5 days they founded that e was doing ilegal work on thier host he was mining and ddosing oter hosting and servers so they reported him in the cybebr that sit from that time the guy started abusive them cause to save him from abuuse in the discord server this is the thing i respect legitnode and pls all of you also do so thanks
+Dvij1233 - even they are using replit to host their website proofs - 
+C:&gt;ping legitnode.xyz
+
+Pinging legitnode.xyz [35.186.245.55] with 32 bytes of data:
+Reply from 35.186.245.55: bytes=32 time=191ms TTL=116
+Reply from 35.186.245.55: bytes=32 time=65ms TTL=116
+Reply from 35.186.245.55: bytes=32 time=59ms TTL=116
+Reply from 35.186.245.55: bytes=32 time=56ms TTL=116
+
+Ping statistics for 35.186.245.55:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 56ms, Maximum = 191ms, Average = 92ms
+    and visit "35.186.245.55" - https://drama.gg/assets/files/2021-12-30/1640868751-201091-image.png
+JOGINDAR - bro they was trying to see how  it looks and they dont like it and now they a re building new ok
+Jen - I got banned from their website because I was in the drama.gg discord
+I explained how it wasn't relevant to the topic of my support ticket aka my inquiry and they consistently said what country are you from and pressured me into answering if i was from drama.gg
+
+Anyways horrible business ran by losers
+MayankKumar - JOGINDAR first of all go attend English class it's more important than drama.gg, and we are not abusing them they are abusing Google cloud free trial and selling servers on them.
+Jen - MayankKumar Btw you guys banned me when I absolutely did nothing wrong, On top of it I asked a few questions and ur manager brought up irrelevant stuff. And so your company is total dogshit
+OnlygamingLN - Jen Dear sir  
+sorry for the problem can you create a ticket again so i can help you i told the manager to dont like this but he is new so pls corperate sur join from https://dsc.gg/legitnode
+Jen - OnlygamingLN Yeah u saw my ticket, Notice how I did nothing wrong
+Jen - OnlygamingLN He banned me - https://drama.gg/assets/files/2021-12-30/1640869568-362134-image.png
+MayankKumar - Jen  dude they don't even have money for whmcs, nodes and stuff they just abusing free trials. What can you expect from such so called Companies
+OnlygamingLN - Jen yes i know sur thats why i am saying you sorry ok brother so pls join and create  ticket so i can help and give them proof about the drama.gg fake stuff and mayank sur your discord tag pls?
+OnlygamingLN - Jen now see
+OnlygamingLN - Jen try joining now i unbanned you
+Dvij1233 - Jen is it even a company?
+Aaron_ - Instantly closed the ticket, didn't even let me reply. - https://drama.gg/assets/files/2021-12-30/1640872669-357438-image.png
+pwned - Aaron_ professionalism at its best at legitnodes
+Dvij1233 - Aaron_ client uses contbao?? what does he mean or did he mean game panel ?
+Dvij1233 - and the thing i don't understand why these kids use mumbai only? - https://drama.gg/assets/files/2021-12-30/1640872878-382644-image.png
+Dvij1233 - and the thing i don't understand why these kids use mumbai only? - https://drama.gg/assets/files/2021-12-30/1640872962-202855-image.png
+eraters - MayankKumar use the right grammar in the title please and thanks
+Chiragv2 - they use Free GCP i can proof
+
+
+
+damm man so rude 
+then i got 
+
+
+ban - https://drama.gg/assets/files/2021-12-30/1640881382-841175-image.png
+Chiragv2 - they use Free GCP i can proof
+
+
+
+damm man so rude 
+then i got 
+
+
+ban - https://drama.gg/assets/files/2021-12-30/1640881417-64520-image.png
+Chiragv2 - they use Free GCP i can proof
+
+
+
+damm man so rude 
+then i got 
+
+
+ban - https://drama.gg/assets/files/2021-12-30/1640882171-224390-screenshot-2021-12-30-215937.png
+Chiragv2 - they use Free GCP i can proof
+
+
+
+damm man so rude 
+then i got 
+
+
+ban - https://drama.gg/assets/files/2021-12-30/1640882208-634581-image.png
+Kowone - Chiragv2 based on your messages, i believe you're not chirag
+Chiragv2 - Kowone yes i am not chirag i am fan fon him so i used v2 read that
+Kowone - Chiragv2 quite a stupid move, but ok
+Aaron_ - pwned At its finest indeed.
+pwned - It's gone. - https://drama.gg/assets/files/2021-12-31/1640923480-80626-5132f6ad-0643-4f29-9e1c-032d44958a57.jpg
+Chiragv2 - invite pls
+pwned - Chiragv2 The bot banned you lol.
+Dvij1233 - even their manager is a kid check his videos - [https://www.youtube.com/watch?v=ht3qE6dkNJc]
+pwned - Dvij1233 after i nuked their server lol - https://drama.gg/assets/files/2021-12-31/1640941971-265660-d9abb794-5b61-4e62-8b33-d0f56036bee5.jpg
+Dvij1233 - pwned lmao
+CharityLexus - Dvij1233 i feel like i would probably make that sort of a vid if i was 9 xd
+SamCoThePug - CharityLexus tbh you probably are 9
+CharityLexus - SamCoThePug i don't think a 9 year old would know what a host even is 😂
+Deveroonie - Jen got banned from their website because I was in the drama.gg discord
+
+this is why we use alts
+Dvij1233 - pwned back again lol 
+new invite - https://discord.gg/sdUKqPFC
+cause the owner dm advertised in one of my alt acc - https://drama.gg/assets/files/2022-01-02/1641124024-113522-image.png
+pwned - Dvij1233 I know lol. I banned about 200 or 100 members (which is the whole server).
+Dvij1233 - pwned even their new panel or ig 2nd panel uses linode 
+
+Ip adress of it - 45.79.123.126 - https://drama.gg/assets/files/2022-01-02/1641125985-110951-image.png
+MayankKumar - Dvij1233 lmao they creating a another panel with nulled unix
+Shershah - JOGINDAR shershai
+
+BRUH lied stop lieing.
+Dvij1233 - do they still exist?
+Loser - Shershah Lying*

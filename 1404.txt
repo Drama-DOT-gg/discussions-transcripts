@@ -1,0 +1,41 @@
+Wischard - I have seen many thread just carry out conclusion without providing actual prove, I am not supporting any host that use free trials but just to make a black and white here.
+
+To prove a host use free trials, you need to provide: (any of the following)
+Actual invoice of the host using free trial
+The owner own words
+Reverse IP lookup only tells the server provider or even load balancer/proxy provider, this cannot be use as free trials evidence. Using Cloudflare doesn't mean you suck, drama.gg use it as well (replying on the recent thread)
+
+Secondly, you need to explain which terms of cloud provider did the host break. I have read Amazon Web Service (AWS), Google Cloud (GCP) &amp; Azure free trials terms and none of them mention you cannot resell their service nor providing free service to other.
+https://aws.amazon.com/free/terms/
+https://cloud.google.com/terms/free-trial
+https://azure.microsoft.com/en-us/offers/ms-azr-0044p/
+
+I do agree using free trials can be unprofessional, but it's never illegal unless you do carding and other stuff (talk is easy, providing evidence is hard, so make sure you provide evidence before making a conclusion). One of the common unprofessional is data loss (which you guys a good job on Badsk thread), but by saying unprofessional doesn't mean some mod ban/kick you out from the server and you should cry at drama.gg (Please be professional at drama.gg).
+
+Technically reselling cloud service is not illegal, it's more like a value-added service (like you provide support, installation and setup), therefore there's nothing to expose over there, drama.gg can be a better place of exposing better things like actual scam instead of just free trials, the free trials topic just never got off.
+Sydney - Go suck a toe
+TheAlex - Average new skid trying to defend plexed
+
+  Ok let me explain to you
+  
+Wischard To prove a host use free trials, you need to provide: (any of the following)
+
+Or you can just ip lookup and see if the node is free tiraled. If the owner refuses to give invoices of payment he abused the node
+
+Wischard Secondly, you need to explain which terms of cloud provider did the host break
+
+You didnt even fucking link AWS Terms of service you thicc dumbass. You just linked the explanation of what a free trial is. Also the big providers don't care what you do with the servers, if you resell them or not. 
+ALSO 
+Google out right fucking states you cannot card their nodes 
+
+
+Now two things come out your post:
+You have never interacted with an owner of abused nodes
+You dont fucking know what carding is nor you want to learn about this
+
+Wischard Technically reselling cloud service is not illegal, it's more like a value-added service
+
+What? Reselling a cloud service is not illegal but highly immorala nd any host that resells free trials should be banned off hosting servers forever. There will be a dataloss every month or so, and your customers will end up losing their shit in a matter of minutes. if you defend free resellers go eat a dick - https://drama.gg/assets/files/2022-01-18/1642506737-573627-image.png
+Chirag - TheAlex you both are wrong about most things here. I'll explain this in the next message
+Chirag - Wischard agreed everyone knows cf isn't bad and everyone knows no cloud provider prohibits reselling. Considering most hosts using free trials are free host or are paid hosts which like 2 customers it's impossible for them to pay those invoices if they use gcp, AWS, azure etc. What's actually wrong with using free trials for hosting is that your users will lose data, since most of these shit heads won't be able to pay able the free trial ends, the data of their users would be lost forever.
+Wischard - Let's do not merge data loss and free trials together, using free trials is completely OK, but just some additional action that causes to be NOT OK. For example, Unable to pay those invoices and having data loss is different story, that will depending on how the host handle the data. By using free trials, I am just using it without having data loss or other things.

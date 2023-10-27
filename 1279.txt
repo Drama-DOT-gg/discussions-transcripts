@@ -1,0 +1,828 @@
+Shershah - Hey there,
+Today I m creating thread on "VietHosting" which is scamming its members along with replit and azure. Owner "rcong#7239" seem to be kid. As he said that he host his "dashboard" on "replitit"]
+whole information will be found here: https://viethosting-expose.lushnodes.xyz/
+there webs:
+Website - https://viethosting.ml/
+Dashboard - https://dash.viethosting.ml/
+Game Panel - https://panel.viethosting.ml/
+funny free domain
+Pinging panel.viethosting.ml [13.70.129.25] with 32 bytes of data:
+Reply from 13.70.129.25: bytes=32 time=173ms TTL=48
+
+Ping statistics for 13.70.129.25:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 173ms, Maximum = 173ms, Average = 173ms
+Control-C
+C
+C:\Users\Administrator&gt;curl ipinfo.io/13.70.129.25
+{
+  "ip": "13.70.129.25",
+  "city": "Melbourne",
+  "region": "Victoria",
+  "country": "AU",
+  "loc": "-37.8140,144.9633",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "3000",
+  "timezone": "Australia/Melbourne",
+  "readme": "https://ipinfo.io/missingauth"
+} ooof .
+Loser - lol
+Shershah - update: name copied from "https://www.viethosting.com/"
+Loser - lol
+Shershah -  - https://drama.gg/assets/files/2021-12-07/1638849753-474509-image.png
+Loser - lol
+AllSafe - Hello Shershah,
+
+Regarding copying your website we sincerely apologies for the incident, we have updated the website.
+
+However, your claims about "VietHosting" scamming using Replit and Azure which is not true and we would like you to provide evidence.
+
+Best Regards,
+AllSafe
+Soul - AllSafe I would like you to provide evidence of you not abusing azure free trials.
+Also you guys use a free domain ".ml" from freenom.
+AllSafe - Hello Soul,
+
+It seems like you are not able to provide any evidence of us abusing Azure free trials, therefore it's not needed for us to provide how we are not abusing Azure. And using domains from Freenom is legally correct and not breaking any law. Please provide evidence in 48 hours about how we abuse Azure else this will be a defamation.
+
+Best Regards,
+AllSafe
+Tomas - You could at least show proof of you making payments to Azure.
+
+Using Freenom domains is pretty unprofessional seens as you never actually OWN the domain - and if you are abusing Azure, you obviously have little to no money &amp; so that's why you are also using a free-issued domain?
+
+How on earth could you afford Azure if you can't afford a domain?
+FlyingMane - AllSafe 
+The proof is on you. Show them invoices
+AllSafe - Hello Tomas &amp; FlyingMane,
+
+Invoices and payments are mark as confidential because it include our operating cost, in this case Shershah and Soul unable to provide evidence for their claim, it's totally not needed for us to provide any evidence. We are looking forward for your evidence.
+
+Best Regards,
+AllSafe
+Soul - AllSafe You surely can pay 350$ per month for each node but cant pay 1$ for the first year of a domain name.
+
+While providing "services" for free. 
+Using a free domain shows how unprofessional you are and not serious about your "project" - https://drama.gg/assets/files/2021-12-07/1638869886-656252-image.png
+Soul - Also their privacy policy is generated?
+Personally would avoid them. - https://drama.gg/assets/files/2021-12-07/1638870750-656726-image.png
+AllSafe - Hello Soul,
+
+To trust or not to trust is definitely up to you, we don't see any legal issue here. We use a free domain because it's usable and not worth the money just for some appearance luxury and we save up the money to purchase better performance server. We know what we are doing at privacy policy and we do enforce it, again I don't see any legal issue here. 
+
+I can tell you are avoiding my question because you unable to bring out any evidence of abusing Azure, I would like to remind you you still have 45 hours to carry out the evidence else it will be a defamation.
+
+Best Regards,
+AllSafe
+Soul - AllSafe its just round and round can you provide invoices after blurring the "sensitive" information?
+Also your "company" is not a legally standing entity.
+Soul - AllSafe if you really cared about not spending too much money as you claim so, you wouldnt buy anything from azure cause its just not cost efficient for a small "company".
+Cause the 32 gb ram "Virtual Machines" from the asia region alone cost 350$ a month each.
+Also if you want to prove this thread is "defamation" feel free to send the invoices after blurring "sensitive" info.
+Also if you ask how do we know they are abused:
+You use a free domain,Azure cloud is unreasonably priced for a small "project" / "company",Azure has a free trial that gives 200$ in credits.
+AllSafe - Hello Soul,
+
+As we mentioned before we doesn't need to prove evidence and invoices since you are the one who accuse us, you need to provide evidence in order to support your claim. Since you can't even prove your accusation by providing evidence, this is clearly a defamation. 
+
+Using Azure cloud or not is not something you need to worry about, we handle the server and you enjoy the service. Time is ticking, you still have 44 hours to carry out the evidence.
+
+Best Regards, 
+AllSafe
+Soul - AllSafe Can you prove the "statements" are "defamation"?
+Also i dont need to provide evidence in "44" hours. Its you who need to provide evidence that my statements are indeed wrong(according to laws in my country)? Which you dont want to cause you cant?
+Edit:Its either you or me who needs to provide evidence. Its just not me.(did some googling)
+AllSafe - Hello Soul,
+
+I would recommend you to consult your local lawyers for more information. Even if you don't need it, I will still give you and Shershah 44 hours to provide your evidence.
+
+Best Regards,
+AllSafe
+Soul - AllSafe i dont need the time cause i know you use abused azure nodes and wont afford to sue me over you 5$ arc.io revenue.
+If you really wanted you can solve the issue in 2 mins if you really pay the absurd amount azure charges.
+Anyways it will be your "users" and rep that will suffer once your azure credits expire
+MythicalKitten - AllSafe
+
+
+
+C:\Users\root&gt;nslookup dash.viethosting.ml
+Server:  one.one.one.one
+Address:  1.1.1.1
+
+Non-authoritative answer:
+Name:    dash.viethosting.ml
+Address:  34.120.194.28
+
+and if u go to 34.120.194.28 it literally shows its repl lmfao - https://drama.gg/assets/files/2021-12-07/1638884384-199346-image.png
+Shershah - Hello AllSafe,
+Hey you have 42 hours to provide proofs that you for your azure vps.
+And if you pay 300$ then why you host your dashboard on replit which is completely free of cost.
+Provide us valid proof.
+
+Best regarda,
+Shershah.
+Ichigo - what happens if he dosent send them lmfao Shershah
+RobusOfficial - idc if its a legit host or just a random idiot kid like me but decided to make a host, but why tf would u trust a host with a free freenom domain? even a dumfuk like me can alr clearly see theres a huge red flag, so big that its somehow even bigger than my mum
+RobusOfficial - Shershah wait brb imma just google up azure invoice and photoshop my name into it
+Soul - RobusOfficial or just blur the name.
+wait stop giving him ideas
+RobusOfficial - Soul eh yeah, we should stop now before not only we give him another idea, but also before i leaked my "Bottle of Cum" secret recipe (dm me on discord for further info if u're interested in buying some)
+Sydney - @AllSafe The fact that you refuse to share a blurred copy of any Proof of Payment is proof enough of the claims. You can't show the invoices bc you don't have any, bc you are using free shit. Additionally, why the hell do you want to hide your "operating cost"? That is such a stupid ass thing to do
+SirCat-Qlox - AllSafe then ur clearly fucking using azure free trial no bussiness would have a problem showing this really.
+AllSafe - Hello All,
+
+First of all, I need to clarify again. It's not our duty to provide evidence. The duty of providing evidence is Shershah as he accuse VietHosting to be scamming using Azure. If he unable to provide evidence to support his claim, it will be defamation as that's what he said.
+
+About using Replit, we indeed using Replit but we did not abuse nor break the terms of service of Replit as what Shershah claims. We would like to request evidence from Shershah about abusing Replit.
+
+Best Regards,
+AllSafe
+Soul - AllSafe So is it not your duty to protect your brand thats copied from viethosting.com?
+Prove that the statement "Viethosting.ml is scamming azure"' as false. As everyone else said if you really paid for the nodes you would post the invoice. If someone accuses someone of defamation they have to prove the fact they stated is indeed false which you clearly cant?
+DEMONCAT -  - https://drama.gg/assets/files/2021-12-07/1638892185-338473-image.png
+DEMONCAT - they all nodes belong to gcp
+Soul - DEMONCAT its just their dash thats hosted on repl.it(that uses gcp) not all nodes i think
+Tomas - Why do you keep going on about defamation?
+
+You aren't a legal entity, you stole someone else's  business name and you operate using a free domain, any decent host wouldn't use a Freenom domain; don't start saying bullshit 😂
+Jxck_KV - Tomas Agreed.
+ @AllSafe Could you atleast not disregard what we've asked for? If you prove that you pay for Azure services instead of just being ignorant about it that would be brilliant 🙂
+__SECRET__ - MythicalKitten - https://drama.gg/assets/files/2021-12-07/1638903705-67698-image.png
+__SECRET__ - Soul he will need a good enough PC to run photoshop and have to purchase it in the first place
+__SECRET__ - AllSafe u legit are using some kind of text generator cuz u looks like an alien in this thread texting " hello all " and stuff and in this world, liers don't need to show proof the truth must show the proof's to survive 
+
+best regards
+GODDAMMSECRET
+RobusOfficial - AllSafe 
+
+ "It's not our duty to provide evidence clear enough,'" well, fair enough, he prolly no longer want to have that host or just a dumfuk like me that always fail to understand english words
+
+"The duty of providing evidence is Shershah as he accuse VietHosting to be scamming using Azure." yeah, basically saying  "we dont have any proof, we dont care about what u guys said earlier , if Shershah didnt have a proof then this thread is invalid and misinformation , and we will not care about the proof that u guys have sent in this thread"
+
+" About using Replit, we indeed using Replit but we did not abuse nor break the terms of service of Replit as what Shershah claims. We would like to request evidence from Shershah about abusing Replit. " oh zamn, another shithost redflag ! , i wonder how shit the nodes are if for the panel, they use a fucking replit
+
+oh wait i forgor, its an abused azure
+AllSafe - Hello All,
+
+Unfortunately, Shershah unable to prove the statement "Viethosting.ml is scamming members with Azure and Replit". Therefore, we does not need to prove we didn't. Providing evidence is not our priority and we will provide when Shershah provide a valid evidence. Shershah is still given 32 hours to provide evidence.
+
+Best Regards,
+AllSafe
+Loser - Lol
+MythicalKitten - AllSafe lmfao ur azure expired - https://drama.gg/assets/files/2021-12-08/1638930220-834279-image.png
+Shershah - AllSafe lmfao.
+Well first of all you are using replit , second of all you are using free domain, third of all you are using gen tos and pp. And you also copied dnxrg rules. And also website skidded from lush old website. - https://drama.gg/assets/files/2021-12-08/1638930609-524159-screenshot-20211208-075847.jpg
+Shershah - AllSafe lmfao.
+Well first of all you are using replit , second of all you are using free domain, third of all you are using gen tos and pp. And you also copied dnxrg rules. And also website skidded from lush old website. - https://drama.gg/assets/files/2021-12-08/1638930633-910424-screenshot-20211208-075840.jpg
+Soul - Evidence plz prove it wrong. /j - https://drama.gg/assets/files/2021-12-08/1638930665-494314-image.png
+AllSafe - Hello MythicalKitten &amp; Shershah,
+
+It was a temporary downtime and it's back up now. About Shershah, I doesn't see using Replit, free domain, using other people rules, privacy policy and terms of service generator is against the law, kindly explain. Meanwhile, you still have 25 hours to provide evidence.
+
+Best Regards,
+AllSafe
+Soul - AllSafe Abusing azure free trials is against their tos
+Shershah - AllSafe 
+Domain name:
+      VIETHOSTING.ML
+
+   Organisation:
+      Mali Dili B.V.
+      Point ML administrator
+      P.O. Box 11774
+      1001 GT  Amsterdam
+      Netherlands
+      Phone: +31 20 5315725
+      Fax: +31 20 5315721
+      E-mail: abuse: email@freenom.com, copyright infringement: email@freenom.com
+
+   Domain Nameservers:
+      GRANNBO.NS.CLOUDFLARE.COM
+      NICK.NS.CLOUDFLARE.COM
+
+
+   Your selected domain name is a Free Domain. That means that,
+   according to the terms and conditions of Free Domain domain names
+   the registrant is Mali Dili B.V.
+Shershah - AllSafe using other people rules,
+
+I swear that i saw rules from dnxrg hosting
+Shershah - AllSafe I doesn't see using Replit
+
+https://drama.gg/d/1279-viethosting-viet-hosting-viet-host-abusing-replit-copied-lush-website/22
+Sky - @AllSafe 
+
+We use a free domain because it's usable and not worth the money just for some appearance luxury and we save up the money to purchase better performance server.
+
+I mean, I understand the statement but it makes "any" company look very unprofessional considering the fact that "they" could / are using Azure VPS's. I mean to be fair, you can get .xyz for 1$ or even less- so it doesnt really make sense how "affording" anything from Microsoft Azure is possible, but can't provide a 1$ or even less domain.
+
+Plus, using Freenom (Free domains) isn't really worth due to .xyz domains being so cheap. And freenom's site in general is just slow.
+AllSafe - Hello Shershah,
+
+Instead of reading part of the sentence, please read the full sentence.
+
+AllSafe About Shershah, I doesn't see using Replit, free domain, using other people rules, privacy policy and terms of service generator is against the law, kindly explain.
+
+
+Best Regards,
+AllSafe
+Soul - AllSafe Using replit isnt the best idea if you already got powerfull machines. Using other peoples rules and generating pp and tos is very unprofessional just like using a free domain.
+AllSafe - Hello Soul,
+
+I don't see there's an legal issue there.
+
+Best Regards,
+AllSafe
+Soul - AllSafe Abusing azure free trial is against their tos.
+AllSafe - Hello Soul, 
+
+We required you to provide evidence to support your claim.
+
+Best Regards,
+AllSafe
+Soul - AllSafe 
+I require you to provide evidence that you pay for the azure nodes.
+also are you using some kind of translator? - https://drama.gg/assets/files/2021-12-08/1638953763-566588-image.png
+AllSafe - Hello Soul,
+
+Your evidence is invalid, we recommend you to consult with your local lawyer.
+
+Best Regards,
+AllSafe
+Soul - AllSafe We require you to provide evidence that you pay for your azure "vms"
+Soul - AllSafe In the case of Viethosting.ml is not a company,  Viethosting.ml owner cannot trade using a external name nor going to court. 
+(yes i copied this from him thats why the grammar is bad)
+AllSafe - Hello Soul,
+
+Unfortunately, you are unable to proof your claim therefore it's not needed for us to provide since it's an invalid claim.
+
+Best Regards,
+AllSafe
+FlyingMane - AllSafe 
+The best bit of all this is that you try to act all formal whilst having almost no customers and no support team
+Also the burden of proof is on you, and you have to prove you pay for your nodes.
+Inb4 "Muh private data"
+
+Your invoices don't contain data that can't be blurred. You are refusing to provide said proof because you know very well you pirate the nodes
+Soul - AllSafe Unfortunately, you are unable to proof your claim that my claim is invalid therefore it's not needed for us to provide since it's an invalid claim.
+if you are being dick i can to be a dick.
+Shershah - Hello Allsafe,
+
+You cant operate with another company name.
+Please contact your doctor.
+
+Best Regards,
+Shershah
+AllSafe - Hello Soul,
+
+Viethosting.ml is not planning going to court and that's what we could answer you.
+
+Best Regards,
+AllSafe
+Aaron_ - MythicalKitten Azure probably suspended all of them lmfao
+Sky - This is just hurting my brain at this point..
+FlyingMane - AllSafe 
+Stop trying to gaslight people into believing you are real. Just buy the nodes and move on. 
+
+Indian skid 🗿🗿🗿🗿
+Soul - Aaron_ he messed up his ptero panel i think as i see in the ptero discord
+AllSafe - Hello Shershah,
+
+Welcome back, you still have 23 hours to provide your evidence.
+
+Best Regards,
+AllSafe
+Sky - Soul LMAOO LEMME TAKE A LOOK AT THIS.
+FlyingMane - Soul do they have a discord?
+Sky - Soul Mans really asked.
+Aaron_ - Soul LMFAO
+FlyingMane - AllSafe again, the evidence isn't for us to provide, it's for you to give. 
+You need to prove you pay for nodes
+Not the other way around
+Aaron_ - Sky Kindly send the screenshots here for the funny
+FlyingMane - Sky 
+Lmao screens?
+Sky - Aaron_ @FlyingMane - https://drama.gg/assets/files/2021-12-08/1638954561-881961-image.png
+AllSafe - Hello FlyingMane,
+
+We have mentioned many times, you can't accuse someone without evidence. Therefore it will be invalid if you couldn't provide any evidence. We could provide evidence if Shershah provide any valid evidence about his claim.
+
+Best Regards,
+AllSafe
+Soul - AllSafe I did provide evidence
+Prove it invalid?
+FlyingMane - AllSafe 
+We gave you evidence. You supposedly have 350 $ hardware and no website and a stolen layout. 
+Also since you like to mention the law so much the burden of proof is on you in this case
+AllSafe - Hello Soul,
+
+Your evidence is invalid, we recommend you to consult your local lawyer.
+
+Best Regards,
+AllSafe
+Soul - AllSafe You have not proved by evidence is invalid though? Are you just saying its invalid ?
+Sky - AllSafe When lawyers wouldn't even be necessary...
+FlyingMane - Soul 
+This
+You can't just say "Evidence invalid". You need to disprove your claim or close down your host
+AllSafe - Hello All,
+
+We suggest you to file a lawsuit if you think you have grasp with your evidence. We will be waiting for your lawsuit for the next 24 hours, do update us about your court ID and letters else it will be mark as resolved. If you have any legal questions, please consult your local lawyers. Email us at allsafe@gmail.com 
+
+Best Regards,
+AllSafe
+Sky - AllSafe LMAOOOOOO THIS IS SO FUCKING FUNNY.
+FlyingMane - AllSafe 
+Dear AllSafe
+Your life is invalid
+We suggest you buy a noose and a stool and hang yourself
+Best regards
+Drama.gg
+Sky - FlyingMane NO FUCKING WAY YOU SAID IT LMAOO
+FlyingMane - Sky 
+Dear Sky
+
+Your life is valid, a walking W of a man
+We suggest you write us at argonnetworkstaff@gmail.com for a mega chad role in our discord server
+
+Best regards
+The argon hosting team
+Sky - FlyingMane 😮OO DOING SO RIGHT FUCKING NOW.
+RobusOfficial - AllSafe Hello AllSafe, 
+Your argument is invalid, please provide us proof that you paid for the Azures , stop abusing them u didnt even paid for it, We suggest you to see the doctor to check about your recent mental illness and eyesight
+
+Best Regards, 
+CumbusOfficial
+Sky - RobusOfficial STOPPP IM FUCKING EVEN MORE DYINGG.. PLSSSSS
+SamCoThePug - SCANNING FOR ABUSED NODES…
+
+ABUSED NODES FOUND - https://drama.gg/assets/files/2021-12-08/1638956122-816232-dffdb598-7b5d-4d46-8f77-913eb5696134.jpg
+Sky - SamCoThePug PLS.
+SamCoThePug - Hi we reccwomendwed you swhut wup , JAMAL INIFPRNDENT ADVISIRIOTR
+MythicalKitten - SamCoThePug omg JAMAL
+SamCoThePug -  - https://drama.gg/assets/files/2021-12-08/1638956243-254738-ce127aae-21e1-40ae-998a-c7936bfa8ed3.jpg
+Sky - SamCoThePug JAMAL LOL
+SamCoThePug - Hi,
+
+@AllSafe please provide proof of payment of nodes within 24 hours or your host will be obliterated by my army.
+
+Thanks,
+SamCoThePug
+FlyingMane - AllSafe Hello All,
+
+We suggest you to file a lawsuit if you think you have grasp with your evidence. We will be waiting for your lawsuit for the next 24 hours, do update us about your court ID and letters else it will be mark as resolved. If you have any legal questions, please consult your local lawyers. Email us at [allsafe@gmail.com](mailto:allsafe@gmail.com) 
+
+Best Regards,
+AllSafe - https://drama.gg/assets/files/2021-12-08/1638956386-984133-22c6996742a084f70fda7683181575122f064cdbc0ff225e60d3229f956af4f4-1.jpg
+Sky - FlyingMane -is dead-
+FlyingMane - AllSafe 
+Gonna piss your pants maybe?
+Maybe shit?
+And cum?
+
+The liberals are taking all our
+Shit and cum
+From the working class people
+Shershah - FlyingMane nah his mother took phone.
+SamCoThePug -  - https://drama.gg/assets/files/2021-12-08/1638956919-660402-1c2bad99-831c-4144-b386-da71cb75e237.png
+Sky - SamCoThePug no comment.
+Shershah - Small tip: If you want some fun then read @Two Old msgs in pterodactyl
+MythicalKitten - @AllSafe  
+
+Thanks for your website, privacy policy and tos. I now make my new free host. https://vixelhosting.ml/
+Kowone - moment when allsafe retard uses https://viethosting.com 's name. quite a retarded move isn't it?
+Soul - the thing is no one even knows if allsafe is the guy who own's viethosting.ml
+Kowone - Soul meh who cares, although this thread will bring the harm to original viethosting's seo.
+RobusOfficial -  - https://drama.gg/assets/files/2021-12-09/1639047445-381884-image.png
+pwned - Shershah how do you even host a dashboard on repl.it?
+pwned - RobusOfficial lmao
+AllSafe -  - https://drama.gg/assets/files/2021-12-09/1639061777-163446-5x8o5x.gif
+Soul - AllSafe LMAO
+Shershah - they got my dynamic ip lol - https://cdn.discordapp.com/attachments/918529859758747760/918533070188064768/unknown.png
+Shershah - they got my dynamic ip lol - https://drama.gg/assets/files/2021-12-09/1639065894-109162-image.png
+Shershah -  - https://drama.gg/assets/files/2021-12-09/1639065932-798475-image.png
+Shershah - pax is allsafe. PAX#1254
+Shershah - http://paxdms.lushnodes.xyz/
+Soul - Shershah you sure? Pax has way worse grammar.
+Shershah - Soul yes me sure. He use text generator.
+RobusOfficial - Shershah well i guess thats why he sounds like he have an eyesight issue
+AllSafe - Hello Shershah,
+
+We are quite disappointed that you think pax is us. You know the rules and so do I. Providing evidence is what accuser need to do, now you just come out with no evidence again. We doesn't have any website how are you suppose to ddos? If we were him, we would provide evidence of you ddos our website, not just accusing without evidence, unlike you.
+
+Best Regards,
+AllSafe
+RobusOfficial - AllSafe 
+"You know the rules and so do I" oh damn, kinda reminded me of something
+
+"We doesn't have any website how are you suppose to ddos?"well,, just hit the ip i guess
+
+"If we were him, we would provide evidence of you ddos our website" i think ma brain hab cummited die from reading his generated text message,
+
+anyway , still can u give us the invoice payment proof? oh wait sorry i forgot, u abused them
+AllSafe - Hello RobusOfficial,
+
+We doesn't need to provide evidence because Shershah himself couldn't prove his own accusation.
+
+Best Regards,
+AllSafe
+Shershah - AllSafe I already provided alot of evidence on you all using free trier of azue. And I have asked you for invoice proof. But you didnt gave me that. Ig you have eyesight problem.
+AllSafe - Hello Shershah,
+
+Could you please send the post number of your evidences?
+
+Best Regards,
+AllSafe
+Shershah - Shershah 
+
+Shershah Game Panel - https://panel.viethosting.ml/
+funny free domain
+Pinging panel.viethosting.ml [13.70.129.25] with 32 bytes of data:
+Reply from 13.70.129.25: bytes=32 time=173ms TTL=48
+
+Ping statistics for 13.70.129.25:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 173ms, Maximum = 173ms, Average = 173ms
+Control-C
+C
+C:\Users\Administrator&gt;curl ipinfo.io/13.70.129.25
+{
+  "ip": "13.70.129.25",
+  "city": "Melbourne",
+  "region": "Victoria",
+  "country": "AU",
+  "loc": "-37.8140,144.9633",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "3000",
+  "timezone": "Australia/Melbourne",
+  "readme": "https://ipinfo.io/missingauth"
+} ooof .
+Shershah - Shershah 
+
+Shershah AllSafe 
+Domain name:
+      VIETHOSTING.ML
+
+   Organisation:
+      Mali Dili B.V.
+      Point ML administrator
+      P.O. Box 11774
+      1001 GT  Amsterdam
+      Netherlands
+      Phone: +31 20 5315725
+      Fax: +31 20 5315721
+      E-mail: abuse: [email@freenom.com](mailto:email@freenom.com), copyright infringement: [email@freenom.com](mailto:email@freenom.com)
+
+   Domain Nameservers:
+      GRANNBO.NS.CLOUDFLARE.COM
+      NICK.NS.CLOUDFLARE.COM
+
+
+   Your selected domain name is a Free Domain. That means that,
+   according to the terms and conditions of Free Domain domain names
+   the registrant is Mali Dili B.V.
+AllSafe - Hello Shershah,
+
+That's the evidence of we use Azure, that doesn't mean we abuse Azure nor using free trials.
+
+Best Regards,
+AllSafe
+AllSafe - Hello Shershah,
+
+The domain shows other organisation because we use Freenom IDShield, therefore it won't show our name as it protects our privacy and prevent us from spam.
+
+Best Regards,
+AllSafe
+Kowone - Shershah the fact that they're operating with free domain, and also uses a vietnamese company name are already funny
+Shershah - AllSafe Okay so you can pay 300usd for azure vps but cant pay 10usd for a domain?
+Kowone - Shershah cmon man, they got no money, why'd you ask that
+AllSafe - Hello Kowone,
+
+Someone has told me that you can operate a host without registering as a company, the link to the post https://drama.gg/d/1269-thunderhostfs-hosting-stealing-terms-of-service-from-cygennodescom/21 .
+
+Best Regards,
+AllSafe
+Kowone - AllSafe the problem is, you're using another company's name tho?
+AllSafe - Hello Shershah,
+
+We have answered that question before, kindly read the conversation history.
+
+Best Regards,
+AllSafe
+Shershah - AllSafe without registering as a company,
+
+You did same.
+Soul - AllSafe Do you have any relations to viethosting? If not how do you know they use Freenom IdShield(idk if that exists but sure).
+AllSafe - Hello Soul,
+
+Freenom IDShield is on by default https://www.freenom.com/en/termsandconditions.html and it's available to all clients. If you lookup the organisation, you will see other people having the same as well.
+
+Best Regards,
+AllSafe
+AllSafe - Hello Kowone,
+
+It's an coincidence to have the same name with the company's name, we did not try to phishing on their customers.
+
+Best Regards,
+AllSafe
+RobusOfficial - AllSafe "that doesnt mean we abuse azure nor using free trials." and a host with a freenom domain, using a azure VPS/Node are a bit fishy, thats why we are asking you to provide us a evidence that u were indeed not abusing azure
+
+How much more time do i need to repeat this answer?
+Kowone - AllSafe ok but how about ruining the company's seo? and how'd you explain the free domain you use?
+
+"Your selected domain name is a FREE domain name. That means that, according to the Terms and Conditions of FREE domain names, the registrant is:
+
+Mali Dili B.V.
+Point ML administrator
+P.O. Box 11774
+1001 GT Amsterdam
+Netherlands
+
+Due to restrictions in Freenom's Privacy Statement personal information about the user of the domain name cannot be released."
+Soul - AllSafe  cough cough the whois data  says that its a free domain cough cough 
+ Your selected domain name is a Free Domain. That means that,
+   according to the terms and conditions of Free Domain domain names
+   the registrant is Mali Dili B.V.
+
+   Due to restrictions in Point ML 's Privacy Statement personal information
+   about the user of the domain name cannot be released.
+RobusOfficial - AllSafe well, yeah but with a few thing to remember, "DONT FUCKING ABUSE THOSE AZURES, GO ABUSE YOUR OWN BALLS"
+Kowone - RobusOfficial only if they got the balls to do so 🤷
+RobusOfficial - Kowone oh yeah sorry, i forgor they alr yeeted his balls privilege
+NotEthan - AllSafe hey man its really concidence then tell me why did they not change thier Host name? Even after finding out? Even abusing/using free domains?
+Soul - AllSafe Hey dickhead, please use common sense this isnt a court or something &lt;3
+AllSafe - Hello All,
+
+How does using free domain illegal? Do you have any evidence we abuse Azure?
+
+Best Regards,
+AllSafe
+NotEthan - AllSafe my friend you want proof right? RIGHT? then I want ya to send us a ss of u actually buying nodes but not ABUSING
+NotEthan - AllSafe and its not illegal,it just doesn't make sense that Those owners/etc can pay 100 or 200$ per month for nodes but not 10$ for xyz domain
+Soul - AllSafe I am going to repeat this: I have provided evidence which you deemed invalid without anything to back up with.
+About free domain we just replied to you telling that the evidence provided by shershah is not adequate, telling that its just freenom idshield. We have said multiple time using a free domain is very unprofessional, you can find many resources on the internet telling why.
+If the owner cared about his seo or his hosts rep he would buy a domain and use a cheaper provider for his "free" host.
+NotEthan - Soul lol true... just does not makes sense that he cant buy a 10$ .xyz domain or PROOF he have boughten nodes
+Soul - AllSafe Also you seem to lack common sense and this isnt a court or something this is a fourm dedicated to make people aware of sketchy hosts. 
+Also you were accusing us of defamation, please provide proof that the stated "facts" are indeed false.
+AllSafe - Hello NotEthan &amp; Soul,
+
+You could say that as unprofessional, everyone got their own measurement of being professional. However, it's not illegal in any form. Do you mind resending your evidence?
+
+Best Regards,
+AllSafe
+Soul - Also you were complaining that the fourm was causing damage to their seo but if you use a free domain you have a practically no existent seo and their "homepage" is an extremely broken template with buttons leading to no where.
+Soul - AllSafe No one did say its illegal except you, i am reminding you this fourm is dedicated to make people aware of sketcy "hosts" and people who should not be dealed with.
+NotEthan - AllSafe my friend...its really sketchy and sus that they are doing this...
+Soul - Shershah As shershah provided the "ip info" of them using azure and if you use common sense there is no way an individual can pay 100-250$per month for each "node" while having no revenue or any form of investment. Arc.io revenue maxes out at about 50$ per month for falixnodes which have over 50k users.
+Soul - Also if you are gonna ask why is there a illegal activities tag it was for "copying" shershah's or "lushnodes" website without crediting him which is against the license for the open source project.
+AllSafe - Hello Soul,
+
+The title and the first post accuse that we abuse Azure and Replit, but now you are saying we just sketchy? Spending $100-250 per month for Azure is actually not that expensive, however it's just expensive for you, you can't judge someone spending things more expensive then call them abuser, you need to provide proof. Your criticism is just sour grapes and no evidences is included.
+
+About copying Shershah website we have sorted out in our first reply, kindly take a look.
+
+Best Regards,
+AllSafe
+Soul - AllSafe Sureeeeeeeeeeeeeeeeeee. Providing free services and paying $100 per month while knowing no basic linux knowledge. Sureeeeeeeeeee
+Soul - and refusing to show invoices and telling us to provide evidence when it would take you 2 mins.
+Soul - AllSafe 
+there you go please prove it invalid. - https://drama.gg/assets/files/2021-12-10/1639115871-951414-image.png
+Soul - AllSafe Also not 100$ per month but for each which accounts to more than 1000$ per month.
+AllSafe - Hello Soul,
+
+I guess we have misunderstanding between us. We ask for the evidence for VietHosting abusing Azure and Replit. We did not ask for the evidence of Soul having schizophrenia.
+
+Best Regards,
+AllSafe
+NotEthan - AllSafe lmaooo!!!!!
+
+dude its not even close to bieng expensive for us
+but it is dumb that they cant afford paid domain or what? plus u havent proof me that they buy vps. Why? Cuz u dont have 😂
+Soul - AllSafe We also asked for evidence of Viethosting.ml not abusing azure but you keep asking us for evidence. As i said there is a high chance you abuse azure free trials. You cant just go hey hey i dont abuse azure free trials you have no evidence please fuck off.
+Soul - Also you are claiming you guys dont use azure free trials. Please provide evidence.
+AllSafe - Hello Soul &amp; NotEthan,
+
+However you does not have any evidence of we abusing Azure and Replit, it's just false claiming. Therefore we doesn't need to defense ourselves by providing evidences.
+
+Best Regards,
+AllSafe
+Soul - AllSafe However you do not have any evidence of you not abusing azure. its just false claiming. Therefore we dont need to show evidence.
+Soul - It applies to both of us, if you want to show evidence do or else dont.
+Xmomoo - AllSafe If u dont really abuse azure, Why cant u just send a god damn fucking pic of the invoice???
+AllSafe - Hello All,
+
+We have come to a conclusion where this thread can be mark as resolved. VietHosting has changed the website, as mentioned in the first post by us. However Sharshah falsely claiming that we abuse Azure and Replit but he has no evidences at all. 
+
+Best Regards,
+AllSafe
+NotEthan - AllSafe my g if u dont have evidence of having nodes/vps then that just proofs us right! its alr if u wanna bring this thing to court as i know my self court will want to get the defender's opinion and reasons first.
+NotEthan - AllSafe alr
+Soul - AllSafe Everyone here on the fourm can agree this conclusion is wrong. Also you have not shown evidence that you dont abuse azure.
+RobusOfficial - AllSafe and we are asking the evidence that u didnt abuse Azure and Replit,  we also have asked you to provide us valid proof instead of saying shitty stuff like "wElL , gIVe mE prOOF thAT i  aBooZ rEPliT anD aZuRE, aLL oF tHe scReensOht aEr fAKed, aNd i hAvE eYes daMag"
+NotEthan - Soul fax he did not...
+AllSafe - Hello Soul,
+
+However you doesn't have any evidences to prove us wrong as well, there is nothing to discuss here anymore.
+
+Best Regards,
+AllSafe
+NotEthan - all safe, it does not change the fact that u can't proof that they dont abuse... as i said...
+If u cannot proof that u buy nodes/vps then thats our evidence and no one came to that conclusion
+Xmomoo - AllSafe I don't see the point why u dont wanna send a proof that ur not abusing other than u r abusing
+NotEthan - Xmomoo fax
+RobusOfficial - please for the love of god, read the goddamn thread 1-10x again before asking for further evidence , 
+
+We already gave our proof that u were infact abusing Replit and Azure, now can u please give us evidence if your azure was not an abused azure.
+AllSafe - Hello Xmomoo,
+
+We have answered why we doesn't want to provide invoice previously, please read the thread.
+
+Best Regards,
+AllSafe
+RobusOfficial - Xmomoo he hav brain damag, his brain broki, no worki
+Soul - AllSafe As i said before that information can be blurred
+NotEthan - RobusOfficial ye allsafe.. i think ur a 10 year old or younger
+RobusOfficial - AllSafe yeah , because u dont give  a fuck about this thread, and dont have any evidence to proof that its not an abused azure
+Soul - Also "We dont need to provide evidence as you havent. "_Allsafe
+NotEthan - as we all know that u cannot provide proof that u have purchased nodes/vps... it leads to THIS conclusion that this host abuses... here is something i can agree with... reply on my comment who agrees and say "agreed"
+RobusOfficial - Soul he hav smol pp, no can think
+Xmomoo - NotEthan i totally agree with u
+RobusOfficial - Soul smol pp momento
+Soul - NotEthan he has no common sense it seems.
+NotEthan - Soul true.. no wonder why he sounds so immature lmao
+Soul - Also this isnt even his host so idk how hes going to provide evidence
+Xmomoo - @AllSafe If u cant even buy a domain with fucking 1$ for a year or a vps, dont open a host, i bet u dont even know how to restart the wings lmfao
+AllSafe - Hello All,
+
+This thread will be endless if both parties doesn't provide evidences. One party cannot provide evidences for their accusation and another party doesn't want to provide evidences. It's pointless to discuss abusing Azure and Replit or not. If you want to continue the thread, please provide evidence to support your party, not just asking another party to provide evidence.
+
+Best Regards,
+AllSafe
+NotEthan - AllSafe for fucking sake we already provided... check the thread back again and as we all came to a conclusion that this host scams. story finish
+Soul - AllSafe This applies to you too. 
+WoRsT ReGaRdS
+SoUl
+ok this isnt funny
+AllSafe - Hello NotEthan,
+
+The evidence you provided cannot prove that we abuse Azure and Replit, it just show we use their services.
+
+Best Regards,
+AllSafe
+FlyingMane - AllSafe 
+The fact that you don't want to provide evidence of your innocence shows how dumb you really are. 
+And who tf is "we" my guy? You talk like a corporate entity without even having one
+FlyingMane - Guys can't we just dm azure and be done with it?
+RobusOfficial - AllSafe hey AllSafe, u might wanna check this item out , might help with some of the issue u had with understanding us
+
+https://www.amazon.com/Just-Smarty-Interactive-Educational-Kindergarten/dp/B074PYYM51
+NotEthan - RobusOfficial LOL GET ROASTED SAFE KID
+NotEthan - RobusOfficial But thats not the part..the part is weather he can afford it or not
+FlyingMane - Guys can someone give me the nodes' ip?
+Shershah - FlyingMane see my first post.
+FlyingMane - FlyingMane 
+If he is not abusing the nodes, we can just dm azure and ask them if they are free trials or not. Of they are, we raid and ddos his hosting, if they aren't, we leave him alone
+FlyingMane - Shershah got it
+Soul - FlyingMane https://subdomainfinder.c99.nl/scans/2021-12-09/viethosting.ml
+Shershah - @AllSafe Why you are using free domain? 
+Also show us that you pay for azure. 
+And you are using replit hacker plan.
+Show us that you pay for replit and azure.
+FlyingMane - Soul 
+Nah i need to email azure and ask them if 
+13.70.129.25 
+Is a trial ip or not
+Soul - Shershah replit has provided free hacker plans on multiple ocassions.
+Aplimmm - AllSafe stop act fcking profesional and act inocent like a kid it wont help. We all literly have solid proof that you are a kid and abusing your provider i mean wtf you dint even have money to buy 1 single domain
+AllSafe - Hello FlyingMane AKA owner of argonhosting.net,
+
+DDOS is a crime, we suggest you not to proceed with your action.
+
+Best Regards,
+AllSafe
+AllSafe - Hello Aplimmm,
+
+If you have solid proof, please show it. About the domain, we have answered previously in this thread, please spend your time reading it.
+
+Best Regards,
+AllSafe
+NotEthan - AllSafe 
+hey ya!
+https://drama.gg/d/1289-nixxon-nodes-fake-scammers-sad/3
+
+i have more proofs on their scam
+Aplimmm - AllSafe i actully have no proof but i try  to find it such as contacting azure via email to ask about your nodes and i whould like to ask for payment proof of you buying the nodes it will really help to not waste my time of contacting azure.
+RobusOfficial - AllSafe knowing someone's vps/node ip = hakker goin to ddos 
+
+wow, thx for the information dud, i can be the ultimaet dumfuk now
+Soul - AllSafe Do you have any relations to the host? If not how do you know they dont want to show any evidence?If not means the owner has no knowledge that this thread exists.
+pwned - MythicalKitten AllSafe isn’t the owner. He's just some guy who "protects" random hosts.
+pwned - Soul The owner, rcong, doesn’t know this thread exist.
+AllSafe - Hello RobusOfficial,
+
+Please read post 213th, he clearly stated that he is going to.
+
+Best Regards,
+AllSafe
+AllSafe - Hello Soul,
+
+The owner know about the incident and we got his permission to speak for them as well. 
+
+Best Regards,
+AllSafe
+Aplimmm - Proof thus host abusing (from kitten) - https://drama.gg/assets/files/2021-12-10/1639124861-380835-18f233f8-dfa9-4506-a4ee-d751b4715543.png
+AllSafe - Hello Aplimmm,
+
+It just shows that our server is from Azure, how does it prove abusing?
+
+Best Regards,
+AllSafe
+Aplimmm - Do i look like smart that know how its abuse? I just grab that sht from dashactyl development discord you should ask MythicalKitten aka kitten he should have more knowledge then you k thx
+FlyingMane - AllSafe 
+Abusing free trials is too
+Best regards, Flyingmane
+epiclyblu - AllSafe 
+Hello AllSafe,
+
+Please provide your proof of payment for the nodes hosted on Azure in the next 46 minutes, or else I will launch a nuke headed towards you.
+
+Best regards,
+Kim Jong-Un
+toffeeondiscord - epiclyblu Please provide your proof of payment for the nodes hosted on Azure in the next 46 minutes, or else I will launch a nuke headed towards you.
+
+has the nuke hit yet
+epiclyblu - toffeeondiscord yes
+toffeeondiscord - epiclyblu yes
+
+nice
+NGX - AllSafe You know the rules and so do I
+
+say goodbye
+AllSafe - Hello FlyingMane,
+
+Another day without evidences.
+
+Best Regards,
+AllSafe
+__SECRET__ - Here it is 
+U asked for evidence - https://drama.gg/assets/files/2021-12-11/1639238830-596588-1577458404.jpg
+iiChxrlly_ - AllSafe 
+Hello AllSafe,
+
+The community will raid your discord server and launch a DDoS attack, if you did not give the evidence of invoices from Microsoft Azure within 48 hours.
+
+Worst Regards,
+CursedWinter
+__SECRET__ - agreed
+__SECRET__ - AllSafe 
+Hello AllSafe,
+
+still, 40 hours left.........
+then my nuke 
+
+yes I named him R-7A SARMAT
+
+Best Regards,
+                      -SECRET - https://drama.gg/assets/files/2021-12-12/1639313396-512317-image.png
+Oliver1234dotdot - epiclyblu LMAOOOO
+Two - Shershah screw you lmao
+RobusOfficial - AllSafe Hello AllSafe
+it seems like after a few weeks your brain is still broken, would u like to file a replacement for it?
+
+Worst Regards, 
+Cumbus
+__SECRET__ - @AllSafe hola bitch 
+I was on a vacation now I am back and viet hosting gonna get fucked up hard so be prepared and type the number of your local ambulance number cuz ur ass gonna get fucked up
+Best regards
+Your owner secret
+__SECRET__ - Oliver1234dotdot this was 12 days ago still no raids
+Deveroonie - Hello,
+
+I think / hope allsafe got banned
+
+Worst regards, f**k you all
+Deveroonie
+Jen - Shershah U do realize u can take down his website?
+Aaron_ - Don't tell me he doesn't know how to make shit redirect 💀 - https://drama.gg/assets/files/2022-01-03/1641235697-572453-image.png
+__SECRET__ - Aaron_ he just have to use this 
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Document&lt;/title&gt;
+    &lt;meta http-equiv="refresh" content="0; url =
+    https://www.youtube.com/watch?v=dQw4w9WgXcQ" /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    
+&lt;/body&gt;
+&lt;/html&gt;
+but we know he is dumb asf mofo
+SamCoThePug - I found a glitch in their site that gives me abt 1k coins every 10 seconds, all i do is leave it open while my script does the rest!
+pwned - Aaron_ It's a shit host. I kinda wanna nuke it ngl. Too bad after I said that they use azure free trial in public chat, it was an instant ban.
+Jen - pwned Then do it

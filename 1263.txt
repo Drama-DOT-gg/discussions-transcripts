@@ -1,0 +1,79 @@
+Deleted User - Well hello everybody, i just made this thread to make sure the community is aware of current threats, what made me open this  thread is a recent ddos which was conducted on https://nightnodes.com/, after knowing that the site has been ddosed i did a bit of research and found this 
+And many many other discord groups all made to sell their services or to merely show off what their botnets can do, whats really scary about this is how cheap they are selling such services for and how easy it is for reckless children to get access to such botnets. Espicially how these people on a regular basis ddos many huge websites - https://drama.gg/assets/files/2021-12-04/1638592569-804381-screenshot-20211204-081524-bluecord.jpg
+Deleted User - When i confronted the ddoser:
+
+He said he doesnt even know why he ddosed - https://drama.gg/assets/files/2021-12-04/1638592971-419879-screenshot-20211204-124147-bluecord.jpg
+Deleted User - When i confronted the ddoser:
+
+He said he doesnt even know why he ddosed - https://drama.gg/assets/files/2021-12-04/1638593013-627079-screenshot-20211204-124207-bluecord.jpg
+Deleted User - You all may ask me, why am i posting this here?
+Tho it is true we cant stop it we can still spread awareness and potentially slow down this rapidly growing threat
+Deleted User - https://youtu.be/vNc7VhL0nsU 
+Another example of ddosing and showing it off in youtube they ddosed https://floofyhosting.com/ which used path ddos prot and they ddosed it in mere seconds, keep note that floofyhost is a host centered around ddos prot this will give you a gauge on how powerful ddoses are getting
+Deleted User - To @Sloth  and all admins. If you feel that this thread will only make drama.gg a target for ddoses feel free to remove this thread, but i feel that spreading said awareness is important and thoes of you in the community who have knowledge to protect against ddoses feel free to let sloth know.
+Deleted User - heres the discord of the ddosers go and report them and thoes who can report them to the fbi.
+https://discord.gg/XbsPJwg7
+FlyingMane - Bumping.
+Also how do we stop them? Like there is no way that we can shut down their operation
+Deleted User - there are many ways, step one report their discords they use discord to grow fast the more they get termed the more they slow down step 2) report them to the fbi they will be stopped for a long time also these guys ddosed the egyptian goverment
+Deleted User -  - https://drama.gg/assets/files/2021-12-04/1638608696-386271-image.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609256-630350-ddos-4.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609256-703169-ddos-3.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609256-807818-ddos-2.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609256-892190-ddos-1.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609256-997127-ddos-5.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609256-936270-ddos-4.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609256-998857-ddos-3.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609257-108310-ddos-2.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609257-194384-ddos-1.png
+Deleted User - list of things theyve ddosed: - https://drama.gg/assets/files/2021-12-04/1638609257-309066-ddos-5.png
+Courvix - Bunch of losers.
+bandit - Isn't it ironic how you also have a history of ddosing and are in discords of botnets/booters?
+FlyingMane - bandit Having a history ≠ you do that anymore
+Deleted User - bandit i am in them because i am intrested in ddos prot not ddosing itself
+Deleted User - anyways if any one you know people who ddos feel free to post about it here
+__SECRET__ - Zachery wait what did u just said ddoses Egyptian government 
+really????
+__SECRET__ - filed a report to discord and don't wanna do to FBI as I am a kid but publicly posted it on my Instagram
+Deleted User - __SECRET__ yes
+Deleted User - __SECRET__ 
+go for it
+__SECRET__ - Zachery already done!!
+Sydney - So, reporting it to the FBI is a good idea. Also getting their domain and reporting that too is a good idea. The US has the power to take away domains, or at least most of them (Yes, even if the service is not in the United States). Other than that, trying to report them to Discord is a good idea, just hide the fact that YOU reported them.
+__SECRET__ - Sydney well I reported them and I don't kinda care cuz I use VPN and all the time and if not VPN then mobile data and what are they gonna do??
+DDOS my website
+FlyingMane - I absolutely love how you hate dDosers (which is fair) but then you pull shit on hexit. Weird
+Deleted User - i never pulled anything on em except add a bot which dubs triggered
+__SECRET__ - Zachery he discord replied to the issue
+__SECRET__ -  - https://drama.gg/assets/files/2022-01-06/1641489146-416771-image.png
+WSGR - Zachery So, he's ddosing government websites now? wth waste of money + him prob being put on FBI list.
+TheAlex - The server got closed
+Jen - Damn these people went all in for it just to make their dumbass stresser look cool, Even though they probably couldn't down a cloudflare IPV4 IP
+Deleted User - Jen mate, they dont have to.
+Deleted User - Jen a single cloudflare ipv4 has upto 100TB of DDoS protection
+Jen - Zachery So?
+If it can't down it
+i don't want it
+Deleted User - Jen they can still bypass with l7 and down a site..
+Deleted User - why try a big site when all sites will just be routed to another node
+Jen - Zachery they can't bypass cloudflare when ddos mode is on
+if they have it set to low or medium sure
+but when its on high nahhh
+CODER-nodejs - Jen even under attack mode
+CODER-nodejs - I have been a victim of a DDoS attack made by a indian skid. I can’t say what happened after that.
+Jen - CODER-nodejs okay but
+nobody cares about an opinion from a 3rd world country user
+
+jk
+jk
+Deleted User - Jen they still can
+Deleted User - people ghave made captcha bypasses
+Deleted User - have*
+eraters - Zachery 
+
+"fricking" lmfao - https://drama.gg/assets/files/2021-12-04/1638592971-419879-screenshot-20211204-124147-bluecord.jpg
+FatGrizzly - eraters i feel like its a ctrl+shift+i, what do you think?
+eraters - FatGrizzly yeah look at the spacing between the name and the message compared to the next line
+Deleted User - not to mention, securityteam isnt around anymore because "Vex" had snitched on the owner to the FBI. I think that just shows you how someone can fuck you up badly if you're not careful. Kinda funny too, skids being skids.
+Maxysk - Zachery another flawless example of people thinking they can get away with just about anything. i can’t tell you how many people I’ve ever met where DDoSes are their go-to method of messing with people because they think people won’t actually take legal action on them. funny stuff
+Toki0179 - FlyingMane I mean there are probably many ways, there are no ways anyone can actually be bothered to do though.

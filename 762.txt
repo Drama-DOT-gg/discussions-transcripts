@@ -1,0 +1,100 @@
+ely - I already make it clear that this thread has only views made by me, and even though I'm part of FalixNodes, I don't speak for the host's words, in fact, I criticize some things even in this thread about.
+
+I would like to talk more about how hosts today are going down a bad path, and why this happened, how to have a better host, etc.
+
+To begin with, most hosts today have one goal: make money.
+Of course, as an organization, you want to make profit in some way, but this is the ONLY thing being looked for in today's hosts. In return, cheap and crappy services are given to children to tolerate.
+I know that criticism and even Drama.gg won't be able to solve this, these people doing hosts don't look for criticism, if the money is going up, everything is as it should be. My honest opinion, I don't see Drama.gg as any kind of solution, but more as a place for people arguing among themselves, and sometimes committing childish things (DDOS won't improve your life nor will it destroy your enemy host, relax). 
+This site is niche, and will never solve problems the way it operates, and I think that is beginning to be accepted by those who use it here: a forum about hosts, just that.
+
+Continuing on my opinions about hosts:
+Most of it isn't a real company, a company is much more than having your name registered, you must act like one. And most hosts are made by children/teenagers who aren't even out of puberty.
+Aternos remains the best Minecraft hosting service. Why? Simple, they're serious about what they do, have a strong team and their moderation is very good, even with the databreach they had years ago, they solved these problems quickly. Besides that, they have a panel created by themselves, clean and secure.
+Pterodactyl shouldn't be used for anything other than personal use, a host using Ptero as panel just shows how they economize on the user experience. Ptero is not ideal for hosts, and not even visually pretty, even with themes.
+A dark theme as the main theme is not good, especially when you don't know anything about color palettes and your site looks ugly. Having white as default and optional dark with correct colors shows a cleaner environment, as Aternos does.
+Hosts need to use a good support site, + having a forum, Discord isn't ideal and professional, it just shows how inexperienced you are with it...
+Make a host after studying about it, and be over 18, you would spend less shame in your life that way.
+If you don't know anything about what you are hosting, don't try doing it.
+  
+Many hosts exist for the purpose of scamming, it won't stop until there's some authority involved. 
+I don't intend to reply much here after this thread.
+Sloth - Now think about it and tell me if anything you just said applies to FalixNodes? I’d like to take apart most of your host opinions, but I’m kinda chilling right now, so I’ll get to it in a few. Take care
+Jedrik - I'll take this one
+Chirag - ely A dark theme as the main theme is not good, especially when you don't know anything about color palettes and your site looks ugly. Having white as default and optional dark with correct colors shows a cleaner environment, as Aternos does.
+
+so you want to burn our eyes?
+Anonymous-User-1111111111 - ely Make a host after studying about it, and be over 18, you would spend less shame in your life that way.
+
+I agree with this...
+_MrKnight_ - Sloth He clearly said that's his opinion, he is not talking behalf of falix , he is talking as an individual
+_MrKnight_ - ely I agree to everything , including the white theme part 
++1 for this thread!
+Jedrik - ely I know that criticism and even Drama.gg won't be able to solve this, these people doing hosts don't look for criticism, if the money is going up, everything is as it should be.
+
+I've said this time and time again, it's like a big CW (community warning) or a huge disclaimer, or a way for people, or companies to look better in the public eye, and most especially a place for people to voice their concerns and discuss about those businesses, or in this case hosts that they use. Which is obviously a problem for the host that you work on as you literally don't give a shit, I know everything you stated here is opinion based, but it's the one example I can give that you will have a lot of knowledge about and would know what is going on and the things we're criticizing it for.
+
+ely DDOS won't improve your life nor will it destroy your enemy host, relax
+
+I don't recall any reputable member of Drama.gg, that we know of, or have encouraged to perform a DDOS, we only encourage it strictly for testing purposes and with permission. You can't generalize drama.gg as a whole doing these actions, that's the problem of the individuals themself.
+
+ely To begin with, most hosts today have one goal: make money.
+Of course, as an organization, you want to make profit in some way, but this is the ONLY thing being looked for in today's hosts. In return, cheap and crappy services are given to children to tolerate.
+
+And this is the main issue we have against new hosts, everyone complains about every free host is on here, etc. the site a way to make users know about why they should avoid a certain host or company or person.
+
+ely Drama.gg won't be able to solve this
+
+ely This site is niche, and will never solve problems the way it operates, and I think that is beginning to be accepted by those who use it here: a forum about hosts, just that.
+
+I and pretty sure other people in the community are very open about this, but it is always great to be updated and know how to avoid getting, as they say it "exposed", or basically to start a company without problems or issues, etc.
+Jedrik - _MrKnight_ The point is if they were aware about this, then why aren't they applying it to their own workplace, or why aren't they bothered about these happening in their workplace but are bothered about it happening to everyone else's
+Sloth - ely Most of it isn't a real company, a company is much more than having your name registered, you must act like one. And most hosts are made by children/teenagers who aren't even out of puberty.
+
+Totally agree, however having amour business registered isn’t really a must, it really just protects you, and as soon as you grow to a certain degree you can just register then. About the teenager part, I do not believe you understand the difference between just a clueless child who’s using his birthday cash to start your run of the mill Minecraft server host, and people who know what they’re doing and are reputable in the community, like @Iceey for example.
+
+ely Aternos remains the best Minecraft hosting service. Why? Simple, they're serious about what they do, have a strong team and their moderation is very good, even with the databreach they had years ago, they solved these problems quickly. Besides that, they have a panel created by themselves, clean and secure.
+
+Aternos has a profitable business plan, however limits in such ways, that they maximise what they get out of their limited hardware and resources, a long queue, tons of marketing (from which they likely make the most money) and the quick auto-shutdown. A custom panel isn’t really that difficult, and you can’t be sure weather or not it’s developed in-house or outsourced.
+
+ely Pterodactyl shouldn't be used for anything other than personal use, a host using Ptero as panel just shows how they economize on the user experience. Ptero is not ideal for hosts, and not even visually pretty, even with themes.
+
+Let's take DedicatedMC for example, makes 50k+ a month and use Pterodactyl. Almost all modern hosts use Pterodactyl, and that's cause there is no better alternative. Multicraft for example is old, clunky and expensive. That statement is just wrong in my opinion.
+
+ely A dark theme as the main theme is not good, especially when you don't know anything about color palettes and your site looks ugly. Having white as default and optional dark with correct colors shows a cleaner environment, as Aternos does.
+
+Really depends on the market you're in, hosting now is often developers and generally the kind which stays up late. Best is it'd be variable, but creating two UI themes is fairly ambitious for smaller companies, and not really a must.
+
+ely Hosts need to use a good support site, + having a forum, Discord isn't ideal and professional, it just shows how inexperienced you are with it...
+
+Discord is pretty great for that thing, and the largest Minecraft hosts like MCPH use it. Forums don't work for that kind of thing, as I've seen plenty of hosts try that exact thing and fail. Just stick with ticketing if you're that anti-Discord. Also elaborate what you mean by "it just shows how inexperienced you are with it", if you mean it shows how inexperienced you are with hosting, then you're dumb.
+
+ely Make a host after studying about it, and be over 18, you would spend less shame in your life that way.
+
+I agree with the first part, people should look into what kind of business their starting, and need to make themselves smart before putting a couple grand into their own venture. The 18 part I disagree with though. I'd say you should be around the age of 16, you can register a company and would be held accountable for your actions (in most countries, depends on where exactly you live). Many great people, like as I mentioned earlier, Iceey, started their hosts under 18 and built up some great businesses.
+
+ely If you don't know anything about what you are hosting, don't try doing it.
+
+Nothing to disagree with on that one chief.
+
+On another note, I don't believe you understand that this site isn't about closing hosts, but rather spreading awareness about them and trying to help hosts on the right track, which we do in most cases.
+_MrKnight_ - Jedrik Jedrik let me say , u remember Jen right , he threatened me saying he will ddos my site , he told it in this forum , if you want proof go to rednodes/redhost thread
+Jedrik - _MrKnight_ My point is, we never encouraged it or commanded it. 
+It's Jen's problem, not ours, we can't control what he does no matter how many times we warn him. You can't blame drama.gg's community as a whole for that. - https://drama.gg/assets/files/2021-07-03/1625321785-708413-image.png
+_MrKnight_ - Sloth Salute on captain sloth , after month of talking in drama.gg I never meet a cool and non violence/swearing thread , this made my thoughts about drama.gg
+_MrKnight_ - Jedrik I didn't blamed , I blamed your moderation, you could had banned him for that , because he threatened me via this forum
+Jedrik - _MrKnight_ I didn't blamed , I blamed your moderation
+
+I was referring to the thread we're on rn
+_MrKnight_ - Jedrik Yeah I understand , my point is that because of this low moderation , people are miss thinking what is drama.gg , including me , In my first times here I thought this was a forum like dark web LOL , Im just suggesting that try to change the environment of drama.gg from toxic to family friendly so people wont miss judge drama.gg
+Jedrik - _MrKnight_ Im just suggesting that try to change the environment of drama.gg from toxic to family friendly so people wont miss judge drama.gg
+
+We've tried. No one was interested.
+_MrKnight_ - Jedrik Well trial and error makes everything success, try your best and it will work , my opinion : reduce swearing , reduce racism ( I saw in the search thingy that people using the n word , including u ) reduce toxicity and make this place a forum which "discuss" not fight or spread hatred on others or hosts
+_MrKnight_ - Also I admit that I even sweared in drama.gg and I'm ready to change my behavior there for better environment
+ShinyPlasm - ely Many people have been trying to make panels, and have failed. Everyone says "this panel will be the next best thing", but it isn't. Okay - say we shouldn't use pterodactyl for Minecraft servers, what would you use instead? Certainly not multicraft, expensive and ugly.
+HCS - Hosts that don't listen to the constructive criticism made in threads on here will fail anyway. I don't think you should have to be over 18 to make a host but I do think you should plan it out (I wish I would've spent more time planning my host before I started)
+comfyy - ely A dark theme as the main theme is not good, especially when you don't know anything about color palettes and your site looks ugly. Having white as default and optional dark with correct colors shows a cleaner environment, as Aternos does.
+
+I hate sites that use a white color palette. It messes up my eyes, My personal opinion. All said, doesn't falix use a dark color pallet?
+Mocab - dark color pallets dont look as bad as you say, (my opinion) they are better for me as too much white hurts my eyes
+SnailDOS - Also, if you are using any host, research it! Check the life span! Reviews won't help! It could be botted, or even manipulated people into giving it good reviews. Be careful!

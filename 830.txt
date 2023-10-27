@@ -1,0 +1,17 @@
+danielpy - What is the better hosting for VPS I can get with low price
+EmeraldMike - danielpy  do you mean VPS
+EmeraldMike - Also this is the worst place to ask in my opinion.
+IoNetty - danielpy https://hostily.cloud
+EmeraldMike - IoNetty  WTH
+Yeah no 6GHP for 6GB RAM on a shit cpu GE location. For budget. I would recommend my host that has actually good prices. DMs are open.
+Vhodou - Hmm search on google instead, lol
+danielpy - EmeraldMike Can you send me the link of your host?
+KIVOX - danielpy Just use hetzner cloud.
+Deleted User - danielpy JeekieHost in my opinion. I use it and I have no issues
+EmeraldMike - mituishere  they also bought out another host recently. It's also meh from raw pricing on there site.
+europa - danielpy hetzner cloud. if you need really REALLY cheap you can go ghosty.host ig
+Fallen_ - danielpy bro contabo all the way, no?
+babyharpseal - Fallen_ If it's for personal use, yes, if it's for a hosting, just don't
+EmeraldMike - Fallen_  go kermit die
+Tomas - EmeraldMike i thought u also sold xeon 1650v4 vps
+EmeraldMike - Tomas  we still have xeons but we got the good stuff as well like i9 9900k and Ryzen 9 5950x. at great prices too (; (;

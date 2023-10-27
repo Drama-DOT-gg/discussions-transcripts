@@ -1,0 +1,103 @@
+BrendansAtWork - You shouldn't be trying to operate a company, especially when handling sensitive information.
+Hold off on it, build your skills and contacts, and educate yourself.
+
+Want to run a IaaS/CaaS or hosting company in the future?
+Here's some things you can do to prepare
+
+Experiment
+ Hop onto OVH, Azure or Linode and play around, build in your own enclosed and safe environment where you don't put people at risk and LEARN
+Look into cloud services
+ What technologies should you use, why, what platforms and services are better than others
+Look into basic security best practices
+ Basic security and systems management knowledge, things to make your life easier and protect yourself and any users you may have in the future
+Learn basic fundamentals of operating systems, and specific operating systems
+ Windows Server
+ Debian
+ Other *nix operating systems
+ Don't bother with CentOS unless you plan on using RHEL in the future, which you probably won't
+Learn about basic networking and infrastructure management
+ Doesn't take that long to get the hang of the basics, it'll change your life when it comes to this stuff
+Look into business management and finance
+ You need knowledge of business to run a business surprisingly!
+ For clarification this does include the law 😉
+Stop the rise of social-media based businesses
+ Don't run your business on Discord, it's stupid, build a healthy community sure but running service desks, billing and product delivery on a social platform is absolutely stupid
+
+AWS run some free courses for people in education, including ones about managing cloud and hybrid environments.
+Also check out Cybrary, Google, Coursera, LinkedIn Learn and Udemy for more free courses on specific and vague topics.
+
+AWS and Azure offer free tiers where you can experiment for 12 months, and GCP/Azure both offer 200usd in credits for between 1-3 months depending on the current offer and platform for you to play with.
+
+Can't be bothered to learn?
+Outsource/Hire
+
+Whether it be hiring (not volunteering, actually paying people) people to fulfill roles you cannot or taking up the help of a company to do work for you- outsourcing is done all the time and you should consider it for anything you're not willing to learn or adapt to.
+
+Unrelated note why do skids constantly call bare metal 'dedis' and hosts/servers (whether they are physical or virtual) 'nodes' 🤡
+EmeraldMike - I might as well addon to this because nothing annoys me more than seeing these cringy small hosts ran by 10 year olds that have 0 clue about linix and servers.
+Iceey - Learn or at least look into data privacy and intellectual property law.
+BrendansAtWork - Iceey Business management includes law surprisingly
+EmeraldMike - Iceey data privacy and intellectual property laws aren't going to save you from rm -rf heheheh
+BrendansAtWork - EmeraldMike you know what would save you from someone ssh'ing into some random server and running --no-preserve-root, nuking literally everything
+
+RBAC for your bastions/users and basic knowledge on permissions management in Linux
+EmeraldMike - BrendansAtWork  Yeah considering he is a man of legal he knows more than anyone. it why i bought my docs from him (;
+Iceey - BrendansAtWork 👍️ Just making sure.
+
+EmeraldMike Maybe not, but they'll help you prevent any GPDR or similar fines.
+BrendansAtWork - EmeraldMike There are many services where you can get privacy and cookie policies alongside return policies and a ToS, unique to your business and services for cheap
+EmeraldMike - Iceey ( ͡° ͜ʖ ͡°)
+BrendansAtWork - Iceey A privacy policy does not protect you from any data laws apart from filling in the very basics of what you need to do legally, in some situations.
+You need to research the local laws of everywhere you'll be offering your services, for example California has CCPA and European countries which were in the EU in 2016 have GPDR in their local laws, this includes the United Kingdom.
+They have completely different regulations, each of which you would have to adapt your legal documentation for- and that's a single country, and a single state in a country.
+Iceey - Accurate Privacy Policies will help you prevent some fines including ones regarding articles 12 through 14.
+BrendansAtWork - Iceey Articles 12 to 14 of what, read my last message legislation is nearly completely different everywhere.
+
+The only fines you're avoiding are fines for not having them.
+Iceey - I'm aware, I've read the CCPA, the GDPR, the DPA18 and the COPPA, and sorry I meant articles 12-14 of the GDPR, sorry, sorry. I'm not trying to compete or make anyone mad, just a simple comment.
+Iceey - BrendansAtWork 
+
+""The only fines you're avoiding are fines for not having them."
+
+That's exactly what I said, stop trying to start shit please, can we remain in peace?
+Skie - @Iceey , This guy isn't even now so he shouldn't be making this thread. Your talking to the one that has owned 10+ free hosting companies.
+Iceey - Skie huh?
+BrendansAtWork - Iceey I'm not trying to start shit don't worry lmao
+BrendansAtWork - Skie Sorry but if you've not only:
+Owned a company designed to make a constant loss
+Had that same business model fail 10 times and then proceed to continue with it
+
+You probably shouldn't be replying like you own the place
+Skie - @BrendansAtWork  You cannot come this forum and act like you owe the damn place. Plus not all of them were mine so shut the fuck up and you don't fucking know what your damn talking about.
+Jedrik - Skie YOU don't know what you're talking about
+Skie - BrendansAtWork Plus I have been in this forums since SummerHoax.
+Jedrik - You managed to fuck up 10 hosts? and most of them you didn't even own.
+
+Skie
+Skie - Jedrik Uh ya I do.
+Jedrik - Skie And you've been a disappointment to your parents for 13 years now!
+BrendansAtWork - Skie I've ran an MSP since 2014, we dabbled a bit in hosting personally for around 3 years, then went full MSP-esque and have helped multiple companies deliver environments to their customers alongside delivering infrastructure and environments to companies significantly larger than ours since we started operating
+BrendansAtWork - Jedrik this reply is art &lt;3
+BrendansAtWork - Skie Congratulations on using a forum
+Skie - @BrendansAtWork  Don't you have company that you manage hostings?
+BrendansAtWork - Skie We're an MSP-esque business trying to redefine what services an MSP should deliver
+Skie - BrendansAtWork OOO, that's were i now you from.
+BrendansAtWork - Skie I'm going to say that you've never hired or heard of us before to be honest
+Sydney - BrendansAtWork I manage to run a free host, sure, it doesn't make much income, but hey. The more people I can get to use my free services, the higher the chance is that one of those people will buy premium things.
+BrendansAtWork - Sydney ah yes we love a business that isnt financially viable and has no future since it has no revenue to grow
+Yie - I like this thread. Imma keep this thread in my bookmarks stuff
+Sydney - BrendansAtWork I mean... I make enough from my jobs to support the business. Plus, sometimes it isn't about making money
+BrendansAtWork - Yie ComedyCentral but it's just drama.gg
+
+People have started messaging my staff w dumb shit like this lmao - https://drama.gg/assets/files/2021-06-16/1623846071-282977-image.png
+Yie - BrendansAtWork damnnnn, people got no chill
+BrendansAtWork - Yie It's funny because most of this shit gets automatically filtered then manually reviewed after, so one of my guys sent me that with a "What the fuck just happened" we got a chuckle out of it
+Yie - BrendansAtWork nicee :o
+HenryH - Yie same lmao
+Daftscientist - make sure to fucking disclose what info you are going to be storing in your privacy policy don't use some generic one that has no relevance to your company.
+BrendansAtWork - Daftscientist Once again, that's noted in what I wrote- there are many online services which you can pay for, or even get free, customised privacy policies which are specific to the needs of your company and the data you collect.
+An example of this is Termly
+Daftscientist - BrendansAtWork ye ik, I just wanted to emphasize your point.
+typicalGta - The amount of times "Linux" has been spelled wrong in this thread just hurts my brain... wtf li-nux is that too fucking hard?
+SidisLiveYT - I Saw Skie in Posts , and now he destroyed G-Host and is not refunding their Paid Users , Just everything gone Data , Money , Hope and everything ! Because I was a staff their , So yeah , I have no reasons to lie lol
+ Just be the voice of those users , because we tried to stop but nodes are already takenover by him

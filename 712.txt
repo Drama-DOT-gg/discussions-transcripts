@@ -1,0 +1,9 @@
+anonymous0 - i heard about hye hosting last year, looked unprofessional, and i let it fade away as i thought it was a summerhost
+turns out i was right, it was a summerhost, because it faded away and disappeared, and now it has coincidentally came back during the start of summer time. im so excited to see how fast it will fade away before september
+they have their own "custom control panel" called the rat, turns out its just pterodactyl with a skin over it. they have their own " n vps" shit and its basically a lxc or openvz container that they renamed and modified. the lesson here is, hye hosting is shit, the owner acts professional in his little discord community but when privately speaking to him (spoke to him today multiple times) he lazy and unprofessional.
+Cian - hi gavin how are you
+eraters - anonymous0 "custom control panel" called the rat
+
+lmfao i love this
+Skie - @Cian  This one wasn't me.
+anonymous0 - My advice is to avoid hye hosting at all costs and use digitalocean or fastcomet.

@@ -1,0 +1,17 @@
+LuckyTarget - Hi, I own a botlist website that is available for everyone in github. On this page I have DMCA so I know every time someone copies my website
+
+Every day I get 10+ people that copy my page and don't give credits
+
+I enter their servers, and I inform administrators that they must not change the footer.
+I was telling them they should leave the credits but they said I was bothering them and they're not going to change it.,resulting after a few seconds of our conversation to make me Ban from the server. 
+
+My botlist tooMy botlist template: https://github.com/Astra-Development/Discord-Bot-List
+
+His website: https://botlist.dcdarkbot.xyz/
+
+
+More information:
+User id: 660649920013008926
+Server id: 849602955997216788
+
+owners: 324102546681757716, 485034483754598401

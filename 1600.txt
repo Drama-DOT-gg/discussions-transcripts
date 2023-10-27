@@ -1,0 +1,35 @@
+SnailDOS - If ya 'all didn't know already, Halex is planning a desktop app.
+Dev specs: It's Electron, Javascript framework.
+Doesn't sound bad, well... Instead of a person who knows what they are doing, we're seeing Plexed do the job of writing up the software. Personally, Doubt we'll be seeing a TOS &amp; PP, I'm scared to see the future of what happens. Especially, if it's closed source. I'll keep you all up to date, and when it get's released I'll decompile it.
+Thoughts?
+Chirag - SnailDOS cool, who asked?
+SnailDOS - Chirag People who dont want there PC ransomed and attacked with exploits. 🙂
+Aaron_ - SnailDOS People who will run them are kids who value minecraft servers over their personal data.
+Qlox - Aaron_ hosting fact: msot ppl that do use free hosts to run their crappy dsmp server doesnt even know how plugins or server.properties work lol
+Aaron_ - Qlox True, some do, some don't. lol.
+Qlox - Aaron_ most are just fucking dumbasses tbh, like "how do i install plugin" and "how do i change version"
+Jen - Aaron_ No the application isn't dangerous
+its just a locked down browser i'm pretty sure
+Qlox - Jen nah its a spyware + malware + token logger + infecte with plexed virus
+__SECRET__ - https://github.com/FalixNodes-Software/FalixNodes-Desktop
+__SECRET__ - Jen and it's from falix 
+He just gonna change some background banners and icon like I was going to do
+Plexed - __SECRET__ my desktop app is literally just the old oxy app which was electron quick start with customtitlebar
+Jen - Plexed yeah its just an electron app
+i really don't understand why ppl are freaking out over electron LOL
+SnailDOS - Jen False, Electron can be used to do  major things, including, token logging.
+Electron can be used to do tons of other things, It isn't just a "locked down browser"
+SnailDOS - __SECRET__ It's not though, If you look at sneak peaks, or announcements or whatever you can see him writing it from scratch with a "Hello World" page. Doubt he'd do that and then start using Falix.
+Jen - SnailDOS It's not like you can't check what's in it
+SnailDOS - Jen Eh. Still minor concerns.
+SnailDOS - Plexed go for it then lol
+just dont fuck it up 😂
+Jen - SnailDOS Actually his open source projects are pretty good. I know he doesn't have the best reputation but i've looked at the code myself and he's managed to do really well
+SnailDOS - Jen If it even is going to be open source.
+Korbs - SnailDOS Hi there, Mocab made me aware of this post. I do try to make sure the software is actually locked down for security and privacy reasons.
+I'm going to get in touch with the owner and make sure the app used correctly, if they're using my code then I'll just keep tabs on it.
+
+And yes, I believe an Electron app can be harmful and can be used as a token logger. As you can include extra executable files using Electron Builder and have a button or an 'onload' function execute this file. Again, I keep it locked down as much as I can.
+Milan1000 - Korbs Korbs idk if halex will still be a thing, It got stolen by shershah like a couple of days ago and got renamed to EnderNodes, And im pretty sure the app isnt in progress anymore too.
+Korbs - Milan1000 Hmm, yeah, and somehow FalixNodes Desktop is still being worked on after 3 years. The things I've learned in Electron because of it.
+Milan1000 - Korbs Ehh, Falixnodes has had some weird things tbh, Like when they added the hibernation plugin like 5 times but just ended up removing them the next day or hour, But yeah halex seems to be kinda gone at this point but badsk opened a new host of course, Which is called QuaHost Im not sure if that will have a desktop app though.

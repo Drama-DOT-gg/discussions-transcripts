@@ -1,0 +1,90 @@
+Two - This is a tiny rant post I made because it has been very annoying that I have to get involved with some sh*t. It's like... idk night right now and I did a ton of bz sh*t today so I might just be going crazy.
+
+
+
+first of all, I see so many little kids literally starting a host when they are 13 or something.
+WHY? because you are bored?
+
+making a host won't really help you that much in life unless you know what you are doing.
+
+sure, applying for staff on professional hosting providers is fine, but making your own is a terrible idea. 
+
+people specifically make it in USA that you must be 16 years old to work. because they haven't matured enough yet (most of you). you would be more capable of making a host when you are 16, because you are at least a bit more mature enough to make a fricking host... but you really still shouldn't be making a host if you don't know what you are doing.
+
+I still can't figure out if I should defend free hosts, because they are "operated by kids", or I should go against them because they are "operated by kids". I want to try to see potential in people like Plexed, except (pls don't hate me plexed) he manages to somehow make a host that dies within few days. I probably shouldn't defend them, but I'm bored so I do it anyways.
+
+also, stop. making. fricking. dashactyl. 0.x. forks. use an actual panel. WHMCS, Blesta, BoxBilling, etc... SO MANY BETTER ALTERNATIVES. or just use dashactyl as it is. ngl you guys suck at javascript (most of you) and there's always exploits I can find, and 0.x are already exploit HEAVY.
+
+you guys get more simps and shit that support you along the way. guess what? most of the people don't even care about you or some shit. they care about having a good server hosting. if you really wanted to make a free host, you would actually want to sustain the host, and make the services usable, like centronodes. like look at https://centronodes.com/ ... the host can actually sustain. what about the simps you actually get on your host? they are all toxic assholes always defending for you. fucking little kids.
+
+add a tos and privacy policy please. at least try to be legally operated. stop abusing stuff like trials and exploits on vps sites just to get free nodes. freenom is ok if you actually pay for the domain. but most .tk etc domains aren't paid for. you know how easily it is a snipe a freenom domain by paying for it right? you can buy a domain even if you got it for free, so people can just steal a domain from you. why even bother using free freenom?
+
+please stop making slow af client areas. actually consider making a good frontend that's optimized or has seemless loading. user experience is one of the key things in order to get more people using your host.
+
+
+
+wanna know how to actually make a good free host?
+
+well. if you do, learn how to make a good HOST in general first. google it. and study it hard. learn how to make a good sustainable BUSINESS too. learn how to be a support team member, and few other roles. learn how to do sys admin, and etc so many things you should learn before making a host.
+
+one of my biggest regrets doing stuff in the small-hosting industry (ig sorta) is that i made a client area called dashactyl... it's not the panel itself that was a regret, but it was how "unsustainable" it was, and many free hosts use it today. hosts die quickly since it's not... sustainable. giving resources forever after paying once is a terrible idea.
+
+then, work as volunteers on some actual hosts. learn how it actually feels to be a support team member, or some other job on a host. try new roles every now and then... learn and PRACTICE how to be good at this.
+
+after you did all that, all you really need to know is how you would sustain a free host. well, one way you can do is be like me and think of an idea on how you can be different from other sh*t hosts. (yah I'm planning on making a sustainable panel for free hosts... won't be free for everyone tho.)
+
+...
+
+another way is referencing other hosting providers.
+
+even aternos is better than most free hosts ran by skids because it's sustainable. aternos has a ton of ads on their panel on shuts off their server when there are no servers. they overallocate.
+centronodes. stuff. idk i forgot how it works, but i remember stuff like idk an afk page.
+server.pro. fast free servers. queue system. renewal system. expensive af paid plans.
+idk STUFF.
+
+
+
+any tips i have?
+
+people hate the word "renewal". name it something else and change it up a bit. :)
+idk don't rely on arc.io completely. rely on ads, paid plans, offerwalls, etc.
+bruh you think i'm gonna give you more tips? study it yourself.
+
+
+
+ok i'm done with my shit rant thing or something ok bai. don't hate me if you got offended by any of this pls. 
+
+the hosting shit could have a lot less drama in it if some people cough didn't make cough a site specifically about dramas. there are some people here who specifically use this site to cause drama cough cough you know who you are. some of you guys want to give themselves a better image when it really isn't giving you one. 
+
+i wish people found another way to lower the amount of drama (it's impossible to remove completely 'drama' from existence in any community), like possibly thoroughly convincing people to stop making hosts. specifically the little ones. 
+
+anyways feel free to criticize this post. don't mind the grammar mistakes. I rushed to write this, and it's night now. imma head out.
+Jen - Two I mean https://helionodes.host sustains pretty well
+Considering they made 100+ on ads in a month and don't spend that much money
+dxqt - the population of India is taking over discord (most of them are 12 and don't know English), so I think they won't get what you said
+Two - Jen that host uses heliactyl. by now, i'd say you probably would expect heliactyl to have a backdoor. it probably does. I wouldn't consider the host safe. don't kill me plexed.
+Two - dxqt ok https://translate.google.com/
+dxqt - don't mind my grammar 😅
+dxqt - anyway, i don't think this thread would help, i would rather wait until those kids reach the legal age so they can actually know what they are doing when they are host owner
+
+(just my opinion)
+Two - dxqt ig i agree with that.
+dxqt - just want to say that we should not give a single fuck, you know that when they opened it, it would die within the next few months, so why would we pay attention to them?
+HaiNot_ - Two 
+
+Another client page sent this in their announcement, Plexed didn't tell it to me in dms But he did agree to having backdoors. - https://drama.gg/assets/files/2022-02-16/1644986971-527011-image.png
+HaiNot_ - Two 
+
+Another client page sent this in their announcement, Plexed didn't tell it to me in dms But he did agree to having backdoors. - https://drama.gg/assets/files/2022-02-16/1644986977-936465-image.png
+Jen - Two lmfao it really doesn't trust me
+I own that host
+I would know best, Also its very limited to what can access the site internally
+So i's not likely
+HaiNot_ - Jen Plexed Agreed to it having backdoors himeself, When a person tells it himeself he isn't lying.
+Jen - HaiNot_ And that's why i am friends with the developer of dashactyl???
+HaiNot_ - Jen How is that even related to that lmfao
+Jen - HaiNot_ Because i've already looked through the insecurity's. myself and mostly fixed them
+HaiNot_ - We are talking about heliactyl..
+Jen - HaiNot_ Yes I provided my own security patches cause I don't trust plexes updates
+Vertoxen - hehehe boi
+BeastGamer81 - Jen lel

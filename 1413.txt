@@ -1,0 +1,149 @@
+reoigjgldf - Firstly, sorry for causing downtime on drama.gg, hopefully no one experience on got interuptted, I just want to prove my point here. I have run a DDOS test on my Kubbur VPS and the server went down instantly. I heard drama.gg is running using Kubbur VPS, so I decided run a 10 minutes ddos test on drama.gg (To give Kubbur enough time to do the migration) as well and yet the result is the same, you can view it at drama.gg discord #updates channel. Kubbur VPS DDOS Protection is non-exists, they are not likely to protect you from DDOS. Just find something better like OVH.
+Deleted User - you just admitted to ddosing LMFAO we are gonna get the feds on you
+Deleted User - reoigjgldf their ddos prot does exist you probs just used an internal which path can sue you up to 500k for
+FlyawayBear - reoigjgldf nu kubber is amazing stfu.
+reoigjgldf - I use Layer 7 direct drama.gg
+reoigjgldf - FlyawayBear Proved the DDOS Protection is sucks
+FlyawayBear - reoigjgldf are u legit admitting to ddosing d.gg rn lmfao
+Deleted User - reoigjgldf im going to get you fedded
+Jen - reoigjgldf No it doesn't suck. People also have to configure their servers with tighter rules
+reoigjgldf - Jen If it's not, why it doesn't survive?
+Deleted User - reoigjgldf you used an internal and a better then average botnet besides the drama.gg vps isnt configured, path is like a empty shell without configuration its not good but with configs it can tank up to a terabyte
+FlyawayBear - Jen yep
+reoigjgldf - Zachery No, its not from internal, I wouldn't be so stupid
+Deleted User - reoigjgldf just means your using a tcp bypass, probably syn
+reoigjgldf - Still doesn't protect your server
+reoigjgldf - Non-exists 7Tbps DDOS Protection
+Deleted User - reoigjgldf it does exist but its (shared) not dedicated 7tbs and kubbur doesnt provide l7 ddos prot only l4
+reoigjgldf - I would like to hear from @Iceey the CEO instead
+Deleted User - and you did something illegal so yeah… expect the cops at your door soon
+Deleted User - @Timanttikuutio  @Sloth  i got a little someone for you
+reoigjgldf - And Kubbur still sucks
+FlyawayBear - reoigjgldf no it doesnt.
+its amazing.
+Deleted User - reoigjgldf 1) it doesnt suck your just too stupid to configure it, out of the box it has better prot then frantech one of the leading providers in ddos mitigation and kubbur ddos prot already is wayy better then ovh
+Deleted User - and iceey is probs gonna sue you so yeah your fucked
+reoigjgldf - Zachery Oh @Sloth is stupid?
+reoigjgldf - Zachery They gonna get sued for scamming first lol
+Deleted User - reoigjgldf not scamming they provide what they promised just that you didnt configure it properly oh yeah! your too dumb you've never heard of bypasses
+Deleted User - reoigjgldf not stupid he just couldnt be bothered as he has a life to live and things to focus on
+Jen - Yeah if you don't configure any firewall rules
+There's really no point in having DDoS Protection
+And nobody really cares if u DDoS Drama.gg or not
+Just proves that ur a skid none the less
+reoigjgldf - Zachery Seems like @Sloth is stupid as well, his server also get ddosed
+Deleted User - reoigjgldf did you fucking not read what i just said?
+reoigjgldf - Jen That does prove Kubbur DDOS Protection sucks
+Deleted User - heres a properly configged kubbur server https://try-ddos.us/ (im not asking you to ddos this)
+Jen - reoigjgldf No. That's path in general smart ass.
+That's how it works
+Your not supposed to leave it without firewall rules
+reoigjgldf - Zachery Can't even prevent from bypass, that sounds like Kubbur DDOS Protection is completely useless now
+reoigjgldf - Jen You should tell @Sloth
+Deleted User - reoigjgldf MATE KUBBUR HAS BASE path.net prot YOUR SUPPOSED TO CONFIG IT TO STOP BYPASSES
+reoigjgldf - Zachery Tell @Sloth about it
+Deleted User - and you ddosed drama.gg without permission and disrupted my reading
+reoigjgldf - Zachery Blame @Sloth for not setting firewall rules properly
+Deleted User - reoigjgldf you still did something illegal so i can blame YOU
+reoigjgldf - Zachery and I can blame Kubbur for selling shit to me
+Jen - reoigjgldf Notice how they never claimed to be unhittable
+Also its not shit, Your just not good at making a good firewall
+reoigjgldf - Jen Blame @Sloth as well, he also unable to make a good firewall
+Deleted User - reoigjgldf so what if hes not good in setting firewalls? atleast he isnt a dumbfuck like you who doesnt know how ddos protection works
+Deleted User - reoigjgldf not their problem you should have read their ToS, but you on the other hand did do something illegal and thus you can be sued for ALOT
+Deleted User - if you want a good example of a properly configged kubbur server here https://try-ddos.us/
+Loser - hmm
+Deleted User - Hmmmm
+reoigjgldf - Zachery Talking shit is cheap, I doubt you and Kubbur has enough money to hire a lawyer lol, kid these days...
+Deleted User - Reo, bet you can't take down a proper server
+reoigjgldf - Tazhys When TF did I want to take down any server? I just say Kubbur VPS DDOS Protection sucks and proved
+Deleted User - it don't suck, you can't boot for shit my guy. Show whats good or stfu.
+Deleted User - I can post an ip from the same network provider which i own if you wanna show whats good.
+Chirag - reoigjgldf Kubbur has enough money to hire a lawyer lol
+
+oh yeah i bet they do
+Ichigo - i love how this is going off topic if you wanna talk about reoigjgldf
+ddosing just make another thread
+Chirag - Ichigo considering d.gg was down for like 10 minutes like 4-5 times that too over the course of 1-2 days, it doesn't suck lmao
+Ichigo - eyo why reply to me o.o
+Chirag - Ichigo well now this thread is about reoigjgldf ddosing, not kubbur.
+Ichigo - then request rob to rename the thread or smth
+reoigjgldf - Chirag This kid seriously want me to ddos drama.gg for 1-2 days, ddosing drama.gg isnt our point lol
+Deleted User - reoigjgldf ddos my server pls skid
+reoigjgldf - Tazhys ask your mom to do it
+Deleted User - reoigjgldf you can't ddos shit, you're a harmless little twat. Hit me or stfu
+reoigjgldf - Tazhys No one cares tbh, It's about Kubbur sucks
+Chirag - reoigjgldf you couldn't keep it down for more than 10 minutes lmaoo
+reoigjgldf - Chirag bet
+Deleted User - kubbur uses path, and so do i. now have fun, ill be sure to look out for your 1mbps attack. 45.41.240.94:1194
+Deleted User - hit me reo, no balls skid
+reoigjgldf - @Sloth OK
+reoigjgldf - @Sloth Magic I guess
+Deleted User - it aint magic you skid, you're only hitting cloudflare's free plan which any free stresser can do clown
+reoigjgldf - Tazhys Told ya, Kubbur sucks
+Deleted User - dude, you're not even ddosing kubbur clown. You're ddosing cloudflare's free plan bullshit. Bet you can't down my path vps
+reoigjgldf - Tazhys Read the Cloudflare error message dummy
+reoigjgldf - @Tazhys What's your bot list url again?
+Shershah - Tazhys everyone is not skid dumbass. Some have more tricks. Can you stop making him angry. I was reading a thread and then I reload.
+Deleted User - ohhh, i see you. https://atlasbots.com
+reoigjgldf - Tazhys Is it host under Kubbur?
+Deleted User - you'll find out 😉
+Deleted User - Shershah sorry dad
+reoigjgldf - Tazhys Your site not even able to handle normal load, your traffic redirected
+Deleted User - what?
+Deleted User - what the fuck do you mean redirected, its called cloudflare with dope firewall rules
+reoigjgldf - Tazhys We are currently experiencing higher than normal loads. Please verify you are a human below.
+reoigjgldf - ^^ Error throw on your site
+Deleted User - ITS CLOUDFLARE U FUCKKING KNOB
+Chirag - reoigjgldf aight bet, here's my website admin.eggactyl.cloud or chiragdev.xyz, hit any of em lmao
+reoigjgldf - Tazhys Not even loading for me
+Deleted User - site is loading fine
+Deleted User - ur just shit
+reoigjgldf - Chirag Donate $100 to https://teamseas.org with the team (reoigjgldf)
+Deleted User - u cant even hit a website LMFAO imagineeee flexing hitting a free cf site
+Chirag - reoigjgldf i got like $2.5 in my wallet lmao
+reoigjgldf - Tazhys So you could imagine how trash is Kubbur, so easily to got bring down
+__SECRET__ - reoigjgldf why the fuck are u mentioning kubbur in every post and reply in this thread?
+
+probably badsk
+Deleted User - reoigjgldf you didnt hit kubbur u retard
+Chirag - reoigjgldf if you think path is shit (kubbur uses path), go ahead, try to hit admin.eggactyl.cloud
+Tomas - reoigjgldf I don't know who specifically said they had L7 protection but last time I checked Path only offered L4
+__SECRET__ - reoigjgldf and I can blame Kubbur for selling shit to me
+
+uhhh 
+an  UnHappy 10 years old who watched a youtube video on how to DDOS
+FatGrizzly - Tomas path has l7 prot, its just not on their api, it can be manually be enabled
+Deleted User - reoigjgldf only 70k requests? LMFAOOOOOOOOO
+__SECRET__ - reoigjgldf Talking shit is cheap, I doubt you and Kubbur has enough money to hire a lawyer lol, kid these days...
+
+well I heard they pay $20,000 / year and have an actual office in Reykjavík 
+so you are fucked up
+reoigjgldf - __SECRET__ We will see about that
+__SECRET__ - reoigjgldf isnt our point lol
+
+what u mean by " our "
+Deleted User - reoigjgldf hit my site pls, u failed so badly
+reoigjgldf - Tazhys Told ya how bad is Kubbur
+__SECRET__ - Tazhys clown
+
+he is not the clown 
+he is the entire circus
+Deleted User - hit my site pls, u didnt do shit
+reoigjgldf - Tazhys Already hitted right? That's how shit is Kubbur
+Tomas - Logically what you are complaining about doesn't have a whole lot to do with Kubbur. Maybe you should've just talked to their team rather than make a thread about them?
+Deleted User - you didnt do shit though, its still up
+Chirag - reoigjgldf daddy if you think path is shit (kubbur uses path), go ahead, try to hit admin.eggactyl.cloud
+reoigjgldf - Chirag 
+
+reoigjgldf Donate $100 to https://teamseas.org with the team (reoigjgldf)
+Chirag - reoigjgldf teamnoseas better. but i ain't donating, i got like $2 in total rn lmao
+reoigjgldf - Chirag No candy for you then
+Deleted User - hit my site pls or my path
+Chirag - reoigjgldf what about you instead? i'd love to have you in my basement
+__SECRET__ - reoigjgldf sure why not bro
+__SECRET__ - we all will have fun watching you paying for that lawsuits
+reoigjgldf - Chirag I don't like living in India, thanks for your offer btw
+Chirag - reoigjgldf who said you'll live in India? you'll probably live in a sewer in China
+Robert - reoigjgldf it is not KUBBUR's fault. Drama.gg still uses Cloudflare for L7 prot instead of Path's L7 prot. You also publically admitted to DDoSing (which is illegal) so I will be banning your account and locking this thread.
+KIVOX -  - https://drama.gg/assets/files/2022-01-20/1642665374-78042-screenshot-20220120-075522.jpg

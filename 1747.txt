@@ -1,0 +1,28 @@
+Zark - You doesn't have valid proof of 'free trial ending', it's just your assumption after all
+Shershah - Heater
+__SECRET__ - Shershah spend $50,000 on a mining rig it will be a good heater
+BhagwanXD - leaker bruh this kid was shouting in vc so i gave him a mute
+flaxeneel2 - Welp, so I was a bit bored and I looked into this hosting. Their machines are primarily all OCI, granted that OCI does not always equate to free trial abuse but it is the case more often than not. They use nulled WHMCS (bruh .-.) which already encourages one to not put trust in the hosting. If they do not wanna pay the relatively small price of whmcs, you cannot possibly think that thsy are paying for all their machines. I looked into their subdomains. Most were OCI but there were some peculiarities, namely, there was a subdomain called "ransomwarev2", which is really suspicious. Yeah it could be that they named it just as a joke or smth but one should not do such things on a production domain, just gives the host a bad face. They also charge roughly $158 for a 16gb ram server with 8 vCores, which to the uninitiated, might actually look good but for that price you could literally get a dedi with a 5950x (32 "vCores") and 128gb ram from hetzner (ignoring setup fees). $158/mo for such a wimpy server is unacceptable
+ 
+
+
+
+This host was clearly not thought out very well if they thought they could get by without getting caught on cracking WHMCS or charging such a price for a wimpy server (granted, one can get such a server from them for cheaper but still just the fact they even put the plan on their panel is mind blowing)
+
+Oh yeah by the way the OVH entry isnt theirs, the status page service they use uses OVH - https://drama.gg/assets/files/2022-02-27/1645959050-958749-screenshot-20220222-232558.jpg
+flaxeneel2 - Welp, so I was a bit bored and I looked into this hosting. Their machines are primarily all OCI, granted that OCI does not always equate to free trial abuse but it is the case more often than not. They use nulled WHMCS (bruh .-.) which already encourages one to not put trust in the hosting. If they do not wanna pay the relatively small price of whmcs, you cannot possibly think that thsy are paying for all their machines. I looked into their subdomains. Most were OCI but there were some peculiarities, namely, there was a subdomain called "ransomwarev2", which is really suspicious. Yeah it could be that they named it just as a joke or smth but one should not do such things on a production domain, just gives the host a bad face. They also charge roughly $158 for a 16gb ram server with 8 vCores, which to the uninitiated, might actually look good but for that price you could literally get a dedi with a 5950x (32 "vCores") and 128gb ram from hetzner (ignoring setup fees). $158/mo for such a wimpy server is unacceptable
+ 
+
+
+
+This host was clearly not thought out very well if they thought they could get by without getting caught on cracking WHMCS or charging such a price for a wimpy server (granted, one can get such a server from them for cheaper but still just the fact they even put the plan on their panel is mind blowing)
+
+Oh yeah by the way the OVH entry isnt theirs, the status page service they use uses OVH - https://drama.gg/assets/files/2022-02-27/1645959051-93331-screenshot-20220222-132858.jpg
+flaxeneel2 - Welp, so I was a bit bored and I looked into this hosting. Their machines are primarily all OCI, granted that OCI does not always equate to free trial abuse but it is the case more often than not. They use nulled WHMCS (bruh .-.) which already encourages one to not put trust in the hosting. If they do not wanna pay the relatively small price of whmcs, you cannot possibly think that thsy are paying for all their machines. I looked into their subdomains. Most were OCI but there were some peculiarities, namely, there was a subdomain called "ransomwarev2", which is really suspicious. Yeah it could be that they named it just as a joke or smth but one should not do such things on a production domain, just gives the host a bad face. They also charge roughly $158 for a 16gb ram server with 8 vCores, which to the uninitiated, might actually look good but for that price you could literally get a dedi with a 5950x (32 "vCores") and 128gb ram from hetzner (ignoring setup fees). $158/mo for such a wimpy server is unacceptable
+ 
+
+
+
+This host was clearly not thought out very well if they thought they could get by without getting caught on cracking WHMCS or charging such a price for a wimpy server (granted, one can get such a server from them for cheaper but still just the fact they even put the plan on their panel is mind blowing)
+
+Oh yeah by the way the OVH entry isnt theirs, the status page service they use uses OVH - https://drama.gg/assets/files/2022-02-27/1645959051-182186-screenshot-20220223-001330-chrome.jpg

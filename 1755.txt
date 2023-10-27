@@ -1,0 +1,29 @@
+cedric - Some time ago, I ran a hosting company (which I later converted into a different SaaS business, which eventually shut down). It was known as Geschafft and in all honesty I was quite proud of it.
+
+One of our legacy products was Geschafft Enterprise, which included a Pterodactyl egg that allowed users to host sites on their own servers without exposing ports, via a proxy somewhat comparable to Ngrok and services like that.
+
+The only active customer for this egg was @luffyy, who later came back to me with a complaint on how low the service level was for this paid Pterodactyl egg.
+
+At first, I began by doubting that there was a problem, considering that their refund period was over. Now, looking back, it was irresponsible of me to be careless enough with the proxy service to allow it to have constant downtimes. These downtimes were caused by factors that were completely unknown at the time, but I should have done something about it instead of constantly applying temporary patches. It was even more irresponsible of me to refuse to provide a refund.
+
+This is my public apology to @luffyy and my previous standard cloud platform customers. I am willing to provide a full refund to anyone affected (please reach out to me via Discord at cedric#0553, I'm in the drama.gg Discord server as well). I do not expect anything in return for this; this is simply something I'm doing because it's pointless to fight for your reputation if you actually screwed up, and it's simply more responsible to actually try and compensate for the situation.
+
+Once again, I apologize for my past irresponsible actions. I understand that what I did was not living up to the same quality standards I would put onto any other service I use, and I'm dedicated to doing better next time I work on a project that could be relied on by anyone else.
+pwned - lmao
+Jen - cedric Don't care how much you apologize, Don't you dare start another host.
+cedric - Jen Fair enough, I hate this industry (at least with companies founded from 2020 onwards) anyways
+Jen - cedric Can't relate
+my hosting existed way before 2020 and it's still going
+cedric - Jen Good for you I guess but I'm still staying away from hosting/IaaS
+KIVOX - cedric If @luffyy was the only one who used it, then why not apologize to them directly...
+Jen - cedric good
+TheYeetster - Jesus what happened, why are you so damn harsh on him? Did he commit fraud or smth? Please explain (I am not defending him, just genuinely asking wtf is going on_)
+Jen - TheYeetster If someone looses data no compensation not even a proper host or anything
+Kinda like plexed with all his hosts
+Then they should be prosecuted
+TheYeetster - so he lost data, alright then
+Toki0179 - cedric Generic_youtube_apology_script.txt
+
+
+@ThatGuy's note: please don't bump more old threads, kthnx
+Gatwix - We take forward your apology, dear honor.

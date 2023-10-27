@@ -1,0 +1,18 @@
+mtt - Hello, i've recently noticed that people using ShareX uploaders like (pays.host, pls-kill.me, glaxia.space, etc.) are using their links in this format:
+https://my-subdomain.domain.xyz/ 
+-&gt; There's a function in pays.host or most uploaders to make the link work with only the subdomain like the example i just showed.
+
+If you're providing proof or any image, the link will go away over time and the screenshot will be lost.
+
+I recommend using a normal link like (https://subdomain.domain.xyz/h143j21) or using the markdown functions to add the image:
+![image-title](https://subdomain.domain.xyz/random_link)
+
+Thank you for coming to my ted talk.
+Luv yall, Matt
+FatGrizzly - @mtt pls halp me finishing hcaptcha, so that I can update my links, kthxbye
+Sloth - My advice: in a couple of months your tool might no longer exist, for archival purposes, just use the fucking built in upload tool we have, no need to visit a site to view images.
+FatGrizzly - Sloth i could use your fucking tool, but I want a solution to wipe off all my images(if needed)
+ArpanSen - My suggestion is to simply ban the usage of external uploaders as they can easily be manipulated and used maliciously and to only use the in-house image solution made by drama.gg
+mtt - ArpanSen I agree, and if thats the only tool you have; then just go to your own link and save the image then use the image you got. Easy
+mtt - FatGrizzly You can just request the deletion of all your data if needed to hello@drama.gg.
+Sloth - Or just edit your post and remove the link but ¯_(ツ)_/¯

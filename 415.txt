@@ -1,0 +1,309 @@
+ShinyPlasm - My server randomly went offline yesterday night, and I woke up to 10 pings because it went offline. I checked logs, and it seems that someone checked whether if people were online on the and since it was night and no one was on. Turns out he shut it off because "high cpu usage".  It seems pretty weird that NickE is shutting down servers with high cpu usage and no one online. It shouldn't be an issue if the nodes aren't being over-allocated. Are they being over-allocated?
+
+
+
+I then mentioned about giving me notice when it's shut down, and said something about him over-allocating nodes. Messages were deleted, I'm now muted.
+
+
+Notice how in the mobile screenshot, the messages about over-allocating is there, while the computer screenshots doesn't have it. He deleted the message and muted me.
+
+Honestly I wouldn't care at all, but muting and deleting my messages seems pretty weird.
+
+Admitting to over-allocating? - https://drama.gg/assets/files/2021-04-26/1619443575-968161-image.png
+ShinyPlasm - My server randomly went offline yesterday night, and I woke up to 10 pings because it went offline. I checked logs, and it seems that someone checked whether if people were online on the and since it was night and no one was on. Turns out he shut it off because "high cpu usage".  It seems pretty weird that NickE is shutting down servers with high cpu usage and no one online. It shouldn't be an issue if the nodes aren't being over-allocated. Are they being over-allocated?
+
+
+
+I then mentioned about giving me notice when it's shut down, and said something about him over-allocating nodes. Messages were deleted, I'm now muted.
+
+
+Notice how in the mobile screenshot, the messages about over-allocating is there, while the computer screenshots doesn't have it. He deleted the message and muted me.
+
+Honestly I wouldn't care at all, but muting and deleting my messages seems pretty weird.
+
+Admitting to over-allocating? - https://drama.gg/assets/files/2021-04-26/1619443606-871522-image.png
+ShinyPlasm - My server randomly went offline yesterday night, and I woke up to 10 pings because it went offline. I checked logs, and it seems that someone checked whether if people were online on the and since it was night and no one was on. Turns out he shut it off because "high cpu usage".  It seems pretty weird that NickE is shutting down servers with high cpu usage and no one online. It shouldn't be an issue if the nodes aren't being over-allocated. Are they being over-allocated?
+
+
+
+I then mentioned about giving me notice when it's shut down, and said something about him over-allocating nodes. Messages were deleted, I'm now muted.
+
+
+Notice how in the mobile screenshot, the messages about over-allocating is there, while the computer screenshots doesn't have it. He deleted the message and muted me.
+
+Honestly I wouldn't care at all, but muting and deleting my messages seems pretty weird.
+
+Admitting to over-allocating? - https://drama.gg/assets/files/2021-04-26/1619443673-182823-image.png
+ShinyPlasm - Okay say it was using a quarter the nodes cpu, the plan I have says "300% CPU", so 3 cores. I highly doubt it is dedicated cores, rather logical cores. So how can he assign hundreds of people 3 dedicated cores? And 1.5 cores is definitely not a quarter of a nodes cpu. Hmmm 🤔
+AlphaDarky - suggest him to make ppl download hibernate plugin instead of shutting server
+ShinyPlasm - AlphaDarky making people who pay for their services to use a hibernate plugin, super smart
+that also means you cant run it on forge/vanilla servers
+AlphaDarky - ShinyPlasm oof didnt know paid
+ShinyPlasm - I should mention that the main reason that I created this thread was because I was muted for saying over-allocate/over-allocating, because muting people for mentioning that is pulling an old falixnodes. Turns out it was an auto-mod violation (swear filter) that muted me. I honestly don't care if a host over-allocates as long as it doesn't hamper another persons server performance.
+samxd - Glad somebody has finally created a thread exposing this tragic hosting service. 
+
+On top of all of this:
+Nick ignores requests he doesn't like, or requests which he thinks are going to take more than 5 minutes to complete, such as changing the startup flag to something other than the default one (can be done within seconds, but he chose to ignore at as his node probably wouldn't handle it).
+
+
+I cannot find a privacy policy on his site anywhere. I've looked in all possible places, and one is not present. Nick is collecting a lot of user details, including billing information (yes, I'm aware payments are processed by stripe, however he has access to this information)
+
+The nodes are always going offline and having connection issues due to the sheer amount of overallocation. It's probably around 400% on the memory, and god knows on the CPU.
+
+
+His paid nodes have plenty of SWAP, and he is clearly selling it. My friend purchased a server just to check this, and these were the results. He tried denying it, but when I asked for proof he made the excuse he's "not at his pc", when he clearly.
+
+
+Do I even have to explain this one? Just take a look for yourself..
+
+
+
+The uptime of his service is so terrible that he has to display 24 hour uptime. No where is overall uptime displayed. 
+More evidence of him admitting to overallocating
+
+
+Nick kept making countless excuses as to why he couldn't show the EU2 ptero stats or even htop
+
+
+
+
+TL;DR - Nick is a scum. Overallocates the shit out of his nodes, and ignores all support requests. Seems to be running multiple wings instances on one of his free nodes too, and using the second instance for his paid hosting service. - https://drama.gg/assets/files/2021-04-26/1619444061-107637-image.png
+samxd - Glad somebody has finally created a thread exposing this tragic hosting service. 
+
+On top of all of this:
+Nick ignores requests he doesn't like, or requests which he thinks are going to take more than 5 minutes to complete, such as changing the startup flag to something other than the default one (can be done within seconds, but he chose to ignore at as his node probably wouldn't handle it).
+
+
+I cannot find a privacy policy on his site anywhere. I've looked in all possible places, and one is not present. Nick is collecting a lot of user details, including billing information (yes, I'm aware payments are processed by stripe, however he has access to this information)
+
+The nodes are always going offline and having connection issues due to the sheer amount of overallocation. It's probably around 400% on the memory, and god knows on the CPU.
+
+
+His paid nodes have plenty of SWAP, and he is clearly selling it. My friend purchased a server just to check this, and these were the results. He tried denying it, but when I asked for proof he made the excuse he's "not at his pc", when he clearly.
+
+
+Do I even have to explain this one? Just take a look for yourself..
+
+
+
+The uptime of his service is so terrible that he has to display 24 hour uptime. No where is overall uptime displayed. 
+More evidence of him admitting to overallocating
+
+
+Nick kept making countless excuses as to why he couldn't show the EU2 ptero stats or even htop
+
+
+
+
+TL;DR - Nick is a scum. Overallocates the shit out of his nodes, and ignores all support requests. Seems to be running multiple wings instances on one of his free nodes too, and using the second instance for his paid hosting service. - https://drama.gg/assets/files/2021-04-26/1619444329-825432-image.png
+samxd - Glad somebody has finally created a thread exposing this tragic hosting service. 
+
+On top of all of this:
+Nick ignores requests he doesn't like, or requests which he thinks are going to take more than 5 minutes to complete, such as changing the startup flag to something other than the default one (can be done within seconds, but he chose to ignore at as his node probably wouldn't handle it).
+
+
+I cannot find a privacy policy on his site anywhere. I've looked in all possible places, and one is not present. Nick is collecting a lot of user details, including billing information (yes, I'm aware payments are processed by stripe, however he has access to this information)
+
+The nodes are always going offline and having connection issues due to the sheer amount of overallocation. It's probably around 400% on the memory, and god knows on the CPU.
+
+
+His paid nodes have plenty of SWAP, and he is clearly selling it. My friend purchased a server just to check this, and these were the results. He tried denying it, but when I asked for proof he made the excuse he's "not at his pc", when he clearly.
+
+
+Do I even have to explain this one? Just take a look for yourself..
+
+
+
+The uptime of his service is so terrible that he has to display 24 hour uptime. No where is overall uptime displayed. 
+More evidence of him admitting to overallocating
+
+
+Nick kept making countless excuses as to why he couldn't show the EU2 ptero stats or even htop
+
+
+
+
+TL;DR - Nick is a scum. Overallocates the shit out of his nodes, and ignores all support requests. Seems to be running multiple wings instances on one of his free nodes too, and using the second instance for his paid hosting service. - https://drama.gg/assets/files/2021-04-26/1619444539-174422-image.png
+samxd - Glad somebody has finally created a thread exposing this tragic hosting service. 
+
+On top of all of this:
+Nick ignores requests he doesn't like, or requests which he thinks are going to take more than 5 minutes to complete, such as changing the startup flag to something other than the default one (can be done within seconds, but he chose to ignore at as his node probably wouldn't handle it).
+
+
+I cannot find a privacy policy on his site anywhere. I've looked in all possible places, and one is not present. Nick is collecting a lot of user details, including billing information (yes, I'm aware payments are processed by stripe, however he has access to this information)
+
+The nodes are always going offline and having connection issues due to the sheer amount of overallocation. It's probably around 400% on the memory, and god knows on the CPU.
+
+
+His paid nodes have plenty of SWAP, and he is clearly selling it. My friend purchased a server just to check this, and these were the results. He tried denying it, but when I asked for proof he made the excuse he's "not at his pc", when he clearly.
+
+
+Do I even have to explain this one? Just take a look for yourself..
+
+
+
+The uptime of his service is so terrible that he has to display 24 hour uptime. No where is overall uptime displayed. 
+More evidence of him admitting to overallocating
+
+
+Nick kept making countless excuses as to why he couldn't show the EU2 ptero stats or even htop
+
+
+
+
+TL;DR - Nick is a scum. Overallocates the shit out of his nodes, and ignores all support requests. Seems to be running multiple wings instances on one of his free nodes too, and using the second instance for his paid hosting service. - https://drama.gg/assets/files/2021-04-26/1619444569-358085-image.png
+samxd - Glad somebody has finally created a thread exposing this tragic hosting service. 
+
+On top of all of this:
+Nick ignores requests he doesn't like, or requests which he thinks are going to take more than 5 minutes to complete, such as changing the startup flag to something other than the default one (can be done within seconds, but he chose to ignore at as his node probably wouldn't handle it).
+
+
+I cannot find a privacy policy on his site anywhere. I've looked in all possible places, and one is not present. Nick is collecting a lot of user details, including billing information (yes, I'm aware payments are processed by stripe, however he has access to this information)
+
+The nodes are always going offline and having connection issues due to the sheer amount of overallocation. It's probably around 400% on the memory, and god knows on the CPU.
+
+
+His paid nodes have plenty of SWAP, and he is clearly selling it. My friend purchased a server just to check this, and these were the results. He tried denying it, but when I asked for proof he made the excuse he's "not at his pc", when he clearly.
+
+
+Do I even have to explain this one? Just take a look for yourself..
+
+
+
+The uptime of his service is so terrible that he has to display 24 hour uptime. No where is overall uptime displayed. 
+More evidence of him admitting to overallocating
+
+
+Nick kept making countless excuses as to why he couldn't show the EU2 ptero stats or even htop
+
+
+
+
+TL;DR - Nick is a scum. Overallocates the shit out of his nodes, and ignores all support requests. Seems to be running multiple wings instances on one of his free nodes too, and using the second instance for his paid hosting service. - https://drama.gg/assets/files/2021-04-26/1619444626-164098-image.png
+samxd - Glad somebody has finally created a thread exposing this tragic hosting service. 
+
+On top of all of this:
+Nick ignores requests he doesn't like, or requests which he thinks are going to take more than 5 minutes to complete, such as changing the startup flag to something other than the default one (can be done within seconds, but he chose to ignore at as his node probably wouldn't handle it).
+
+
+I cannot find a privacy policy on his site anywhere. I've looked in all possible places, and one is not present. Nick is collecting a lot of user details, including billing information (yes, I'm aware payments are processed by stripe, however he has access to this information)
+
+The nodes are always going offline and having connection issues due to the sheer amount of overallocation. It's probably around 400% on the memory, and god knows on the CPU.
+
+
+His paid nodes have plenty of SWAP, and he is clearly selling it. My friend purchased a server just to check this, and these were the results. He tried denying it, but when I asked for proof he made the excuse he's "not at his pc", when he clearly.
+
+
+Do I even have to explain this one? Just take a look for yourself..
+
+
+
+The uptime of his service is so terrible that he has to display 24 hour uptime. No where is overall uptime displayed. 
+More evidence of him admitting to overallocating
+
+
+Nick kept making countless excuses as to why he couldn't show the EU2 ptero stats or even htop
+
+
+
+
+TL;DR - Nick is a scum. Overallocates the shit out of his nodes, and ignores all support requests. Seems to be running multiple wings instances on one of his free nodes too, and using the second instance for his paid hosting service. - https://drama.gg/assets/files/2021-04-26/1619445579-930205-image.png
+samxd - Glad somebody has finally created a thread exposing this tragic hosting service. 
+
+On top of all of this:
+Nick ignores requests he doesn't like, or requests which he thinks are going to take more than 5 minutes to complete, such as changing the startup flag to something other than the default one (can be done within seconds, but he chose to ignore at as his node probably wouldn't handle it).
+
+
+I cannot find a privacy policy on his site anywhere. I've looked in all possible places, and one is not present. Nick is collecting a lot of user details, including billing information (yes, I'm aware payments are processed by stripe, however he has access to this information)
+
+The nodes are always going offline and having connection issues due to the sheer amount of overallocation. It's probably around 400% on the memory, and god knows on the CPU.
+
+
+His paid nodes have plenty of SWAP, and he is clearly selling it. My friend purchased a server just to check this, and these were the results. He tried denying it, but when I asked for proof he made the excuse he's "not at his pc", when he clearly.
+
+
+Do I even have to explain this one? Just take a look for yourself..
+
+
+
+The uptime of his service is so terrible that he has to display 24 hour uptime. No where is overall uptime displayed. 
+More evidence of him admitting to overallocating
+
+
+Nick kept making countless excuses as to why he couldn't show the EU2 ptero stats or even htop
+
+
+
+
+TL;DR - Nick is a scum. Overallocates the shit out of his nodes, and ignores all support requests. Seems to be running multiple wings instances on one of his free nodes too, and using the second instance for his paid hosting service. - https://drama.gg/assets/files/2021-04-26/1619445643-356552-image.png
+samxd - Glad somebody has finally created a thread exposing this tragic hosting service. 
+
+On top of all of this:
+Nick ignores requests he doesn't like, or requests which he thinks are going to take more than 5 minutes to complete, such as changing the startup flag to something other than the default one (can be done within seconds, but he chose to ignore at as his node probably wouldn't handle it).
+
+
+I cannot find a privacy policy on his site anywhere. I've looked in all possible places, and one is not present. Nick is collecting a lot of user details, including billing information (yes, I'm aware payments are processed by stripe, however he has access to this information)
+
+The nodes are always going offline and having connection issues due to the sheer amount of overallocation. It's probably around 400% on the memory, and god knows on the CPU.
+
+
+His paid nodes have plenty of SWAP, and he is clearly selling it. My friend purchased a server just to check this, and these were the results. He tried denying it, but when I asked for proof he made the excuse he's "not at his pc", when he clearly.
+
+
+Do I even have to explain this one? Just take a look for yourself..
+
+
+
+The uptime of his service is so terrible that he has to display 24 hour uptime. No where is overall uptime displayed. 
+More evidence of him admitting to overallocating
+
+
+Nick kept making countless excuses as to why he couldn't show the EU2 ptero stats or even htop
+
+
+
+
+TL;DR - Nick is a scum. Overallocates the shit out of his nodes, and ignores all support requests. Seems to be running multiple wings instances on one of his free nodes too, and using the second instance for his paid hosting service. - https://drama.gg/assets/files/2021-04-26/1619445685-251376-image.png
+samxd - ShinyPlasm I was banned for pulling screenshots from his public discord server
+ShinyPlasm - ayo wtf is this
+i was going to try and get this thread deleted but this?!?!?!?!
+jesus christ
+ShinyPlasm - samxd 
+The multiple wings instance seems to check out, because when I NickE gave me a free service of his, I was on EU2 which as heavily over-allocated and server wouldn't run
+You cannot edit pterodactyl's console, I have tried many times to no avail.
+Chirag - HMMM - https://drama.gg/assets/files/2021-04-26/1619446743-387468-screenshot-2021-04-26-19-47-49-60.jpg
+europa - Not to discount anything that's been said here but I wanna throw in my two cents:
+Firstly it's not like when you use MCS Hosting you should be expecting some absolutely amazing experience, it's like €0.70/GB and never claims to be some super performant hardware. Neither are you promised amazing first-grade support. If you purchased their better support then the argument is of course valid.
+Secondly just pointing a subdomain on your parent company's domain to your free nodes doesn't mean you're selling those for money. That is even though "eu-3.mcshosting.co.uk" or whatever is pointed to the same IP as "free2.freemc.host" it doesn't mean the free node is being used for premium users. That could be the case but just pointing a domain does not mean it's concrete evidence.
+
+That being said I think there's some valid criticism in this thread.
+And again I don't want to discount anyone's argument I'm just throwing this out there so MCS isn't treated unfairly in regards to their prices &amp; business model.
+
+Edit: Some things I agree with, like the fact that Nick hasn't shown us the pterodactyl stats yet
+Chirag -  - https://cdn.discordapp.com/attachments/730023081489203241/836247899910045696/unknown.png
+ShinyPlasm - okay what the fuck, this is on their eu8 node with an i9 processor
+
+also - https://drama.gg/assets/files/2021-04-26/1619447498-147708-image.png
+ShinyPlasm - okay what the fuck, this is on their eu8 node with an i9 processor
+
+also - https://drama.gg/assets/files/2021-04-26/1619448001-892620-image.png
+samxd - The following above means that NickE is selling based on misinformation (he states no overselling), which is a violation of the Trade Descriptions Act 1968.
+
+Nick is also collecting user information without a privacy policy in place. This factor is made even worse by the fact that he hasn't paid his data protection fee to the ICO. 
+
+Nick also believes it's fine to send marketing emails to users without their consent. No where on the site does it state that users will receive marketing emails, nor are there any checkboxes.
+samxd - Sending marketing emails without consent.
+Selling based on misinformation. - https://drama.gg/assets/files/2021-05-11/1620769143-885381-unknown-1.png
+samxd - In the United Kingdom, as a consumer, you have the right to return a product within 14 days if you do not like it for any reason. You DO NOT have to provide a reason.
+
+This is violated here. - https://drama.gg/assets/files/2021-05-11/1620769470-990307-image.png
+samxd - It's also not 24/7 if he randomly turns off your server. This is yet ANOTHER violation of the trade descriptions act.
+Ash777 - ShinyPlasm well if you werent paying it seems normal for free host to have anti overload but as you are paying i dont think thats right
+NighMayHigh - I can agree with sams statement here, i had purchased two servers from MCS myself, for testing purposes and to see how much they were overselling.
+
+The node was at something like 126GB RAM used, so unless all of his clients were using the max ram amount, which is highly unlikely, then he is clearly overselling. 
+
+Secondly, he is breaking the UK laws regarding right of withdrawal, he advertises a 7 day refund policy, legally has to offer it for 14 days, and additionally, tried to refuse a refund due to him not wanting to refund the money to me, as soon as i requested the refund, i was emailed by nick to say that i wouldnt be able to claim further refunds due to abuse, andhe tried to refuse a refund on this basis. This was cancelled, less than 6 hours after purchasing, and as such, the service should have been refunded, without a hour long debate in discord, as per his own rules, and the UK Law.
+Deleted User - I would like to request for the name to be added FreeMc.
+
+He is telling people to click ads for free servers. - https://media.discordapp.net/attachments/730023081489203241/853630702339751986/unknown.png

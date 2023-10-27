@@ -1,0 +1,6 @@
+Prudentia - I'm starting an host and I was wondering, what's the best node provider? I know a lot of them, but I haven't used them enough to know how good/bad they really are.
+Sloth - Hetzner, OVH and ReliableSite.
+Prudentia - OVH has no customer service, I bought a vps from them and I wanted to cancel it, I made a support ticket and its been a week. Still no response.
+weedpl - Depending on your budget and location I would choose for providers like Contabo if you are on a low budget and if you do want to host nothing important on there, if you do please get a premium node at providers like Hetzner Cloud (free trial available.) or try to use providers like i3d.net / smartdc.net / syntexhosting.com in the Netherlands. If you are in the US try to lookup providers like ReliableSite. Do you think this did not help you enough? Go find your solution on lowendtalk.com.
+Iceey - Prudentia That's just wrong, they do have CS you just aren't using a managed service so it's not their priority, + they're working their ass of right now helping people get their data from ashes.
+Deleted User - try cantabo

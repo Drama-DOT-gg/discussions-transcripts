@@ -1,0 +1,25 @@
+N1K - Many hostings offer poor performance on their machines, offering prices too low for you to buy.
+Right now I will give you some tricks to know what type of hosting you are dealing with.
+
+TERMS OF SERVICE
+When you have an organization or company it is necessary to have a section of terms of conditions where people can read the terms of your service and that they are aware of what is allowed and not, and of the policies,  before buying in any hosting, check where they have their terms and conditions, it is necessary that their terms are published in some channel or web section so that the public can read them without problems, if your hosting does not have TOS avoid buying with them already that it is a company that does not take things seriously and when it comes to having a problem with them it will be more difficult to report them, if it is that if they have them it is necessary that you read them, if the hsoting does not respect with TOS at any time you can request a refund with PayPal or report them for Breach of terms and conditions towards customers.
+
+*HOSTING QUALITY
+In my personal opinion I recommend that before buying any hosting ask if their servers are hosted by them or resell any other service of a company, It is the obligation of the company that you are aware of where you are buying, almost all hostings resell Google Cloud or Azure machines, and it is not bad that they sell this type of machine while the user is aware of it, When buying ask them 'Do you have any website or app hosted in your hosting vps to view it ? ' If they pass you the ip of the machine or domain go to 'https://check-host.net/' go to info and scan the website and see if the website is hosted in google or other company, if it say cloudflare this method will not work.
+
+WEB HOSTING
+I will remind you of something so that you do not get confused by the hosting that say they offer 'unlimited space' it is not that it is a scam, just keep in mind that it is impossible to provide unlimited space and ram since logically it is not possible, I recommend you ask what is the ram limit that your web page can use, also keep in mind that a page hosted on a hosting is not a super heavy business page, since if it would a company website it will be hosted on a vps and not in a web hosting of '5 usd', Also whenever you buy, ask if the server is shared or dedicated, shared servers usually cost less than 5 usd for a lot of space, whereas dedicated ones cost more than 15 usd (In some hostings)
+
+DO NOT MOVE FROM THE PLATFORM
+If they are selling you a hosting for discord speak for discord, if they tell you to go to telegram or related apps tell them no, since discord will not be responsible if he is a scammer, I also recommend you always record the conversation to be able to Report on these types of forums to prevent others from being scammed.
+
+PAYMENT
+Remember that if the owner of the hosting asks you to pay him for 'Payment of friends and family' and he scams you, paypal will not be responsible if he scams you, and the guarantee og customer protection policy will not be activated, this is the same with bitcoins and cryptos,  remember that cryptocurrencies do not have a backup bank for them so you will not have anyone to ask for your money back. Always pay by PayPal 'Payment of services'
+
+DATA LEAK
+You have to take into account that you have to be careful where you buy your website or vps, since the owner of the services will be able to see what you do inside and sometimes they abuse and can steal information from your users, Always buy in hostings that are verified, or that you see that they are trustworthy.
+
+Take care of yourself 🙂 
+I hope it helps you
+Daftscientist - Now there will be hundreds of unhoaxable hosts 🙁
+N1K - Daftscientist Its impossible to stop scams, but atleast with this post the people will be more carefull with what hosting they buy 🙂

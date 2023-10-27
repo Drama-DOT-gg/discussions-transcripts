@@ -1,0 +1,28 @@
+Deleted User - Hello everybody, today i am here to point some things out when you're starting a free hosting or thinking of starting one..
+
+Most free hostings fail, and thats mainly because of this. It cant run around. The only way you probably will get a free hosting big is being rich/kind of rich, to afford the nodes. Because if you dont have a contract with example google ads, (which you cant when you dont have enough traffic on the site) it will probably fail. Arc.io is NOT enough for running a free hosting.
+
+Just wanted to point these things out, thank you for your time!
+BxdrLOL - Agreed, i have had many free hostings and learnt alot from my experience with them, 
+
+-Not profitable (Most of the time)
+-Time investement
+-Alot of money investement (Of course unless you want to start a small free hosting)
+-Can't trust people with your machines or even servers.
+
+And much more!
+Vanquish - don't start a free host.
+
+— Vanquish 2021
+Vanquish - y'know what- better idea just don't start a host at all.
+onyx - BxdrLOL 
+
+-Can't trust people with your machines or even servers.
+
+And the clients can't trust the owners because they don't follow privacy laws.... - https://c.tenor.com/QaGZ50VlEPEAAAAM/think-about-it-use-your-brain.gif
+BxdrLOL - First of all i do not own any host as of now and do not plan on opening one anytime soon. Second of all, My past company did follow privacy laws so spreading false rumors isnt the best thing to do in this case sir.
+Deleted User - Remember, dont hate on eachother. People can make mistakes, and this thread was not created for hate, just a friendly reminder before starting a host..
+Tomas - To be honest, a majority of this applies to paid hosts too.
+Sydney - I own a free host. It is VERY true you can't run a free host off of arc. I dump in about 10% of what I make a month into the host. If you don't have good OUTSIDE income, don't think about starting a host
+Deleted User - Tomas Yeah, these days you need to get top of the line hardware just to get started.. If you cant its almost unlikely people will choose the hosting you have.. (Not your host)
+Deleted User - Also wanted to point out, some months ago arc.io was enough to pay off the nodes.. But recently it has gotten nerfed as f*ck. Used to earn 10$ a day with 150 live widgets, now i earn 5$ a day with 150 live widgets..

@@ -1,0 +1,73 @@
+MysteriousK - Hey. So, while browsing for good and cheap dedicated server providers I stumbled upon VelocityNode.net (They are not the scammers.). It turns out that they only sold VPS's, I went to their support Discord server and saw the status of one of the employees, it said "Hey You! Yes, You. Are You Looking For A Discord Bot To Call Your Own? Look No Further! Prices: $10-$15. Free Hosting Included!". After looking at the "Free Hosting Included" part, I was kinda curious as to what they had to offer. It was a free plan with about 200 MB of RAM, 1 GB of disk (https://cdn.discordapp.com/attachments/755835147412308120/826119700504510484/unknown.png). Its shitty but free. I asked to see her other plans if she was selling hosting, she linked me to her Discord server (https://discord.gg/d7AvdVtf). While going through the plans, I found this "- Master Plan: Unlimited Ram, Unlimited CPU, Unlimited Disk And 5 Servers! - $10". Obviously, it looked suspicious as heck, I asked her about it and she did say that it was indeed unlimited resources (https://cdn.discordapp.com/attachments/755835147412308120/826119774487838730/unknown.png). Still thinking its a scam, I asked for her terms of service, she linked me to a channel in her Discord. This is what it said:
+"BrehHost TOS
+Welcome To BrehHost!
+
+Here At BrehHost We Follow The Same TOS As Discord Has! If You Follow Discord's TOS You Follow Ours. Faillure To Follow The TOS In Any Way Will Result In A Ban Or Kick Based Off The Severity! We Have The Right To Suspend Your Services At Any Time If You Break The TOS Or Leave The Server!
+
+Discord Tos: https://discord.com/terms"
+
+Yeah, you read it right. They are a god damn hosting company and are claiming that they use the same TOS as Discord. Upon asking for the privacy policy, they responded with "i'm still working on it as of now" (ss for both temrs and privacy policy https://cdn.discordapp.com/attachments/755835147412308120/826119854825668668/unknown.png). I thought I would question her further tommorow then make the post. The next day comes and I asked her about her dedi. She responded with "I don't hhave a dedi XD. But it has 4GB ram, 30GB SSD And 1 IP. I Pai $2 a month for it..." (https://cdn.discordapp.com/attachments/755835147412308120/826119929135628318/unknown.png). So, you telling me that you offering unlimited RAM and disk but you only got 4 GB of RAM and 30 GB of SSD disk? Thats just straight out ridiculous.
+Bxrk - ...
+Tomas - https://en.wikipedia.org/wiki/Enter_key
+RumGuru - MysteriousK Discord ?
+MysteriousK - wot? Tomas
+Tomas - MysteriousK i cannot read this
+Sofie - Look, I offer unlimited ram on that vps because I don't have a lot of customers and am offering bot hosting which doesn't use a lot of RAM. I copied the TOS from another hosting server and am working on a privacy policy.
+Iceey - Sofie jesus christ you're one borderline braindead human
+RumGuru - Sofie Give discord link bruh
+:
+Bxdr - Damn, is having discord rules as your TOS that bad?
+FatGrizzly - Time to steal my mom's cc and exec forkbomb
+Iceey - Bxdr ...
+Iceey - no shit sherlock
+FatGrizzly - Iceey What's your rating on 0-10 on this TOS e-lawyer?
+MysteriousK - RumGuru m8 I included it in the post, https://discord.gg/d7AvdVtf
+Sofie - Iceey Bitch stfu toxic mf
+MysteriousK - Sofie I dont even have words...
+RumGuru - MysteriousK Doesnt work
+MysteriousK - Tomas alright m8
+Sofie - MysteriousK why? What did I do? I advertised bot hosting. And the bot that I am selling doesn't use much ram. I don't see your issue
+Iceey - Sofie didn't know we were talking to a dark knight season 2 fortnite og here
+RumGuru - MysteriousK Send link i wanna se discord bruv
+MysteriousK - RumGuru I got banned, cant do much bout it as she revoked the invite lol
+MysteriousK - Sofie I cant believe that you still have the audacity to say "why? What did I do?" literally just read the fucking post bruh
+Sofie - MysteriousK And I said my part. Sure i'm not prepared with privacy policies and my TOS isn't correct. I didn't ask for you to bullshit. All i'm saying is that I offer free hosting. I don't have a lot of customers and most people have enough with 200mb ram. No-one buys the paid ones. Since it's a very small company I don't need a lot of ram and storage. Why would I waste money on an expensive vps when I can get a cheap one for the 5 people that host with me.
+MysteriousK - Sofie Are you actually fucking retarded?
+Sure i'm not prepared with privacy policies and my TOS isn't correct
+Well then, make it correct. How you are operating is literally illegal.
+I didn't ask for you to bullshit.
+You are operating illegally, how do you not expected to get posted about? Ofcourse you wont ask someone to expose you. Did you very last brain cell just die?
+All i'm saying is that I offer free hosting.
+You offer premium hosting too.
+I don't have a lot of customers and most people have enough with 200mb ram.
+You literally have plans for what you dont have enough resources for. 200 MB is certainly not the only plan you have.
+No-one buys the paid ones
+They do exist on your Discord server. You shouldnt have plans you cant afford to fulfill.
+Since it's a very small company I don't need a lot of ram and storage.
+Literally look at the answer above
+Why would I waste money on an expensive vps when I can get a cheap one for the 5 people that host with me.
+Why would you make plans you dont have enough resources for?
+Pamar - MysteriousK I am not trying to defend none of sides but you do not need privacy policy as long you do not collect any identifiable or/and personal information of your visitors/users, about terms of services - all what it does is enforce users to service terms but it is not illegal to not have one
+Iceey - Pamar That is hot bullshit, if you offer hosting of any data you need a priv.
+Sofie - Pamar thank you
+Iceey - You just copied something off of google and incorrectly applied it to a hosting service.
+Iceey - Sofie You're hosting client information, you're required a PRIV to describe and list the rights of the customer
+Pamar - Iceey privacy policy is mean to explain to user what identifiable/personal information is being collected, if im incorrect - my apologies but my knowledge is that.
+Iceey - Pamar A person's files and intellectual property protected code is considered "personal information".
+Iceey - I'll give you one thing, they aren't as strict as personally identifiable information but some data regulations still apply.
+Iceey - And you will need a ToS to accurately inform your clients of the COPPA for example.
+Pamar - Iceey COPPA is meant to protect kids personal information but once again, if host do not collect any personal information then it is not required (+ they need to follow discord terms of services so they must be 13+ as minimum)
+Iceey - A person's coded application is their property and therefore is their personal information.
+Iceey - Pamar Read the COPPA.
+Pamar - okay whatever, not gonna argue there, sorry if im incorrect
+Iceey - The COPPA protects children online from almost everything you can think of, not just data collection.
+NighMayHigh - If you store ANY client data, you need a privacy policy
+
+ANY data includes, User IP, Name, Address, Email, hell even their bot or server name.
+
+if you store, or can see any of this infomation, you need a legally binding privacy policy
+Deleted User - NighMayHigh time to sue them
+Toki0179 - RumGuru This is really late but here https://discord.gg/8ewdbNNJa4
+BaconHead - Toki0179 invalid link
+Toki0179 - BaconHead They manually removed it then or something
+Jaxon - MysteriousK The only wrongdoing here is the shitty TOS. Clearly they're not gonna have completely unlimited resources... dedi's and VPS don't last for ever... And there is nothing wrong with operation as a sole trader/proprietorship.

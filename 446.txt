@@ -1,0 +1,20 @@
+Fluxirya - Hey pepole, there is an asshole going around servers and nuking them, yall know who is this guy that randomly hacks server? I am done with this guy, if you know who is it, please let me know
+FatGrizzly - Fluxirya This is a community for exposing people, you must provide some sort of proof or evidence to back your statements
+Fluxirya - Fluxirya 
+he logged into my account :/ i had bungeecord set to true
+proof: - https://drama.gg/assets/files/2021-05-03/1620027435-316773-capture.png
+Fluxirya - Fluxirya 
+he logged into my account :/ i had bungeecord set to true
+proof: - https://drama.gg/assets/files/2021-05-03/1620027481-974282-capture.png
+Fluxirya - Fluxirya https://i.imgur.com/8n4kAjc.png proof of nuking servers
+Chirag - Fluxirya technically, it's your fault.
+Mc servers are easy to grief if not setup properly, they bungee spoofed lol
+Timanttikuutio - Fluxirya you didn't setup your bungee properly, the griefer probably just bought a server on the same node as ur on and spoofed it(notice how it says the connection is coming from 172.18.0.1, that's pterodactyls internal network)
+Fluxirya - Timanttikuutio  im using a vps :/
+Fluxirya - Chirag  i don't think so i have bungeeguard and its on online modes
+Chirag - Fluxirya hm ipwhitelist plugin
+Fluxirya - Chirag   i've got some backups i just want to expose this guy, not only my server , but others too
+Chirag - Fluxirya what's your server store and discord?
+Fluxirya - Chirag  its a little private server for my friends
+Chirag - Fluxirya oh, well uh, bungee spoofs are common, most server owners can't fix it
+Fluxirya - Chirag its fine again i want to expose him because my friends get this too and most pepole i know met this guy :/

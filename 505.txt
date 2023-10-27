@@ -1,0 +1,8 @@
+doze - My question is can we install pterodactyl in Openvm? Because I am buying a vps and openvm is cheap for me.
+RusJS - no you can't.. i tried to but no... same with other people they cant install on it but you can install the daemon/wings on it
+INfoUpgraders - you can setup a webserver and install php (for Pterodactyl), but you can't run the wings on it because you need a KVM virtual machine to run Docker
+Vanquish - jentabo
+Josh - I'm assuming you're talking about OpenVZ... in which case, yes, it is possible, but only if your VPS hosting provider uses a newer version of the OVZ kernel (specifically 3.10.0-327.18.2.vz7.14.7)
+cubebuilder - Who even still sells OpenVZ in 2021?
+Josh - cubebuilder saw this pretty late but ovz is still used for some of the lower end providers where they want as minimal overhead as possible (better than overselling kvm vms at least)
+doze - alr

@@ -1,0 +1,14 @@
+RusJS - client.paganihost.cloud (bxdr)
+
+whenever u login to the client area it goes to a random giveaway server lol
+
+also they dont even know how to setup allocations properly LMFAO 
+
+
+and sometimes it even says Pagani:port isntead also whenever you create a server it doesnt even work, it just stays at the Install page forever..
+
+oh ye this thread was actually old i just recreated it and also uh they did change their terms but it kinda makes no sense - https://drama.gg/assets/files/2021-04-07/1617799920-604335-image.png
+BxdrLOL - allocations are set so people dont have direct access to the IP, the other server you join is an emoji server that i made and would like to get some members on it cuz why not 😃
+BxdrLOL - TOS and Privacy Policy have nothing wrong with them.
+ShemBane - BxdrLOL 1. people can just get the ip by doing "ping example.com" in a terminal 2. you didnt even put a domain in the allocation and you didnt add the nodes subdomain like "free1.example.com"  please learn how to use ptero before you let people make servers
+Deleted User - BxdrLOL People could just ping the hostname???????????????

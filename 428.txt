@@ -1,0 +1,11 @@
+Deleted User - I'd say so. I've never used them myself but I've never seen someone have a bad experience with them.
+exelen - Ricardo Yep, I think it's good. Except upload speed (sometimes)
+YajTPG - If you're using it for a public host then not at all, it's pretty good for personal use. Keep in mind, if your IP is hit by a DDoS Attack (and if they can't migrate it), they will completely shut down your server until the DDoS attack is done
+NighMayHigh - Contabo itself is decent for a individual needing a basic vps or something.
+
+it only gets its bad name from hosting companies reselling Contabo vps servers, they are not designed for this, and should not be used as such
+Willypro7 - Contabo is decent but the antiddos sucks
+INfoUpgraders - YajTPG migrate ddos??????????????
+Parallax - YajTPG If you take the correct steps this can be avoided.
+Knifeworm - Ricardo I would say yes i use them for my dedicated servers.
+CursedHoliday - Hetzner is good but low rating. Contabo is good too but higher rating even their anti-ddos not that good. I'm still using them till this day.

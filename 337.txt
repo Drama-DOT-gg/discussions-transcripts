@@ -1,0 +1,35 @@
+Bxrk - Right some things i'd like to point out.
+
+Not tos - SS https://image.surf/​‌​​‌‌‌​‌​‌​​​​‌​​​​‌​​​​​​​​​​‌​‌​‌‌​‌‌‌‌​‌‌‌‌​‌‌​‌‌​​‌​​‌‌​‌‌​ (clicking the link should work)
+server crashing with no files https://image.surf/​‌‌​​​​​​​​​‌​‌‌​​​​​‌‌‌‌​​​​​‌​‌‌​‌‌​‌‌‌‌‌‌​‌‌‌​‌​‌‌​‌‌‌​‌‌‌‌‌​
+even @eraters said the real node specs https://image.surf/
+https://image.surf/‌​​‌​‌​​‌‌‌‌‌‌​​​​‌‌‌​​​‌‌‌​​‌​‌​‌‌​‌​​‌​‌​‌‌‌‌‌‌​​‌​‌​‌​‌​‌‌‌‌​ apparently these are the "discord bot specs"
+joining from the thing eraters said https://image.surf/‌‌​‌‌​‌​​‌​‌​​‌​​‌‌​​​​‌‌‌​​‌​‌​‌‌‌​​​​​‌​​‌​​​​​​​‌​​​‌​‌​‌​‌‌​ he said he gives away 4gb (more info on the ss)
+him saying thats not the nodes that they use https://image.surf/​​‌‌‌‌‌‌​‌​‌‌‌​​​​‌‌​‌‌​​‌‌‌‌​​‌‌‌​​‌‌‌​​‌‌​‌​‌‌​‌‌​‌‌​​​‌​‌‌​‌​
+0 people have actually paid for this host https://image.surf/​​​​‌​‌​​​​​‌‌​‌‌‌‌‌​​‌‌‌​‌​‌​‌‌‌‌​‌​‌‌‌‌​​​​‌​‌‌‌‌​​​​​‌‌​‌​‌​‌
+saying the node specs are not important https://image.surf/​​‌​​‌‌​​​​​​‌​​​‌‌‌‌‌‌​​​​​‌‌​​​‌​​​​​​​​​‌​​​‌‌​‌​‌​‌‌‌​​‌​​‌​
+saying the node specs are only for the staff members to know https://image.surf/‌​‌‌‌​‌‌‌‌​​‌​‌​​‌​​​​‌‌‌‌‌‌‌​​​​‌‌​​‌‌​‌​‌‌​‌​​‌​‌‌‌​‌​​‌​​​‌​​
+trying to close the ticket when i was exposing him https://image.surf/‌​​​​​‌‌​​​​‌‌‌‌​​‌‌​‌​‌‌‌​​​​​‌‌​‌‌‌‌​‌​‌​‌​​‌‌​‌‌​​‌‌‌​‌‌​​‌​​
+hasnt even got the real ip https://image.surf/‌‌‌​‌‌​​‌‌‌​‌​‌‌​​​​​‌‌‌​‌‌​​‌​‌‌​‌‌‌​‌‌​‌​‌​‌‌‌‌​​‌‌​‌​‌‌​‌​​‌‌
+anyways just avoid this host dont pay them a single dollar.
+
+thanksss‌‌‌​​​​‌‌‌​​‌‌‌​‌‌​​​​​‌​‌​​​​​​​​‌‌​‌‌​‌‌​‌​‌​​‌​‌​​​‌‌‌​​‌‌​​‌‌​​‌‌‌​‌​‌​​​​‌​​​​‌​​​​​​​​​​‌​‌​‌‌​‌‌‌‌​‌
+Bxrk - name: maplehost 
+website maplehost.xyz
+panel: maplehost.xyz
+Saqib - Bxrk Egg errors have been fixed by me, someone broke the egg by changing a variable's enviornment . Go onto the startup section and set the variable content to bash if the variable content is index.js or something. Or the startup command you wish.
+Timanttikuutio - this shits hilarious 😂 u got a discord invite @Bxrk ? i wanna ask 'em some questions
+Saqib - Timanttikuutio here https://discord.gg/usJJe7vA
+rip - Mad cus small pp
+Bxrk - rip lmfao goodluck selling your host for $20
+shrunkiequack - the owner is toxic
+Bxrk - he deletes the link to winterhoax drama.gg stackhoax etc.
+Bxrk - any link that is about his host that reviews it bad
+rip - shrunkiequack how
+rip - Bxrk  I’m not even anymore lol I was but I’m giving it another try someone just wondering for how much
+Sydney - Hey! 
+
+I have purchased this host. I will make sure to get the TOS sorted out ASAP, and as with all of my hosts, I will make sure the node stats are public info!
+
+If you have any other concerns, please let me know! I would be happy to get those solved.
+Tomas - Promised change, locking for now, DM me if you want to add something

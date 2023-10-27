@@ -1,0 +1,7 @@
+MysteriousK - So, I was having a casual discussion with one of my customers. He mentioned his Minecraft server, when I looked at its host I found out that it was Fallout Hosting (https://fallout-hosting.com/). After looking at the plans, I thought its $1/GB of RAM as they NEVER mentioned wheather its RAM or disk that they are offering for $1/GB. They did not even mention the amount of RAM or the amount of CPU cores that they provide you with. After talking to my customer a bit more, I found out that it was $1/GB of disk (https://cdn.discordapp.com/attachments/755835147412308120/826128126479564810/unknown.png). Those guys are literally scamming kids with $1/GB of disk for a Minecraft server. Its one of the most ridiculous things I have stumbled upon in a while. I am not really sure if it fits in here though. Most of the names have been cut out from the screenies for the privacy of our customers. All the proof that I did not give in screenies can be found on their website (https://fallout-hosting.com/minecraft-hosting).
+
+Edit: Turns out, they offer $1/GB of RAM. Still, does it quality since they dont mention other things?
+VideoMan - I had a server with them and it is RAM not ROM.
+They provide great services.
+Sqwify - i used them once before, idk if they changed since then but i remember their panel looking awful...
+also the 1gb server i bought had no plugins yet it had like 3 tps :&lt;

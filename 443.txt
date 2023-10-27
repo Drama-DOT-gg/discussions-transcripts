@@ -1,0 +1,10 @@
+Prudentia - What's the biggest mistake that hosts make that ruins them?
+_MrKnight_ - The concept of 24/7 free "minecraft" hosting with tons of resources
+Toki0179 - _MrKnight_ No. Abusing payment systems and carding and also not having the proper legal documents
+manouel - Prudentia bad hosts is data he lose data others money they dont have much money
+BaconHead - not having a pp/tos before they go public, not being professional, overallocating too much like a bit of overallocation is fine for a free host but you can't go over the top, Offering unlimited resources on a 16gb vps (this is literally best case scenario I've seen people host their site AND host the servers on the same vps)
+Chirag - using raspberry PIs as nodes
+BrendansAtWork - Biggest mistake would probably be starting a hosting business in the first place, it's already an oversaturated market
+EmeraldMike - Chirag  LOL true
+L4db - Chirag best statement ever.
+Iceey - Prudentia making a "host"

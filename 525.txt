@@ -1,0 +1,42 @@
+sopd - After another review of the Free Hosting "Company" NeroNodes, I've bee able to detect that they are using CoreSRV - infact another bad hardware provider, detected by simply running a whois query on their Nodes from Germany  - would not recommend storing my data with either Nero nor Coresrv, as you:
+ don't know where the data is actually located
+ are not on hetzner servers, rather colocated and routed through hetzner (seems to be their attempt of getting more ips, by just having them route through hetzner)
+ have no chance of controlling what happens with your data after a suspension or cancellation, as the server is physically located and owned by coresrv (as per research)
+ need to have chats with the owner if support is needed, therefore having no staff or redundancy incase of an accident to them, and having a single point of failure 
+ are dealing with a low reputation owner
+
+Just be minded about all of this.
+Jedrik - sopd Hello there! Please provide picture proof of at least 2 of your claims within the next 48 hours, Thanks!
+Ash777 - and invite link too
+sopd - Jedrik
+
+IPs: https://ipinfo.io/2a01:4f8:161:33d7::15 (no screenshot required)
+No Location information: https://coresrv.io/store/bare-metal (no screenshot required)
+
+As you can see, the servers are owned by CoreSrv and not NeroNodes themselves.
+sopd - Ash777 http://neronodes.net
+Cain - sopd please can you explain your last point, about CoreSRV owning the server not us.
+
+I never knew if you purchased a Dedi you outright own that machine and not the company you're renting it from
+sopd - Cain First off, you're purchasing from a bad quality host, that doesn't even define the country they host in.
+
+Second off, what if the host just randomly cancels you (like me)? What happens to user data? Have you mentioned their "privacy policy" in yours?
+
+It's not about owning the machine, just incase that untrustworthy host decides to go poof, you will too.
+Cain - sopd so what you're saying, you was incapable of selecting a package and seeing the server is hosted in Germany?
+
+You're saying trusting new hosts is a bad idea because you have no clue what may happen. I don't see your logic, yes they could disappear, as could any company. If people don't test and try new companies you have no idea what they are like, so far CoreSRV has provided an exceptional service, we hade a piece of hardware fail, which was replaced as soon as they got the replacement part.
+sopd - Cain how are you sure?
+sopd - I wanted to test OSes on them and they said a reinstall sure but for others either myself or remotehand cost.
+Cain - Explain the how can you be sure part? It quite clearly states the Bare Metal Server is hosted in Germany 
+
+
+All companies start from the ground and build up, it is your choice to trust them, but don't go about giving a company a bad name when you haven't got all the information - https://drama.gg/assets/files/2021-05-21/1621605143-976014-screenshot-20210521-145216.jpg
+J0SH - Imagine putting a host on drama.gg because they have "bad hardware"
+Tomas - J0SH yeah bro otherwise you'd be here more often
+J0SH - shut up
+Tomas - J0SH np boo
+J0SH - You don't have to include the providers privacy policy in your own lmfao, look at the thousands of hosts that use hetzner root-servers, they don't include it.
+J0SH - Why did you include "not ssl" in the original post providing the host's website link then edit it 🤣
+Cain - J0SH Pretty sure because we forgot to enable http redirect, so the original link he put was https and showed we had SSL then changed to http which showed no SSL, this has now been resolved
+J0SH - It doesn't even matter because that site ain't handling customer data

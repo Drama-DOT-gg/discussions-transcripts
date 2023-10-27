@@ -1,0 +1,25 @@
+Tomas - What do you expect? You are trying to run a server on 1GB of RAM
+Ryan - first of all , send of proof cause we're not rude in the tickets, second of all we dont use velocity vpss, de1 from contabo , de2 from hetzner , donor from malzli,  
+I dont have a comment on the bad tps, and about the hetzner cracking subject we were just talking about it, it doesnt mean we are doing , you're not getting demoted but correct your facts please , and send the proof you have
+ItsAceCraft - Tomas Run 1gb ram server on falix my guy and look its tps. I am talking about FalixNodes that has so many Customers but still no were near the same tps...
+ItsAceCraft - Ryan Can't really say Much on the staff thing cuz the ticked was deleted so no ss.
+Ryan - kept avoiding to send proof, the photo you see above is because no one is in the server
+we use a plugin (hibernate) so when no one is in the server it uses less ram and cpu, if he gets on the server the tps will get better + he's using 1gb ram and only 80% to run 1.16 server i admit he won't get the best tps but we're always trying to upgrade , and we're upgrading our ryzen 5 node soon, he doesnt have proof for anything else he said. one guy we kept deleting his tickets is a guy called MySmileGuy he opened a ticket asking for owner, he kept begging we closed the ticket and he made another ticket just to show us his drama.gg thread about our spelling mistakes, 
+and itsAceCraft about not getting demoted we will probebly consider demoting you we don't mind getting hoaxed but liars amon our staff members is not acceptable - https://drama.gg/assets/files/2021-05-22/1621690554-851187-image.png
+Ryan - kept avoiding to send proof, the photo you see above is because no one is in the server
+we use a plugin (hibernate) so when no one is in the server it uses less ram and cpu, if he gets on the server the tps will get better + he's using 1gb ram and only 80% to run 1.16 server i admit he won't get the best tps but we're always trying to upgrade , and we're upgrading our ryzen 5 node soon, he doesnt have proof for anything else he said. one guy we kept deleting his tickets is a guy called MySmileGuy he opened a ticket asking for owner, he kept begging we closed the ticket and he made another ticket just to show us his drama.gg thread about our spelling mistakes, 
+and itsAceCraft about not getting demoted we will probebly consider demoting you we don't mind getting hoaxed but liars amon our staff members is not acceptable - https://drama.gg/assets/files/2021-05-22/1621690428-329877-image.png
+Ryan - ItsAceCraft give me another case besides MySmileGuy and i will go live in drama.gg discord server and show transcipts live
+Ryan - if anyone wants invoices for the vpss let us know
+ItsAceCraft - Ryan As I said Earlier, I Can't really Argue about the Staff team as the Ticket got deleted. But I did see it in my own eyes. But most shocking is the tps. Even 17 tps is considered is Very Bad but 1 not acceptable...
+ItsAceCraft - Ryan I do agree on the Staff and VPS thing and I corrected it. But The tps...
+Ryan - ItsAceCraft we use a plugin (hibernate) so when no one is in the server it uses less ram and cpu, if he gets on the server the tps will get better + he's using 1gb ram and only 80% to run 1.16 server i admit he won't get the best tps but we're always trying to upgrade , and we're upgrading our ryzen 5 node soon
+ItsAceCraft - Ryan Even  if you don't buy from Velocity Anymore What About the Performance?
+Ryan - ItsAceCraft you avoding my answers maybe deleting the thread or
+ admitting your wrong is better
+ItsAceCraft - Now After speaking to some of the ceo's The tps is low because of hibernation. Once players Are active for liek 5 - 10 mins it gets above 17 tps which is still playable. Thank God I was proven wrong or I would really sad for CatServices. Sorry for the trouble. But Now i hope if someone faces a bad performance as me if you make a server in Cat Services then its cause if this. 
+
+Again:
+Sorry for the inconvenience and sorry for deciding things too fast.
+typicalGta - ItsAceCraft lmao you got clowned you just want fame ey?
+Puggo - nice thread - https://drama.gg/assets/files/2021-05-23/1621765878-118040-image.png

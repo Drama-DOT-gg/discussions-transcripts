@@ -1,0 +1,18 @@
+europa - Preface:
+
+I am shitfaced tired of hearing kids from this forum and server crying over "SpermNodes.xyz" or some similar shit "scamming" or "abusing" or some other verb they just found exists yesterday. I hope to get it into your head that if a "host" provides its services free of charge you cannot expect them to have the same data redundancy and uptime as something paid. Not only that but if a "host" provides its services free of charge you cannot expect them to run on the "top tier" Hetzner hardware you get with "IrrelevantNode.com" for 25 cent a gigabyte. They don't charge you anything, don't come crying over them using Google Cloud free trials. Even if they are abusing Google's trial system don't forget that Google is a multi-billion dollar enterprise and that this matter is between those conducting the abuse and Google, not you and them.
+With that out of the way, here is the ultimate guide to not getting scammed by Minecraft kids, for those of you lacking common sense:
+
+Once you've found a place you like, verify the following:
+   That it's existed for more than a couple of months
+   That it has up-to-date contact information and any applicable legal information
+   That it follows the basic legal framework of today, i.e. has terms that define the contract you and the "company" enter into, and doesn't have terms with ridiculous strings attached as well as has proper policies on data protection and buyers protection (often called a Service Level Agreement, or something alike).
+   That, if it claims to be a registered business, it has a proper registration in the jurisdiction it operates in/from. www.opencorporates.com  is a great tool for this.
+Make sure the place you're going to be buying from has a good standing within the community. If they have a Trustpilot, look at it, and if they have a very low number of reviews ensure those reviews are almost, if not all, positive.
+Interact with their support, sales support is quite literally just a tool for businesses to show themselves in their best light, so take advantage of this and have their sales team give you suggestions and help with choosing a package or a service. If they don't have a sales team, that's your cue to leave. If their sales team seems inexperienced or incompetent, that is also your cue to leave.
+Use common sense; if it's free to use don't expect the same data redundancy that Equinix would give you, oftentimes free "hosts" aren't scummy at all instead unrealistic expectations are set of what they provide.
+If their website/logo/branding/terms/discord/anything looks off, or generic, or copy-pasted, or anything negative, then leave.
+Discord - While I'm here I might as well add some shit, literally no one gives a shit about some no name host that just started that uses google cloud free trials.
+Shershah - simple: Have some brain.
+Discord - Literally if the host has no name, no one really cares. It's just petty.
+Preon - in general there's a lot of free hosts that dont live up to their advertising. almost always you give something up for it being free, whether that be performance, uptime, or something else

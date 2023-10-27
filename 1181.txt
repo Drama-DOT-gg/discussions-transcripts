@@ -1,0 +1,104 @@
+tenzfan - I have made a thread about YeetHosting before, however it needed to be bumped and I just got banned with an very interesting reason. I'm assuming the CEO was hoping I wouldn't see the ban message because ya know, I was banned. However mobile notifications are a beautiful thing. 
+
+I'm going to go over my previous post again with some added information.
+
+**After joining their discord I immediately notice a few things:
+
+They are condoning the use of bots being used as users (against Discord's TOS)
+
+Staff were condoning dos attacks
+
+A low level staff member (one that should not have access to such things) leaked the password to their website node and their 2nd node (Never said what it was to, but still did it)
+
+They are letting users post their passwords in chat (this one is kind of on the user but should still be removed from their chats anyway)
+
+The password for the website node and node2 were the same, and after a quick google points toward a Lego replacement kit. (Might be a coincidence)
+
+After telling the owner about the passwords and access to the nodes (staff leak too) the owner claimed it wasn't a big deal and that node2 was only for honeypot (which is still a security concern)
+
+The owner also only agreed to add an egg to the panel that allowed the generation of income for clients if he was given 1% of the profits from anyone who used it via bitcoin
+
+Their TOS is also virtually non existent:
+
+_1. it is strictly prohibited for admins to look at your server unless you allow them to or unless they are asked to fix something.
+
+you cannot zipbomb/forkbomb/sudo rm -rf /* the container in which you are running the server, if you do that, that wont do anything to us but you will get instant ban.
+alts are not allowed, if you are caught using them you will get the ban.
+if you ddos or cause damage to any of your servers, your ip will be most likely publicly exposed.
+by signing up to yeet hosting you confirm you are +13 or you have parental authorization for using our services.
+cryptomining in any way is strictly disallowed even if its chia mining.
+refer to respective hetzner and digital ocean TOS to know more on what you cant do.
+links:
+https://www.digitalocean.com/legal/terms-of-service-agreement/
+https://www.hetzner.com/rechtliches/root-server/_
+
+Notice how 4 threatens to publicly expose your IP address instead of reporting it
+
+They also do not have a privacy policy at all
+
+You can check their site here to see if I missed anything - https://www.mindustry.me/**
+
+So yeah very interesting right? Well after offering some advice and asking some questions (We were very kind) they thanked us as we offered to help where we could.
+
+Fast forward 4 days later (now) I got this https://cdn.discordapp.com/attachments/893016309883867137/906973128847142953/Screenshot_20211107-122634.jpg
+
+Join their discord for proof ig: https://discord.com/invite/cwNPQMmvjH
+TheYeetster - This is indeed true, as tenzfan was not the only one to get banned, I got banned too, again for no reason
+Chirag - fun - https://drama.gg/assets/files/2021-11-07/1636315185-992080-screenshot-2021-11-08-01-27-05-09.jpg
+tenzfan - Chirag mmm free trials
+TheYeetster - free trials &gt; good hosting i guess
+KejiDiscord - TheYeetster just transfer the data
+tenzfan - KejiDiscord Or they could just ya know, stop abusing free trials and pay for nodes
+TheYeetster - they won't stop doing that until someone forces them to
+tenzfan -  - https://drama.gg/assets/files/2021-11-07/1636316667-523460-capture.png
+TheYeetster - Also I like how they rely that they will get a 100$ profit, that's almost impossible since they are a mainly free host, Also If any of you would like I have ScreenShots of:
+
+1.The bans &amp; the ban messages
+2.Trying to give Me and tenzfan shit for being a small hoster (we are a paid hosting, and they are a free one, so that makes no sense, if they were a paid hosting they'd have close to 20 members) Also telling their community that we were a basically worse than them. (I.e mentioning members counts on Discord)
+3.Their shitty servers
+4.Them "accidently" banning @Chirag 
+
+There's probably that I can add If I wanted to
+VolleierYouKnow - duplicate of https://drama.gg/d/1171-watch-out-for-yeet-hosting I suggest going there to actually know a response
+VolleierYouKnow - Chirag this can be marked as resolved - https://drama.gg/assets/files/2021-11-08/1636392558-601490-bruh.jpg
+VolleierYouKnow - tenzfan and thats not abusing free trials,  digitalocean TOS states you can redistribute their services using trials
+TheYeetster - Yeah you have one Hetzner node, which is for "Donators"
+
+Also using free trials is overall scummy, don't try to make the entire drama.gg community think otherwise, it won't work.
+
+Also if you do that then that's ALOT of dataloss
+VolleierYouKnow - TheYeetster error, we are launching another node for people , don't start making up stuff without evidence
+VolleierYouKnow - Also if you do that then that's ALOT of dataloss
+  
+have you heard of having a backup server with 1tb disk to transfer stuff to?
+oh wait you never heard of that because your paid hosting doesn't even do backups of /var/lib/pterodactyl/volumes to other spare server (again just saying something you could improve )
+TheYeetster - VolleierYouKnow Well how could I have known that, I'm not in the discord.
+TheYeetster - VolleierYouKnow if you think we use a server's main disk for data storage then that's just laughable. I personally have 3 different disks, 1 small SSD for the linux distro, a high-capacity HDD for the data and a 500GB HDD for Backups.
+
+If you're wondering that Backup disk is only for Backups from the node itself, no outside shenanigans. 
+But we have had plans to get a Very Big Backup server for atleast a week now.
+But we still backup stuff to outside the main Data Disk.
+
+Don't start making up stuff without evidence. 🙂
+VolleierYouKnow - TheYeetster dunno
+VolleierYouKnow - Don't start making up stuff without evidence. 
+  true , wont ask for proof about that but just answering your question
+VolleierYouKnow - if you think we use a server's main disk for data storage then that's just laughable. I personally have 3 different disks, 1 small SSD for the linux distro, a high-capacity HDD for the data and a 500GB HDD for Backups.
+
+good
+Tato - @VolleierYouKnow 
+Sorry sorry... You're happy using free trials?
+Do you know how much data you're risking?
+That's also really scummy considering as I've seen there are benefits to "investing", "donating" money into the host
+tenzfan - Tato Hi! This thread was ended and there aren't many issues left. Therefor there isn't much reason left to message here
+VolleierYouKnow - Tato I’m not risking data, I use 2 paid servers to backup the data on those 2 nodes, inform yourself before writing’
+VolleierYouKnow - Tato I’m not risking data, I use 2 paid servers to backup the data on those 2 nodes, inform yourself before writing’
+VolleierYouKnow - ohno it sended 2 times
+Tato - VolleierYouKnow Excuse me I didn't see you mention that?
+VolleierYouKnow - Tato I didnt mention but ok, also sorry for the tone I said that, I was busy atm
+RTOmega - Dated Post.
+All the claims that have been done against YeetHosting have resolved, the hosting doesnt use any free trials, all tos and rules have been updated, all abuse and leak claim are false, no data is at risk multiple backups have been made, all js free mindustry servers have their own conatiner and cant access others, free mindustry hosting might/will return if we get a node donation or get another free trial.
+It is absurd to claim that it is wrong to give free servers for a small game by using free trials.
+Jen - RTOmega i don't think its a small game
+i also think that instead of responding to this post
+You should rather instead re-vamp your practices more

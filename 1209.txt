@@ -1,0 +1,139 @@
+ROYADMA_GAMING - Rocknodes hosting ---- https://discord.com/invite/eRGd5gTzqK
+
+
+Getting nodes from shershah (google cloud) , and scamming their users that they pay for it. !
+
+
+After I asked the owner, he banned me! @ - https://drama.gg/assets/files/2021-11-14/1636860973-967728-screenshot-2021-11-14-08-55-16-65-572064f74bd5f9fa804b05334aa4f912.jpg
+ROYADMA_GAMING - Rocknodes hosting ---- https://discord.com/invite/eRGd5gTzqK
+
+
+Getting nodes from shershah (google cloud) , and scamming their users that they pay for it. !
+
+
+After I asked the owner, he banned me! @ - https://drama.gg/assets/files/2021-11-14/1636860997-192932-screenshot-2021-11-14-08-58-03-25-572064f74bd5f9fa804b05334aa4f912.jpg
+ROYADMA_GAMING - These guys, are clearly scamming
+ROYADMA_GAMING - @Shershah see this bro,
+ROYADMA_GAMING - @KaranGamer6969
+KaranGamer6969 - I also Asked them same and there Owner said yes, then clear the whole chat
+ROYADMA_GAMING - KaranGamer6969 they are clear scammers.
+KaranGamer6969 - ROYADMA_GAMING Yes
+ROYADMA_GAMING - The owner is skid, not even registered on drama?
+KaranGamer6969 - ROYADMA_GAMING LOL really Skid
+AabiskarAcharya - wt- never thought that they were scamming bruh
+Tato - Sorry, someone tell these kids it's against Discord's rules 🤦‍♀️ - https://drama.gg/assets/files/2021-11-14/1636864723-32160-image.png
+Shershah - ROYADMA_GAMING helllo, first see youself before making thread and that host is not even started?
+DeadBush - Shershah if it's not started then why provide services?
+DeadBush - And btw WTF is up with these host names fr.
+Kowone - DeadBush it's because a kid named it. it's basically "for kids, by kids"
+DeadBush - Kowone lmao.
+I remember the days when people were too satisfied with our host. We just didn't knew tos and pp is needed and people attacked us lol and plus when we made it. It was in simple language no ober complicated words and straightforward people had problems with that too.
+I still get a lot of dms sayin when will netric be back I feel really bad but the money is the problem. the thing is we never used more than 90% ram of any nodes
+Razes - L
+QloxXy - bruh this mf is staff in my discord...
+Tato - QloxXy bruh go away mf, we dont need you
+QloxXy - Tato ok failed abortion
+Tato - QloxXy  what does that even mean
+Shershah - What even 13 year old can make sense?
+MayankKumar - Shershah now there host is started and now they sell paid plans on nodes of linode free trial
+Aaron_ - MayankKumar Can you send us an invite link
+Shershah - ROYADMA_GAMING I could really suggest to see your host first. Your free trail ended then u all stoped hosting lmfao. And who tf said that I gave them nodes lmfao
+UnknownTheBestGamer - what the fuck is this?
+I started working for this host and I didn't know this post existed
+they pay me well and we don't use Linode? or google cloud
+
+free trails cant handle 4 64GB nodes for more than 10 days 
+
+I think this might be an old post but we have satisfied users and that's all that matter 😃
+also the invite rewards thing is no longer an idea its in the trash
+UnknownTheBestGamer - MayankKumar Ummm sorry we don't use Linode?
+we are planning on buying a new node from soulnode since they closed down
+Jen - UnknownTheBestGamer lmfao soulnodes
+U trust that shit company
+UnknownTheBestGamer - Razes  hello flamy
+Jen - UnknownTheBestGamer yk u can have satisfied users through lies which is normal for a scam host.
+Just fix your fucking host or it will get shut down
+MayankKumar - UnknownTheBestGamer oh really? i have proof..
+
+i checked your panel and it is hosted on linode 
+
+`C:\Users\mayank&gt;ping panel.rocknodes.xyz
+
+Pinging panel.rocknodes.xyz [139.162.46.87] with 32 bytes of data:
+Reply from 139.162.46.87: bytes=32 time=102ms TTL=52
+Reply from 139.162.46.87: bytes=32 time=124ms TTL=52
+Reply from 139.162.46.87: bytes=32 time=105ms TTL=52
+Reply from 139.162.46.87: bytes=32 time=145ms TTL=52
+
+Ping statistics for 139.162.46.87:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 102ms, Maximum = 145ms, Average = 119ms
+
+C:\Users\mayank&gt;curl ipinfo.io/139.162.46.87
+{
+  "ip": "139.162.46.87",
+  "hostname": "139-162-46-87.ip.linodeusercontent.com",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2897,103.8501",
+  "org": "AS63949 Linode, LLC",
+  "postal": "018989",
+  "timezone": "Asia/Singapore",
+  "readme": "https://ipinfo.io/missingauth"
+}`
+
+i also scanned your dns for the other nodes ip
+
+and i found that all your nodes are linode..
+lmao you saying you don't use it.. are you living under a rock?
+
+de.rocknodes.xyz--
+C:\Users\mayank&gt;curl ipinfo.io/194.195.240.137
+{
+  "ip": "194.195.240.137",
+  "hostname": "194-195-240-137.ip.linodeusercontent.com",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1025,8.6299",
+  "org": "AS63949 Linode, LLC",
+  "postal": "60326",
+  "timezone": "Europe/Berlin",
+  "readme": "https://ipinfo.io/missingauth"
+}
+
+sg.rocknodes.xyz--
+C:\Users\mayank&gt;curl ipinfo.io/139.162.29.66
+{
+  "ip": "139.162.29.66",
+  "hostname": "139-162-29-66.ip.linodeusercontent.com",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2897,103.8501",
+  "org": "AS63949 Linode, LLC",
+  "postal": "018989",
+  "timezone": "Asia/Singapore",
+  "readme": "https://ipinfo.io/missingauth"
+}
+
+and rest of the ip(s) are same as panel so your host is using all the nodes from linode and you don't know lmao, stop lying - https://drama.gg/assets/files/2021-12-30/1640850814-958883-image.png
+GreenArrow99 - can someone check if the discord server has been deleted.
+iiChxrlly_ - i dont have the invite link, but there's one somewhere in youtube platform the channel named EndLapseYT (not my channel i swear)
+Loser - epik
+UnknownTheBestGamer - MayankKumar ARE YOU FUCKING DUMB??? I said I don't know the fucking host service we use my self looks like you can't fucking read I just worked for the host what the fuck did I do to tell me to stop lying
+UnknownTheBestGamer - Jen soulnode was a good host before it shutdown
+UnknownTheBestGamer - Jen no I don't know that we have satisfied customers through lies actually and I never knew we used free trials till rock boy deleted everything
+UnknownTheBestGamer - GreenArrow99 yeah it has been deleted
+SnailDOS - UnknownTheBestGamer OMGGGG I CANT BEEEEELIEVE !!?!!?!!!1111
+Jen - UnknownTheBestGamer well its not our problem now is it
+UnknownTheBestGamer - SnailDOS exactly
+UnknownTheBestGamer - Jen yeah
+UnknownTheBestGamer - STOP CHATTING HERE ITS USELESS THE HOST IS DEAD
+Jen - UnknownTheBestGamer we can chat here if we want to
+Jen - UnknownTheBestGamer at least i didn't work for a dumb host
+UnknownTheBestGamer - Jen just stfu
+Jen - UnknownTheBestGamer No
+BhagwanXD - can i get their discord link

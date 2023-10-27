@@ -1,0 +1,44 @@
+WolfLover - The co-owner GameTec_live is bad to customers, rude and even can't fix basic things. Their servers are absolutely slow, they are being DDoSed and they can't even stop that attack by blocking attacking IP or adding Cloudflare to their website.
+
+Don't use that. When something is not working, they just tell you "This is in beta" and won't solve it.
+
+
+The prices are not so cheap as they advertise - you are going to pay 0.50€ monthly for 32 MB of RAM and 100 MB of Disk for a shared container located on a very slow DDosed server.
+
+They kicked me from their Discord, then I joined back and saw that my message were deleted. The co-owner is like a small kid who can't stand bad true things about yourself. They banned me now from their Discord server. They have also deleted my server without letting me know and I lost my files. How awful this host can be. And ofc they also deleted my account on dashboard and panel.
+
+
+Please avoid using this host or they will make you have bad mad from it.
+
+
+Link: https://dash.webshort.uk
+Rhys04 - Well that’s a bit sad that you feel the need to target a company that has been just setup literately days before you started complaining, you didn’t pay for anything on our service and repeatedly complained about issues that only you seemed to have that we would work on to fix then you went out of your way to post this review and setup a trust pilot page for us just so you can say horrible things about me and my colleagues, I appologise if you had a poor experience but we were testing new things out and experimented with hosting and it’s because of nasty people like you on the internet why none of them survive, because we don’t get a chance to try and fix things you just try to wreck us and you know what, I won’t let you, I will keep trying my best with the little that I have got and I’m sorry if you don’t like it but you need to get a grip.
+CharityLexus - WolfLover you were harassing the owners because you were begging for free credits, and talking about how slow the servers are (when it is in beta, and when you aren't even paying for the service, you were using free credits)
+
+Also i wish i had some good screenshots, but since you got banned all the messages were deleted 
+
+(timing on screenshots is wrong, i need to fix my settings) - https://drama.gg/assets/files/2021-10-25/1635173286-520122-image.png
+CharityLexus - WolfLover you were harassing the owners because you were begging for free credits, and talking about how slow the servers are (when it is in beta, and when you aren't even paying for the service, you were using free credits)
+
+Also i wish i had some good screenshots, but since you got banned all the messages were deleted 
+
+(timing on screenshots is wrong, i need to fix my settings) - https://drama.gg/assets/files/2021-10-25/1635173706-618343-image.png
+CharityLexus - WolfLover you were harassing the owners because you were begging for free credits, and talking about how slow the servers are (when it is in beta, and when you aren't even paying for the service, you were using free credits)
+
+Also i wish i had some good screenshots, but since you got banned all the messages were deleted 
+
+(timing on screenshots is wrong, i need to fix my settings) - https://drama.gg/assets/files/2021-10-25/1635173788-146087-image.png
+Tomas - As in - dependent on how much traffic their machine would be able to handle, they may not be able to mitigate it by themselves, especially if they lack the knowledge how to
+
+You can't really blame them for getting attacked by a 3rd party that they don't know, it's not like they are causing downtime for the fun of it - is it?
+iiChxrlly_ - Time to investigate this kind of stupid problem.
+WolfLover - The servers are still DDoSed, you can try to create account on http://dash.webshort.uk/ and see how slow it is. 
+
+Also, where are their TOS and privacy policy? Are they eligible to have hosting? Do they have licenses and are they paying VAT to the state where are they from?
+WolfLover - 502 Bad Gateway
+nginx
+
+on their dashboard
+CharityLexus - WolfLover they've ended their hosting now, congrats
+
+also like i said before, you have no right to complain if you're not paying for it.

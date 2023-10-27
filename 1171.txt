@@ -1,0 +1,835 @@
+tenzfan - Watch out for Yeet Hosting
+
+After joining their discord I immediately notice a few things:
+
+They are condoning the use of bots being used as users (against Discord's TOS)
+
+Staff were condoning dos attacks
+
+A low level staff member (one that should not have access to such things) leaked the password to their website node and their 2nd node (Never said what it was to, but still did it)
+
+They are letting users post their passwords in chat (this one is kind of on the user but should still be removed from their chats anyway)
+
+The password for the website node and node2 were the same, and after a quick google points toward a Lego replacement kit. (Might be a coincidence)
+
+After telling the owner about the passwords and access to the nodes (staff leak too) the owner claimed it wasn't a big deal and that node2 was only for honeypot (which is still a security concern)
+
+The owner also only agreed to add an egg to the panel that allowed the generation of income for clients if he was given 1% of the profits from anyone who used it via bitcoin
+
+Their TOS is also virtually non existent:
+
+_1. it is strictly prohibited for admins to look at your server unless you allow them to or unless they are asked to fix something.
+you cannot zipbomb/forkbomb/sudo rm -rf /* the container in which you are running the server, if you do that, that wont do anything to us but you will get instant ban.
+alts are not allowed, if you are caught using them you will get the ban.
+if you ddos or cause damage to any of your servers, your ip will be most likely publicly exposed.
+by signing up to yeet hosting you confirm you are +13 or you have parental authorization for using our services.
+cryptomining in any way is strictly disallowed even if its chia mining.
+refer to respective hetzner and digital ocean TOS to know more on what you cant do.
+
+links:
+https://www.digitalocean.com/legal/terms-of-service-agreement/
+https://www.hetzner.com/rechtliches/root-server/_ 
+
+Notice how 4 threatens to publicly expose your IP address instead of reporting it
+
+They also do not have a privacy policy at all
+
+You can check their site here to see if I missed anything - https://www.mindustry.me/
+GreenArrow99 - can someone spy on this host please
+TheYeetster - I'm currently in their discord, well I was the one that helped @tenzfan with this. I've not been banned yet but I'm 90% sure they will ban me.
+tenzfan - GreenArrow99 We are watching the discord, we had learned earlier that MC servers could only be purchased by donators. However they just changed this, claiming that it will probably cause lag. (MC servers aren't super demanding so if their CPU's can't handle that then that's a red flag)
+Thominek - their server are ultra laggy my friend had a server on there and we were the only players on the server and 13 tps
+VolleierYouKnow - As the owner of yeet hosting, i will reply back to this post with my response word to word from the discord
+
+firstly, im gonna respond to this line by line as said by this person and review what they say
+
+They are condoning the use of bots being used as users (against Discord's TOS)
+
+sir you dont even have experience in discord, if you had you would know that is webhooks
+
+Staff were condoning dos attacks
+
+they were as a meme way, ddos is surely bad and ilegal
+
+A low level staff member (one that should not have access to such things) leaked the password to their website node and their 2nd node (Never said what it was to, but still did it)
+
+we had that to test if someone would be so stupid to even access that, i could have sued you for getting into a server that its not yours
+
+They are letting users post their passwords in chat (this one is kind of on the user but should still be removed from their chats anyway)
+
+🤦 this dude doesnt even know what he is saying anymore
+
+After telling the owner about the passwords and access to the nodes (staff leak too) the owner claimed it wasn't a big deal and that node2 was only for honeypot (which is still a security concern)
+
+oh hey i know this guy
+
+
+The owner also only agreed to add an egg to the panel that allowed the generation of income for clients if he was given 1% of the profits from anyone who used it via bitcoin
+
+again, that was a meme and you are using it on crewcraft.cc (what are you even talking about) 
+
+Their TOS is also virtually non existent:
+
+id rather just straight up say this dude is 5 years old, you can literally read the tos, its the first thing you see when you join the server
+
+Notice how 4 threatens to publicly expose your IP address instead of reporting it
+
+it was pointed out again as a joke, again,  that was removed from rules a day before we actually released the real yeet hosting, and of course as you are mad because i didnt let you buy yeet hosting you are now triying to "HOLY FUCK HOLY FUCK SEND HELP I NEED TO GET RID OF THIS GUY QUICK" which is fully cringe and a childish way to try to get members in your shitass crewcraft.cc scam
+
+Sincerely: VolleierYouKnow#0007 - CEO of Yeet Hosting - https://cdn.discordapp.com/attachments/873211071765295144/907086749912670208/unknown.png
+KingBR - Bruh you tried to buy them and now is crying cause they refused? - https://drama.gg/assets/files/2021-11-08/1636337483-370256-image.png
+VolleierYouKnow - also im pretty sure using alts in this site is not allowed yeetster
+tenzfan - VolleierYouKnow Drama.gg is a site designed to expose fraudulent companies that don't know what they are doing. Which is you, so any argument I've made here is fully warranted. (You also said that its a node designed to see if someone would do it, however per your words its honeypot)
+
+Also you continue to say things were a joke, however you did not make a claim and rebuttal that your ban message did say kys (if you try and make a claim against that your dumb)
+
+Also if you "just released" then why have you been around for months? Also we didn't try to buy you, we tried to work with you. You only made these changes when me and Yeetster showed up and talked to you about them. I'm not making any claims that we are better, and at no point did I ever suggest that. However I do have a problem with companies like you making the small guys look bad, because you cause problems in our industry. Your TOS and Privacy Policy are NOT long enough to be considered a true TOS document. You never punished the staff members condoning DOS attacks, nor the one who leaked your password. Also @Chirag so lovingly showed that you use free trials with the full intent of switching again once it runs out. Starting a host requires money, using trials puts your clients data at risk if you can't keep it safe. So if you cannot afford to pay for the nodes, don't start a hosting service
+VolleierYouKnow - didn’t expect a response that fast, the ban message included kys as a joke from my staff you dumbcrap 
+
+Drama.gg is a site designed to expose fraudulent companies that don't know what they are doing. Which is you
+i know what I’m doing but you don’t and in fact you pointed it out  
+
+You only made these changes when me and Yeetster showed up and talked to you about them. I'm not making any claims that we are better, and at no point did I ever suggest that. However I do have a problem with companies like you making the small guys look bad, because you cause problems in our industry. 
+"small guys", kid you have 57 members on your discord server, you don’t even have enough members to even react to a 289 member server in which 99% of people are satisfied with the yeet hosting service
+
+Also @Chirag so lovingly showed that you use free trials with the full intent of switching again once it runs out. Starting a host requires money, using trials puts your clients data at risk if you can't keep it safe. So if you cannot afford to pay for the nodes, don't start a hosting service
+
+we are a startup host, we can pay for the nodes and if the trial ends, data is backed up on both node 1 and 4, don’t talk about what you don’t know. - https://cdn.discordapp.com/attachments/876865458534514758/907094763210174524/DCC62F1A-E44C-4BC7-85FA-92D964CB1371.jpeg
+VolleierYouKnow - i forgot something
+
+Your TOS and Privacy Policy are NOT long enough to be considered a true TOS document.
+oh yeah? could you please look back at crewcraft.cc rules and tos? That’s not even 80 lines, my TOS and Rules both are a total of 10000 lines
+tenzfan - VolleierYouKnow oh boy a lot of stuff to cover so here we go (also your argument of kys being a joke is highly unprofessional and that right there is already bad)
+
+No your a small guy, you wanna seem HUGE but in reality your not. Your basing it off of discord members when OVER half of that community doesn't talk, and once again back to security. I should never have access to your website node or your honeypot node because that right there is a red flag. How many customers do you have? Your site say's 5, unless you haven't updated it which might be true. Anywhere he's some images! - https://drama.gg/assets/files/2021-11-08/1636339312-420366-proof.jpg
+tenzfan - VolleierYouKnow oh boy a lot of stuff to cover so here we go (also your argument of kys being a joke is highly unprofessional and that right there is already bad)
+
+No your a small guy, you wanna seem HUGE but in reality your not. Your basing it off of discord members when OVER half of that community doesn't talk, and once again back to security. I should never have access to your website node or your honeypot node because that right there is a red flag. How many customers do you have? Your site say's 5, unless you haven't updated it which might be true. Anywhere he's some images! - https://drama.gg/assets/files/2021-11-08/1636339349-559380-proof2.png
+VolleierYouKnow - oh boy a lot of stuff to cover so here we go (also your argument of kys being a joke is highly unprofessional and that right there is already bad)
+I know it’s unprofessional but as I said my staff wanted to have fun with a drama maker like you
+
+No your a small guy, you wanna seem HUGE but in reality your not. Your basing it off of discord members when OVER half of that community doesn't talk, 
+have you stayed for a month there? i can say no
+and once again back to security. I should never have access to your website node or your honeypot node because that right there is a red flag. 
+  it’s made for that, for dumb asses like you to come in and use their ips to sue them
+  
+ 
+
+How many customers do you have? Your site say's 5, unless you haven't updated it which might be true.
+149, and yes i haven’t updated it, how about we say how many you have, 16 clients?
+Anywhere he's some images!
+true stuff but that was a response I did because It was midnight on my timezone, again, users won’t loose any files from that switch
+VolleierYouKnow -  - http://memes.ucoz.com/_nw/68/80724427.jpg
+tenzfan - VolleierYouKnow 
+
+VolleierYouKnow I know it’s unprofessional but as I said my staff wanted to have fun with a drama maker like you
+
+Your the one that banned me not them
+
+VolleierYouKnow it’s made for that, for dumb asses like you to come in and use their ips to sue them
+
+So your honeypot node that's meant to protect your other nodes is supposed to have people be able to access them? huh
+
+I don't have a problem with my customers however there's a small detail your missing... YOU DO FREE HOSTING AND WE DO PAID!!!!! Yet your expecting to turn a profit, I mean common, making people donate $1 to do MC hosting? Also you can't blame your responses on you being tired, you can't win this because your in the wrong. If you point out anything wrong with my company I actually thank you, because it means I missed something
+iBoughtShroudMerch - selling popcorn to the replies 🍿 🍿 🍿 🍿 🍿 🍿 🍿
+iBoughtShroudMerch - shroud.gg MERCH SELLING OUT FAST ORDER NOW!!!
+VolleierYouKnow - tenzfan 
+i was the one who banned you because they don’t have banning perms, again that was just fun from my staff because of you being funny
+
+So your honeypot node that's meant to protect your other nodes is supposed to have people be able to access them? huh
+its meant to do both stuff, caught stupid people (like you) and then see if we sue them
+
+I don't have a problem with my customers however there's a small detail your missing... YOU DO FREE HOSTING AND WE DO PAID!!!!! 
+ ok and? I clearly can still react to that.
+  
+  Yet your expecting to turn a profit, I mean common, making people donate $1 to do MC hosting?
+  refer to danbot hosting, they don’t even allow minecraft or rust, you can’t even know if they use free trials or not, donators can donate in fact and get access to the other stuff that pulls a ton of cpu, again, you have only 16 clients (put That in 16 servers) now imagine you have 60 servers all using 500mb ram each, would you allow minecraft hosting?
+  
+   Also you can't blame your responses on you being tired, you can't win this because your in the wrong. 
+   i can in fact do that, I’m not in the wrong because I’m pointing the truth you don’t want to hear pengu
+   If you point out anything wrong with my company I actually thank you, because it means I missed something
+true, you are welcome
+VolleierYouKnow - iBoughtShroudMerch 
+i would like some popcorn sir 🍿
+tenzfan - VolleierYouKnow I mean you seem to flaunt your customers like your better when in reality you'll have more clients than us for offering free hosting vs paid. Also to answer your question about 60 servers pulling 500mb ram, yes I would because that's the point of being a host is to offer services to people and make sure that you can hold up on that. Your not pointing out any truth at all!
+
+Let's show the allowed use of Userbots in your server (against discord TOS)
+
+
+or your old TOS before we pointed it out 
+
+or this! - https://drama.gg/assets/files/2021-11-08/1636340845-380343-discordtosbot.png
+tenzfan - VolleierYouKnow I mean you seem to flaunt your customers like your better when in reality you'll have more clients than us for offering free hosting vs paid. Also to answer your question about 60 servers pulling 500mb ram, yes I would because that's the point of being a host is to offer services to people and make sure that you can hold up on that. Your not pointing out any truth at all!
+
+Let's show the allowed use of Userbots in your server (against discord TOS)
+
+
+or your old TOS before we pointed it out 
+
+or this! - https://drama.gg/assets/files/2021-11-08/1636340867-321656-tos.png
+tenzfan - VolleierYouKnow I mean you seem to flaunt your customers like your better when in reality you'll have more clients than us for offering free hosting vs paid. Also to answer your question about 60 servers pulling 500mb ram, yes I would because that's the point of being a host is to offer services to people and make sure that you can hold up on that. Your not pointing out any truth at all!
+
+Let's show the allowed use of Userbots in your server (against discord TOS)
+
+
+or your old TOS before we pointed it out 
+
+or this! - https://drama.gg/assets/files/2021-11-08/1636341094-453613-password.png
+Itzbenz -  - https://c.tenor.com/PIHRlZcXSiYAAAAM/cover-eyes-bright.gif
+VolleierYouKnow - tenzfan
+do you even have straight up an idea of what you are saying?
+first photo: that’s a bot and it’s a webhook, refer to Yggdrasil user phone as an example of another bot that uses that way of communicating 
+
+second photo: yes that was the old old old old TOS before yeet hosting was even officially launched
+
+I mean you seem to flaunt your customers like your better when in reality you'll have more clients than us for offering free hosting vs paid. 
+im not flaunting, I’m giving an example for you to understand, what I wanted you to understand is that free hosting consumes more ram than your bullcrap minecraft hosting, plus it’s free hosting so you are not have no warranty of actually getting quality stuff unless you pay but the host will always try to deliver the best quality he can
+
+third image: this will be long so grab your pops: well about that image, a client (a friend of mine who is also an admin) has a server named community server in yeet hosting, now that server has a rule, everyone that asks for access can use that console of that server, users like that don’t actually need a secure password as in fact they are only there for that, not for managing some important server with tokens and uuids.
+iBoughtShroudMerch - VolleierYouKnow with or without butter?
+iBoughtShroudMerch - Nexity HEY NO UNDERCUTTING
+VolleierYouKnow - iBoughtShroudMerch extra butter
+iBoughtShroudMerch - VolleierYouKnow perfect! that will be $3.69
+iBoughtShroudMerch - Nexity works for me man
+VolleierYouKnow - iBoughtShroudMerch do you accept dogecoin?
+VolleierYouKnow - if yes, have - https://images.wallpapersden.com/image/download/dogecoin-money_bGtnZmiUmZqaraWkpJRnbW1lrWZtZWU.jpg
+iBoughtShroudMerch - VolleierYouKnow no but if ur subbed to shroud on twitch ill give u 10% off
+VolleierYouKnow - iBoughtShroudMerch oo alright, here have 10 euros and keep the change as tip - http://4.bp.blogspot.com/-lElLJc0t3sU/VRHyB9L1PXI/AAAAAAAAGzE/8hjMtcwfsgk/s1600/EUROPEAN%2BUNION%2B-%2B10%2BEURO%2C2014%2B-%2BNEW%2BTYPE%2B-%2Bserie%2BEB%2BFrance.JPG
+Itzbenz - Nexity feel like it
+iBoughtShroudMerch - Nexity then u better go catch it
+tenzfan - VolleierYouKnow If its bullcrap Minecraft hosting why do I have customers? Why do they like me? Why do I have partners and Investors, as well as access to more resources than you? If your going to attack my company you need client testimonies to prove it, you have provided no evidence to back any of your attacks or claims. I've used images to prove my points, and you've made claims. I have no intention of trying to shut you down, the point of this is to bring your attention to these issues you neglect. If your going to do hosting, do it right or not at all. I tried to help you and you decided to be rude, I never tried to buy you I tried to work with you.
+VolleierYouKnow - Nexity yeah it is
+Itzbenz - Nexity but why it's running
+VolleierYouKnow - tenzfan  tried to work with you is a term
+VolleierYouKnow - but using your server, you pay for it and you get 0.5$ monthly is not working with you
+tenzfan - VolleierYouKnow ?
+VolleierYouKnow - i know this because my staff has been spiying on your service for months, and this is exactly what I needed for this drama to start :popcorn:
+tenzfan - VolleierYouKnow pfft, you didn't know we existed until we showed up. You can try to start something against CrewCraft, but it'll go nowhere
+VolleierYouKnow - so yeah, you rather go into your trantum shit and keep managing your hosting service but you gotta remember to not get mad when your getting free nodes plan doesn’t work
+VolleierYouKnow - tenzfan did I?
+tenzfan - VolleierYouKnow I pay for my nodes lol, thats you operating off of a free trial
+VolleierYouKnow - tenzfan  proof?
+iBoughtShroudMerch - hey guys, shroud here! still selling popcorn
+tenzfan - VolleierYouKnow if your suggesting I send you my companies invoices you might be something different. Why would I EVER show my companies financials to anyone
+VolleierYouKnow - trust me, I have more of this screenshots - https://cdn.discordapp.com/attachments/899483455832862760/907110458669039676/EDDD141B-D4C9-4AED-8765-E05C9E611EB0.jpeg
+VolleierYouKnow - trust me, I have more of this screenshots - https://cdn.discordapp.com/attachments/899483455832862760/907110441086505051/B6C6F138-9C44-43B5-B422-4CBEAF1C3AAA.jpeg
+VolleierYouKnow - tenzfan  then why would i do the same
+VolleierYouKnow - i might be even pretending I’m not paying for the nodes
+tenzfan - VolleierYouKnow We didn't buy them, they merged to work with us
+iBoughtShroudMerch - Nexity im so down
+tenzfan - VolleierYouKnow ah yes, you pretended to be doing what other bad hosts do reputation 100
+iBoughtShroudMerch - tenzfan hey does crewcraft have merch?
+VolleierYouKnow - tenzfan  not talking about that
+tenzfan - iBoughtShroudMerch your literally a partner
+VolleierYouKnow - tenzfan  oh cool you are out of evidence now and start screaming nonsense kid
+iBoughtShroudMerch - tenzfan you wanna partner with my popcorn?
+VolleierYouKnow - tenzfan social credits when
+tenzfan - VolleierYouKnow evidence only helps if I was trying to get you shut down, i'm trying to get your attention
+VolleierYouKnow - iBoughtShroudMerch let’s gooooo
+iBoughtShroudMerch - dude i have 69,420 social credit
+VolleierYouKnow - iBoughtShroudMerch can we partner, i sell chocolate, nexity sells the soda and you sell popcorn
+VolleierYouKnow - tenzfan you are not in fact, you are triying to do some damm long bullshit drama with some information I gave you so you could create this drama
+iBoughtShroudMerch - VolleierYouKnow only if u sell me that cute smile
+iBoughtShroudMerch - VolleierYouKnow guys gandhi said nonviolence.. cant we all be friends?
+tenzfan - iBoughtShroudMerch agree
+VolleierYouKnow - you could ask any member of my service right know how do they feel about yeet hosting, I’ll unban you so you can join again and send a screenshot of what they say
+VolleierYouKnow - iBoughtShroudMerch hey good idea
+VolleierYouKnow - let’s not be violent and close drama
+VolleierYouKnow - we can be friends after all
+iBoughtShroudMerch - GUYS I DID IT! WE'RE ALL FRIENDS. hey homies buy my merch at shroud.gg before the shop closes today at 12:00 PM PST!
+VolleierYouKnow - iBoughtShroudMerch k
+tenzfan - iBoughtShroudMerch cloak i'm taking your cloud 9 lanyard from you
+iBoughtShroudMerch - friends u wanna help me save the turtles?
+VolleierYouKnow - Nexity sure, join com.mindustry.me, let’s have a talk
+iBoughtShroudMerch - tenzfan cloak? im shroud baby im shroud!
+VolleierYouKnow - iBoughtShroudMerch yes
+iBoughtShroudMerch - VolleierYouKnow thats not shroud.gg
+iBoughtShroudMerch - u guys know mixer?
+VolleierYouKnow - iBoughtShroudMerch it is not but it’s something shroud fan
+VolleierYouKnow - iBoughtShroudMerch ye
+nev - hi its nev
+iBoughtShroudMerch - VolleierYouKnow i like your attitude
+iBoughtShroudMerch - nev hi nev im shroud
+Itzbenz - nev kill yourself
+nev - Nexity 
+
+
+im better - https://drama.gg/assets/files/2021-11-08/1636343402-535680-image.png
+nev - Itzbenz got a rope or something
+VolleierYouKnow - iBoughtShroudMerch thank you, you are a great person ngl
+Itzbenz - Nexity mf stole quota
+iBoughtShroudMerch - Itzbenz but buy my merch first!
+nev - Nexity how is this possible
+iBoughtShroudMerch - nev what?
+Imowuwmim - 🥵🥵🥵🥵
+Itzbenz - iBoughtShroudMerch google and aws drain my wallet
+Imowuwmim - so true
+nev - SHUT THE FUCK UP
+Imowuwmim - yummy
+nev - cripple
+VolleierYouKnow - since when. Did this turn into shitpost
+VolleierYouKnow - go to com.mindustry.me for some bing chilling
+nev - i love drama
+shut up nexity
+iBoughtShroudMerch - Itzbenz my mom drains my pp, your point?
+VolleierYouKnow - wait your mom drains your pp?
+VolleierYouKnow - pov: 138 messages
+iBoughtShroudMerch - VolleierYouKnow ye thats not normal?
+VolleierYouKnow - iBoughtShroudMerch I mean it is but that’s incest, unless you live in Alabama then that explains everything
+iBoughtShroudMerch - VolleierYouKnow no canada m8
+iBoughtShroudMerch - ok daddy
+IoNetty - YeetHosting is hosted at the owners house? Let's see. You get 190.219.237.239 when you ping the panel. If you put that ip on https://ipinfo.io the ip is not marked as hosting. If you lookup that isp it's from a residential house internet provider. Someone can hit down everyone in your household. Can't even get a simple gre tunnel? Sad isn't it?
+tenzfan - IoNetty It's probably just their website or panel, not a huge deal
+RTOmega - Lmao, wir just trying to provide free mindustry hosting for many people that need it. Because we give servers for free, we want people to donate or have panel open for arc.io. That is to enable us to run the hosting with less cost. If you really want to cancel a hosting that gives free servers to whoever wants, sure, but you wont be trying to harm us, you would be trying to close the 100+ servers people use. End of discussion.
+-RT
+tenzfan - RTOmega My goal was never to shut anyone down, I just wanted to bring attention to issues and pressuring seemed to be the only option.
+VolleierYouKnow - IoNetty yes that’s our proxy for the panel website, not something new
+VolleierYouKnow - tenzfan you didnt exactly do that, you just created a full scale drama that was not needed to make
+Jedrik - tenzfan if your suggesting I send you my companies invoices you might be something different 🤓
+TheYeetster - KingBR No? That was a offer we made, nothing too serious
+TheYeetster - VolleierYouKnow 
+
+1.No, we are not out of evidence, we have plenty
+2.Both me and @tenzfan are not kids
+3.We would post that evidence only if you try to go after us, which looking at these messages you are trying.
+VolleierYouKnow - TheYeetster 
+
+We would post that evidence only if you try to go after us, which looking at these messages you are trying.
+what evidence sir 
+
+Both me and @tenzfan are not kids
+your discord status literally says your 16, depending if you are on the USA or not, that can be taken as you are a kid
+
+No, we are not out of evidence, we have plenty
+send it
+TheYeetster - VolleierYouKnow 
+
+VolleierYouKnow what evidence sir
+
+1.That we pay for hosting
+2.That @tenzfan did not buy YeetHosting (my hoster, not yours), as many of you believe for some reason, we merged.
+
+And again, we aren't trying to shut you down
+
+VolleierYouKnow your discord status literally says your 16, depending if you are on the USA or not, that can be taken as you are a kid
+
+No, I'm not from the US, stop assuming, In almost the entirety of Europe 16 year olds are mostly considered adults. Also don't try to ignore everything else and focus on this. It's not going to work.
+
+VolleierYouKnow send it
+
+1.I cannot send payment invoices screenshots here, as they are @tenzfan's servers, my server is locally hosted, so nothing that I can show you there. (I do have a ScreenShot of them, I'm not going to send it here.)
+
+2.I'm not leaking private conversations between Me and @tenzfan here. If you really want proof that badly then unblock me and We'll talk there.
+
+And talking about this how are those 2 DigitalOcean servers doing? 
+
+Did you really now? A Pentium CPU will be massively overloaded If you try to run 60 servers on it.
+
+
+I cannot send proof of it having a Pentium CPU since you deleted the message. Sneaky but that won't be enough.
+
+Also proof that we do infact have servers: - https://drama.gg/assets/files/2021-11-08/1636381232-822455-image.png
+TheYeetster - VolleierYouKnow 
+
+VolleierYouKnow what evidence sir
+
+1.That we pay for hosting
+2.That @tenzfan did not buy YeetHosting (my hoster, not yours), as many of you believe for some reason, we merged.
+
+And again, we aren't trying to shut you down
+
+VolleierYouKnow your discord status literally says your 16, depending if you are on the USA or not, that can be taken as you are a kid
+
+No, I'm not from the US, stop assuming, In almost the entirety of Europe 16 year olds are mostly considered adults. Also don't try to ignore everything else and focus on this. It's not going to work.
+
+VolleierYouKnow send it
+
+1.I cannot send payment invoices screenshots here, as they are @tenzfan's servers, my server is locally hosted, so nothing that I can show you there. (I do have a ScreenShot of them, I'm not going to send it here.)
+
+2.I'm not leaking private conversations between Me and @tenzfan here. If you really want proof that badly then unblock me and We'll talk there.
+
+And talking about this how are those 2 DigitalOcean servers doing? 
+
+Did you really now? A Pentium CPU will be massively overloaded If you try to run 60 servers on it.
+
+
+I cannot send proof of it having a Pentium CPU since you deleted the message. Sneaky but that won't be enough.
+
+Also proof that we do infact have servers: - https://drama.gg/assets/files/2021-11-08/1636381476-538138-image.png
+VolleierYouKnow - TheYeetster 
+
+1.That we may for hosting
+2.That @tenzfan did not buy YeetHosting (my hoster, not yours), as many of you believe for some reason, we merged.
+that didn't need evidence lmao, that was never pointed out as if it needed evidence you didn't get bought
+
+No, I'm not from the US, stop assuming, In almost the entirety of Europe 16 year olds are mostly considered adults. Also don't try to ignore everything else and focus on this. It's not going to work.
+  I'm not ignoring anything lmao, but ok didn't know that
+  
+1.I cannot send payment invoices screenshots here, as they are @tenzfan's servers, my server is locally hosted, so nothing that I can show you there. (I do have a ScreenShot of them, I'm not going to send it here.)
+  alright.
+  
+
+Did you really now? A Pentium CPU will be massively overloaded If you try to run 60 servers on it.
+you would be stupid enough if you believed that lmao, if that was real you would have seen people screaming about lag, but as you can see no one is
+
+Also proof that we do infact have servers:
+that can be anything, proof that I infact have servers - https://cdn.discordapp.com/attachments/876865458534514758/907277175646982155/unknown.png
+TheYeetster - VolleierYouKnow 
+
+VolleierYouKnow you would be stupid enough if you believed that lmao
+
+Fine, let's say it's a core i5 or core i7, 60 servers would still overload it by quite alot (even with the other 2/3 servers)
+
+VolleierYouKnow that can be anything, proof that I infact have servers
+
+Alright then.
+
+Now let's talk about the uptime, practically shit.
+
+Yes this was 8 days ago but that shows you don't bother fixing the problems with these servers.
+
+Also also 2 DigitalOcean 16GB (or 32GB) RAM servers along with a AMD Premium (Which I honestly have no Idea what it is.) won't be enough for 60 servers, or as you've announced in #news, 140 (may be a bit less since it's 146 users, not servers) . The servers will not handle that many people without lagging and maybe 1 or 2 of the nodes being overloaded.
+
+Now if you for some reason want to compare it to our uptime then sure, have at it! 
+https://status.crewcraft.cc/
+
+Also as seen here you banned a webhook/whatever you want to call it (technically a user) for sending 5 lines of text - https://drama.gg/assets/files/2021-11-08/1636382508-513832-image.png
+TheYeetster - This is the uptime from the past 7 days
+
+Seems better but 63% uptime is garbage 
+
+Also YeetHosting wasn't released? Then why are you acting as if YeetHosting has been released (Or "has 1 Year of Experience") 1 year ago - https://drama.gg/assets/files/2021-11-08/1636383086-547665-image.png
+TheYeetster - This is the uptime from the past 7 days
+
+Seems better but 63% uptime is garbage 
+
+Also YeetHosting wasn't released? Then why are you acting as if YeetHosting has been released (Or "has 1 Year of Experience") 1 year ago - https://drama.gg/assets/files/2021-11-08/1636383231-21182-image.png
+TheYeetster - Also don't say the uptime is that bad because of the DDOS attack that happened on the 5th.
+
+You should have had DDOS protection. Even the smallest of hosters use DDOS protection.
+
+And also there was 0 to none downtime on the 5th, so idk what you guys were talking about.
+VolleierYouKnow - TheYeetster 
+Now let's talk about the uptime, practically shit.
+
+firstly I gotta say that, the status page is having those facts but clearly you cant look at the past of it, that status page has been around for about a year, I had it for another purpose and then renamed it to yeet hosting status
+VolleierYouKnow - you cant make up stuff if you dont know the past story of it
+
+Also don't say the uptime is that bad because of the DDOS attack that happened on the 5th.
+
+the uptime is 99.5% as it is stable, we had a downtime today because of a pterodactyl update (1.6.5)
+VolleierYouKnow - Now if you for some reason want to compare it to our uptime then sure, have at it!
+you made that 4 days ago, you didn't even have hetrix tools installed until you came into our server and saw that then decided to install it on your servers too
+VolleierYouKnow - you also copied arc.io just before i made an announcement about it
+TheYeetster - Ah so on the from the some date to the 31st you were using it for something else? Excuse 101
+
+VolleierYouKnow
+TheYeetster - VolleierYouKnow So? Arc.io doesn't kill anyone's bandwith connection, also you can't make that much off of arc
+
+VolleierYouKnow
+VolleierYouKnow - TheYeetster yes i was using it for something else (a discord thing), the ips it had were invalid so it had about 519 hours of downtime and that stayed there as the uptime status
+VolleierYouKnow - the real values can be seen when you see our uptime from the past 7 days
+VolleierYouKnow - node 1 had downtimes because of updates and a recent change we had on hardware
+TheYeetster - VolleierYouKnow 4 days ago? We've had the status page for awhile, awhile before I even merged with CrewCraft. Don't try to make us look bad because we "copied" something from you. We did not copy shit.
+VolleierYouKnow - TheYeetster oh sorry about that, i was saying the hetrix tools webhook thing
+VolleierYouKnow - only thing new was arc.io from your part
+TheYeetster - VolleierYouKnow Still no, we did not copy you, yes we added it to our Discord but not because of you.
+VolleierYouKnow - sus
+VolleierYouKnow - TheYeetster yes i can confirm you have had it for a while
+
+but as I can see it has only been since October 13 - https://drama.gg/assets/files/2021-11-08/1636384432-115461-image.png
+TheYeetster - VolleierYouKnow I was suggesting we add arc.io for atleast 2 weeks to @tenzfan. So that's also a no.
+VolleierYouKnow - TheYeetster again, sus but ok, that was just a question
+TheYeetster - VolleierYouKnow That's just you, It's going all the way back to June and probably even further back. - https://drama.gg/assets/files/2021-11-08/1636384640-857763-image.png
+VolleierYouKnow - TheYeetster yeah, that things mean it didnt exist by june
+VolleierYouKnow - after june, you can see some uptime, those are other stuff I was monitoring wayyyyy back
+VolleierYouKnow - you can base off the cpu usage on the servers as those can reveal the uptime they had since i switched the status page into those
+TheYeetster - Alright, that's fine
+VolleierYouKnow - tenzfan 
+
+I tried to help you and you decided to be rude, I never tried to buy you I tried to work with you.
+
+im aware of that but if you made a thread here, you clearly wanted some drama to happen
+TheYeetster - Nonono, Why did you legit say in #general (on your discord server) that we tried to buy you? 
+
+
+
+Legit trying to lie, also Discord Users don't really matter, what matters is how many people you have, active people, not people which disappear a week after making a server.
+
+Also if us only having 60 Members (a paid hoster) makes us a shitass server then only having 300 people on a free hosting is worse.
+
+Also also most of our business/influx of people comes from ads. And not many ads.   
+
+And you would have gotten around 60% of the income depending on the size of the purchase (i.e you'll only get like 50% for a discord bot but 55%-60% for an 8GB MC server. Which is alot better than what the schutz guy gets), which is a good deal for you since you don't have to deal with websites, ads, getting users, etc, etc. You get the point.
+
+VolleierYouKnow - https://drama.gg/assets/files/2021-11-09/1636466123-91952-image.png
+TheYeetster - Also this.
+
+
+I was not going to do anything like that. I have no idea why you believed I would but okay. You do you. - https://drama.gg/assets/files/2021-11-09/1636466695-939371-image.png
+VolleierYouKnow - oh so you are fabricating more bullshit again, pretty cool, keep up the good work with photoshop
+VolleierYouKnow - also, you are using alt accounts which are clearly stated on discord TOS as "you should not" and "bannable".
+TheYeetster - VolleierYouKnow Photoshop? That was legit from my main account, I joined got the link for the status page and started looking thru old messages, bullshit my ass.
+
+VolleierYouKnow 
+
+again, no that was my main account.
+VolleierYouKnow - you have any proof it was?
+TheYeetster - Why the fuck would I make 2 screenshots? Of course not. But do you have any proof that I photoshopped it? No, and if you do then that's just laughable, since it's not true.
+TheYeetster - And also talking about alts. That is not true. If you really saw it on the Discord TOS page then send a screenshot. Oh you can't? Probably because that's bullshit. Here's the Account's part of the TOS:
+
+
+
+VolleierYouKnow - https://drama.gg/assets/files/2021-11-09/1636470717-388702-image.png
+VolleierYouKnow - TheYeetster thats just what people that used photoshop say
+also in my part I have some proof about you using alts even when you left my server - https://drama.gg/assets/files/2021-11-09/1636471384-163320-image.png
+VolleierYouKnow - TheYeetster again thats true, but if you send a email to abuse@discord.com you will get as response that alt accounts cant be used on servers where your main account has been banned on, you need proof about it? email them about that and see what you get.
+TheYeetster - VolleierYouKnow Yeah yeah keep trying to convice yourself that. I could probably make an entire youtube series with you, but I'm not a youtuber and never will.
+
+
+At one point I DID have an alt, but I left shortly after you banned my main account. 
+
+Also also that the "testemailforvolasform@gmail.com" bullshit Is not me.
+
+VolleierYouKnow "At one point I DID have an alt, but I left shortly after you banned my main account. "
+TheYeetster - And no, why the hell would I send an email to discord? Not going to do that unless you start scamming people.
+VolleierYouKnow - TheYeetster 
+
+And no, why the hell would I send an email to discord?
+ooh scared, well you do you, you could ask them and get educated on how actually the alts work but since you wont then alright
+VolleierYouKnow - TheYeetster 
+
+Yeah yeah keep trying to convice yourself that. I could probably make an entire youtube series with you, but I'm not a youtuber and never will.
+  
+you are surely overreacting and very mad lmao, calm down 🤡 .
+TheYeetster - VolleierYouKnow I know that's how that works, You said that alts were entirely banned.
+
+VolleierYouKnow I'm actually chilling and listening to music. Not mad at all.
+VolleierYouKnow - TheYeetster oh alright, if you actually have something to suggest you are surely invited to go to https://com.mindustry.me and write it on #suggestions rather than making a drama, have fun with whatever the hell you make up and god bless you.
+TheYeetster - Make up what? Evidence, ok lol. 
+
+Also I cannot suggest shit since I am banned.
+
+Also I did not start this, @tenzfan did. Also I'm stating facts
+VolleierYouKnow - Also I cannot suggest shit since I am banned.
+
+
+so you are telling me the pengu account IP address has relations with your account huh - https://drama.gg/assets/files/2021-11-09/1636473055-827284-image.png
+TheYeetster - I'm 99% sure you mean ID.
+
+Also you just unbanned me, I tried joining like 20 minutes ago and I was banned. Don't try to bullshit me
+TheYeetster - Also I have personally given you suggestions In dm's, you banned me so we decided to continue with this thread.. If you hadn't banned us and actually done what we suggested maybe this would have been over.
+VolleierYouKnow - TheYeetster that's a threaten meaning you want to force me to "work" with your service and you just wont cope that I wont do that shit, so, you are unbanned from my server, you are not on the ban list, if you are banned then I also banned your alts that had the same IP you have at the moment 🙂
+VolleierYouKnow - this is the ban list and you are not there 🤡 - https://drama.gg/assets/files/2021-11-09/1636473734-203441-image.png
+VolleierYouKnow - TheYeetster 
+
+Also you just unbanned me, I tried joining like 20 minutes ago and I was banned. Don't try to bullshit me
+i unbanned you 2 hours ago 🤦
+TheYeetster - VolleierYouKnow No? I never said that, I suggested some stuff, you actually fixed some of that (i.e the TOS having a threat, which in the US is a felony)
+
+VolleierYouKnow well you probably did now.
+
+VolleierYouKnow Because you unbanned me like idk how long ago (you say it's 2 hours but i think it's less.)
+TheYeetster - oh would you look at that! I'm banned!
+
+I guess you banned an alt or smth, I'm not too sure - https://drama.gg/assets/files/2021-11-09/1636474908-901615-image.png
+VolleierYouKnow - TheYeetster 
+
+I guess you banned an alt or smth, I'm not too sure
+"At one point I DID have an alt, but I left shortly after you banned my main account. " 
+
+so you actually broke the discord TOS by joining a server in wich one of your accounts is banned, pretty interesting
+VolleierYouKnow - the TOS having a threat, which in the US is a felony
+   
+  again, we have talked about this many times, this was before the service even was officially released
+TheYeetster - VolleierYouKnow I left on that account like 5 hours after I was banned, because that's when I realized I was banned. So I couldn't have done it any sooner, i don't understand how you don't get the fact that I cannot fucking see If I'm banned immediately since I live in the middle of Europe. You live in the US.
+TheYeetster - VolleierYouKnow Still gonna acknowledge it/
+Aarony - Can I join their server and check? So can anyone give me their discord server invite?
+VolleierYouKnow - com.mindustry.me
+Aarony - ty but why the link is sus
+VolleierYouKnow - Aarony its just a 301 redirect to the discord, nothing else than that
+Aarony - So what do they do again?
+TheYeetster - Well alot of stuff really.
+
+1.Staff condoning DDOS/DOS attacks
+2.Letting users post their passwords in chat
+3.Password for every server is 123456
+4.Owner banned  Me and @tenzfan for no reason at all. They thought we wanted to buy them, but infact all we wanted to do was work with them, they banned us with a Message I'd rather not post here.
+5.Their TOS was/is bad
+6.Lying that they just released, that's just obvious BS, and if they aren't BS's then they are lying that they have 1 year of experience.
+7.Before they "released" their TOS said this "if you ddos or cause damage to any of your servers, your ip will be most likely publicly exposed.". At first the owner said that it was sarcastic. Yeah that doesn't work. But wait, 2-3 days after that he changed his story to "Because we are a new company".
+8.Until recently they had no Privacy Policy, they have one now but I'm almost certain they would have continued without one if we never did anything.
+9.Trying to frame me for "photoshopping"  evidence,  clear red flag there. 
+10.Tried to turn this thread and make us seem like the bad guys.
+11."Criticizing " us by comparing discord user count, keep in mind they are a mostly free host. We are a paid hosting.
+12.Use DigitalOcean's free trial for servers. Yep they pay almost nothing
+TheYeetster - But they mostly do MC hosting (or mindustry &amp; discord bot hosting)
+TheYeetster - Also what do we have here? An alt? I think I already caught you @VolleierYouKnow - https://drama.gg/assets/files/2021-11-09/1636485765-690802-image.png
+Aarony - TheYeetster Do you have proof that they do these bad stuff?
+TheYeetster - Yes, yes I do
+
+For 1. 
+
+(no screenshot sadly) you can
+
+For 2. this was a 1 off thing so i'll let it slide
+
+For 3.(not really proof but we didn't make that many screenshots)
+
+
+For 4. 
+
+
+For 5.
+
+
+For 6. You can scroll up and read the thread, it's here
+
+For 7. @VolleierYouKnow deleted it from DM's, you can skip this 1 if you want.
+
+For 8. Their Discord is open, go and check to see when they added the Privacy Policy
+
+For 9. 
+
+VolleierYouKnow hats just what people that used photoshop say
+  
+  Even quoted him on this.
+  
+  For 10. Again, thread
+  
+  For 11. - https://drama.gg/assets/files/2021-11-09/1636486287-479523-image.png
+TheYeetster - Yes, yes I do
+
+For 1. 
+
+(no screenshot sadly) you can
+
+For 2. this was a 1 off thing so i'll let it slide
+
+For 3.(not really proof but we didn't make that many screenshots)
+
+
+For 4. 
+
+
+For 5.
+
+
+For 6. You can scroll up and read the thread, it's here
+
+For 7. @VolleierYouKnow deleted it from DM's, you can skip this 1 if you want.
+
+For 8. Their Discord is open, go and check to see when they added the Privacy Policy
+
+For 9. 
+
+VolleierYouKnow hats just what people that used photoshop say
+  
+  Even quoted him on this.
+  
+  For 10. Again, thread
+  
+  For 11. - https://drama.gg/assets/files/2021-11-09/1636486421-180543-image.png
+TheYeetster - Yes, yes I do
+
+For 1. 
+
+(no screenshot sadly) you can
+
+For 2. this was a 1 off thing so i'll let it slide
+
+For 3.(not really proof but we didn't make that many screenshots)
+
+
+For 4. 
+
+
+For 5.
+
+
+For 6. You can scroll up and read the thread, it's here
+
+For 7. @VolleierYouKnow deleted it from DM's, you can skip this 1 if you want.
+
+For 8. Their Discord is open, go and check to see when they added the Privacy Policy
+
+For 9. 
+
+VolleierYouKnow hats just what people that used photoshop say
+  
+  Even quoted him on this.
+  
+  For 10. Again, thread
+  
+  For 11. - https://drama.gg/assets/files/2021-11-09/1636486573-405138-image.png
+TheYeetster - Yes, yes I do
+
+For 1. 
+
+(no screenshot sadly) you can
+
+For 2. this was a 1 off thing so i'll let it slide
+
+For 3.(not really proof but we didn't make that many screenshots)
+
+
+For 4. 
+
+
+For 5.
+
+
+For 6. You can scroll up and read the thread, it's here
+
+For 7. @VolleierYouKnow deleted it from DM's, you can skip this 1 if you want.
+
+For 8. Their Discord is open, go and check to see when they added the Privacy Policy
+
+For 9. 
+
+VolleierYouKnow hats just what people that used photoshop say
+  
+  Even quoted him on this.
+  
+  For 10. Again, thread
+  
+  For 11. - https://drama.gg/assets/files/2021-11-09/1636486685-303266-image.png
+TheYeetster - Yes, yes I do
+
+For 1. 
+
+(no screenshot sadly) you can
+
+For 2. this was a 1 off thing so i'll let it slide
+
+For 3.(not really proof but we didn't make that many screenshots)
+
+
+For 4. 
+
+
+For 5.
+
+
+For 6. You can scroll up and read the thread, it's here
+
+For 7. @VolleierYouKnow deleted it from DM's, you can skip this 1 if you want.
+
+For 8. Their Discord is open, go and check to see when they added the Privacy Policy
+
+For 9. 
+
+VolleierYouKnow hats just what people that used photoshop say
+  
+  Even quoted him on this.
+  
+  For 10. Again, thread
+  
+  For 11. - https://drama.gg/assets/files/2021-11-09/1636487022-271218-image.png
+VolleierYouKnow - TheYeetster do you have proof about that being my alt
+VolleierYouKnow - TheYeetster first 1, again, that staff member was new and unexperienced
+TheYeetster - VolleierYouKnow It's obvious, also you just confirmed that it is. If it wasn't you wouldn't have said that.
+TheYeetster - VolleierYouKnow So just randomly hire admins? Also he's still admin as far as I know
+VolleierYouKnow - TheYeetster how come?
+VolleierYouKnow - TheYeetster admins are hired by a process, we are training him, we are not finished at all with that
+TheYeetster - VolleierYouKnow But directly hiring admins Is a dumb Idea, they could instantly destroy Yeet Hosting (since they have perms for some stuff)
+TheYeetster - VolleierYouKnow "Do you have proof of that being my alt", if you say it like that, then it's so damn obvious, but i'll let you stay on the discord for now.
+VolleierYouKnow - Lastly, this will be my last message on this thread, about every accusation to Yeet Hosting™ made, thank you, we have improved and changed what we did wrong, what comes next: staff purge, a disclamer when you join the server(for you drama queens), and 3 more servers to supply demand, about the staff saying ddos was ok, ddos is not ok and you used that as something to point out, the respective staff will be demoted, and we are deeply sorry for allowing him to say that (again, he was doing it as a joke but ok), about the crewcraft buying us, I never explicitly stated that crewcraft was trying to buy us, and if I did, it was just because I was being immature and really unprofessional, about the alt sh*tshow, it is splicitly stated on our TOS that alts are strictly not allowed and that you will get a ban if you do get caught doing that, we never wanted to do this long post, we just took your messages wrong and thought you had a malicious intent, again, in part of all Yeet Hosting staff, we are deeply sorry for every action that has been made and we are trying to improve as follows, about the 1234 password thing, you would really need to investigate more before doing that message, the 1234 passwords are for the members that want access to 1 of our client's gameservers and that server has something special (I cant really explain it but I invite you to join our discord and investigate more about it), therefore they dont need a really secure password, but we also improved that and their password is sent via automatic email now, again, this is not people who get a server, about the free trials, yeah yeah, we did use free trials but we started paying, we do know it is scummy to use free trials, but the reason we used free trials is because we were saving to get another 5 nodes. 
+Hope this responds most of questions.
+You are invited to join the server and look at the changes.
+
+
+Sincerely
+Sam Bloom
+CEO - Yeet Hosting
+TheYeetster - I'm glad this is finally over, but it stills says I'm banned on the server. And if you want to for some reason to find out what the "alt's" name was it was along the lines of firemaxhine.
+
+But let's get to the real stuff
+You had your bad moments and I hope that we can atleast restore relations, and not cut them out (again) like we did a couple of days ago. 
+
+I'm glad you atleast admitted to doing those stuff, even if at the end of the drama.  I get trying to get 5 new nodes, but if all you're gonna do with them is give them away for free then that's not a very good idea.
+We tried and will still try to help you improve in any way we can. 
+
+We can get behind the misunderstanding of you thinking that we wanted to buy you. We tried to avoid this by giving you ideas, but when you cut ties with us and banned us from the Discord. That was the end of the friendly relations (for now atleast). 
+
+We understood that the passwords weren't meant to be secure but still, a hacker's first guess at a password is one of these 3: 1234567890, 123456, 123 and so on. We are glad that you are also fixing this issue, since one day it could have become something much larger.
+
+Also glad to see that you will do a Staff Purge, since bad things can happen when you cannot properly manage a team that big. Also glad to see that you again, are following my/our idea of demoting the 3 incompetent staff members.
+
+We also hope that this will be the end of the Drama between CrewCraft Hosting and YeetHosting.
+
+-CrewCraft &amp; CrewCraft Hosting
+Tato - VolleierYouKnow 
+Heyo!
+I have joined and reviewed the current TOS and it is currently still invalid
+
+Could you notify me once it's updated? 😇 - https://drama.gg/assets/files/2021-11-10/1636568119-578504-image.png
+VolleierYouKnow - Tato sure, the terms of service have been updated and go as follows
+Terms and Conditions of Use 10/11/2021
+---------------------------------------------------------------------------------
+1. Terms
+By accessing this Website, accessible from https://www.mindustry.me, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
+
+2. Use License
+Permission is granted to temporarily download one copy of the materials on Yeet Hosting's Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+
+modify or copy the materials;
+use the materials for any commercial purpose or for any public display;
+attempt to reverse engineer any software contained on Yeet Hosting's Website;
+remove any copyright or other proprietary notations from the materials; or
+transferring the materials to another person or "mirror" the materials on any other server.
+This will let Yeet Hosting to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format.
+
+3. Disclaimer
+All the materials on Yeet Hosting’s Website are provided "as is". Yeet Hosting makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Yeet Hosting does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
+
+4. Limitations
+Yeet Hosting or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Yeet Hosting’s Website, even if Yeet Hosting or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
+
+5. Revisions and Errata
+The materials appearing on Yeet Hosting’s Website may include technical, typographical, or photographic errors. Yeet Hosting will not promise that any of the materials in this Website are accurate, complete, or current. Yeet Hosting may change the materials contained on its Website at any time without notice. Yeet Hosting does not make any commitment to update the materials.
+
+6. Cancellation of Service
+A client has the right to cancel a service at any time without reason. This does not include a refund unless an Admin says otherwise or it fits within our refund policy (see below). Cancellation of Service shall be done through the web portal or the discord server.
+
+7. Reseller and Reuse
+You, the client, are permitted to resell all hosting services Yeet Hosting provides if they are used within legal boundaries and they are not free plans. Notice of reselling is appreciated. If We don't agree with how you are reselling our products and or services, we will ask you to stop the reselling of those specified products or services.
+
+8. Links
+Yeet Hosting has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Yeet Hosting of the site. The use of any linked website is at the user’s own risk.
+
+9. Site Terms of Use Modifications
+Yeet Hosting may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.
+
+10. Your Privacy
+Please read our Privacy Policy.
+
+11. Governing Law
+Any claim related to Yeet Hosting's Website shall be governed by the laws of US without regards to its conflict of law provisions.
+VolleierYouKnow - @Sloth please close this, thank you
+SirCat - is this host still ran by a kid using free trials?
+VolleierYouKnow - SirCat firstly it wasn’t ran by a kid, second, they only used free trials for 1/2 month but not for hosting/selling to people
+SirCat - VolleierYouKnow and im suppose to believe you?
+VolleierYouKnow - 🤦
+TheYeetster - Hey @Sloth can you close this thread? Also this one: https://drama.gg/d/1181-yeethosting/32
+VolleierYouKnow - just for the record, Dated post Jan 7 2022
+heres an invoice of hetzner for 1 of our 2 nodes (biggest accusation was us using free trials, which as I admitted, we used for load testing to see how many usage do users use)
+Hetzner invoice 2021 dec 2: - https://drama.gg/assets/files/2022-01-07/1641580157-793443-913a8f4b-3ddc-4674-a8f4-7d605c6f0b0d.jpg
+SamCoThePug - Hey, this invoice above shows that you did not pay the invoice. It says you still need to pay it, please provide proof of payment and actually pay your invoices idiot lol
+VolleierYouKnow - SamCoThePug if the invoice is not paid, why is the server still running then
+VolleierYouKnow - 5 days (the max hetzner gives you if you haven’t paid) has passed, please do a little research before talking.
+SamCoThePug - Hetzner gives me 2 weeks to pay lol.
+SirCat-Qlox - VolleierYouKnow 
+
+"biggest accusation was us using free trials, which as I admitted, we used for load testing to see how many usage do users use" 🤓 - https://drama.gg/assets/files/2022-01-07/1641583821-46486-image.png
+VolleierYouKnow - wait 2 weeks more and tell me if it has been suspended because of "“invoice not paid", I could send the PayPal showing the payment, but I feel like you clowns just make fun out of people because clownery, you are invited to my discord to come see: com.mindustry.me
+SirCat - VolleierYouKnow lmfao stfu, you just cant admit u abuse cuz u clearly didnt pay 🤣
+VolleierYouKnow - for the record: qlox just got into my discord and tried to "raid" it
+tenzfan - SirCat I can verify that they have changed and fixed their issues, if you could stop hassling them that'd be great. @Sloth could you close this thread please 🙂
+SirCat - VolleierYouKnow wtf is this for some sort of lie
+Hybridly - SirCat  I can vouch they did try and raid the discord
+TheYeetster - Same here.
+jewelwassem - Hey i got banned for teeth hosting for grieving I know i did something bad but i will never do it again can anyone unbanned me? My name is tomato
+TheYeetster - Not the place for a ban appeal
+__SECRET__ - can't fucking believe this shit got 220 post
+TheYeetster - I really hope it ends after these 2-4 shitpost messages

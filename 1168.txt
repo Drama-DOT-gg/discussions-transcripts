@@ -1,0 +1,32 @@
+Kc5f - Background:
+I bought a dedicated server from PloxHost on Tuesday, July 13th. Since then, I have rarely been able to use it. I have had under 3 weeks of total uptime, and they are well aware of that.
+
+PLEASE NOTE: Their homepage specifies 99.9% SLA uptime.
+
+
+What happened:
+On 09/01, they talked about moving me to a new server. I said sure. Here is the full transcript since then:
+
+Me 9/10:  How much longer will this take?
+James 9/15: Sorry for the delay on this I have escalated this ticket we have been busy working on a  few builds.
+Me 9/28: How much longer? I really need this server.
+Me: 10/04: Can I receive a refund for the last few months? It's listed that you guys have a 99.9% SLA Uptime promise.
+At this point, I submitted a review of 2 stars
+James 10/7: For us to give you any kind of refund or a new server to replace your current one, you will need to remove your bad review.
+Then I removed the negative review, just hoping to get a refund. I also sent that screenshot to a friend who workes there, and they said that they were quitting.
+Another staff member (Actually helpful) 10/10: Please advise us on the Operating system you wish to have installed.
+Me: 10/11: I would like to receive a refund for the past 2 months. 
+
+James 10/11: We can give you this month free due to not having a running server for the month. Please tell us what OS you would like installed so we can get your server up.
+Me 10/13: Proxmox, the latest version is fine.
+Me: 10/28: Can I get it set up already?
+silence
+
+I have talked to a few staff members there, and apparently, there are only 2 people who actually have the power to help with these issues.
+
+I kinda hope they don't find this, as I am still trying to get this all figured out. 
+
+Anyways, that's all I have so far. I'll keep everyone updated. - https://drama.gg/assets/files/2021-10-31/1635716683-409139-image.png
+Jamie_ - I have personally had nothing but good experiences with them. They are really approachable and sort any issue I have quickly. Try contacting mark as he is great at responding and fixing everything.
+Kc5f - Jamie_ I sent a DM to him a little while ago, still no reply. It's not really them having bad employees, it's just that they have 2 employees actually working on servers
+Jamie_ - Kc5f Yeah I haven't a reply from mark in a while, but I am not supprised as he told me he is recovering from surgery. Should have a few more people working on servers though as a failsafe.

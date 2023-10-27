@@ -1,0 +1,1148 @@
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676753420-1863-screenshot-20221128-102703-f3912.jpg
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676753465-85800-unknown-abf52.png
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676753485-864189-unknown-c9624.png
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676753738-574050-img-2366-b2687.jpg
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676753753-254931-img-2365-1cd53.jpg
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676753776-602289-img-2367-0ee99.jpg
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676753811-952675-img-2362-25ee8.jpg
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676753835-742278-img-2361-4f097.jpg
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676754024-696133-1.png
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676754061-958852-2.png
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676754091-460920-3.png
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676754165-282032-4.png
+TheYeetster - I’ll start off with the less-bad stuff: You may all know me as a now-former CEO of Galactiq/CrewCraft Hosting. This has been a ride, and I’m here to expose the truth behind what happens privately, and well, publicly.
+
+First of all, the fraud, or more specifically, tax fraud. While I was still at Galactiq, I learned many things, but this one just surprised me. He, as a 17 year old, is funneling money from Galactiq Hosting’s clients into his parent’s paypal. This is just obsurd. And not for the reasons you think, that alone is not worth explaining, but I’m guessing you know why he’s funneling it to his parent’s paypal…oh you guessed right, to avoid paypal’s taxes. Furthermore he claims he didn’t need to register the business as legal, then after a few more times of asking him, he cited a “Sole Proprietorship'' (according to Stripe of all things)
+
+Furthering on this “Sole Proprietorship” he says that there’s nothing wrong with running an unregistered business…as long as you meet some requirements, which he does not (and can’t, as he’s underage). He also says that his income is under the IRS threshold, which yes it is, but I once again call to him not having a Business Tax ID, a Personal Bank account, and the fact that he’s underage. 
+
+
+Here’s another screenshot showing that he has not registered (albeit it this is quite old, but he’s still not done it, go, check if you don’t believe me.)
+
+
+
+
+Here he says he doesn’t need to file taxes, citing that sole proprietorship again (WHICH ONCE AGAIN, is according to Stripe)
+
+Now, that’s the main part of the actual tax fraud, but that is still fraud (and unregistered with no legal material other than a ToS and PP). Furthermore, you can see how defensive he gets when questioned about the before mentioned taxes, and tax ID. And yes, he does indeed threaten to sue a company for just dming him. 
+
+You can dial him at +1 (616) 262-9380 or +1 (616) 301-2246 (however we don’t encourage it, and no, we’ll not be liable if you destroy his phone)
+
+
+
+Now, about the Theft, well not really theft, but you’ll see what I mean. I’ll give a bit of backstory on this one. I joined CrewCraft in late 2021 and all was well, we had quite a few clients, however that’s where the issues began. Summer 2022, we started losing a lot of clients (something which I pointed out in our Group Chat, but he basically ignored it). During the same Summer, we were almost out of money, and we agreed to host all of our current customers on the server which I hosted in my area, without so much as asking for a penny, as I was expecting to get a 30% share when we went on the market (oh and no, the 12 USD i got paid throughout the 4-ish months isn’t payment). This went on for about 4 months, with me nagging Damien/Pengu/Max about it almost every single day (and him not doing anything). After those 4 months, we finally had a second server, but it was too late, we had lost around 15-20 of our customers. After a few months of CrewCraft barely living, Max/Damien/Pengu alongside Jeroen and Manu (the 2 founders of another small hosting company) decided to merge. I was not informed of this until it randomly came up in a convo, and it wasn’t even to inform me, it was about a name for the company. Now, this is where it basically went to hell. Very little progress was being made on attracting customers, our (well mostly theirs, this is the part where I started being phased out) main focus was to gain more servers, because Damien/Max was expecting 10USD/d of ads to bring us that many customers (he’s not said that directly, however it was obvious he thought ads would bring us hundreds of clients within a few days at most). After I started calling him out on both the negligence to get customers and the dumb server focus, I was “fired” (if you can even call it that) from Galactiq. Damien/Max cited disrespect, and I urge him to provide evidence of this when he finds this lovely thread.
+
+Now, after this Traven (whom will give his POV below) contacted me with a link of Galactiq’s blog regarding free servers, then I gave him some screenshots and he proceeded to dm max. He then proceeded to dm me and tried guilt-tripping me into thinking that my screenshots from the “confidential” chats (which didn’t include anything “confidential”) are supposed to be secret, which I do agree on to some level, but said screenshots did not include anything business-breaking as he tried to make it seem. 
+
+I want to bring your attention back to the 4 months of unpaid server hosting (which cost me around 80 USD worth of electricity and internet). This is one of the biggest hurdles for me atleast, with him. And before you say anything, no I did not say I would keep it running free-of-cost. During these 4 months, CrewCraft was kept alive by only me, no matter what he says he could have done. He then proceeds to phase me out, making it seem like I was only a resource that kept quiet/didn’t know about his shenanigans &amp; gave him hardware in which he did indeed succeed. 
+
+Now, he may say he “defended” me for months from Jeroen and Manu, however I did not receive anything about him defending me, or atleast asking me to act professional (which they themselves did overnight, without me knowing, which resulted in them making me seem like the bad guy).
+
+And finally for the backstory, after I was “fired” I was banned from all their Discords and removed from their records (even their “story” blog, that says something)
+
+
+
+Now I’ll give another screenshot. In this one he lies (as usual by now) and says he told me everything in this business was a risk, when he fetches me a message of that (and me seeing it, I can’t be blamed for an important message in a meme filled chat, which oh yeah, that’s what most of the “confidential” chat was, don’t believe me? Oh well, ask him to send screenshots of the chat from before September 2022, hell maybe even from before November 2022. He says there haven’t been clients on my system for a long time….that was the case for most of our servers, hell it still is, ask him about it.
+
+
+
+Stage 2: 
+
+The Uncovering
+
+Hi, im Sam, former “employee” of CrewCraft before it turned into Galactiq
+Pretty Much the only reason i was “hired” by Damien was the fact that i'm pretty good at covering up holes on websites and managing servers in general as a system administrator, to a certain point, i started suspecting Damien was doing shady stuff like buying a lot of nodes for no reason at all (at the time we had like 6-5 customers and he was already buying 6-5 used machines he could find on amazon), so i played along until Yeetster had a amazing idea to just “do a little trolling” and do no formal statement saying why i was fired, so yeah, damien and him locked me out of the nodes and that's the way i got fired, damien said “cope man, cope” and that's about it, but this is not my point, it's just some background story so you get on the context.
+
+A few weeks ago Yeetster realized that Damien was doing crapsh*t so he tried pointing it out to him, resulting in again, first a removal from all accounts AND THEN after 1-2 hours a statement explaining what happened etc.
+
+
+Allegations:
+
+To get this screenshots, we got access to their panel because damien apparently forgot to close his billing panel properly and the .env was exposed to everyone (yes, you can imagine the level of security their website has)
+
+(password revoked now, but you get the idea if you are familiar with pterodactyl DB’s)
+
+I love the fact he says no billing information was accessed when in reality, just by that major security flaw we got access to almost the entire hosting service.
+
+(paypal API proof for damien’s reference)
+
+
+In general, as you may have seen from screenshots above, Damien is not a person to trust for your personal data, passwords or even your billing details, but this is not it, the website has such security that it can literally be defaced by a 5 year old. 
+
+He doesn’t even have an proper email server set up on his panel 🤣
+
+So yes, if someone needs more proof about this claims, i can provide you with demonstration data to prove the fact this website is insecure on dm’s at VolleierYouKnow#6004.
+
+Their discord is: https://discord.gg/MEMzSkeTTc 
+
+I would be glad if you ask any question to the owner to hear his answers, our team has sent over 25 questions and all we got was excuses. - https://drama.gg/assets/files/2023-02-18/1676754174-869351-5.png
+Zaross - *L*mao
+Zaross -  - https://drama.gg/assets/files/2023-02-19/1676766821-295417-80724427.jpg
+TheYeetster - 10/10 argument, however I do not think your reply is serious at all, we are saying the truth, try to argue if you want, that's the whole point of this site, however do it with non-childish messages.
+Young - Finally a good drama.gg post.
+
+As for the "unregistered business" part, you technically can run a business unregistered. 
+(Literally every other hosting company does that)
+
+The only difference between being registered or not is that registered companies need to follow certain compliance regulations. 
+However, since Pengu is a minor. All liability that he causes will be placed on his parents because his parents are responsible for whatever he does.
+Pengu - Young I'm actually glad someone replied to this. Sole proprietorship is perfectly legal as you stated. You are also right that my parents would be liable, however I've started this with their consent and they are actually fairly involved and informed when I'm doing something. (Not that it'll matter much longer as I'm almost 18). 
+
+I will not be addressing Yeetster nor Voll directly as it will only give them what they want. If anyone wants more information on these accusations you may message me directly on Discord and I will answer any questions to the best of my ability. However I do request you keep it mature, I'm not looking to argue or fight with random people 😄 
+
+ Discord: Pengu#3221
+TheYeetster - Yeah sure you are even a Sole prop.
+I don't think stripe can determine what you are when you have no legal documents regarding being one. 
+
+Pengu - https://drama.gg/assets/files/2023-02-19/1676834688-355679-eight.jpg
+Pengu - TheYeetster Nevermind I take it back I suppose I will be addressing you here. 
+
+Obviously you should GOOGLE sole prop. Sole Proprietorship doesn't require a registration, it just gets filled under taxes and that's that (which btw I filed taxes this year 😃) Stripe has the option to select it so that they know what your business is. So many business's (not just hosting) are Sole Proprietorship.
+
+Now we could talk about how you used outdated billing code to get into our PayPal, Hetzner Cloud, CloudFlare, and Pterodactyl (Which by the way you stole user data and don't think I don't have proof) or that voll threatened my family. Ever since you were let go you just re-connected with people you deemed our enemies and tried to tag team Galactiq. However everytime you did something you basically called it out and we had it fixed in 5 minutes or less. After we locked you out you posted this acting like you were reporting a fraudulent business but in reality it's just your personal vendetta. 
+
+Those database logins haven't been valid for months because we haven't used that database in a long time. 
+
+Cheers!
+Young - TheYeetster 
+
+when you have no legal documents regarding being one.
+
+Again, that would make it an "unregistered sole prop."
+Literally every other hosting company does this. 
+
+As for taxes, I really don't think that every hosting company conveniently pay taxes (other than the fees given by Stripe or Paypal)
+TheYeetster - You neither have permits nor licenses to operate a Sole Prop.
+
+You filed taxes because you work a job? Not because you were trying to become a legit company. Stripe does give you the option, but I could as easily make a website that says I'm the CEO of Twitter, but does that make me the CEO of Twitter? Of course not. Yeah and those have permits and licenses, show us your license.
+
+"I"? used outdated billing code. I will repeat what I said to Zaross, all I did was dump the files on my pc to google drive, at which point Voll found an UNENCRYPTED .env file. Also again, I wasn't involved in any one that. I "stole" user data? Yet again false, your "proof" uses an IP which I had up until you "fired" me (for disrespect, show me that, oh and include you randomly switching from laid back joking to business serious every other day), I then requested you remove all my personal info, INCLUDING the IP, which I see you did not, and because I know we didn't get rid of Voll's info when we(mostly you) fired him, I decided to change my IP, if you want proof, all I'm saying is it ends in .74, yeah no I'm not gonna leak my IP on drama.gg. Show voll threatening your family, go on. And again, I'm not responsible for something he did. No, they actually contacted me, good try tho.  I mean if you deem removing jeroen and manu from the CF to "fix it", then so be it, but it was literally a key you had to revoke, i don't see the experitse in doing that. Also we had this thread planned for like what? A few weeks before Voll noticed the keys and acted.
+
+So what if they aren't active, it's still unencrypted details, which if they were to be active, could very much cause harm to you.
+
+"Cheers!" - https://drama.gg/assets/files/2023-02-19/1676835260-422614-xd.png
+TheYeetster - You neither have permits nor licenses to operate a Sole Prop.
+
+You filed taxes because you work a job? Not because you were trying to become a legit company. Stripe does give you the option, but I could as easily make a website that says I'm the CEO of Twitter, but does that make me the CEO of Twitter? Of course not. Yeah and those have permits and licenses, show us your license.
+
+"I"? used outdated billing code. I will repeat what I said to Zaross, all I did was dump the files on my pc to google drive, at which point Voll found an UNENCRYPTED .env file. Also again, I wasn't involved in any one that. I "stole" user data? Yet again false, your "proof" uses an IP which I had up until you "fired" me (for disrespect, show me that, oh and include you randomly switching from laid back joking to business serious every other day), I then requested you remove all my personal info, INCLUDING the IP, which I see you did not, and because I know we didn't get rid of Voll's info when we(mostly you) fired him, I decided to change my IP, if you want proof, all I'm saying is it ends in .74, yeah no I'm not gonna leak my IP on drama.gg. Show voll threatening your family, go on. And again, I'm not responsible for something he did. No, they actually contacted me, good try tho.  I mean if you deem removing jeroen and manu from the CF to "fix it", then so be it, but it was literally a key you had to revoke, i don't see the experitse in doing that. Also we had this thread planned for like what? A few weeks before Voll noticed the keys and acted.
+
+So what if they aren't active, it's still unencrypted details, which if they were to be active, could very much cause harm to you.
+
+"Cheers!" - https://drama.gg/assets/files/2023-02-19/1676835319-689139-xd2.png
+TheYeetster - Young Even if that's the case, (according to some of my contacts) you still need to pay taxes for the business, which while I was there was never done. Also about the unregistered sole prop, by a google search you need permits/licenses to operate. Also the fact that this isn't "sole" ownership, as he has 2 other C-class (if that's what it's called) owners/partners, check their website for that if you wish.
+Pengu - TheYeetster You claimed to change your IP address and yet it was used February 14th of this year to gain access under YOUR old company email. I did not remove this IP because when you requested I remove it  you hadn't hacked in? I gave you the data off the Repo's like you asked (Your data not ours) and deleted them. You told Zaross you changed your IP months ago and yet you just said that you changed it after I fired you which happened last month
+Pengu - TheYeetster Also I'm not eligible to pay taxes on Galactiq as we don't make enough money annually or per month 🙂
+Young - TheYeetster 
+
+Me when my teacher ask for sources on my 4-paragraph essay:
+(according to some of my contacts)
+
+
+So one thing I am seeing is the confusion between the words "sole prop" and "partnership".
+You claim to be a former CEO of the company but Pengu is also CEO? ok?
+
+Sole Prop. is where there is just ONE OWNER
+Partnership is where there are MORE THAN ONE OWNER
+
+If Pengu was the CEO-CEO (CEO of CEOs because fuck idk what this company is), then he would have the right to fire you. (as well as remove your assets that are associated with the company)
+
+However, I am falling under the assumption that this was a "partnership" not a "sole prop" because you claim that:
+you hosted some of clients for the hosting company
+and you stated you were formal "ceo"
+
+In a case like that,  usually people make contracts to work together as CEOs and if one decides to break the contract then it is voided. Since Pengu is a minor, no contract can ever be made.
+(Because people in this hosting community likes to work with underaged people instead of business-educated people)
+
+As for the data leaks, this is a serious problem that can't be treated unnoticed. The fact that someone managed to get access inside the hosting company (even after being fired) shows the vulnerability and liability this company has.
+Zaross - TheYeetster - https://drama.gg/assets/files/2023-02-19/1676837124-419654-metal-gear-rising-metal-gear-rising-revengeance.gif
+Zaross - TheYeetster - https://drama.gg/assets/files/2023-02-19/1676837261-701694-5c497b38dcf6c-ryan1-5c475630cff97-880.jpg
+Pengu - Young I'm glad you brought up the data breach! I do take full responsibility for this. We did our best to restrict access and lock Yeetster and Voll out however I failed to take into consideration they had company code on their computer still which contained security keys. Sadly they did send me a list of the exposed data (Names and Emails) and I have full intention of taking action against them. As far as we're concerned we've completely locked them out and revoked all keys. I've already informed people of the breach and I've contacted affected persons privately and apologized. 
+
+This is something I do not want to be able to happen at Galactiq and moving forward we're moving to far more drastic and secure methods of encrypting our keys and making sure that no one person can ever just have them which is what we should have done from the beginning.
+Young - Zaross I was thinking of the same thing lmao
+TheYeetster - Pengu I've not used that email in forever, the IP being used is complete BS, yeah honestly nice ingenuity to import variables into phpadmin, or was that jeroen, the person literally running the business? This does nothing to justify you keeping my information my guy. Repo*. Yeah no that was me thinking I was "fired" in December, mb. Again you ignore my request for this so called "disrespect", give it.
+TheYeetster - Pengu So you are claiming to be a legit company yet not paying taxes? which of the two my guy. Both are bad options tho so yeah.
+TravenGG - Pengu you literally have no coding or cybersecurity skills to improve the security of your systems. You’ve admitted that multiple times to all of us.
+Zaross - TheYeetster bro is more dense than my mothers cornbread
+Pengu - TheYeetster  the gross income threshold for filing taxes is between $12,550 and $28,500
+Pengu - TravenGG Oh it's the guy that called me cute as a grown man and spent months harassing me and trying to track me down online
+TravenGG - Young you don’t call yourself a CEO in the professional world till you have a registered business and several employees making the company big enough to called for the CEO position. 
+
+Max is also 17, so he legally can’t make anyone sign contracts either. So the whole situation is a joke thinking Max has any authority as a fake company owner.
+Pengu - TravenGG Obviously you haven't heard of Sole Proprietorship you should try googling 🙂
+TravenGG - Pengu 
+
+https://media.discordapp.net/attachments/1067880098792996914/1076960359975489626/image.png
+
+so you scammed @TheYeetster now? Lmao
+Pengu - TravenGG He came up with cuts and I paid it, not my fault we didn't have many customers
+TheYeetster - Young 
+By that I mean don't take it as completely legit, mistakes happen.
+
+Sole prop. means one person, and no partners. He has 2 C-class partners and 3 more which are not C-class (again if that's it's name), yet he claims the sole prop title which was given to him by STRIPE.
+
+I never said anything about him firing me, however his reason was non-realistic. And yes, he did remove my assets, I have not mentioned anything regarding personal assets either.
+
+Oh yes I was indeed formal CEO, here's a picture all the way back from when he promoted me.
+
+(I backed up all of our 42k dms because I was certain you'd delete some of it)
+
+No contracts were made, but oh, watch this, he made an employee handbook which required signing an NDA, which he can't do. - https://drama.gg/assets/files/2023-02-19/1676837927-792798-bozo.png
+TheYeetster - Pengu - https://drama.gg/assets/files/2023-02-19/1676838087-696196-tax.png
+TheYeetster - Pengu Not related? Also yes, it was your fault we didn't have many customers, and it was also your fault that you sat on your ass for 4 months while clients sat on a local node.
+TravenGG - Pengu why haven’t you admitted that it’s your mom’s PayPal account and not yours?
+Pengu - TheYeetster Had the NDA pre-made but decided not to enforce yet. Also I would just stop pulling up the tax information because everytime you do it just proves me more and more right about it 😃
+
+The C-Suite is used as an external identifier so people know who they are reaching out to. I have people designated to certain tasks that just so happen to align with the description with their external C-Suite Identity
+Pengu - TravenGG I have multiple times, It's hers and I have permission to use it for such. She is aware of my job it's details and your drama. I discuss everything with her as it is important for her to be informed of situations due to the fact that I'm not 18 🙂
+Zaross -  - https://drama.gg/assets/files/2023-02-19/1676838301-430059-image.png
+TheYeetster - Even if you had the NDA, because you are a minor, it's not legally enforcable, especially if both sides "sign" said NDA. It literally proves you wrong, honestly the level of dumb here is massive.
+
+They are still your partners my guy.
+TheYeetster - Zaross "hiring". Now let me ask you this, do any of the partners/employees of Galactiq get paid the minimum wage? No they get paid nothing.
+Pengu - TravenGG Why didn't you admit about you harassing me and flirting with me as an adult
+Zaross - TheYeetster - https://drama.gg/assets/files/2023-02-19/1676838383-722292-image.png
+Pengu - TheYeetster We have all agreed not to be accept payment, however I'm going to be paying Jeroen and Manu for their work 😃
+TheYeetster - Pengu That isn't the issue, the issue is you used that to remove paypal's taxes, which I am pretty sure could be looked as tax fraud.
+Young - TheYeetster 
+
+a) This is why every partnership hosting company either breaks apart or sucks because there is a massive role / responsibility confusion. It's better to put them as "Manager" or "Partner."
+
+b) Pengu "promoting you" shows that Pengu was the respectable owner of the discord.
+Moreover, considering there was no merge contract (or any form of agreement), it would be REALLY hard to enforce any promises made by the other. (Again he is a minor)
+
+c) he made an employee handbook which required signing an NDA
+He can't do that. He would need his parent's signature. 
+(And if you were a minor, then you wouldn't be affected by it)
+TheYeetster - Pengu LMAO this is the dumbest thing I've heard today. A 30 year old dude flirting with an obese and game addicted 17 year old over discord. I would like proof of this statment lmao. 
+
+Also how is dm'ing one harrassment.
+TheYeetster - Zaross Ah yes very civilized responses, posting memes on drama.gg
+TheYeetster - Pengu Oh did you now? Show me. Also that proves you weren't paying them until now, and neither were you paying me. Nice self-kill.
+Zaross - TheYeetster - https://drama.gg/assets/files/2023-02-19/1676838544-545130-image.png
+Pengu - TheYeetster No, paypal doesn't have taxes. They have transaction fees which you pay but we're moving to stripe anyway which we ALSO pay for
+Pengu - TheYeetster - https://cdn.discordapp.com/attachments/811354402484125746/1076960187107258409/image.png
+TravenGG - Pengu omg! Im the devil for giving you a compliment. It’s the end of the world because of a compliment.
+Zaross -  - https://drama.gg/assets/files/2023-02-19/1676838669-654448-image.png
+TheYeetster - Young He is the owner of the discord as far as I know, yes. However I don't understand what you mean by the "respectable" owner, do you mean the real owner or? And yes, that would be indeed really hard, and I was not intending to do anything about that.
+
+Correct.
+TheYeetster - Pengu ..okayyy I don't see your point, you once again admit to being in the wrong, I should make a counter for how many times you've done that to yourself.
+TheYeetster - Pengu Okay now that is something I DID NOT KNOW happened, and is changing the current topic, you may argue about it ig but stop deviating.
+TheYeetster - Zaross You literally reply with nothing more than memes, yet you tried to berate me in our dms, following only max's words blindly.
+Pengu - TheYeetster That's not how that works, I pay the transaction fees like every other company that uses PayPal (Keep in mind I don't use a personal PayPal account it IS a business account) Stripe also takes a transaction fee AND they help you keep track of what you need to do for Taxes (Still don't have to do anything right now because I'm under the threshold)
+Zaross - TheYeetster - https://drama.gg/assets/files/2023-02-19/1676838892-885267-wut.gif
+TheYeetster - Zaross Pengu 🙂 - https://drama.gg/assets/files/2023-02-19/1676839028-911209-broo.png
+TheYeetster - PS: he just dmed me saying it was all fake, literally trying to bullshit his way out of this, don't fall for it, this happened far before this drama.
+Pengu - TheYeetster Fun Fact, he did it to get information out of you. (He did btw) and I was there the WHOLE time. Just like what you did to Voll when I fired him for trying to throw me out of CrewCraft
+Zaross -  - https://drama.gg/assets/files/2023-02-19/1676839270-672246-anyincompatiblebichonfrise-size-restricted.gif
+TheYeetster - Pengu Ah yes to try and get information out on me, literally 2 months before I got fired, truly trying to save yourselves. Get information on me for what? To see if I'd betray you? Honestly that's a good excuse, however that's all false, as it was before you even started phasing me out, nice lie tho.
+TheYeetster - Pengu Ah yeah so let's disregard those messages of you saying you have a business account to remove 1.5% of taxes, which you can very much find in the groupchat, go on, find it, shouldn't be hard.
+Zaross - POST REMOVED
+
+Please ensure you do not share the information of people without their permission @Zaross
+Pengu - TheYeetster That's you isn't it?
+TheYeetster - It is in fact not my IP, I told you I changed it after I was fired because I knew you would keep it, like you did with Voll.
+Zaross -  - https://drama.gg/assets/files/2023-02-19/1676839851-425268-infinitebrokendogwoodclubgall-size-restricted.gif
+TheYeetster - Also you are once again deviating from the actual argument. Instead of trying to blame me try to defend yourself getting the entirety of your "hosting" defaced by volleir of all people, with a simple unencrypted .env file
+Pengu - Idk I'd check the timestamps on those logs, and it goes all the way back to November of last year. You're IP changed after you got Fiber and that's the new one. 
+
+----
+
+POST PARTIALLY REMOVED
+
+Please ensure you do not share the information of people without their permission @Zaross
+Pengu - TheYeetster He didn't deface anything, he redirected the domain to a different IP address with the Cloudflare key
+TheYeetster - I'd like you to re-read my message ONCE AGAIN, I changed the IP AFTER I was fired due to the prior mentioned security reasons.
+TheYeetster - Pengu That's the same thing my guy
+TheYeetster - Pengu also yes the IP was changed after I got Fiber, that was not me, but the ISP. However if you re-re-re-read the message I clearly state that I changed the IP after I was fired to protect myself from things like DDoS'es and what not.
+Pengu - TheYeetster So why would you ask me to remove your IP if it wasn't valid anymore? Also that assumes that someone else got assigned your IP, knew your old company email, and created an account WITH the API key you had and stole everything
+TheYeetster - Pengu Also if you want to play a game of leaking locations (even tho that wasn't even the city I was in) I'd be happy to fly over to Oologah.
+Zaross - TheYeetster - https://drama.gg/assets/files/2023-02-19/1676840090-433662-tamra-assjealous.gif
+Pengu - TheYeetster You can if you want, I doubt you would 😃
+Pengu -  - https://cdn.discordapp.com/attachments/811354402484125746/1076951114592813147/image.png
+Pengu - and yet your IP is all over it ^^^^
+TheYeetster - Pengu What? I asked you to remove all traces of my email, name, IP and whatnot, but literally on the 13th (4 days after I was fired) I decided to change it because I remembered you kept Voll's proxy IP's even like half a year later. You do realize IP spoofing or inspect element on your part exists. Also I didn't create any accounts, that was once again, Voll, and since I see you have "logs", you should be able to check that, wouldn't you.
+TheYeetster - Pengu Literally not my IP 💀
+TheYeetster - Pengu "I provided the dump of files I had on my PC and voll found an unencrypted .env file". That's literally attacking your security but oh wait, you are trying to turn it on the person who wasn't even at fault. 10/10 logic. Now I wonder how I didn't realize you just wouldn't listen to anyone sooner.
+TheYeetster - Pengu Since it's public information, I'd be more than happy to leak the address that voll also found with only your name.
+Zaross - TheYeetster - https://drama.gg/assets/files/2023-02-19/1676840398-801888-sea-of-thieves-backtrack.gif
+Pengu - TheYeetster Don't act innocent here, you know what you were doing and that's why you contacted Voll and Traven after you were fired
+Pengu - TheYeetster Go for it, the fact I don't care is the best part
+TravenGG - Pengu you never contacted me at all. Nice lie.
+Zaross - TravenGG - https://drama.gg/assets/files/2023-02-19/1676840498-407944-infinitebrokendogwoodclubgall-size-restricted.gif
+TheYeetster - Pengu I'm acting innocent because I am, and also I will repeat myself for the billionth time, Traven contacted me and then we got Voll. Also no, all we wanted to do was check Jeroen's code lmao.
+Timanttikuutio - TheYeetster this isn't the place to dox people, please dont post anything about that here, thanks 🙂
+Zaross -  - https://drama.gg/assets/files/2023-02-19/1676840663-649046-image.png
+Pengu - Timanttikuutio I mean he already did by saying my name, town, phone number, ect
+TheYeetster - Timanttikuutio Lucky for me that is not doxxing.
+Pengu - TheYeetster It's doxxing because I'm under 18 so it's not in public records as per federal regulation 😖
+TheYeetster - Pengu Define doxxing, also I didn't know your phone number became the VoIP support number you used on the nov 2022 site lmao
+Timanttikuutio - TheYeetster aaaaaand you're getting banned, thank you for that 🙂
+TheYeetster - Pengu It both is under public records and who said you? Your parents own the house
+TheYeetster - Timanttikuutio eh lucky for me as I say, those are public records and are not considered doxxing.
+Timanttikuutio - TheYeetster "search for and publish private or identifying information about (a particular individual) on the internet, typically with malicious intent" - just because the information is somewhat public, does not mean you can go around sharing it
+Zaross -  - https://drama.gg/assets/files/2023-02-19/1676840831-419441-hes-a-child-dont-be-fooled.gif
+TheYeetster - Timanttikuutio I don't see how it's malicious, but you do you. The admins (if they even read this entire chat lmao) will decide.
+Pengu - TheYeetster Check the Discord Gen lol
+Zaross -  - https://drama.gg/assets/files/2023-02-19/1676840965-549587-giphy.gif
+Zaross -  - https://drama.gg/assets/files/2023-02-19/1676841082-921874-ban-button.gif
+Young - TheYeetster 
+
+You are showing an intention / desire to do harm overall than good.
+
+So uh... - https://drama.gg/assets/files/2023-02-19/1676842267-860148-image.png
+Zaross - Young He was banned lmao
+VolleierYouKnow - Oh dear, it's awesome to see Damien trying to protect himself from claims, so here I come with EVEN MORE INFORMATION to prove how bad his security is. 
+
+First off, this is public information, I will be disclosing the sources of where I got this information in some of the following (of course there is some stuff I won't be able to show due to the nature of its appearance)
+I'm welcoming any dm's from Damien if he wants to patch these security issues (his servers are on the edge of being exposed and have already been detected by a few security sites as breached by Russian/Chinese botnets)
+
+first, server IP's, this is public domain and pretty much everyone that can do nslookup can get this information, however, the really bad thing that proves their 0 knowledge on how to reinforce their firewalls (if they even use them) is this:
+
+
+
+if I was an attacker, the first thing that would happen if I have this information would be accessing exposed ports/etc, 
+
+also to note that their ssh port is exposed AND THEY SUPPORT PASSWORD AUTHENTICATION
+as of the information i have this is a server they mostly don't use, but you get the idea of what an attacker can do with this information, if it was another server, they have exposed ports with the real unproxied webservers, which are in most scenarios XSS vulnerable, unsafe, not made for production usage, etc (as I have seen, they mostly use ExpressJS for their internals which as you may guess, its a  non-production ready webserver)
+
+2nd
+Their billing panel is nice and kind of beautiful from the frontend, however, talking about the backend, I've used some code scanning tools and they have proven that it is vulnerable to a kind of attacks I won't disclose and other critical stuff (like literally hijacking access to their hosting service)
+using these attacks, we were able to infiltrate into their API which gladly exposed its .env that contained hetzner keys, paypal keys, and even panel keys, using this information, first, i tried to warn Damien by making him realize clearly the issues (i couldn't contact him on discord due to the fact im currently blocked),  sadly enough, this information ended in the wrong hands and there goes yeetster.
+
+3rd
+He's going defensive all out and i expect him to anyways
+the fact he tried saying that no billing information was leaked is just the tip of the iceberg, proving he does not even know how much information PayPal REST API has, the API was vulnerable to request forging so badly that trying some more urls, we managed to access pterdactyl's sql, yeah..... that's bad if you haven't realized yet, this information is not public and never will be due to the fact that it contains hashes of the passwords, but if Damien wants proof, I'm willing to send all I have on discord for his reference.
+
+This can be fixed with some easy iptables that literally a linux starter would know (heck, you can even use UFW)
+
+Pointing this out because I don't really wish him to be attacked in the future, hope he can solve this issue asap.
+
+Due to the way of these attacks, we may have deleted some logs from his servers for privacy but kept them so he can patch the bugs.
+
+Also, a kind message for Damien, when you're coding any critical or non-critical part of your websites, please use SonarQube or any other code scanning tool, even the smallest part of your website can become a security nightmare that exposes your entire server and if you use the same authentication on all your other servers, potentially, access to your entire service, since you're a hosting service, you should at least either have a bit of knowledge on cybersecurity, maybe even hire an expert, else please use any software that checks its security for any kind of possible exploits or use your's but ensure to test it and have an expert (or some code scanning utility) look at it before releasing it to the public, else, there can be a middleman without you knowing, gathering your customer's emails, etc.
+
+Cheers and hope you can solve this issues! - https://drama.gg/assets/files/2023-02-20/1676855597-581056-image.png
+Pengu - VolleierYouKnow Hi Voll! You should scroll up a bit and you'll see that I addressed literally every issue you just claimed. The API keys you got were from the old billing code not the new one. Secondly how do you expect us to SSH without an SSH port and third WE DO NOT HAVE PASSWORD AUTH. You can even ask Yeetster who will probably lie but we do SSH keys like smart people.
+VolleierYouKnow - Pengu 
+i see that you've patched most stuff including the fact your API was leaking keys (there's still some issues, ill let you figure them out)
+you can have a port, but a simple nmap is not supposed to see it if you even care about your security
+3.
+
+
+
+your servers accept password authentication. - https://drama.gg/assets/files/2023-02-20/1676864453-876947-image.png
+VolleierYouKnow - Pengu 
+i see that you've patched most stuff including the fact your API was leaking keys (there's still some issues, ill let you figure them out)
+you can have a port, but a simple nmap is not supposed to see it if you even care about your security
+3.
+
+
+
+your servers accept password authentication. - https://drama.gg/assets/files/2023-02-20/1676864488-628355-image.png
+VolleierYouKnow - Pengu 
+i see that you've patched most stuff including the fact your API was leaking keys (there's still some issues, ill let you figure them out)
+you can have a port, but a simple nmap is not supposed to see it if you even care about your security
+3.
+
+
+
+your servers accept password authentication. - https://drama.gg/assets/files/2023-02-20/1676864515-253045-image.png
+Zaross - VolleierYouKnow It always asks for a password regardless of if there is a password or not, max has it set up to not allow passwords anyway,.
+Pengu - Zaross ^^
+Zaross - VolleierYouKnow Its ssh key based not password.
+VolleierYouKnow - Zaross 
+if thats so, it should show that the only allowed authentication is key based, however, server potentially is allowing its default password your provider has provided you with
+VolleierYouKnow - an example of this: - https://drama.gg/assets/files/2023-02-20/1676865657-549578-image.png
+Pengu - VolleierYouKnow Just tested that with a group of people in call to prove that that's wrong and wow it didn't work
+Zaross - Pengu - https://drama.gg/assets/files/2023-02-20/1676865697-954331-boom-mind-blown.gif
+VolleierYouKnow - 🤦‍♂️
+Pengu - VolleierYouKnow - https://drama.gg/assets/files/2023-02-20/1676867573-367030-itch.png
+Zaross -  - https://drama.gg/assets/files/2023-02-20/1676867637-876487-it-was-the-first-and-will-be-the-last.jpg
+KatSoup - me when uses password instead of ssh key - https://drama.gg/assets/files/2023-02-20/1676868252-912327-img-6714.jpg
+KatSoup - me when I'm everyone's favorite giant nerd #Face #FacePic #Selfie #Gayselfie #Gamer #Engineer #GoodFriend - https://drama.gg/assets/files/2023-02-20/1676870903-470147-giant-nerd.png
+Timanttikuutio - Zaross where did you get your information from, lol? if you'd care to look at /etc/ssh/sshd_config, you'd see there's an option for disabling "PasswordAuthentication", which obviously is still enabled on the server. If the aforementioned option was indeed disabled, sshd wouldn't prompt for a password, but instead expect a private key, if that doesn't exist/wasn't specified, you'd get a permission denied (publickey) error
+Zaross - Timanttikuutio @Pengu
+Pengu - Timanttikuutio We actually did find that option and disabled it, however the ssh server was still incapable of accepting passwords for our user accounts because it was disabled.

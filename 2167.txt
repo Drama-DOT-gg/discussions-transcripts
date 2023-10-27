@@ -1,0 +1,38 @@
+BlackCat - family friendly - https://drama.gg/assets/files/2023-07-06/1688667519-909253-image.png
+zarif - fire the front end guy cuz for 28 bucks u got yo ass scammed
+BlackCat - zarif i am not the owner, idgaf what the owner is doing, he frontend guy is doing the whole dash which is not working. using some random polygondb which i have never heard of instead of mysql or mariadb because they are "outdated"
+EmeraldMike - Your Legit crying over a skill issue and because you wanted me to use your frontend so badly. I am not much of a frontend person I specialize in backend. You could pay someone 100$ to make a proper frontend that would integrate with the backend and won't be a simple theme rip adjust. the dash activity being fixed/worked on. What the host is paying for is fully custom dash with hosting plus panel management eta. I am working for around $2/hour. I might as well get a real job but instead here I am. Even my teaching for 3 years paid way more a month for less hours.
+EmeraldMike - BlackCat Also as for the DB thing
+MySQL is injections hell
+MongoDB is a nightmare to setup and even if you manage it will shit itself and be hella slow
+So open src JSON based DB ftw
+Chirag - EmeraldMike MySQL is injections hell
+
+EmeraldMike I specialize in backend
+
+You say you specialize in backend and can't even prevent SQL injections?
+flaxeneel2 - EmeraldMike yeah and base64 is the best way to store sensitive user data such as passwords 😃 😃 😃 😃
+EmeraldMike - Chirag Not saying I couldn't but it's too much work for what little you get out of it
+EmeraldMike - flaxeneel2 Yes Yes I approve this message 😃
+EmeraldMike - Chirag Plus last time I delt with it was like years ago
+BlackCat - oh still dash is always down, the dashboard has like 10% uptime if not less
+flaxeneel2 - EmeraldMike uh, just use prepared statements? it really isnt that hard to avoid SQLi lol. prepared statements are a nice and easy way
+BlackCat - EmeraldMike bro 30$ is a normal price for dashboard, why do you even accept 30$ if you cant even provide a NORMAL WORKING dashboard
+flaxeneel2 - TL;DR: no actually good dev would charge as little as $30 for an entire dashboard. mongo is not "too slow to be used" or "too hard to set up". a flatfile db is bad. i doubt the solution was built to be scalable anyways, so it won't even work that well once the client (the host) grows much larger.
+
+BlackCat $30 is a pretty big red flag. Any self-respecting and actually experienced dev would charge you wayy more. $30 is a deal "too good to be true" (and i am sure you can see the consequences of such a deal now). It would never have been perfect. Personally, if I were asked to make a dash, I would charge at least $200-500 or so. Why? Because that is how much people usually charge, because all good devs put in a lot of testing and thinking of optimization of how the dashboard will work (and some would go to extreme lengths to make it as optimized as possible). Reading this post, none of that "testing" or "thinking" was done, which is exactly what is a major cost factor when it comes to any commission. If you want custom made stuff, either get ready to pay up a large sum or just make it yourself (it isnt too hard if you try 🙂 ). $30 is a red flag because that would seem to suggest a very low quality of a dashboard, and also potentially the lack of experience with such requests, seeing as how the price was set so low compared to others. I am not saying that price is the only metric one should use to evaluate the quality of a product or a skill level of the developer, but low prices such as $30 tend to say a lot.
+
+Another huge red flag would be saying mySQL/MariaDB is "outdated". I understand not everyone likes SQL (personally, I have been slowly moving away from it too, but, I have used it a lot and not really had much of an issue with it, its pretty nice), but they are anything but outdated. SQL is still a pretty big thing which can be pretty useful IF USED CORRECTLY (using prepared statements, reducing the amount of redundant data in the db as far as one can, etc.). 
+
+MongoDB is not a nightmare to set up, i could prob instruct a 10yo with no prior knowledge on how to do it. (I am not good, it is just that easy). That point honestly makes it sound like @EmeraldMike  doesn't want to learn new things he has never done before. By the time MongoDB is "too slow to keep up with the throughput required", you are gonna have bigger problems than that to deal with. With all these mistakes I am seeing being made, I highly doubt the dash was built to scale beyond just a single thread. Assuming it was made with express, express isn't that fast in terms of raw throughput. Express on a single would probably choke out long before mongodb would. Also, whatever JSON-based flatfile db would prob choke out first too, after all, it is a flatfile db at the end of the day. JSON isn't really a good idea for storing large amounts of data, and all in a single file would make it hell in terms of latency, and you kinda don't wanna add that latency over express' high latency.
+
+A comparison of a few of the web frameworks: https://web-frameworks-benchmark.netlify.app/compare?f=express,fastify,hyper-express,actix
+The reason I chose express, hyper express and actix is because I have verified these numbers myself in my testing too (but scaled to use 16-20 threads of a 7950x3d (not all threads since I also had to run wrk on the same machine to do the tests)). I use actix and hyper express on a daily basis, with actix being used for more critical applications. The raw throughput is not really my main focus, rather, it is the latencies. express' latency is not that great.
+Oh yeah I just chose fastify because for some reason, people really love it, so I thought it would be an interesting one to include, though I have not tested the numbers for it myself so I cannot back its claims. 
+
+Yeahhh looks like I kinda went off-topic, but yeah my point is, the json db and express combo would prob give in way before mongo would. so it is kinda ironic to say mongo will be "too slow" and then using a slower, less scalable, more corruption prone (someone adding a single bracket to your json db can mess you up), more unreliable solution instead. Also, I am gonna clarify, there are more ways to go about it than using mongo or mariadb, things like scylla and postgres exist. It comes down to what is the best tool for the job (and what the developer is most comfortable with, as long as it does not hamper scalability/reliability/performance as much), for this use case, mongo, maria, scylla, postgres, cassandra, etc. are all good enough. a JSON flatfile db should never be encouraged over the solutions that already exist
+BlackCat - greenfruit (owner) so bad wants mike in his host 😃 paying him 30$ monthly for a dash that has not worked for 1 week.
+BlackCat - someone delete this tread, no need of this thread anymore
+Young - BlackCat COPE HARDER NOW. PLEASE!
+
+A BLOWJOB IS BETTER THAN NO JOB!

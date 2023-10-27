@@ -1,0 +1,178 @@
+Mafix - hosting is located on a domain: justnodes.fun
+Below are screenshots about proof of abuse of Google cloud 
+
+
+Black PR, a raid on another hosting was used to attract other users:
+
+Evidence of PR message: 
+
+Evidence that they pinged twinks 
+
+
+Children think that they are grandfathers when in fact the billing was turned off. 
+
+
+
+
+Proof to message technical service (Billing)
+
+I recommend not using abusive hosting, especially when children manage the hosting. - https://drama.gg/assets/files/2023-09-21/1695280695-390574-screenshot-20230921-101547-chrome.jpg
+Mafix - hosting is located on a domain: justnodes.fun
+Below are screenshots about proof of abuse of Google cloud 
+
+
+Black PR, a raid on another hosting was used to attract other users:
+
+Evidence of PR message: 
+
+Evidence that they pinged twinks 
+
+
+Children think that they are grandfathers when in fact the billing was turned off. 
+
+
+
+
+Proof to message technical service (Billing)
+
+I recommend not using abusive hosting, especially when children manage the hosting. - https://drama.gg/assets/files/2023-09-21/1695280853-985377-img-20230921-101853-143.jpg
+Mafix - hosting is located on a domain: justnodes.fun
+Below are screenshots about proof of abuse of Google cloud 
+
+
+Black PR, a raid on another hosting was used to attract other users:
+
+Evidence of PR message: 
+
+Evidence that they pinged twinks 
+
+
+Children think that they are grandfathers when in fact the billing was turned off. 
+
+
+
+
+Proof to message technical service (Billing)
+
+I recommend not using abusive hosting, especially when children manage the hosting. - https://drama.gg/assets/files/2023-09-21/1695280898-168326-img-20230921-101939-267.jpg
+Mafix - hosting is located on a domain: justnodes.fun
+Below are screenshots about proof of abuse of Google cloud 
+
+
+Black PR, a raid on another hosting was used to attract other users:
+
+Evidence of PR message: 
+
+Evidence that they pinged twinks 
+
+
+Children think that they are grandfathers when in fact the billing was turned off. 
+
+
+
+
+Proof to message technical service (Billing)
+
+I recommend not using abusive hosting, especially when children manage the hosting. - https://drama.gg/assets/files/2023-09-21/1695280950-552221-img-20230921-102020-433.jpg
+Mafix - hosting is located on a domain: justnodes.fun
+Below are screenshots about proof of abuse of Google cloud 
+
+
+Black PR, a raid on another hosting was used to attract other users:
+
+Evidence of PR message: 
+
+Evidence that they pinged twinks 
+
+
+Children think that they are grandfathers when in fact the billing was turned off. 
+
+
+
+
+Proof to message technical service (Billing)
+
+I recommend not using abusive hosting, especially when children manage the hosting. - https://drama.gg/assets/files/2023-09-21/1695281112-409447-screenshot-20230921-102248-chrome.jpg
+DarkNight81 - I agree tbh
+SoSad - Mafix Can you translate the discord messages + A screenshot of the nodes isnt really proof of anything
+PadowYT2 - some other proof:
+
+(from discord.gg/pterodactyl) - https://drama.gg/assets/files/2023-09-21/1695319164-664993-screenshot-20230921-205606.jpg
+SoSad - PadowYT2 Nah this shit mad funny i dont care if people null stuff or whatever but to be exposed like this is hella funny
+ast3risk - Once again, please provide any message/site links where possible (ex. the link to that query from the first image, or the statuspage, or the host's site). Mafix
+Mafix - ast3risk 
+
+links as you asked: 
+https://panel.justnodes.fun 
+https://dsc.gg/justnodes
+
+they do not have a status page or billing
+ast3risk - Mafix How about the check from the first screenshot, or links to those messages?
+ast3risk - https://drama.gg/assets/files/2023-09-21/1695280695-390574-screenshot-20230921-101547-chrome.jpg This check.
+Mafix - ast3risk 
+https://search.censys.io/
+ast3risk - Mafix This is actually the search URL. 
+
+https://search.censys.io/search?resource=hosts&amp;sort=RELEVANCE&amp;per_page=25&amp;virtual_hosts=EXCLUDE&amp;q=justnodes.fun
+PadowYT2 - they even admit to raid servers:
+
+
+deepl translation as cba to translate it myself:
+Good evening Dear Members Today and yesterday we Raided A couple of large scale Hosting Ani dudos free panel if you are wondering Why?
+Ani is weak for us.
+That's why all the tariffs you see in the No Access categories. 
+Any tariff 30% off
+Icho little bonus Any tariff when you buy Characteristics increase in x2.
+There are 5 pieces of blanket panel so don't worry there will be no dudos on them 🙂 .
+I make such a discount for you that you would buy a lot of tariffs and make your own beautiful servers and that бил you have onl
+@here@everyone 
+If you want to buy write to 🎫ticket
+Saaryn | Tech. JN Support - MC - Yesterday at 6:17 pm
+Hello, today ddos attacks from large scale hosting sites that we raid. Attacks go mainly on free node, so if you want stability take tariffs, because for money we will do anything that your servers were in uptime as instasamka which says for money yes!!!!! Well you get the hint 😉
+Rates in No Access - https://cdn.padow.ru/PXG74
+ItzScripts-ItzSab - Mafix yk, i dont know much context about this nor am i defending anybody directly, but just because somebody is using GCP doesn't mean its automatically abusing lol
+Mafix - ItzScripts-ItzSab 
+
+Hmm, but their free plan has 8 GB of frames and 1 core of 20 disks, and do you seriously think that this is not an abuse?
+ast3risk - Mafix The stats of a free plan can be a red flag, but alone don't prove anything.
+Mafix - ast3risk 
+are you serious now? I wrote an abuse letter and they turned off 1 of the locations. What can you say to this, and let’s also take as an example such a person as Badks, Layer. If he did that, then everyone would write an abuse, but it wouldn’t be an abuse. Judge for yourself, if they had money, they would use other providers, but definitely not Google, and they also say that they have 5 panels and they don’t care, but when they dosa their donor, users complained about the inaccessibility of the panel, they also sell it under the guise of i9 xeon
+Mafix - Addition to current information
+
+
+
+
+
+Добрый вечер!
+
+Ru Уважаемые участники! Наш хостинг восстановит бесплатные ноды в понедельник, так как мы не успеваем делать это так быстро. И у нас есть ещё радостная новость: будет добавлена платная опция.
+
+Тоесть Вы понимете, что им снесли по абузу и они востоновят работу. 
+
+
+En &gt; Dear participants! Our hosting will restore free nodes on Monday, since we do not have time to do it so quickly. And we have more good news: a paid option will be added.
+
+That is, you will understand that they have been given an abuse and they will restore their work. - https://drama.gg/assets/files/2023-09-25/1695667880-348350-image.png
+Mafix - Addition to current information
+
+
+
+
+
+Добрый вечер!
+
+Ru Уважаемые участники! Наш хостинг восстановит бесплатные ноды в понедельник, так как мы не успеваем делать это так быстро. И у нас есть ещё радостная новость: будет добавлена платная опция.
+
+Тоесть Вы понимете, что им снесли по абузу и они востоновят работу. 
+
+
+En &gt; Dear participants! Our hosting will restore free nodes on Monday, since we do not have time to do it so quickly. And we have more good news: a paid option will be added.
+
+That is, you will understand that they have been given an abuse and they will restore their work. - https://cdn.discordapp.com/attachments/1111739151390359642/1155938068646342767/Screenshot_2023-09-25-21-41-21-871_com.android.chrome-edit.jpg
+ItzScripts-ItzSab - Mafix wdym by if they had money they wouldnt use Google? I use GCP for stuff, Discord uses GCP, etc.
+Mafix - ItzScripts-ItzSab 
+We went to the military with them, there was clearly a non-paying audience there
+See how much 128 GB frames cost there?
+ast3risk - Discord does use GCP: https://radar.cloudflare.com/scan/38c17a07-e0b4-4a5f-b64d-8210b26f8f22/technology
+
+So, that alone doesn't mean it's a scam.

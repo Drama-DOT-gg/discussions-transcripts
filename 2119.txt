@@ -1,0 +1,1763 @@
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677154266-416685-image.png
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://usercontent.catto.pictures/chirag/bd7becd1-d38b-4a0d-abfa-cb5ce25d2807.png
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677160933-665846-screenshot-2023-02-23-19-31-34-69.jpg
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677186758-480930-screenshot-2023-02-24-02-23-17-56-572064f74bd5f9fa804b05334aa4f912.jpg
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677186812-424421-screenshot-2023-02-24-02-19-08-02-572064f74bd5f9fa804b05334aa4f912.jpg
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://usercontent.catto.pictures/chirag/85b86570-0d03-40f3-b857-490c2c11fabf.png
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://usercontent.catto.pictures/chirag/2dde71fa-5308-4d13-b48f-18ec98357cb4.png
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://usercontent.catto.pictures/chirag/a02c5e08-db02-4ae2-8abc-541c5980184e.png
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://usercontent.catto.pictures/chirag/83745fb3-98d0-4f0e-906f-dcb0f7b21654.png
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677186848-931344-screenshot-2023-02-24-02-36-22-70-572064f74bd5f9fa804b05334aa4f912.jpg
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677186855-215300-screenshot-2023-02-22-04-59-38-46-572064f74bd5f9fa804b05334aa4f912.jpg
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677186871-760764-screenshot-2023-02-24-02-35-35-45-572064f74bd5f9fa804b05334aa4f912.jpg
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://usercontent.catto.pictures/chirag/afc613b5-a117-4bcc-931d-4d2d374307d7.png
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677186684-748164-screenshot-2023-02-24-02-36-43-43-572064f74bd5f9fa804b05334aa4f912.jpg
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677186697-222590-screenshot-2023-02-24-02-35-35-45-572064f74bd5f9fa804b05334aa4f912.jpg
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677186712-955697-screenshot-2023-02-24-02-34-29-48-572064f74bd5f9fa804b05334aa4f912.jpg
+Chirag - This is a rewrite and a reorganized version of my previous thread with more evidence.
+
+For context, OptikServers is owned by J0SH; CortexNodes is owned by samm; Hostaris is owned by both of them.
+
+Note that this thread will be a long one, and may take a long time to read.
+
+I'll be starting with Hostaris.
+Hostaris
+First of all, they got banned from https://lowendspirit.com which is a red flag when choosing a host.
+Secondly, they're faking company information on companies' house.
+Evidence: 
+The date of birth is false, J0SH is 15 and samm is 17 as you'll read later.
+And for some reason, Josh's nationality is "Pakistani" there. I wonder why that's hmm, you'll probably know later in this thread.
+And a major red flag is that it's owned by J0SH and samm. You'll read about that later in this thread.
+
+Proof of J0SH's age:
+
+
+Proof of samm's age:
+
+
+Their FUP (Fair Usage Policy) also mentions that users are only allowed to use 80% of the cpu on their VMs consistently, which indicates that they overallocate by probably, a lot.
+http://web.archive.org/web/20230210075429/https://hostaris.com/fup
+
+Also their terms of service has been writing by ChatGPT (chat.openai.com) according to J0SH. Proof has been attached below.
+
+
+
+EDIT: They also use servacus for colocation, which is possibly one of the worst you can go with for colocation.
+
+OptikServers (J0SH)
+To summarise, OptikServers does NOT hash pterodactyl passwords when storing them in a client db, but instead uses AES-256 to encrypt them.
+J0SH also claims that his servers are very secure, but they clearly aren't since there are a few SQL injection vulns in his client panel, a few XSS vulns in his client panel and 2 RCE vulns in his afk page which directly allow RCE to the users' PC. And he refuses to fix the afk app vulns since even after explaining countless times that it is vulnerable, he does not care. So if you use OptikServers, do not use their afk app and actually just avoid using it. For a more detailed version of this, please check out the old thread: https://drama.gg/d/2118
+
+
+CortexNodes
+There isn't much about cortexnodes other than the fact that samm owns it and it uses heliactyl, and it also had a RCE vuln exposed which has now been fixed since I reported it. CortexNodes has been included in this thread solely because it's owned by samm and to tell people not to use it since they'd probably be risking their personal data.
+
+Now coming onto J0SH and samm themselves.
+
+Samm
+To start off, samm's one heck of a racist person. He's also banned from the drama.gg for potentially ddosing the site and for being homophobic.
+Read the messages below (in the drama.gg discord) and also see the screenshots after that.
+
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+
+
+
+
+
+They've (samm and J0SH) also been shipping me with people, whom I will not mention here.
+
+
+
+
+
+
+This is another accusation, not from me but from someone else, however there's no actual evidence to back this up but I'm adding it here in case someone is aware about it and wants to provide evidence:
+
+
+J0SH
+Most of it about J0SH was covered in the original thread, but I'll still attach some screenshots which speak for themselves basically. - https://drama.gg/assets/files/2023-02-23/1677186720-394532-screenshot-2023-02-24-02-34-04-65-572064f74bd5f9fa804b05334aa4f912.jpg
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677190890-301386-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://images-ext-2.discordapp.net/external/exqlo4QZSUohusQY1tWVZVlAtwJcls0rbkKFP0kRGHU/https/cdn.tims.host/77/AAtPBAfKJxyn4Gi.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://images-ext-2.discordapp.net/external/94KGqTGhTsMUCO-zeAjPJpfI6XNub-zqwhxhtSsKS0g/https/cdn.tims.host/77/rtbdpkWBfmSYry2.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://cdn.tims.host/77/cnBeokdbvhtPSMJ.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191034-325228-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://images-ext-1.discordapp.net/external/Eo4aMVoLLgYjOBTQu_CMgCeRzQlbCKKMRiS6WtvtAG0/https/cdn.tims.host/1/n5E3RWlzmjmnTRy.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191708-751575-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191725-189343-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191756-259240-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191776-443828-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191790-328828-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191797-145910-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191812-794685-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://i.imgur.com/heuNZIk.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191835-388563-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://i.imgur.com/TGTfEiO.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://images-ext-2.discordapp.net/external/KOwzzyAvyVax-Y1sszlo2onn16AAkD3giHwfQJ_TvV4/https/cdn.tims.host/77/pqG1QSRNse3g3aW.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://images-ext-1.discordapp.net/external/RNjrYRYfHsFxPzCRiqV7W8-G2-wSn0FzxjmMKVtG2eY/https/cdn.tims.host/77/3UZfaGE9NDY197K.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://images-ext-1.discordapp.net/external/IL7izE5xzHvQ2nyrNazha8_EcBDoppfkPf9mo_iHNko/https/cdn.tims.host/77/CXDtWQWI7gsWNTf.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191955-66144-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677191967-40591-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677194088-614841-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677193962-344590-image.png
+J0SH - Believe what you believe - but to believe someone like this who has a questionable history is ridiculous. Your thread was locked 3 times by Robert who (if you examine the screenshots) apparently thinks you're a joke. So you decided you were going to open a new thread after the one you had originally opened was locked. Desperate who?
+
+Two things you have failed to mention is that, believe it or not, you hit our panel with cURL. I am aware you are going to profusely deny this although we have substantial evidence pointing the DDoS attack directly to you which is shown in the other thread. The other action in question is that you have made an illegal defamatory site claiming that Hostaris is.. well... see for yourselves: https://hostaris.app
+
+Two more things you have, again, failed to mention, is that the screenshots in question were taken hugely out of context, and were all consensual at the time as we were firing insults back and forth between the group. The second is that in your previous thread (which was locked) the Companies House information was cleared up and we explained that: 1. The address on there is actually a well-known business &amp; personal mail redirection program - which is allowed on Companies House and over 8000 companies used this (KUBBUR Limited is one big mention); 2. My nationality was a mistake on their side, to which we have logged a request with them to rectify the situation; 3. We have also logged a request with them to correct the incorrectly keyed-in DoBs. We had no reason to put in a fake date of birth as Sam is over the age of 16 - which is the minimum age to open a company.
+
+To this date, you have never documented an actual SQLi vulnerability. You sent me one, but this was quickly debunked when we realized that if the user ID didn't exist (The user ID was the string that was being exploited), the vulnerable code wasn't even run in the first place. Regarding the other issues, I have explained to you multiple times that the issue is being worked on. I haven't even had access to the code until this morning.
+
+You are also definitely aware that the screenshots sent here were completely satire and we resolved this issue the other day. You had never told us you had a disliking toward the content we posted as you were firing back yourself. When you did tell us in fact, we agreed to stop the content and there was a slip-up by Samuel 2 hours later. This is human and mistakes can be made. You decided enough was enough and finished making your little website which was published at around 2 AM this morning.
+
+Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence. 
+
+I trusted you and sent you private information about our client portal in the hopes that you would find and report vulnerabilities. You abused this privilege to attempt to destroy our livelihood. Never contact us again, you are an absolute disgrace. You ruined a long-term friendship because of your frankly immature, childish, and disgusting means and intentions. I also attempted to resolve this with you MULTIPLE times, to which you completely blew me off over your immaturity.
+
+
+
+
+
+I tried to handle this like a man, and you completely blew it off.
+
+There will be no further correspondence. 
+
+--
+Moderator's note: censored someone's name on their request - https://drama.gg/assets/files/2023-02-23/1677193776-916854-image.png
+samxd - As one last point to the above, the user in question has also been querying the term "Hostaris" via Google all day, to check whether his site made to defame our company has indexed yet.
+
+During this process, he appears to have found the brand new Google Business profile, which I'd only opened moments before. The user decided to immediately leave a bad review, despite never having used our service, whatsoever. 
+
+
+
+ As my colleague, Joshua, has already stated "There will be no further correspondence.", this applies for myself too. - https://drama.gg/assets/files/2023-02-23/1677194720-562795-image.png
+Tomas - How about you all just grow up because frankly this seems like personal drama and no one actually gives a flying fuck, stop being petty 😀
+Chirag - J0SH 3rd ss ofc I wouldn't help you out if you're not even gonna bother fixing it
+4th, but I didn't nuke optik, did I? I could've, but I didn't. Like samm could've chosen not try to and dox me, but no he tried to get info but failed miserably.
+5th, really? badsk?
+6th again I didn't nuke optik when I had the chance to
+ 7rh now I feel like you're digging up everything you got 💀, legit dubs lmao?
+ 8th context matters, ss below and you also shipped me with cuts but I ignored it
+9th, no idea where that is, probably never said that lmao, or was a joke
+10th, that was velocity node, I got free like $6 because a glitch in invoicing and Ryder aka who owned velocity node let me keep it, anything wrong here? I don't think so
+11th, ok I will if it's p2w 💀
+12th, yeah because even if I do report them, you're not gonna patch them, I alr told you one which should work
+13th, context matters
+
+
+
+J0SH slip-up by Samuel 2 hours late
+
+ah yes, so he forgot like 2 hours after I told you and he also forget while I was talking to you both about giving you another chance? lovely jubbly
+
+--
+Moderator's note: censored some stuff in the images - https://drama.gg/assets/files/2023-02-24/1677206000-673600-img-20230224-080218.jpg
+Chirag - J0SH 3rd ss ofc I wouldn't help you out if you're not even gonna bother fixing it
+4th, but I didn't nuke optik, did I? I could've, but I didn't. Like samm could've chosen not try to and dox me, but no he tried to get info but failed miserably.
+5th, really? badsk?
+6th again I didn't nuke optik when I had the chance to
+ 7rh now I feel like you're digging up everything you got 💀, legit dubs lmao?
+ 8th context matters, ss below and you also shipped me with cuts but I ignored it
+9th, no idea where that is, probably never said that lmao, or was a joke
+10th, that was velocity node, I got free like $6 because a glitch in invoicing and Ryder aka who owned velocity node let me keep it, anything wrong here? I don't think so
+11th, ok I will if it's p2w 💀
+12th, yeah because even if I do report them, you're not gonna patch them, I alr told you one which should work
+13th, context matters
+
+
+
+J0SH slip-up by Samuel 2 hours late
+
+ah yes, so he forgot like 2 hours after I told you and he also forget while I was talking to you both about giving you another chance? lovely jubbly
+
+--
+Moderator's note: censored some stuff in the images - https://i.imgur.com/5nLcxLV.png
+Chirag - also @samxd - https://drama.gg/assets/files/2023-02-24/1677206613-387267-image-8.png
+Chirag - J0SH last ss (i alr mass mailed everyone): badsk's hosts don't count in my opinion
+and samm and j0sh, you're acting rly innocent here but I don't want to leak more shit as it'll only lead to more problems for both you and me.
+You've clearly went digging all through your dms to find these, which you've also purged entirely probably using a self bot, 
+2nd last ss: 
+3rd last: because you don't wanna believe the vuln exists and you think everything's rly secure, when nothing is secure in your host at all. - https://drama.gg/assets/files/2023-02-24/1677244269-256388-image.png
+Chirag - J0SH Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence.
+
+AHAHAHAH, fucking hear it from the man itself now - https://drama.gg/assets/files/2023-02-24/1677244577-159181-image.png
+Chirag - J0SH Regarding Sam's ban from Drama - he was banned after the satirical joke of identifying as a "DDR2 memory module". Your claim for him to have attacked Drama.gg is entirely baseless and has no evidence.
+
+AHAHAHAH, fucking hear it from the man itself now - https://drama.gg/assets/files/2023-02-24/1677244607-226420-image.png
+JoeJoeSpagettio - its amazing how out of context most these screenshots are.
+ThatManiac - ngl tho i've been using cortexnodes for a while now and ain't get any issues. only one of the hosts ive tried that havent shut down in 2 months lmfao. good service and everything soo
+Jxshxx11 - ThatManiac Ah yes who doesn’t love having 8 threads of cpu available and only being able to use 2 threads with a maxed load, on a donator node.
+ThatManiac - Jxshxx11 think whatever you wanna think bro i'm happy n that's all what matters to me.
+Iceey - Awesome cesspool activities

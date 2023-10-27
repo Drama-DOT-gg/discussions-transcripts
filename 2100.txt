@@ -1,0 +1,11 @@
+JohnWicktherock - So there is a new "VPS" host that i see many people joined, i tried to see the website browsing the discord and i saw many flaw in the website,
+There is no Legal documents in the websites (Probably TOS too)
+ There is too many typos in the website
+ In the about page, the reviews is a placeholder
+ The knowledge section is not found like the other section
+
+If you want to investigate it yourself go here:
+Web: https://vpsfree.es/knowledgebase-list
+https://discord.gg/eZrWyuvWsj
+PadowYT2 - Well it takes time to make a host imo
+PadowYT2 - Well they are out of IPs already, also Credits page gives a 500 error

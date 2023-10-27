@@ -1,0 +1,420 @@
+Chirag - Oh well, where do I even begin
+I'll just go in the order of how important it is
+
+Optikservers.com (his free host)
+Not fixing vulnerabilities
+Even after mentioning to Josh that his afk app had 2 vulnerabilities that could lead to RCE on the user's computer, he refuses to fix them. Almost like they were added intentionally and also for some reason, all the security features in his electron app were disabled even though they are enabled by default.
+
+Both of the vulnerabilities are really simple to fix.
+I'll list them below
+using innerHTML to set content pulled from his api, and node Integration is enabled in electron which seems to be done intentionally
+Downloading peer2profit on their pc when they run his afk app (p2pclient.exe on windows) without consent of the user. It also could lead to RCE, since file hashes are NOT checked on download and it is downloaded and ran automatically.
+
+Proof of intentionally disabling electron security features: 
+
+
+
+There's no mention of the app installing peer2profit: 
+Yet the app still installs it which is extremely sus.
+
+The app also has a tracker built-in, 
+
+In case J0SH deletes the app off his client panel, here's an archive url for it: http://web.archive.org/web/20230222145233/https://cdn.optikservers.com/apps/afk/OptikServers_AFK_Setup_0.2.0.exe
+
+NOT HASHING PASSWORDS
+J0SH also stores passwords on optikservers' client panel, these passwords are not hashed but are encrypted instead which is absolutely stupid.
+
+
+At this point, I'm convinced that optikservers was made to be insecure.
+And remember, I found those vulns for free, didn't ask for a single penny, and also reported them instead of abusing them, still this retard is absolutely ungrateful and still argues about WHY should he patch the RCE vulns and why should he hash passwords.
+
+Also, there was another XSS vuln I found in his client panel itself, which he fixed, this might be the only bug he has ever fixed ngl.
+
+HostAris
+Currently, HostAris is fairly new, so there's not much. But it's owned by the same two cunts, samm and J0SH.
+Some info about samm you should know (these links link to the messages in the drama.gg discord):
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+Also, hostaris has terrible reviews on trustpilot: https://www.trustpilot.com/review/hostaris.com
+They also got perm banned from https://lowendspirit.com/ for some reason.
+Pretty sure HostAris will need it's own thread eventually. - https://usercontent.catto.pictures/chirag/9e5e5468-a7b6-41ea-bd93-f0f7d6b3465e.png
+Chirag - Oh well, where do I even begin
+I'll just go in the order of how important it is
+
+Optikservers.com (his free host)
+Not fixing vulnerabilities
+Even after mentioning to Josh that his afk app had 2 vulnerabilities that could lead to RCE on the user's computer, he refuses to fix them. Almost like they were added intentionally and also for some reason, all the security features in his electron app were disabled even though they are enabled by default.
+
+Both of the vulnerabilities are really simple to fix.
+I'll list them below
+using innerHTML to set content pulled from his api, and node Integration is enabled in electron which seems to be done intentionally
+Downloading peer2profit on their pc when they run his afk app (p2pclient.exe on windows) without consent of the user. It also could lead to RCE, since file hashes are NOT checked on download and it is downloaded and ran automatically.
+
+Proof of intentionally disabling electron security features: 
+
+
+
+There's no mention of the app installing peer2profit: 
+Yet the app still installs it which is extremely sus.
+
+The app also has a tracker built-in, 
+
+In case J0SH deletes the app off his client panel, here's an archive url for it: http://web.archive.org/web/20230222145233/https://cdn.optikservers.com/apps/afk/OptikServers_AFK_Setup_0.2.0.exe
+
+NOT HASHING PASSWORDS
+J0SH also stores passwords on optikservers' client panel, these passwords are not hashed but are encrypted instead which is absolutely stupid.
+
+
+At this point, I'm convinced that optikservers was made to be insecure.
+And remember, I found those vulns for free, didn't ask for a single penny, and also reported them instead of abusing them, still this retard is absolutely ungrateful and still argues about WHY should he patch the RCE vulns and why should he hash passwords.
+
+Also, there was another XSS vuln I found in his client panel itself, which he fixed, this might be the only bug he has ever fixed ngl.
+
+HostAris
+Currently, HostAris is fairly new, so there's not much. But it's owned by the same two cunts, samm and J0SH.
+Some info about samm you should know (these links link to the messages in the drama.gg discord):
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+Also, hostaris has terrible reviews on trustpilot: https://www.trustpilot.com/review/hostaris.com
+They also got perm banned from https://lowendspirit.com/ for some reason.
+Pretty sure HostAris will need it's own thread eventually. - https://usercontent.catto.pictures/chirag/92ccdb2e-b4c8-47d7-94dc-89de73d89693.png
+Chirag - Oh well, where do I even begin
+I'll just go in the order of how important it is
+
+Optikservers.com (his free host)
+Not fixing vulnerabilities
+Even after mentioning to Josh that his afk app had 2 vulnerabilities that could lead to RCE on the user's computer, he refuses to fix them. Almost like they were added intentionally and also for some reason, all the security features in his electron app were disabled even though they are enabled by default.
+
+Both of the vulnerabilities are really simple to fix.
+I'll list them below
+using innerHTML to set content pulled from his api, and node Integration is enabled in electron which seems to be done intentionally
+Downloading peer2profit on their pc when they run his afk app (p2pclient.exe on windows) without consent of the user. It also could lead to RCE, since file hashes are NOT checked on download and it is downloaded and ran automatically.
+
+Proof of intentionally disabling electron security features: 
+
+
+
+There's no mention of the app installing peer2profit: 
+Yet the app still installs it which is extremely sus.
+
+The app also has a tracker built-in, 
+
+In case J0SH deletes the app off his client panel, here's an archive url for it: http://web.archive.org/web/20230222145233/https://cdn.optikservers.com/apps/afk/OptikServers_AFK_Setup_0.2.0.exe
+
+NOT HASHING PASSWORDS
+J0SH also stores passwords on optikservers' client panel, these passwords are not hashed but are encrypted instead which is absolutely stupid.
+
+
+At this point, I'm convinced that optikservers was made to be insecure.
+And remember, I found those vulns for free, didn't ask for a single penny, and also reported them instead of abusing them, still this retard is absolutely ungrateful and still argues about WHY should he patch the RCE vulns and why should he hash passwords.
+
+Also, there was another XSS vuln I found in his client panel itself, which he fixed, this might be the only bug he has ever fixed ngl.
+
+HostAris
+Currently, HostAris is fairly new, so there's not much. But it's owned by the same two cunts, samm and J0SH.
+Some info about samm you should know (these links link to the messages in the drama.gg discord):
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+Also, hostaris has terrible reviews on trustpilot: https://www.trustpilot.com/review/hostaris.com
+They also got perm banned from https://lowendspirit.com/ for some reason.
+Pretty sure HostAris will need it's own thread eventually. - https://usercontent.catto.pictures/chirag/92b346ce-2651-40a0-9b5c-fb5330f6a94e.png
+Chirag - Oh well, where do I even begin
+I'll just go in the order of how important it is
+
+Optikservers.com (his free host)
+Not fixing vulnerabilities
+Even after mentioning to Josh that his afk app had 2 vulnerabilities that could lead to RCE on the user's computer, he refuses to fix them. Almost like they were added intentionally and also for some reason, all the security features in his electron app were disabled even though they are enabled by default.
+
+Both of the vulnerabilities are really simple to fix.
+I'll list them below
+using innerHTML to set content pulled from his api, and node Integration is enabled in electron which seems to be done intentionally
+Downloading peer2profit on their pc when they run his afk app (p2pclient.exe on windows) without consent of the user. It also could lead to RCE, since file hashes are NOT checked on download and it is downloaded and ran automatically.
+
+Proof of intentionally disabling electron security features: 
+
+
+
+There's no mention of the app installing peer2profit: 
+Yet the app still installs it which is extremely sus.
+
+The app also has a tracker built-in, 
+
+In case J0SH deletes the app off his client panel, here's an archive url for it: http://web.archive.org/web/20230222145233/https://cdn.optikservers.com/apps/afk/OptikServers_AFK_Setup_0.2.0.exe
+
+NOT HASHING PASSWORDS
+J0SH also stores passwords on optikservers' client panel, these passwords are not hashed but are encrypted instead which is absolutely stupid.
+
+
+At this point, I'm convinced that optikservers was made to be insecure.
+And remember, I found those vulns for free, didn't ask for a single penny, and also reported them instead of abusing them, still this retard is absolutely ungrateful and still argues about WHY should he patch the RCE vulns and why should he hash passwords.
+
+Also, there was another XSS vuln I found in his client panel itself, which he fixed, this might be the only bug he has ever fixed ngl.
+
+HostAris
+Currently, HostAris is fairly new, so there's not much. But it's owned by the same two cunts, samm and J0SH.
+Some info about samm you should know (these links link to the messages in the drama.gg discord):
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+Also, hostaris has terrible reviews on trustpilot: https://www.trustpilot.com/review/hostaris.com
+They also got perm banned from https://lowendspirit.com/ for some reason.
+Pretty sure HostAris will need it's own thread eventually. - https://usercontent.catto.pictures/chirag/aa02ca39-7a37-402c-bdbd-c6d3c556f679.png
+Chirag - Oh well, where do I even begin
+I'll just go in the order of how important it is
+
+Optikservers.com (his free host)
+Not fixing vulnerabilities
+Even after mentioning to Josh that his afk app had 2 vulnerabilities that could lead to RCE on the user's computer, he refuses to fix them. Almost like they were added intentionally and also for some reason, all the security features in his electron app were disabled even though they are enabled by default.
+
+Both of the vulnerabilities are really simple to fix.
+I'll list them below
+using innerHTML to set content pulled from his api, and node Integration is enabled in electron which seems to be done intentionally
+Downloading peer2profit on their pc when they run his afk app (p2pclient.exe on windows) without consent of the user. It also could lead to RCE, since file hashes are NOT checked on download and it is downloaded and ran automatically.
+
+Proof of intentionally disabling electron security features: 
+
+
+
+There's no mention of the app installing peer2profit: 
+Yet the app still installs it which is extremely sus.
+
+The app also has a tracker built-in, 
+
+In case J0SH deletes the app off his client panel, here's an archive url for it: http://web.archive.org/web/20230222145233/https://cdn.optikservers.com/apps/afk/OptikServers_AFK_Setup_0.2.0.exe
+
+NOT HASHING PASSWORDS
+J0SH also stores passwords on optikservers' client panel, these passwords are not hashed but are encrypted instead which is absolutely stupid.
+
+
+At this point, I'm convinced that optikservers was made to be insecure.
+And remember, I found those vulns for free, didn't ask for a single penny, and also reported them instead of abusing them, still this retard is absolutely ungrateful and still argues about WHY should he patch the RCE vulns and why should he hash passwords.
+
+Also, there was another XSS vuln I found in his client panel itself, which he fixed, this might be the only bug he has ever fixed ngl.
+
+HostAris
+Currently, HostAris is fairly new, so there's not much. But it's owned by the same two cunts, samm and J0SH.
+Some info about samm you should know (these links link to the messages in the drama.gg discord):
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+Also, hostaris has terrible reviews on trustpilot: https://www.trustpilot.com/review/hostaris.com
+They also got perm banned from https://lowendspirit.com/ for some reason.
+Pretty sure HostAris will need it's own thread eventually. - https://usercontent.catto.pictures/chirag/f8dd6deb-43cd-43a8-ad6f-b7a22f75c10a.png
+Chirag - Oh well, where do I even begin
+I'll just go in the order of how important it is
+
+Optikservers.com (his free host)
+Not fixing vulnerabilities
+Even after mentioning to Josh that his afk app had 2 vulnerabilities that could lead to RCE on the user's computer, he refuses to fix them. Almost like they were added intentionally and also for some reason, all the security features in his electron app were disabled even though they are enabled by default.
+
+Both of the vulnerabilities are really simple to fix.
+I'll list them below
+using innerHTML to set content pulled from his api, and node Integration is enabled in electron which seems to be done intentionally
+Downloading peer2profit on their pc when they run his afk app (p2pclient.exe on windows) without consent of the user. It also could lead to RCE, since file hashes are NOT checked on download and it is downloaded and ran automatically.
+
+Proof of intentionally disabling electron security features: 
+
+
+
+There's no mention of the app installing peer2profit: 
+Yet the app still installs it which is extremely sus.
+
+The app also has a tracker built-in, 
+
+In case J0SH deletes the app off his client panel, here's an archive url for it: http://web.archive.org/web/20230222145233/https://cdn.optikservers.com/apps/afk/OptikServers_AFK_Setup_0.2.0.exe
+
+NOT HASHING PASSWORDS
+J0SH also stores passwords on optikservers' client panel, these passwords are not hashed but are encrypted instead which is absolutely stupid.
+
+
+At this point, I'm convinced that optikservers was made to be insecure.
+And remember, I found those vulns for free, didn't ask for a single penny, and also reported them instead of abusing them, still this retard is absolutely ungrateful and still argues about WHY should he patch the RCE vulns and why should he hash passwords.
+
+Also, there was another XSS vuln I found in his client panel itself, which he fixed, this might be the only bug he has ever fixed ngl.
+
+HostAris
+Currently, HostAris is fairly new, so there's not much. But it's owned by the same two cunts, samm and J0SH.
+Some info about samm you should know (these links link to the messages in the drama.gg discord):
+https://canary.discord.com/channels/730015520568639509/730023081489203241/955925846554710116
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952650781943816233
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952590438743805962
+https://canary.discord.com/channels/730015520568639509/730023081489203241/952603379463520328
+
+Also, hostaris has terrible reviews on trustpilot: https://www.trustpilot.com/review/hostaris.com
+They also got perm banned from https://lowendspirit.com/ for some reason.
+Pretty sure HostAris will need it's own thread eventually. - https://usercontent.catto.pictures/chirag/a355cf9a-e353-48bc-8634-8080f1470bf2.png
+J0SH - I'd like to clarify the points made against Hostaris &amp; Optikservers.
+
+To begin with, when you reported these vulnerabilities about RCE we started working on a fix, however, this fix can not be released instantly as it has to be approved by Shadow who is OOF at the moment. 
+ I have NEVER denied fixing these vulnerabilities, I would like to see Chirag's screenshot of me refusing (and not taken out of context)
+ 
+Additionally, we do actually ask the user for consent if you had a look at the app. A screenshot will be sent after this message. 
+
+In regards to the peer2profit hash claim, at the time, we did not deem this necessary as it is extremely unlikely for someone to gain access to our CDN. Note that this software is coming onto 2 years old and a recode is in the works as I've mentioned to you a dozen times.
+
+Regarding the claim that we have a tracker in the app - this is literally an error-monitoring system () and it is used to track and resolve issues. This is standard in many apps if you cared to decompile them (oh wait you just decompiled ours due to a personal grudge so that won't happen)
+
+Regarding the situation with the hashed passwords - you sent one screenshot which was hugely taken out of context. The way our panel works is that we make a generated 16-digit user/pass combination and store that encrypted with AES-256. We believe this isn't insecure as the passwords are generated, and therefore, do not come under normal passwords. Of course, we hash actual passwords keyed in by the user but for generated passwords, we felt there was no need. As much as we believe they are secure, we are still prepping a change to this in the next release.
+
+The reason we patched the XSS issue was that that was actually a high-risk vulnerability. If you'd propose to use the vulnerability in our apps to your advantage, you would only affect yourself as if you were to change your Discord name and logged in on our app, you would only affect yourself - rendering this vulnerability low-risk (at least lower than the XSS issue). While we are still working on patching this, it is still not a huge issue. 
+
+You did report the vulnerabilities to us, but I did not like you from the get-go. You always had something to say about our success and kept slandering us to your Discord friends. For that reason, I didn't thank you for the vulnerabilities as you had actually abused one of them for a whole hour to give people coins. 
+
+Regarding Hostaris, you had NO right to include this in your thread as Hostaris is not associated with OptikServers and you know we have done nothing wrong on this part. You know exactly why we were temporarily banned from LowEndSpirit (which is being lifted on the 27th) as I had quite literally explained the whole situation to everyone in the group at the time, which you were in.
+
+Our reviews are down to the LowEndSpirit situation, one of which is actually from you which deems only 1 negative review on the site - which is pretty usual for a company. 
+
+I'd also like to point out that the messages from Samuel are all a year or older which clearly suggests you really went digging for screenshots and shows you're desperate to bring us down for some reason. Samuel has agreed that the things he said in the past were not acceptable whatsoever and he has been working on that language. 
+
+I would like to point out that you actually hit our Hostaris panel earlier this morning. You will deny it but you know you did it. We received a DDoS attack from an IP in India which after a quick DB search, was linked to Chirag's account. Very smart of you to hit us from your own broadband - an abuse report has been sent to Airtel regarding this. 
+
+That's all my input and we will not accept further questions via "drama.gg",
+Josh
+Chirag - J0SH give people coins.
+
+ooh yeah, 1 coin is worth so much right ahahhaha. OMG NO I GAVE EVERYONE 1 single coin, what's gonna happen now, the economy is ruined
+J0SH - I also have reason to believe that you have pinged everyone in the JFR server we gave to you. Absolutely disgusting. - https://drama.gg/assets/files/2023-02-22/1677082994-553149-image.png
+Chirag - J0SH I also have reason to believe that you have pinged everyone in the JFR server we gave to you. Absolutely disgusting.
+
+you didn't give it to me, I paid for it...
+J0SH - Chirag You paid for a 1 month JFR, which we left up out of goodwill
+Chirag - J0SH it wasn't one month, i still have dms with you and you never said one month.
+FatGrizzly - I'll send you 100$ if Airtel suspends chirag's internet services.
+Chirag - FatGrizzly LMAO, they won't even care if it was my IP lol, but I didn't do it so /shrug 💀
+J0SH - Chirag But you just did though... We have definitive evidence and if anyone would like to request it then I don't mind direct messaging me.
+FatGrizzly - J0SH post evidence publicly with censoring ip
+J0SH - FatGrizzly Posting it with a censored IP won't be definitive evidence though because the IP is the main part in this.
+Chirag - FatGrizzly don't censor it, it's not mine anyways 💀 
+and db as evidence doesn't count since you can modify it which you already did
+J0SH - Chirag's Hostaris account
+
+DDoS attack from Chirag's IP
+
+
+
+Now I understand that he is going to claim that we have edited the DB, but he sent us his IP an hour after the incident thinking we're thick - of course, his IP is dynamic. The IP he sent us was within the same /16 as the one we were attacked by. Now, this can be considered circumstantial evidence, as Chirag had something to say at about 12 PM this morning - it's a huge coincidence that we were attacked directly after Chirag threatened us. The query string was also "?cock" which really is something Chirag would do. 
+
+
+
+
+The top message was sent at 12:18, to which we had our DDoS attack at 12:36. Not a coincidence. - https://drama.gg/assets/files/2023-02-22/1677084539-295305-image.png
+J0SH - Chirag's Hostaris account
+
+DDoS attack from Chirag's IP
+
+
+
+Now I understand that he is going to claim that we have edited the DB, but he sent us his IP an hour after the incident thinking we're thick - of course, his IP is dynamic. The IP he sent us was within the same /16 as the one we were attacked by. Now, this can be considered circumstantial evidence, as Chirag had something to say at about 12 PM this morning - it's a huge coincidence that we were attacked directly after Chirag threatened us. The query string was also "?cock" which really is something Chirag would do. 
+
+
+
+
+The top message was sent at 12:18, to which we had our DDoS attack at 12:36. Not a coincidence. - https://drama.gg/assets/files/2023-02-22/1677085055-934624-image.png
+J0SH - Chirag's Hostaris account
+
+DDoS attack from Chirag's IP
+
+
+
+Now I understand that he is going to claim that we have edited the DB, but he sent us his IP an hour after the incident thinking we're thick - of course, his IP is dynamic. The IP he sent us was within the same /16 as the one we were attacked by. Now, this can be considered circumstantial evidence, as Chirag had something to say at about 12 PM this morning - it's a huge coincidence that we were attacked directly after Chirag threatened us. The query string was also "?cock" which really is something Chirag would do. 
+
+
+
+
+The top message was sent at 12:18, to which we had our DDoS attack at 12:36. Not a coincidence. - https://drama.gg/assets/files/2023-02-22/1677084788-923787-image.png
+J0SH - Chirag's Hostaris account
+
+DDoS attack from Chirag's IP
+
+
+
+Now I understand that he is going to claim that we have edited the DB, but he sent us his IP an hour after the incident thinking we're thick - of course, his IP is dynamic. The IP he sent us was within the same /16 as the one we were attacked by. Now, this can be considered circumstantial evidence, as Chirag had something to say at about 12 PM this morning - it's a huge coincidence that we were attacked directly after Chirag threatened us. The query string was also "?cock" which really is something Chirag would do. 
+
+
+
+
+The top message was sent at 12:18, to which we had our DDoS attack at 12:36. Not a coincidence. - https://drama.gg/assets/files/2023-02-22/1677084881-244956-image.png
+Chirag - J0SH The IP he sent us was within the same /16 as the one we were attacked by
+
+you realise how massive a /16 is 💀
+J0SH - Chirag That doesn't matter - the point is both IPs are from the same ISP/ASN
+J0SH - The initial evidence is enough either way but you seem to think we've edited the DB and you know we haven't
+Chirag - J0SH 🤣 i'm dying
+samxd - Chirag It was clearly you whom initiated the attack, straight from your own network! I thought there was a little more packed upstairs in your regard, but I suppose not.
+
+The relevant screenshots have been attached below. Airtel Broadband have been contacted, and we're awaiting their response. - https://drama.gg/assets/files/2023-02-22/1677086604-464041-image-33.png
+samxd - Chirag It was clearly you whom initiated the attack, straight from your own network! I thought there was a little more packed upstairs in your regard, but I suppose not.
+
+The relevant screenshots have been attached below. Airtel Broadband have been contacted, and we're awaiting their response. - https://drama.gg/assets/files/2023-02-22/1677086604-652269-image-37.png
+samxd - Chirag It was clearly you whom initiated the attack, straight from your own network! I thought there was a little more packed upstairs in your regard, but I suppose not.
+
+The relevant screenshots have been attached below. Airtel Broadband have been contacted, and we're awaiting their response. - https://drama.gg/assets/files/2023-02-22/1677086604-782562-image-41.png
+samxd - Chirag It was clearly you whom initiated the attack, straight from your own network! I thought there was a little more packed upstairs in your regard, but I suppose not.
+
+The relevant screenshots have been attached below. Airtel Broadband have been contacted, and we're awaiting their response. - https://drama.gg/assets/files/2023-02-22/1677086605-207142-image-29.png
+Robert - This thread seems to consist of Chirag taking the piss and doesn't seem to contain any useful evidence so I'll be taking it down. If any useful evidence comes up, the post may be brought back online.
+Chirag - Josh seems to be using this as an excuse (that his code is 2 years old): 
+
+
+Josh also seems to think that his client panel and services are very secure - https://drama.gg/assets/files/2023-02-23/1677113380-434555-image.png
+Chirag - Josh seems to be using this as an excuse (that his code is 2 years old): 
+
+
+Josh also seems to think that his client panel and services are very secure - https://drama.gg/assets/files/2023-02-23/1677113472-151419-image.png
+Chirag - Josh seems to be using this as an excuse (that his code is 2 years old): 
+
+
+Josh also seems to think that his client panel and services are very secure - https://drama.gg/assets/files/2023-02-23/1677113294-114726-image.png
+Chirag - Josh seems to be using this as an excuse (that his code is 2 years old): 
+
+
+Josh also seems to think that his client panel and services are very secure - https://drama.gg/assets/files/2023-02-23/1677113540-391714-image.png
+Chirag - Josh seems to be using this as an excuse (that his code is 2 years old): 
+
+
+Josh also seems to think that his client panel and services are very secure - https://drama.gg/assets/files/2023-02-23/1677114251-473848-image.png
+Chirag - http://web.archive.org/web/20230223120701/https://find-and-update.company-information.service.gov.uk/company/14630388/officers
+https://archive.is/JLGNa
+
+
+clearly not their actual address
+and also fake date of birth 👏 
+and josh's nationality is "Pakistani" for some reason - https://drama.gg/assets/files/2023-02-23/1677154266-416685-image.png
+Tomas - Chirag I don't think they are fake birth dates?
+Chirag - Tomas they are, josh is 15 and samm is also 17
+Chirag -  - https://drama.gg/assets/files/2023-02-23/1677160933-665846-screenshot-2023-02-23-19-31-34-69.jpg
+Tomas - Chirag Maybe he just hasn't updated that?
+Chirag - Tomas no, he set that recently and no way he hasn't updated that in almost 2 years?
+Chirag - Pretty sure about me didn't even come out an year ago Tomas 💀
+J0SH - The "Pakistani" nationality was an error on Companies House's side and we are trying to get this rectified.
+
+The correspondence address is also a well-known business &amp; personal redirect service which thousands of companies use on Companies House. That is not illegal whatsoever.
+
+Regarding the date of birth, if this has been keyed in wrong we will make sure it gets rectified, as you can see the company registration is not very old and we would've made a mistake.
+
+Is is very clear Chirag is pulling every move and looking through all of our documentation, he has also done a deep dive into our SEO and is constantly harassing me and other people in direct messages. All being done under Sydney's watch. Absolutely disgusting.
+J0SH - May I ask why you posted this from the web archive? You know companies house shows a history of officers whether or not we've updated it?
+Chirag - J0SH just in case you do some weird shit, everything is being archived.
+Chirag - J0SH Regarding the date of birth, if this has been keyed in wrong we will make sure it gets rectified, as you can see the company registration is not very old and we would've made a mistake.
+
+It has been put in wrong lmao, you're 15 and samm's 17.
+
+constantly harassing me
+  
+LMAOOO
+Chirag - J0SH Absolutely disgusting
+
+You clearly know what you've done, so do I, and so does sydney, unless you want me to send all of that here please, with all due respect, kindly shut the fuck up.

@@ -1,0 +1,168 @@
+Korbs - There a lot of things I see a lot of hosting companies do and I'm sick of how they are run.
+
+Sure, a lot of them do provide good services and decent hardware, without abusing power and providing quality support to their customers....and some don't ;-; how rude
+
+Support
+Stop making your customers go to Discord for support, some of us don't want to be on Discord, or probably don't even know what Discord is. Sure, a lot of your customers may already have a Discord, but that doesn't mean you should make them join your server to get support.
+
+Instead, provide an internal option that doesn't involve your customer going to other platforms and joining groups, servers, or whatever. I can think of a few ways of doing this starting with a community option and another option to talk directly with trained support members.
+
+Live Chat and/or Over the phone
+Provide a live chat widget in your panels where your customers manage their servers, this way if they need help they don't need to leave the panel or open a new tab to anywhere else. If you have the money and support members with good English speaking skills(or in other language), you can pay for a phone number that your company can use for your customers to call and get support over the phone.
+
+For live chat, I recommend Crisp for high quality support.
+
+Forums
+If your host has grown to have a wonderful and an inviting community around it, creating a forums would be a nice additional. This can be a good alternative place for customers to get help, by asking other customers about their experience and for help. 
+
+For a forum software, I recommend selfhosting with something like NodeBB or you can do some research and look around.
+
+Old Fashison
+At the least, please, do provide email support for your customers. The company I use to work for seems to of dropped email support, which I wasn't a fan of as I did prefer working with emails instead. 
+
+Make sure the email provider you're using is fast and reliable. If you have the money, I highly recommend FastMail.
+
+Train Your Support Staff
+You should train your staff members to know the interface of your panel that customers will rely on to create and manager their servers along with features that it offers. You plan to add a new feature and add-on onto the panel, make sure your support staff members are trained for new additional these will bring.
+
+Your staff members should also be at least experience with the services that your host provides, commonly we do see most host in these areas offering servers for Minecraft and Discord bot hosting. So your staff members may need to know how to manage a Minecraft Java/Bedrock server along with experience in Discord bot hosting and keeping up to date.
+
+Stop Offering So Many Services
+Some companies's supported service list are huge, providing support for games that your staff members probably never heard of and are probably not interested in, let alone they're probably not trained to help customers who are having trouble with it. Actually, most of the games and services on your list might not even get touched by your customers. 
+
+Start out with only a couple things that are basic, perfect it, optimize it, and get better at it. Then you can think about adding more services in the future if your customers request it.
+
+Don't be Cliche
+If you plan to or are starting out on creating a new hosting company, please be more unique about your branding, your mission, and services. Make creative with your naming and your logo, maybe hire someone to create a logo for you.
+
+So, do avoid providing hosting for services like Minecraft, Discord Bot Hosting, along with other common option you see. There are already too many hosts that provides these options, so you need to go out there and provide hosting for other options. Maybe provide hosting option for stuff like media servers, matrix, Mastodon (Popular, I think), and more. 
+
+Don't use overrated panels like Pterodactyl, Pufferpanel, etc. I'm just sick of seeing them over and over again. Some of the more successful hosts that you do see around today use their own panel and their own code. So, sit down and take the time to create your own panel. Don't know how? Just hire a developer who knows how. It's best that you have a decent backend and a sexy backend for your customers to enjoy and to have a smooth experience. Make sure to do case studies and improve your panel.
+
+On the subject of panels and your website; STOP USING TEMPLATES AND BOOTSTRAP! MAKE IT YOURSELF!!!
+Hire a frontend developer, like FalixNodes did with me, to build your landing page and your client panel. Make it unique with your branding. 
+
+Be More Prepared
+Speaking of new companies that now starting up, it's best that you should prepare months in advanced. Make sure that your company provides a Terms of Services, Privacy Policy(Keep GDPR in mind), and other policies as needed. 
+
+I've seen some companies go downhill quick because they didn't provide or have the proper documents for their customers to read. You can probably see some examples on drama.
+
+I would take a look here at Iceey's: https://drama.gg/d/89-whats-a-gdpr-a-tos
+
+
+Also check out:
+I don’t want to log in to your website - https://www.theverge.com/2023/2/28/23618804/google-facebook-login-ads-web-design-hell
+Tomas - great way to sneakily advertise your services on a thread filled with basic common sense 👍
+Korbs - Tomas Because I'm available for hire? Me- oh Falix, not my service, I don't get paid anymore by them.
+Tomas - No I'm not on about Falix
+flaxeneel2 - Well said. Yeahh forcing to use discord for support is kinda pain, both for the customers and the staff. Because many staff use their main account for the moderation, they tend to get pestered by customers even in their DMs, putting unnecessary pressure on staff to answer, most staff would just ignore, making it even worse as that worsens the  customer's perception of the support quality. Online forums and/or tickets (cough even the default WHMCS ones cough) are often a way better alternative, and look more professional.
+
+Training support staff is also pretty important, sometimes maybe even investing in getting proper support staff that aren't 'voluntary staff' (cough free labour cough). Not a knock against any hosting in particular, but a lot of the times the untrained volunteer staff (that are only there because they want to help in their free time and don't actually already know about common issues and how to resolve them) tend to be a major factor why someone would complain about the poor support quality.
+
+Can't really talk much bout not being cliche considering my host is also based off of pterodactyl, but yeah, even if you aren't a big frontend guy like me, you can definitely at least make custom eggs like I did for my host, its not too hard to learn either (trust me blockhead approved 👍️ ). Don't be afraid to take a leap and try modify stuff yourself (as long as you do it in a test environment), it actually gets fun building custom solutions after a while. Not only does it help you make more modifications and quick adjustments to enhance user experience, it also makes it look as if you aren't some rand shithost that;s gonna go down in like 2 days anyways.
+
+Also yeah just dont use nulled stuff if u dont wanna become a meme overnight
+Chirag - I disagree with you @Korbs. I think my host is the best possible free host to ever exist ngl, https://client.chiragdev.xyz check it out yourself
+Korbs - Chirag Let me guess, that's a Rick Roll link or a link to a weird website. Your tricks won't work on my brain!
+Sydney - Korbs DM me on Discord 😉
+Korbs - Sydney 
+
+No, that would also defeat some of my points here. Just email me or reach me on Mastodon.
+Sydney - Korbs I don't know your email and fuck Mastodon
+Chirag - Korbs jeez this man's smart 💀
+Young - Korbs 
+
+How did you know it was a Rick Roll in the first place? - https://drama.gg/assets/files/2023-02-20/1676931387-125442-image.png
+Jxshxx11 - Young gattem
+Korbs - Young I've seen the link before, pretty sure he used it many times on Discord
+Snyder - I 100% agree with you Korbs. Hosting companies that use discord as their main place for announcements, support, etc are not great. I think hosting services should start posting announcements on their client area/ website/panel. Most hosts I know have competition on having the most members on their discord server. Like what is the point of that, probably 1/2 of them don't even use it as people know alts. There does need to be a change, there are no issues with having a discord server, just don't make people rely on it. Just use a discord server as a community where people can hang out and talk about their servers or something. There are many client area free hosts used such as Dashactyl, Faliactyl, qwakactyl, Reliactyl, Heliactyl(Badsk) &amp;, etc. I suggest people use REDACTED(Releasing Soon!)
+
+There are many hosts that don't rely on discord servers, PebbleHost, ApexMinecraftHosting, Aternos, PloudOS, and Shockbyte, the list can go on forever. 
+
+Going onto services as Korbs said, it is understandable as to why free hosts run by 13+ year-olds have so much software such as NodeJS, Python, Code-Server, Minecraft, Bungee, FiveM, and more. I think only paid hosts should have many options. Free hosting services can't afford big scaled servers and get pressured by members asking for Asia Node Please, America Node Please, and India Node Please. If you are gonna beg you might as well buy from a paid hosting service.
+
+Support needs to be in a range, why discord support? I have nothing else to say about it.
+
+Being prepared. Of course 100%. There are so many hosts thinking they can start of with 1 Node for the service. Stupidness. You need to have at least enough money to last 1 year. Depending on where you buy your servers from, could be £4000 - £20,000. Preparation is important before releasing hosts. My friend GhostLoad says to make a structure for the staff. I don't know if you know what CloudMC is, it was a host I worked for last year that shut down in like 2 months. Every minute there is either a promotion or demotion, in the owner role, the developer role, etc. Jesus my brain was dying watching that happen.
+
+Ahh, it is so funny on how hosting services use pre-made tailwindCss / Bootstrap templates. If you can't make one get a developer as Korbs said,  use Figma to design and send it to the dev, I am sure he can do it for you, or can they? Ye hosts don't care if they can code or not, they just em the role and are done. Or design on Figma and use Figma community plugins and convert to HTML and CSS.
+
+If you gonna be a Skid, and abuse server location every time a free trial ends and user data gets lost, or you're using German hosting services using Ibans that are not yours. Just don't make a service. 
+
+Oh my god training, free hosts without trained support staff, I might as well search on youtube than ask them for help. I am not going to name and shame here, I made tickets asking for help, I did not actually need help, I asked, "Hey how do I update my server to 1.16.5, currently, my server is on version 1.16.", the response I got, "Hey there, I am not sure about your question." Like WTF man? I bet a 7-year-old could answer that.
+Two - it's been like 10 years since I looked at this site, and I would like to specify Snyder's message is pretty stupid.
+
+"Hosting companies that use discord as their main place for announcements, support, etc are not great."
+
+There's nothing wrong with using Discord as a main place for announcements, considering Discord is a communication platform. I would agree it's more conventional to post on the client area or website(s) though, since more people can see them (which is a important point you didn't state out).
+
+"I suggest people use REDACTED(Releasing Soon!)"
+
+Shameless advertising.
+
+"Ahh, it is so funny on how hosting services use pre-made tailwindCss / Bootstrap templates."
+
+There's nothing wrong with Tailwind or Bootstrap. If you never knew, many next.js developers use TailwindCSS and you probably don't even notice it. Even Stripe, Twitch, and Google has used it before/still uses it.
+
+"Oh my god training, free hosts without trained support staff, I might as well search on youtube than ask them for help."
+
+Based. (aka agreed.)
+Sydney - Two Edited
+Snyder - Two 
+
+I am not saying hosts who use discord servers are bad. Just said they aren't that great. 
+
+I never said don't user bootstrap or tailwind. I said don't use pre-made templates such as argon.
+FatGrizzly - Snyder what's wrong with a pre-made template?
+here's a quote from a quite popular webhosting service.
+
+Based on a shamelessly purchased template. We aren't WebDesigners but DevOps.
+Young - Korbs Cope harder.
+Snyder - FatGrizzly 
+
+They don't show branding like Korbs said.
+FatGrizzly - Snyder i don't know, but i feel like half of his post(edit: not half. Maybe a quarter) is just BS. Make your own panel instead of using industry standard production code, which is opensource and is best? Hell nah. You should focus more on the quality of the service, not the looks of the service. You're custom written panel can have several bugs or might have security vulnerabilities too, auditing it is another cost to incur. To avoid all those extra expenses, just use a production software like Pterodactyl. Just because someone is tired of seeing same panel over and over again, we can't switch.
+
+
+P.S - This is my opinion, if you're willing to argue around. Sure. I got time!
+Snyder - Who said don't use pterodactyl?
+Pterodactyl is the best, it has amazing devs and everything you need.
+Pufferpanel is shit ngl.
+FatGrizzly - Korbs Don't use overrated panels like Pterodactyl, Pufferpanel, etc. I'm just sick of seeing them over and over again. Some of the more successful hosts that you do see around today use their own panel and their own code. So, sit down and take the time to create your own panel. Don't know how? Just hire a developer who knows how. It's best that you have a decent backend and a sexy backend for your customers to enjoy and to have a smooth experience. Make sure to do case studies and improve your panel.
+
+@Snyder please read stuff before replying. All i can see from Korbs's post is a self advertisment.
+
+From my perspective: he got fired, so he needs a new company to work with, hence he a made an informative advertisement.
+Snyder - No, falixnodes works on contracts like a proper business. He joined for 1 year only.
+Jen - Snyder There is no way we have dumbasses like you defending falixnodes. After their years of history and LaMaker trying to fuck other discord users to buy him a server for his falixnodes. There's no way that you are defending him.
+Snyder - Jen 
+
+I don't know the history of Falix, I also don't use it.
+All I know is that they do contracts. And they have better owners.
+FatGrizzly - Snyder better owners?  please stop.
+Snyder - FatGrizzly 
+
+Is Lily and Exotical Cat not good owners?
+FatGrizzly - Snyder exo is 100%, i do not wish to comment on Lily. do some searching on this forum.
+
+but still, his post is made because his contract has ended and he is looking forward to sign a new contract or get employed.
+Snyder - FatGrizzly 
+He defo angry with hosts using discord, 100%. He did tell me before making this thread.
+ExoticalCat - What's up?
+Snyder - O hi exotical
+ExoticalCat - Snyder Hi
+FatGrizzly - Snyder okay and? i still feel like this post is an advert.
+FatGrizzly - ExoticalCat hi exo
+ExoticalCat - FatGrizzly Hi
+Korbs - FatGrizzly I'm not looking into just hosting companies to work with, but general sick of seeing the same thing over and over.
+
+I've been meaning to post this for a long time, I just didn't want to while working for FalixNodes. I was trying to push FalixNodes in certain direction without effecting profits, but I am kinda too late for that for moving us to a different panel and such.
+Korbs - Since people keep seeing this as an advert, even thought like 99% of this post isn't, I might as well just removed those parts.
+SoSad - Korbs We should talk via discord
+Korbs - SoSad That won't happen. I officially left Discord last year.
+
+You can reach me on either Mastodon or Matrix.
+Sydney - Korbs Why not anymore common ones??
+SoSad - Korbs Why discord is so great 💯
+iiChxrlly_ - I kinda agree and disagree at the same time from the Korbs's post above. Because whenever I trained my staff team, they never watch the Live Chat tickets and they do prefer discord. And I also did create a Privacy Policy &amp; Terms of Services in a PDF file. (I might gonna put it on the website soon)
+loyallyStubborn - underrated thread.

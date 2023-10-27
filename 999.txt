@@ -1,0 +1,89 @@
+Oliver1234dotdot - any new, small paid hostings?
+dchu096 - Hey oliver,
+
+Why dont you try using disboard and search for hosts? dig around a few and see which one fits you most.
+
+heres some similar threads:
+
+https://drama.gg/d/996-can-someone-suggest-me-some-real-cheap-vps
+https://drama.gg/d/852-any-good-free-mc-host/63
+Oliver1234dotdot - dchu096 Oh good idea about disboard, didn't think of that 😃
+YusufYaser - yes, viteza.cloud
+dchu096 - https://drama.gg/d/994-bluefoxhost-ddosing-staff-being-racist/51
+
+read this before you try
+
+Yes i know im being a... but ok
+dchu096 - FlaringPhoenix actually, i might go check it myself. let me join that discord
+luffyy - Arknodes
+Giyu - if i say the best cheapest one is contabo now some people start to argue over it but all knows that now contabo is decent
+Giyu - and also aws lightsail not ec2 gives 3 months of free trial with dedicated hardware
+Giyu - it is good for private usage - https://drama.gg/assets/files/2021-09-14/1631592841-911643-image.png
+Grabstop - Hey, I recently opened a host named "CelestialHosting"
+
+check it out at https://celestialhosting.xyz
+
+Any feedback is appreciated.
+Kowone - Grabstop oh god.... why controlpanel.gg
+Kowone - why not use whmcs or blesta for paid host
+Grabstop - Kowone Is there something wrong with it?
+Grabstop - Kowone Im getting blesta soon 🙂
+Kowone - for a paid host to use controlpanel.gg..... it doesn't sound that good
+Grabstop - Kowone But we focus on budget servers in different locations, we already have slim profit margins.
+Kowone - Grabstop yes, blesta much better :+1:
+lucaiscool - my host, flownode.net, recently released
+Two - Oliver1234dotdot jeekie.host is the best
+Grabstop - Two yeah just their downtime and issues recently attracted me away
+Scripted - flake.host coming soon dm Scripted.#2029 if you wanna invest
+Saqib - Grabstop Wdym downtime lol, JH has 99.99+% of uptime on nodes according to https://status.jeekie.host/
+AkiHiro - Grabstop If you are a small host with small profit margins controlpanel.gg is really good.
+It's a community project on Github currently managed by 4-5 people. It's free and it does not have any fees except the PayPal fee. There's nothing wrong with it I mean just check it out on Github the entire code is available there. It's also custom made for Pterodactyl so that means less configuring than blesta or some other WHMC clone.
+CharityLexus - Oliver1234dotdot Plainhost is alright but not the best (edit because some people are replying thinking i own it)
+Chirag - CharityLexus dogshit, you were fucking caught using nulled themes on your pterodactyl
+CharityLexus - Chirag i dont own plainhost lmao, i'm just a user
+SnailDOS - CharityLexus nice website template lol
+CharityLexus - SnailDOS its not my hosting
+SnailDOS - CharityLexus ah. okay. nevermind.
+Grabstop - AkiHiro I bought blesta, I’d rather have my users have a nicer experience than me gaining profit
+luffyy - Two HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+EmeraldMike - Why do people keep asking these questions here. THE ABSOLUTE MOST BASED AND TOXIC PLACE. I can't tell if these are jokes or legit at this rate
+Two - luffyy ARKHOST BETTER
+Z81D - Oliver1234dotdot hostacks honestly a really good and CHEAP vps windows host, I have a server with them now and i am looking to get a couple more really soon
+Jamie_ - colournodes.com 😉
+Shershah - Jamie_ best paid host I have ever seen, full ddos protection.
+Ichigo - Two no way o.o
+XxMBGxX - Oliver1234dotdot now you own one 🙂
+Timanttikuutio - XxMBGxX why did you have to reply to a year old thread? That's just unnecessary.
+Jen - Oliver1234dotdot https://jenvm.com
+Koisip - Jen why is the design of this so similar to hye hosting?
+Jen - Koisip What are you talking about? It's a totally different web designer not even using hye as the inspiration.
+Koisip - Jen  Nah nvm, there was a website called "Hye Hosting Spain" and the design of jenvm.com looked similar to it. (Not a copy and pasted version, just similar design choice)
+Win - Koisip https://hyehosting.com/ these guys?
+MicroBot - Win that website isnt even existent I think it was the one that used to be but it is https://cloud.hye.gg is the official one I think
+Koisip - Win To my knowledge yes.
+
+Idk if they are the same people at the other hye hosting. - https://drama.gg/assets/files/2022-11-18/1668810693-956105-image.png
+Justin - Now i don't wanna brag.. but https://hostvio.net is an amazing hosting (duh.)
+Jen - Justin Truly the best - https://drama.gg/assets/files/2022-11-28/1669662525-864856-image.png
+Imback - XLL Large
+Jen - alvapepsi get ur shit host off this platform
+Timanttikuutio - alvapepsi home hosted servers? LMAOOOO. you are the biggest joke i've heard today
+alvapepsi - Timanttikuutio well we dont abuse providers (clearly unlike you) so
+alvapepsi - Jen god your funny
+Sydney - alvapepsi What in the actual fuck is wrong with you? Is your one functional brain cell having a fucking stroke? Or are you just salty and attacking anyone bc your imaginary girlfriend said your ween is too small?
+TheYeetster - PS; if you don't want any drama with being a client of a host: https://galactiq.net
+Timanttikuutio - alvapepsi excuse me? I didn't know i was still running a host lol. And if you're referring to kubbur, we literally had our own servers in a datacenter at equinix LD8
+Timanttikuutio - TheYeetster and as for you, i have no idea who you are, but I honestly wouldn't trust any smaller host at this point. Go for someone like Hetzner, BuyVM, OVH, Bloom.host, Pebble host, etc.... The businesses i just listed above have all been stable providers for the last decade or so
+Timanttikuutio - Except for bloom.host, but i believe they've been operational for 2 years or so^^
+Chirag - Timanttikuutio Hetzner, BuyVM, OVH, Bloom.host, Pebble host, etc....
+
+also contabo, they've been around for almost 20 years now
+Jen - alvapepsi I'm about to get you banned from this forum. cause your clearly underage.
+gsfH - alvapepsi Sorry to break the news to u but tim doesnt abuse any service to make a shitty host
+Timanttikuutio - gsfH the funny thing is, i dont even run a host anymore lol
+gsfH - Timanttikuutio I just think he's some random kid that says he doesn't abuse but he does and when people expose him for it he tries to put it on someone else 🤷 just my opinion on this mess
+alvapepsi - Jen LMFAO
+alvapepsi - Sydney actually i dont have any functioning brain cells so
+alvapepsi - gsfH not rlly, ill admit i used to abuse on previous hosts but yeah im getting home servers now
+alvapepsi - gsfH k ig, the reason i said "(clearly unlike you)" was as he was laughing at me using home servers but yeah alr good i guess
+XxMBGxX - Timanttikuutio bored tbh just going through old threads

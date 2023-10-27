@@ -1,0 +1,889 @@
+Jen - What Do we all think, 
+#1 horrible owners Attitude
+#2 The owner doesn't even know how to use WHMCS LMAOOOO
+#3 Sold a 10 Dollar VPS for 3 months hosting for 64Gb Ram VPS Because he couldn't afford to pay to keep his hetzners up, 
+This is Clearly a sign that this hosting is Doomed 
+
+Even More Proof That he did sell that 10 Dollar VPS just to Pay that Hetzner Bill For 1 month - https://winterhoax.com/assets/files/2020-09-14/1600125930-131174-image.png
+Kloxified - I currently work at Hye Hosting as I got a position there before the new ownership. (Keep in mind)
+
+Here are a few reasons why Rectrox (Rosey) should not be an owner.
+
+The Staff Team is in shambles: Rosey is hiring and firing people from executive roles on a daily basis.
+Support is trash, nobody knows how to do the job.
+Uptime is garbage, refer to screenshots for proof.
+Rosey doesn't know how to use WHMCS.
+Rosey is the only one with root access to all the servers and doesn't know how to do anything with them, they had to bring in the old owner to fix the issues.
+Rosey is the most immature child I have ever met, he quit from an executive position at Hye because he didn't want to pay for a bill in euros.
+He asked his parents for $1500 to buy Hye Hosting and he is "14 Years Old" (Sound like 10 in VC's)
+A good 50% of the general chat was saying "Hye is dead" and "Hye has no potential" after he took the company over.
+He tried to code a Discord bot for the company but "Messed up a line of code" and the bot deleted every single channel in the discord.
+
+Final thoughts:
+
+Do not buy from Hye, sure it's cheap but if you refer to screenshots below uptime is trash. Rectrox (Rosey) the owner is very immature and not to be trusted. Support is trash, people have been waiting for 3 days with their server offline with no confirmation that it will come back. Overall Hye was once a great hosting (Under Ownership from Endermined) but now it is nothing like what it once was and it will probably die in the coming months.
+
+I'm probably gonna get fired now :D
+
+Thanks for reading,
+Kloxified
+
+Screenshots of the uptime: - https://winterhoax.com/assets/files/2020-09-14/1600126540-333680-image.png
+Kloxified - I instantly got banned after posting the link a few times in their discord.
+Kloxified - I also found out he gets cracked plugins from cracked.to. - https://winterhoax.com/assets/files/2020-09-14/1600127922-422807-image.png
+RoseyMC-freehyehostingcom - Most of these are not true. We are coming back stronger than ever. So this should be delete, and i cant have a account at cracked.to.
+RoseyMC-freehyehostingcom - You know our uptime isn't, bad for just migrating the data.
+RoseyMC-freehyehostingcom - This is not true "The Staff Team is in shambles: Rosey is hiring and firing people from executive roles on a daily basis."
+RoseyMC-freehyehostingcom - "Rosey is the most immature child I have ever met, he quit from an executive position at Hye because he didn't want to pay for a bill in euros." Thanks wrong
+RoseyMC-freehyehostingcom - https://gyazo.com/ffbfe1241707114d8f580b6ef877e456
+RoseyMC-freehyehostingcom - "He asked his parents for $1500 to buy Hye Hosting and he is "14 Years Old" (Sound like 10 in VC's)", its because i haven't got my deap voice, and I never talk because thats why.
+Deleted User - Kloxified No joke, but Hye without Ender is just a pile of garbage. When Ender became Hye's temporary Managing Director, I think the probability of Hye's surviving is high.
+Endermined - @Kloxified Yeah the first day was kind of rough. I came back so I can train him and the other MDs on how to properly manage Hye. Basically try to turn them into a bunch of Ender's hopefully. Didn't except all the backlash though, didn't think I would be missed THAT much.
+Endermined - I can confirm nl.brd.1 and us.dal.4 are down for migrations. Also, us.pxn just has the wrong ip, and has had the wrong ip on hetrix for a couple of days since we migrated web servers.
+Endermined - Also I these weren't really issues when I owned the company, so I feel like this un-neccicarily is damaging my reputation, just saying.
+Endermined - I think maybe you should give him a week-ish with the company then draw your thoughts. I don't typically just fire employees on the spot because they make mistakes like that. I train them, if training doesn't work, then we can talk about firing, point being, making all your assumptions after someone is with the company for one day isn't really the right way to go about it.
+
+Also I want to be clear here, I am neither on Rectrox's or Kloxified's side on this one. This is just my honest opinion im writing here.
+Jedrik - RoseyMC-freehyehostingcom I doubt that, you're already on your way to bankruptcy at a fast rate, but since you're a spoiled brat you're prolly getting your funds from your parents
+Jedrik - You've also been trying to suspend people (not naming names) "for braking your TOS" without proof of doing so, and just bold claims
+Jedrik - And you can't take anything, we insult you a little bit and we're already banned, even falixnodes can handle shit being thrown at them properly, j e s u s
+Jedrik - Gladly Ender isn't leeching off his parents and actually knows what he's doing, so be glad he's there, you'd be fucking embarrassing the name Hye Hosting which had potential until you took over
+Ryder - You clearly hate people - https://winterhoax.com/assets/files/2020-09-15/1600145072-6064-image.png
+Endermined - Wanna just be clear, this isn't the version of Hye I owned, so don't go putting this on my reputation lol
+Ryder - No its nothing on your reputation. Am just saying that he hates some people and yeah I dont really care about this community so dont expect a reply from me regularly
+Jedrik - Exit scam when - https://winterhoax.com/assets/files/2020-09-15/1600146275-212876-screenshot-2020-09-15-13-03-52-97.jpeg
+Endermined - Yeah, meant it as a PSA type deal lol
+HCS - They paid a good amount of money for Hye so surely they have enough to pay Hetzner fees.
+HCS - Jedrik Could you show proof?
+Jedrik - HCS - https://winterhoax.com/assets/files/2020-09-15/1600152077-532679-image.png
+AYS - Rosey didnt pay shit yet
+HCS - Damn, I don’t know what you did but I would like the owner or someone from hye to respond to this since they can’t just terminate services for “no reason” @RoseyMC @RoseyMC-freehyehostingcom
+Jen - @HCS Its funny because, He needed 10 Dollars more just to pay the hetzner bill
+If he didn't have 10 dollars extra last time how do we know he can pay the 200 Euro Every single month.
+Endermined - Alright now I'm getting pretty pissed. Still haven't gotten paid for my fucking 1 year of my life/work. Seems to be making up excuses. Not gonna make any assumtions so don't take this statement as a confirmation, but I'm getting pretty pissed off right now. You can't just be like ooohh tomorrow, ohhhh not today, tomorrow every day for something as big as this. Also I already set out plans on where I'm investing that money into Heimsnet. How am I supposed to do that if he doesn't pay in time? Everything in my life is pretty much getting destroyed from this deal at this point.
+Endermined - @HCS I have not received payment yet and I'm pissed about it
+Jen - @Endermined Its no Surprise to be honest that he didn't pay up. I mean its rosey what can you expect
+Jedrik - He pinged everyone saying he already paid and was saying anyone who mentions it gets a mute then deletes the message after it was put out that he hadn't paid
+Jedrik - FalixNodes 2.0 anyone
+Endermined - Nodes are getting shut down until he pays. That's how I'm gonna play now.
+Jen - @Endermined Wait Can we call first
+Deleted User - Jedrik it's different lul
+
+At least falix didn't steal years of hard work like this person is attempting to do.
+Ryder - Why didn't you let him go first?
+Endermined - If anyone's still interested in buying DM me. Bids are opening up again.
+Neon - Ryder Ryder check discord
+Jen - Well Hye is Gone and hopefully Ender will re-auction it to an owner who can take care of his hard work.
+Neon - Endermined Ender hold it off I have people.
+Neon - Jen Yes please
+eraters - I had actual really important files on one of my vps's there. I haven't been saving it on my pc, I thought the safest place would be my vps. Nope! It turns out, it would be safer to put it in a flash drive in the middle of the road, because there's an actual chance of getting that back. Rectrox still has to pay $1500 and they continue to say "Wait for my parents to get home, I'll ask for the money then." So now, Rectrox owes the 1500 dollars &amp; refunds to each customer. If I could, I would give this -50 stars, because that's all it deserves.
+Neon - eraters Hye needs a better owner like Jen, Endermined (Again), Or Plactrix.
+Deleted User - Neon everyone know Rosey would fuck up somehow
+eraters - Knew**
+Deleted User - eraters sorry miss type lul
+eraters - yeah its fine everyone fucks up at one point in their life, but too many times for rosey
+Neon - Jeekie I had a feeling.
+Jedrik -  - https://winterhoax.com/assets/files/2020-09-15/1600183697-810880-image.png
+Jen - Lmao
+Jen - @Ryder That conversation that is in our DMs has nothing to do with this form, Not sure why you posted it
+Neon - Endermined and we still wait
+Ryder - Jen no idea myself even tho its so funny that you hate people
+Jen - Ryder I've always hated people, You just accept it and move on
+I don't really care what the public sees you know, It doesn't change me either way
+Korudo - Hye has been sold to @Plactrix and @Ryder.
+RoseyMC no longer owns hye.
+QwipticxDev - Why does Rosey scam? what he gets out of it.
+Jen - QwipticxDev Exactly, Rosey says he has changed
+But he hasn't, He keeps following the same path again and again and we are all tired of it
+QwipticxDev - He told me he changed. - https://winterhoax.com/assets/files/2020-09-17/1600365451-136584-discord-s9vyyoleje.png
+Korudo - Well he lies too much too be trusted, @Neon sent 2$ to @SamCo, samco was supposed to buy neon a domain but
+he bought rosey's new host called "firemchosting" / "Firenodes" the domain "firemc.host" with neon's money.
+Me and neon spent about 1 hour getting rosey to send the money back, rosey has also claimed it was free because it was getting parked for free not the domain itself.
+QwipticxDev - lol
+QwipticxDev -  - https://winterhoax.com/assets/files/2020-09-17/1600365749-271667-discord-a8fjb8ksom.png
+Korudo - @QwipticxDev why is your usename qwiptixc and not mrcryptix?
+QwipticxDev - Cause I want to put it like that.
+Soyabn9 - ohhh
+Korudo - QwipticxDev :O
+QwipticxDev - lmao
+Ryder - Its no longer owned by Rosey so yeah we can stop talking about it anymore. Its owned by me (@Ryder) and @Plactrix. Due to Endermined not being able to transfer the LLC It will be rebranded to Frost Node LLC soon.
+Iceey - Oh god
+Plactrix? Are you trying to kill HYE lmfao
+eraters - So rectrox does not own it anymore! It's gone to Plactrix and is rebranding.
+Iceey - please remove the advertisement from the thread.
+Neon - Korudo yeah. In the end it was hell and I ended up buying a good friend a domain.
+RoseyMC-freehyehostingcom - Hello,
+
+I'm sorry for the late apology, i'm very sorry for my actions.
+RoseyMC-freehyehostingcom - Hello,
+
+I'm sorry for the late apology, i'm very sorry for my actions.
+Jen - RoseyMC-freehyehostingcom Its hard to say your sorry, When you just can't stop it
+RoseyMC-freehyehostingcom - Yes, 
+Have i been on in the last 3 weeks? No i haven't i have quit everything i have worked on and just left the commuity.
+RoseyMC-freehyehostingcom - @Jen  Plus, you are NOT the one i want to say sorry to. I hate you in all i just don't want to talk to you.
+Jen - RoseyMC-freehyehostingcom Lol, Ad least I can afford my hardware.
+You put Hye's Customer data at risk because you were unable to even own the company
+Not only did you loose money but you lost your own host
+RoseyMC-freehyehostingcom - Okay,
+My new discord account is TacoBellJavaCraft#0001, you can dm me. If you need my new hosting company its https://javacraft.best
+Korudo - Wait you where Javacraft? O_O
+RoseyMC-freehyehostingcom - Okay,
+My new discord account is TacoBellJavaCraft#0001, you can dm me. If you need my new hosting company its https://javacraft.best
+RoseyMC-freehyehostingcom - Okay,
+My new discord account is TacoBellJavaCraft#0001, you can dm me. If you need my new hosting company its https://javacraft.best
+Korudo - No need for spam
+Endermined - How many hosting companies is this man going to open?
+Jen - Why can't you just learn to stop @RoseyMC Your hurting yourself even more
+Endermined - You know at this point this dude deserves a full on dedicated thread just explaining HIM as a person. I think the fact alone that he raided the WH discord says enough.
+Jen - Endermined ikr
+Korudo - Endermined Wait he was the person who did?
+Jen - Korudo Yes, Rosey was the person that did it
+Korudo - Ah
+QwipticxDev - Korudo I'm staying undercover lol
+Tomas - (Quick notice: most of this has come from Spinge’s POV, I am posting it on his behalf)
+
+Yay, another thread about RoseyMC. What is this? Like the 3rd?
+
+Rocket/Rectrox/RoseyMC or “Gavin M” co-owned/owned SnowyHosting and BombHosting.
+
+Note: Rocket changed their account to BabyAces#2765 (ID: 800131315244204053) 
+
+#### THE START ####
+
+I (Spinge) was a manager at both Snowy and Bomb. But I left not too long after Bomb was created because there was drama, constantly.
+
+Reasons why Rocket shouldn't own a host, or anything at all:
+
+He hired shitty staff through a shitty application and then whined about it, claiming he got "very depressed".
+
+Is never involved with the community
+
+If you dare to hurt his very fragile ego, you'll get instantly silenced and most probably, banned. I was banned more than a few times, but thankfully I have good ties with one of the other owners at Bomb &amp; Snowy.
+
+He doesn't know how to manage shit. The Discord server looks like trash, the website looks like trash, the panel looks trash, and so on.
+
+Prioritized publicity over quality: He had a lot of J4R, Invite rewards, etc. and many clients weren't getting their stuff because noone responded to tickets, when I told him I can make some bot that can interact with the Pterodactyl panel, he ignored me.
+
+Poor at managing anything, he is always promising but never delivering. 
+
+
+#### STORY/HISTORY ####
+
+After Edward owned the Snowy Discord server for a while, Rocket &amp; RusJS (Read the sidenote further down the doc for more info about RusJS) wanted more. Rus &amp; Rocket/Rosey pressured him to give them the ownership over the server, which he accepted because of the pressure.
+
+After realising what he did, he tried to getting it back.
+
+It took like a whole 24 hours of arguing, ignorance, racism, etc. to get a deal. The deal was that Edward should get ownership back when Snowy will reach 1K members, which it did, a week or two later.
+
+When trying to convince Rus to hand back the ownership, he tried to ignore it as much as possible, and he only gave it back when a lot of damage was done.
+
+Rocket Himself
+
+Rocket is a negligent, racist egoist.
+He hired really bad staff for both Bomb &amp; Snowy and later complained and whined about it.
+
+He called me a Nazi 4 times because I said that I was Russian. [meaning his history is like... completely fucked up?]
+
+If you dare to hurt his very fragile ego, you will, as mentioned previously, get silenced and most likely, banned.
+
+
+
+Edward went to start a new host with Rocket known as Bomb, which Rocket now wants to get ownership of too because, as he claims, the support is terrible, when HE was the one who hired the support through a shitty application with stupid questions that were not related to anything.
+
+We were also sorta bribed not to tell anyone about the happenings in the group chat (in which this all happened) 
+
+The bribe was "you can keep the nodes as long as you don't leak" - he was also quite racist in the group and had a thing for attacking people based on where they came from.
+
+The threat was always to turn off the nodes.  When no one listened to him, he turned them off. Everyone was messing around, turned them off. People told him to get Rus to hand ownership back, he turned the nodes off. 
+
+To the very (what seemed) little power he had, had a very big impact on the thoughts of customers. It was quite unprofessional.
+
+
+#### SIDENOTE ####
+
+Soon after the drama at Bomb, Rocket decided to nuke the server and the nodes too. We banned Rus too, but apparently he came back later with proof, that Rocket was threatening to ruin his reputation, which is quite ironic, someone with terrible rep is trying to ruin someone else's rep. 
+
+Rocket also had a no fun policy everywhere, I've seen actual companies that got more laid back policies. 
+
+Also, once he left these places he removed the servers and made it a real mess, then the blames shifted to people like Rus &amp; Edward.
+
+#### SCAMMING ####
+Rocket also seemed to have scammed someone and then refused to refund them when they didn't receive their resources that they got promised
+
+https://cdn.discordapp.com/attachments/792779875416014868/802656102101024768/IMG_20210123_234824.png
+
+https://cdn.discordapp.com/attachments/792779875416014868/802656102311133204/IMG_20210123_234753.png
+
+https://cdn.discordapp.com/attachments/792779875416014868/802656102436700190/IMG_20210123_234550.jpg
+
+https://cdn.discordapp.com/attachments/792779875416014868/802656102641696798/IMG_20210123_234657.jpg
+
+#### CONCLUSION ####
+
+Do not rely on hosts where Rocket is staff or anything like that. He will try to take over that host, especially if its a small one.
+
+Do not make any contact with Rocket, and never trust him. 
+
+
+#### PROOF / EVIDENCE ####
+Racism:
+	https://cdn.discordapp.com/attachments/792819956605255741/792820056596676629/IMG_20201227_195002.jpg
+	https://cdn.discordapp.com/attachments/792819956605255741/792820055992827944/IMG_20201227_195016.jpg
+	https://cdn.discordapp.com/attachments/792819956605255741/792820055695294464/IMG_20201227_195035.jpg
+
+Pressuring Edward to hand over ownership:
+	https://cdn.discordapp.com/attachments/792819956605255741/792820056853315605/2020-12-27_5.png
+	https://cdn.discordapp.com/attachments/792819956605255741/792820057100255232/2020-12-27_4.png
+	https://cdn.discordapp.com/attachments/792819956605255741/792820935883227136/2020-12-26_3.png
+
+Rocket wanting all this drama he caused to stay as a secret:
+	https://cdn.discordapp.com/attachments/792819956605255741/792820993571815484/2020-12-27_7.png
+
+Active Accounts:
+Rectrox#0972 [346401064502951939]
+BabyAces#2765 [800131315244204053]
+
+
+CREDITS
+Writing:
+	Spinge Bib Sqorpnts#0116
+	Tomas#9284
+
+Evidence:
+	Spinge Bib Sqorpnts#0116 
+	Tomas#9284 
+	RusJS#7774
+	Edward Snowden#2417
+	Zayther#1299
+
+
+
+We've tried to check all the evidence provided but most of it is first hand experience. If anyone wants to suggest an actual change, feel free to.
+luffy - You guys in snowy and bomb wanted rocket to give about 7 nodes but you didnt give him any of thr donations you legit got him as a co owner for him to pay nodes for you
+Tomas - luffy Ah- he "donated" those nodes and then expected something in return. Pretty sure the co owner bit was his own idea. Don't believe there was many donations anyway. 
+
+He offered to give those nodes, he donated them. Normally when you donate you don't expect something in return (otherwise its not a donation)
+luffy - When edward had acquired a sum of 500€ he asked rocket what to do with ut rocket asked if he would help him pay but Edward refused
+Jedrik - Merging
+Tomas - luffy Maybe because it was Edward's own money? He spends money on his own servers too.
+
+You see, Rocket actually owned part of both companies and donated nodes. Please look up the definition of donation/to donate. He owned part of the company, so why should the other owner pay him out of his own pocket after he gave them the nodes?
+
+Makes no sense.
+luffy - It came from bomb hosting and snowy  wasnt his. personal money
+BabyAces - Okay there a few things I need to make clear. The first thing I need to make clear is I never scammed anyone in the process of working at bomb or snowy, and I haven't pressured anyone that worked for them. Okay for the scamming, there was a refund policy and I followed the refund policy, and  I posted that in paypal and the thread was closed. Racism, I do admit to.  I do hate Russians and there no issues with that. Okay I didn't pressure anyone. Edward wasn't doing very well during that time and transferred ownership to rus. There other thing to add to this. Edward said he 500$ and I never seen 1 penny of it. They would take all the money and hide it.
+BabyAces - Tomas That isn't true anyway. I was providing everything till he wanted to put 1 node into Bomb Hosting. That is the only thing edward wanted to do. Even ask luffy, I told luffy everything there was to now about bomb hosting. I do not work there anymore and I have a feeling that Bomb Hosting is shutting down as well.
+Tomas - BabyAces I believe even you said the nodes were donated. If you wanted something out of it, you should've actually charged Edward and Rus in the first place.
+BabyAces - @Tomas  You and me new they wouldn't pay for anything. Me providing Free web hosting and MC &amp; Other things what's the whole issue about it.  Plus I have provided for Ark Hosting for almost 2 months now and barely any downtime. 
+
+@luffy, @MicroBot, and @Fallen can even agree.
+Tomas - BabyAces If you knew they wouldnt pay, why did you give it to them in the first place?
+
+You just gave it to them, thus donating.
+BabyAces - I just thought I would be nice. Guess I won't be providing for any of you and I'll stay providing at Ark Hosting.
+Tomas - BabyAces Why did you expect them to pay after? Why didn't you just pull out?
+BabyAces - Okay, I kinda got tired of providing everything for them so I pulled and left Bomb. (PLUS I WAS GETTING HARASSED IN DMS) That is the reason why I left Bomb Hosting.
+luffy - I can agree with that he has provided ark host with 2 nodes that had barely any downtime in the last momth and i was in a group dm with bomb officials and rocket and they were insulting rocket in every message
+Tomas - luffy If you actually read what me and Spinge wrote... i don't see what you uptime has to do with this either
+BabyAces - @Tomas  Is there any big issue hosting for a company that gets 99% uptime because there very nice to me and they don't use me??? That's what you guys did, and you just admit that.
+luffy - I brought uptime in to proove it was good quality unlike in the first part it was written something about bad services for someone else
+BabyAces - @luffy  Haven't you gotten really good servers and I haven't done anything bad to your services. I have done support very well for them and you guys are just basest to Edwards option.
+MicroBot - Yeah @BabyAces did nothing bad to ark host and we are going into v2 and @BabyAces is helping a lot.
+luffy - Tbh ark host wouldnt be where it is without his help
+BabyAces - Yes, I have been working for Ark Since the day it basically started. I have provided enough to them and they are perfectly fine with it. All this is stupid and this shouldn't be a thing, because you guys are all pissed that I took my shit and left.
+SpingeBibSqorpnts - BabyAces There is no issue with hating Russians, there's an issue with calling us Nazis. And you were the one who wrote the refund policy, and you wrote it so it will benefit you. You just took someone's money and ran away.
+SpingeBibSqorpnts - Fallen This client area's Frontend was coded in PHP
+
+PHP Is a backend language.
+EdwardSnowde - luffy I paid him some money.
+Iceey - tried to bribe me so many times lmfao
+EdwardSnowde - SpingeBibSqorpnts I actually wrote the refund policy to prevent unknown, and or wild refunds/chargebacks
+EdwardSnowde - BabyAces *biased, and if hes biased, why is he staff on your hosting
+Jen - Who owns hye now?
+or ghostly
+Ash - Jen Some person name prime who 99.99% got their bitcoin illegally(even said in dms but deleted), which they paid for hye/ghosty. His discord is prime#0007.
+Ryder - how did he get it ?
+
+Ash
+Ash - Ryder I don't know. He said something along the lines of "Yeah. I kinda got the BTC by doing some things not really legal". I don't have any proof but that's what I was told and the msg was deleted.
+Deleted User - Ash how can you get bitcoin "illegally"
+Tomas - Jeekie He didn't get it "illegally", he got it from doing illegal things (supposedly through the internet) - but he also has a part time job I believe
+Tomas - Tomas This makes no sense, what I meant to say was "It isn't illegal bitcoin - he just obtained it illegally (according to Ash)"
+BabyAces - Your both completely wrong. I do not use bitcoin in anyway, and I only use paypal. I do have a part time job for walking dogs and doing things like that.
+Jen - BabyAces Either way ur host still gay
+BobKabab - BabyAces  #fuckrocket (remember me :)
+Daftscientist - BobKabab lmao
+EdwardSnowde - I would like to say that things has changed a lot with the hosting company(s), SnowyHost is now being ran by @RusJS  and being rebranded as Affinity Bot Hosting, which is owned by me, (Edward Snowden), BombHost has entirely removed as much as possible that we can to remove connections to Rocket/RoseyMC/BabyAces, I am trying to get Bomb Host back as the little brat took away everything just because I didn't give him the discord server ownership. Things have changed, I would like to appologize to our clients about the data loss, and the frustration, and anger. I would also like to say that all things ran by Rocket should not be trusted, this includes, the many host(s) that he runs such as Ark Hosting, Ice Hosting, and others, I would also like to say be careful with the data you give him. According to his Privacy Policy, he can sell your data with in a merge, or what ever. Please be considerate on which host you use. 
+
+Thank you so much, Edward Snowden#2417
+BabyAces - Okay, I'm going to be having my honest opinion about winterhoax. I think winterhoax is just a trash fucking commuity that doesn't have a life and they just want to cause drama. They don't now what the meaning of life is and they just want to expose people for more fam. I think that is honestly the most stupidest thing I have ever heard. that is just me but, I will be leaving winter hoax. If you have any issues about this, you may contact me at babyaces@ice-host.gq. This is my far well message to to all the drama that there is. Good bye guys and I will miss a few of you.
+
+Special Thanks to: @Iceey, @Rizer, @eraters , @Plactrix, @Jedrik, @Fallen, @luffy, @RusJS, @rip, @Ryder, @Hye, @EdwardSnowde,. Everyone I worked with.
+
+I'm sorry for all the drama I caused and I don't think I should of caused this much drama. I'll only be working on Ice-Hosting... I will be deleting all my discord accounts... I think it's kinda crazy how many discord accounts I have. Special Thanks to these company's who has helped me grow from a person: Hye Hosting LLC, HighMC Hosting, Holo Hosting (Manager at the start when I gave them the discord), Bomb Hosting, Snowy Hosting, Plasma Hosting, Ice Hosting, MCNodes, MCHosting, Ark Hosting.
+
+I love the people that has helped me threw the hard times of corona / when I first started.
+EdwardSnowde - title continued: &amp; craby/RocketLauncher/Rocket/Rectrox/BabyAces/Aces &amp;HighMC Hosting, Holo Hosting, Bomb Hosting, Snowy Hosting, Plasma Hosting, Ice Hosting, MCNodes, MCHosting, Ark Hosting, Aque.cc, Dynamic Host
+
+This is going to me a megathread by all of the users who have been scammed out of their time, money, and hard work by the users of any and all of Rocket's services. People who have been wronged by the conman of "free hosting" will perish. The man who has made people lost 100s of thousands  of hours on their servers, just because the greed of wanting more. 
+
+Bad, wants me to say this on his behalf.
+Aces probably doesn't pay for his dedis and instead steals them
+
+Doesnt have a single dollar
+https://sryden.is-inside.me/iC5LdwaM.png
+
+Wants me to merge prob as sryden has 11 nodes
+https://sryden.is-inside.me/0ZBc5iTf.png
+
+Scammed others out of money for vids
+https://sryden.is-inside.me/cyeDrXY2.png.
+
+Thats the end of what Bad told me to repeat on his half.
+
+In my part. I had to refund one of Rocket's own VPS customers out of pocket. I asked him to pay back, and he said, "You don't know how this works". He scammed me out of my time, money, and energy, and brain. 
+
+
+I would like for others who have been damaged by Rocket to add your story here.
+Jedrik - Merging
+MicroBot - EdwardSnowde Wants me to merge prob as sryden has 11 nodes
+
+
+Let me reply to this.
+First off BabyAces was in a GC with Fallen, Me, and Luffy.
+And BabyAces was going to ask his dad about getting a OVH Cloud dedi and his dad said yes.
+This is true Aces himself has prob no profit or anything so his dad is his wallet. - https://sryden.is-inside.me/0ZBc5iTf.png
+Deleted User - k but who asked?
+Tomas - ThatBad K but who asked
+onyx - ThatBad K but who asked
+EdwardSnowde - onyx K but who asked?
+Vanquish - BabyAces shut the fuck up you little bech
+onyx - EdwardSnowde K but who asked?
+EdwardSnowde - onyx K but who asked?
+Jen - lmfao when century hosting needs money cause they barely have clients - https://winterhoax.com/assets/files/2021-02-20/1613846979-426156-image.png
+Jen - Hye Is back! Owning Enzonet - https://winterhoax.com/assets/files/2021-02-20/1613852173-907957-hye-event-gay.png
+luca - Jen sign me up
+Hye - FYI EnzoNet is a development group now, not a hosting orginization.
+Jen - Hye Doesn't matter
+Still shit either way
+Hope you like this - https://winterhoax.com/assets/files/2021-02-20/1613852308-53259-image.png
+Jen - luca lol
+EdwardSnowde - Oh also found Aces new tag if you wanna harass him LabMC#0001
+FranXis - EdwardSnowde he change again, now is Rectrox#0001
+Shiv - New tag is TheOfficialAce#2271.
+Bxrk - rectrox is pretty rude
+TheOfficialAce - I'm not rude, I just don't like half of the people lmao.
+Tomas - TheOfficialAce There's a difference, you are rude
+TheOfficialAce - It's just I don't get along with half of the PEOPLE.
+Fallen - You all need to learn to get along and stop bullying people on WinterHoax. I'm fed up getting attacked and seeing my friends get attacked.
+Iceey - Fallen I'm sorry, do you what this skid has done?
+Fallen - Iceey Add me on Discord: Fallen#3333 and tell me what.
+Iceey - Fallen Read the thread mr "fed up" head ass
+Bxrk - TheOfficialAce wait your rectox?
+Fallen - I have read this thread, Looks like one big harassment post. If you don't like someone don't talk to them end of story.
+Jedrik - Fallen Are you actually alright  in the head?
+Fallen - Jedrik Yes I am fine thank you.
+TheOfficialAce - Fallen He is fucking right. I don't like being harassed. I am tired of it and If you keep on Harassing me I'll start reporting discord accounts. I'm done.
+Jedrik - TheOfficialAce Weren't you supposed to leave the community a while ago?
+Jen - TheOfficialAce you can't report a forum to discord
+i'm pretty sure discord would totally ban us all yk
+TheOfficialAce - Jedrik Yes, but I have came back better than ever!
+Jedrik - TheOfficialAce Also, don't pull the "I'm being harassed" card when there's literal valid proof and reasoning behind what you see on your screen.
+TheOfficialAce - Jedrik Half of it is dum. Ask anyone with a brain. Oooo, I forgot you don't got one LMAO!
+Jen - TheOfficialAce you came back better than ever?
+kinda suss
+we don't accept people who came all over the place
+Jedrik - TheOfficialAce This whole victim card isn't proving that you've "come back better than ever", just prove it. You can't deny any of the shit here.
+Jedrik - TheOfficialAce "better than ever"
+TheOfficialAce - Lmao, this is so dum. You guys can go to hell.
+TheOfficialAce - Jedrik Yeah, I can prove everyone point. That this is just fucking false LMAO.
+Jedrik - TheOfficialAce Exactly. Proved my point. You haven't matured, nor will you ever.
+TheOfficialAce - Jedrik Yeah, I came back better than ever.
+Jedrik - TheOfficialAce and you haven't done it?
+TheOfficialAce - Jedrik You should grow some balls. Because you don't have any.
+TheOfficialAce - Jedrik You really want me to start proving everyone point's. Let me get my buddy fallen to come and help me. I now how much you guys like him.
+Jedrik - TheOfficialAce YOU should grow some balls, pulling the victim card, "came back better than ever", then proceeds to make retarded, childish insults.
+TheOfficialAce - Jedrik 
+
+
+The one who say this, but I was being used for half of the shit that I paid for. Not how life works bitch. - https://winterhoax.com/assets/files/2021-03-30/1617063158-86121-image.png
+Jedrik - TheOfficialAce Pulling the victim card, next
+TheOfficialAce - But does it look like I care tho? Uh no. Because I can do what I want with my life, and you can do what you want with your life. This is a BYPASS forum's which doesn't look at the truth. Half of this shit on this god dam forum is not even true.
+Jedrik - said it once, I'll say it again. Stop. Pulling. The. Victim. Card. You could've denied all of these before and proved that you've changed, but noo you went on a quest to be a disappointment, and NOW you pull the victim card?
+Jedrik - TheOfficialAce Shit argument, you came back, actively replying to the thread, then you say "you don't care". Please, I've seen that argument too many times on here. Get some original excuses.
+Sloth - burn
+TheOfficialAce - said it once, I'll say it again. Stop. Pulling. The. Victim. Card. You could've denied all of these before and proved that you've changed, but noo you went on a quest to be a disappointment, and NOW you pull the victim card?
+
+I have actually have changed. But winterhoax has just went threw a hell hole. I remember when this place was not toxic and treated EVERYONE with respect. But knowing you as a admin this dam forum's went to the shitter. You just don't like what I did. You can not like what I did. But that's something that's not going to change. This is saying I steal 2 cookies but you get those 2 cookies back and still hating on me. This is so dum because you guys don't treat ANYONE WITH RESPECT!
+Jedrik - TheOfficialAce It was toxic and was always toxic. You got exposed, you say it WASN'T toxic before. Vanquish got banned for being an annoying cunt, he said it WASN'T toxic before.
+Jedrik - TheOfficialAce This is so dum because you guys don't treat ANYONE WITH RESPECT!
+
+I'm not respecting an immature brat.
+TheOfficialAce - Jedrik This is what I fucking mean. Calling people cunt's and shit. That's dum. You should fucking apolgize to them.
+Jedrik - TheOfficialAce like you didn't insult me earlier?
+Jedrik - if you want to start an argument stop being a fucking snowflake, grow some balls, no one's gonna respect you here, you said it your self.
+TheOfficialAce - I can insult you because your dick to everyone. Is there a problem with me being a dick to you when  you where one to someone else?
+Jedrik - TheOfficialAce Yes, there is. You initiated the toxicity, I'll give it back
+Tomas - TheOfficialAce cunt
+Jedrik - I'm trying to be as reasonable as possible, you initiated it, now you're blaming me?
+TheOfficialAce - @Jedrik  I am not going to argue with you till you apologize to EVERYONE you have hurt. I can't wait for my new forums to be up. ❤️
+TheOfficialAce - Jedrik 
+
+Your not reasonable for anything you do.
+Jedrik - TheOfficialAce Your new forums with your little retarded friend group? Y'know the ones you kept dragging me into?
+
+TheOfficialAce I am not going to argue with you till you apologize to EVERYONE you have hurt
+
+I haven't hurt anyone without valid reasoning, they had it coming.
+TheOfficialAce - Jedrik I will actually like that.
+Jedrik - Shut the fuck up and go back to spamming our forum, oh wait you can't 🤭
+Jen - TheOfficialAce i mean ad least jedrik has a dick
+all u got is a micro peen
+now shut up kid
+eraters - TheOfficialAce you're*
+eraters - TheOfficialAce through* dumb* damn*
+eraters - TheOfficialAce everyone's*
+eraters - TheOfficialAce Would. You WOULD actually like that.
+eraters - TheOfficialAce until*
+Atrixs - Hello there everyone.
+
+So basically this host called BombHost a couple of months ago and it was when Aces owned it with Edward and RusJS (btw bombhost is now good don't show hate to them) and Aces caused a lot of drama.
+
+He's very childish he cannot handle people disagreeing and he made us lose our files like 3 times because Edward didn't give him owner of discord.
+
+I'd like to also know how the hell is he paying for nodes 501298372190 times in like what 1 week? He's only like 14 so obviously he is just using his parents money and doing stupid idiotic things.
+
+So when I was in BombHost I wanted to donate to get some resources. I donated got some resources but guess what the next day all our files are gone and BombHost is dommed. Then it reopened again got my resources back and in like 3 days all our files are gone because of his childish actions. Him Edward and idk other people had this court thing going and he clearly lost it.
+
+After that Aces left BombHost and he was no longer owner I made a dispute on paypal demanding for a refund and he pulled out the refund policy which I clearly met. The blurred out name is me: 
+
+
+
+I DM'ed him like a couple of weeks after and said this:
+
+But I never got it I DM'ed him a couple of times and no response.
+
+
+This is to just say never trust this kid and never trust him when he comes up to your host and be like I'll provide nodes for you. - https://winterhoax.com/assets/files/2021-04-04/1617548410-679094-image.png
+Atrixs - Hello there everyone.
+
+So basically this host called BombHost a couple of months ago and it was when Aces owned it with Edward and RusJS (btw bombhost is now good don't show hate to them) and Aces caused a lot of drama.
+
+He's very childish he cannot handle people disagreeing and he made us lose our files like 3 times because Edward didn't give him owner of discord.
+
+I'd like to also know how the hell is he paying for nodes 501298372190 times in like what 1 week? He's only like 14 so obviously he is just using his parents money and doing stupid idiotic things.
+
+So when I was in BombHost I wanted to donate to get some resources. I donated got some resources but guess what the next day all our files are gone and BombHost is dommed. Then it reopened again got my resources back and in like 3 days all our files are gone because of his childish actions. Him Edward and idk other people had this court thing going and he clearly lost it.
+
+After that Aces left BombHost and he was no longer owner I made a dispute on paypal demanding for a refund and he pulled out the refund policy which I clearly met. The blurred out name is me: 
+
+
+
+I DM'ed him like a couple of weeks after and said this:
+
+But I never got it I DM'ed him a couple of times and no response.
+
+
+This is to just say never trust this kid and never trust him when he comes up to your host and be like I'll provide nodes for you. - https://winterhoax.com/assets/files/2021-04-04/1617548420-701085-image.png
+Atrixs - Hello there everyone.
+
+So basically this host called BombHost a couple of months ago and it was when Aces owned it with Edward and RusJS (btw bombhost is now good don't show hate to them) and Aces caused a lot of drama.
+
+He's very childish he cannot handle people disagreeing and he made us lose our files like 3 times because Edward didn't give him owner of discord.
+
+I'd like to also know how the hell is he paying for nodes 501298372190 times in like what 1 week? He's only like 14 so obviously he is just using his parents money and doing stupid idiotic things.
+
+So when I was in BombHost I wanted to donate to get some resources. I donated got some resources but guess what the next day all our files are gone and BombHost is dommed. Then it reopened again got my resources back and in like 3 days all our files are gone because of his childish actions. Him Edward and idk other people had this court thing going and he clearly lost it.
+
+After that Aces left BombHost and he was no longer owner I made a dispute on paypal demanding for a refund and he pulled out the refund policy which I clearly met. The blurred out name is me: 
+
+
+
+I DM'ed him like a couple of weeks after and said this:
+
+But I never got it I DM'ed him a couple of times and no response.
+
+
+This is to just say never trust this kid and never trust him when he comes up to your host and be like I'll provide nodes for you. - https://winterhoax.com/assets/files/2021-04-04/1617548355-391960-image.png
+Atrixs - Hello there everyone.
+
+So basically this host called BombHost a couple of months ago and it was when Aces owned it with Edward and RusJS (btw bombhost is now good don't show hate to them) and Aces caused a lot of drama.
+
+He's very childish he cannot handle people disagreeing and he made us lose our files like 3 times because Edward didn't give him owner of discord.
+
+I'd like to also know how the hell is he paying for nodes 501298372190 times in like what 1 week? He's only like 14 so obviously he is just using his parents money and doing stupid idiotic things.
+
+So when I was in BombHost I wanted to donate to get some resources. I donated got some resources but guess what the next day all our files are gone and BombHost is dommed. Then it reopened again got my resources back and in like 3 days all our files are gone because of his childish actions. Him Edward and idk other people had this court thing going and he clearly lost it.
+
+After that Aces left BombHost and he was no longer owner I made a dispute on paypal demanding for a refund and he pulled out the refund policy which I clearly met. The blurred out name is me: 
+
+
+
+I DM'ed him like a couple of weeks after and said this:
+
+But I never got it I DM'ed him a couple of times and no response.
+
+
+This is to just say never trust this kid and never trust him when he comes up to your host and be like I'll provide nodes for you. - https://winterhoax.com/assets/files/2021-04-04/1617548384-189325-image.png
+Tomas - Merging with other thread
+Bxrk - bruv moment
+luffy - He did the same to Ark Host
+mtt - Atrixs As always, he probably left that account abandoned after his 300th failed attempt at making hosts. His new tag is  TheOfficialAce#2271
+Atrixs - mtt He went back to his old account after being suspended from his discord account.
+Also have a look at this:
+https://prnt.sc/114z9qb
+https://prnt.sc/114za07
+He actively said "I am not giving you a refund".
+Jen - lol
+
+Atrixs
+EdwardSnowde - i have no clue why this is pinned but ok.
+Jen - he sounds stupid ngl - https://drama.gg/assets/files/2021-04-08/1617925653-597701-stupid-hye.png
+Sydney - Well, I know for sure one of the staff is immature. I was helping a person find a good plugin for their server. This admin(?) suggested the user should use Essenetials. User said no. I chimed in with a good plugin. The child of an admin then banned me and kicked the user?
+ShinyPlasm - 🍿
+Justin - ShinyPlasm count me in!
+Jen - Sydney okay no one cares lol
+Sydney - Jen trying to find who asked you
+Abooz - Oh i remember this host. Ran for 2 days then exitscam lmao
+MysteriousK69 - Hello, everyone.
+
+Today, I am here to talk about OrbitNodes. They are a free hosting service provider.
+
+Their privacy policy and TOS links to SydsClouds TOS, they don't even link to a proper privacy policy, and the company they link to is not even owned by them. SydsCloud, as the name suggest is owned by Sydney, and she confirmed that they can not use her documents.
+
+
+
+
+
+They also lie about their provider, they said that it was multi-able, but its a mix of OVH, Hetzner, wowrack, and maybe a few others. I did not check all of their nodes and shit, but thats what I got from the ones I checked. You can confirm it by creating a server on their dashboard, then getting the IP from the panel, or simply looking up the IP of their websites.
+
+
+
+I am sorry for any grammatical errors that may have occurred in this thread, English is not my first language so I apologize for it beforehand.
+
+If anyone would like to add on to this thread, please feel free to do so. Their links can be found below.
+
+Discord
+Dashboard
+Panel - https://cdn.discordapp.com/attachments/829004454422511617/838468509180231730/unknown.png
+MysteriousK69 - Hello, everyone.
+
+Today, I am here to talk about OrbitNodes. They are a free hosting service provider.
+
+Their privacy policy and TOS links to SydsClouds TOS, they don't even link to a proper privacy policy, and the company they link to is not even owned by them. SydsCloud, as the name suggest is owned by Sydney, and she confirmed that they can not use her documents.
+
+
+
+
+
+They also lie about their provider, they said that it was multi-able, but its a mix of OVH, Hetzner, wowrack, and maybe a few others. I did not check all of their nodes and shit, but thats what I got from the ones I checked. You can confirm it by creating a server on their dashboard, then getting the IP from the panel, or simply looking up the IP of their websites.
+
+
+
+I am sorry for any grammatical errors that may have occurred in this thread, English is not my first language so I apologize for it beforehand.
+
+If anyone would like to add on to this thread, please feel free to do so. Their links can be found below.
+
+Discord
+Dashboard
+Panel - https://cdn.discordapp.com/attachments/829004454422511617/838468752685137977/Screenshot_322.png
+MysteriousK69 - Hello, everyone.
+
+Today, I am here to talk about OrbitNodes. They are a free hosting service provider.
+
+Their privacy policy and TOS links to SydsClouds TOS, they don't even link to a proper privacy policy, and the company they link to is not even owned by them. SydsCloud, as the name suggest is owned by Sydney, and she confirmed that they can not use her documents.
+
+
+
+
+
+They also lie about their provider, they said that it was multi-able, but its a mix of OVH, Hetzner, wowrack, and maybe a few others. I did not check all of their nodes and shit, but thats what I got from the ones I checked. You can confirm it by creating a server on their dashboard, then getting the IP from the panel, or simply looking up the IP of their websites.
+
+
+
+I am sorry for any grammatical errors that may have occurred in this thread, English is not my first language so I apologize for it beforehand.
+
+If anyone would like to add on to this thread, please feel free to do so. Their links can be found below.
+
+Discord
+Dashboard
+Panel - https://cdn.discordapp.com/attachments/829004454422511617/838469128947892244/Screenshot_324.png
+MysteriousK69 - Hello, everyone.
+
+Today, I am here to talk about OrbitNodes. They are a free hosting service provider.
+
+Their privacy policy and TOS links to SydsClouds TOS, they don't even link to a proper privacy policy, and the company they link to is not even owned by them. SydsCloud, as the name suggest is owned by Sydney, and she confirmed that they can not use her documents.
+
+
+
+
+
+They also lie about their provider, they said that it was multi-able, but its a mix of OVH, Hetzner, wowrack, and maybe a few others. I did not check all of their nodes and shit, but thats what I got from the ones I checked. You can confirm it by creating a server on their dashboard, then getting the IP from the panel, or simply looking up the IP of their websites.
+
+
+
+I am sorry for any grammatical errors that may have occurred in this thread, English is not my first language so I apologize for it beforehand.
+
+If anyone would like to add on to this thread, please feel free to do so. Their links can be found below.
+
+Discord
+Dashboard
+Panel - https://cdn.discordapp.com/attachments/829004454422511617/838469677298614312/unknown.png
+Rectrox - Okay this thread is completely wrong. I do not lie about any of my providers and we are under SydsCloud. This thread should be deleted.
+MysteriousK69 - Rectrox I literally looked it up, and it shows OVH, Hetzner and shit. And, you are a free host while SydsCloud is not. You can not even be using their documents as you don't have the permission to do so.
+Rectrox - That doesn't fucking matter. I use multi-able hosting providers. Plus how I am lying about my Providers is my question. I said I don't fucking like Hestnzer is that a dam problem? No it's not so shut the fuck up.
+Rectrox - Plus Sydney is our main owner of this. I am just the CEO of this branch. She owns the whole Company.
+MysteriousK69 - Rectrox 
+
+Rectrox That doesn't fucking matter
+
+It does matter. You are using those providers.
+
+Rectrox I use multi-able hosting providers. Plus how I am lying about my Providers is my question. 
+
+Just looked up your dashboard and panel. Both point to 144.76.211.83 &amp; 162.55.109.68. Those 2 are dedis by Hetzner.
+
+Rectrox I said I don't fucking like Hestnzer is that a dam problem?
+
+You did not say that. And, you continue to use it.
+MysteriousK69 - Rectrox You are the CEO of this branch, and you should get proper documents.
+Rectrox - MysteriousK69 able
+Yes I now that. I am not dumb.
+MysteriousK69 - Rectrox Okay? I appreciate you admitting to using Hetzner.
+Rectrox - Plus I use oneprovider as my main provider thank you very much.
+Rectrox - Plus I have owned multi-able other hosting companies. I am not dumb about this.
+MysteriousK69 - Rectrox Just now you said multi-able, changing it so quickly?
+MysteriousK69 - Rectrox 
+
+Rectrox Plus I have owned multi-able other hosting companies. I am not dumb about this.
+
+"other hosting companies" cool, we are not talking about others here. We are talking about OrbitNode.
+Rectrox - Orbitnode is fine. There nothing wrong with it. We are working on a new TOS... There no other problems.
+Rectrox - Orbit is perfectly fine, there no issues. Plus were does it show that I am lying about Hosting providers..
+MysteriousK69 - Rectrox Okay, just say that you are working on a new TOS, and say that you use Hetzner or whatever, theres to need to lie about it.
+Rectrox - We are not lying about any of our providers.
+MysteriousK69 - Rectrox In the screenie?
+MysteriousK69 - Rectrox For fucks sake, are you dumb?
+Rectrox - Show me were I said that I was lying about our hosting providers. Because I do not, count on this. This thread is hella dum.
+Rectrox - That is my last post this hella dum you guys can talk all the shit about it cause it's fucking false and you all are just waste of time. People don't even care about drama.gg posts.
+Hye - Love the macOS theme (sorry just had to say it) @MysteriousK69. Can you tell me how you got the menu bar by chance? Friend me on Discord plz.
+MysteriousK69 - Rectrox First of all, you don't need to say that this is "hella dum" again and again. And, you said that you use multi-able here 
+And, you also  said that you use OneProvider as your main provider, while I have seen 2 IPs from Hetzner, 1 from OVH, 1 from Wowrack, but none from OneProvider. - https://cdn.discordapp.com/attachments/829004454422511617/838469677298614312/unknown.png
+Rectrox - WoWRack is one provider thank you very much.. It's a dam colocation company. Do your research.
+MysteriousK69 - Hye Its not some theme I got from somewhere, its just the default look of Garuda Linux running KDE. It's a great distro, and you can check it out here. Also, sure I would love to add you on Discord.
+MysteriousK69 - Rectrox Oh, alright. Though, you still do use OVH and Hetzner .-. the only I see to lie is, you abusing them. Don't have any proof for it so will not point fingers.
+Rectrox - People don't really care about this dam site in a first place. It's just going to get merged with my other thread so i don't really care.
+MysteriousK69 - Rectrox If you don't care, why do you keep on replying, and why are you so mad about it? Just don't bother replying, and go back to living your life as usual.
+Rectrox - MysteriousK69 Than close the thread. Easy
+MysteriousK69 - Rectrox I would rather wait for it to be merged, or you were contacting Jerdik to remove it, I think I will just let it sit here until then.
+Iceey - .
+MysteriousK69 - Iceey .
+Iceey - @Hye you know what to do
+Iceey - Why did you ban all 4 of us?
+Rectrox - Cause we did, is there a problem with it?
+Iceey - Rectrox You don't just ban people out of the blue for no fucking reason
+MysteriousK69 - lmao just realised I got banned for "(Your not welcome here)". bruh, you can not even differentiate between "You're" and "Your"?
+Tomas - MysteriousK69 They use reseller Malzli which use Hetzner
+
+https://www.malzli.com/
+Willypro7 - Rectrox you should get a proper tos by the start
+Willypro7 - Rectrox banning without reason = not serious host
+Willypro7 - Tomas but he told he use multiable, we are in the same point, lying about providers
+MysteriousK69 - Tomas Still, he did not mention them .-.
+Sydney - Hi there. 
+
+I will be shortly assisting Orbit Node in getting a proper TOS and Privacy Policy. In addition, OneProvider either hosts their dedis at WowRack, or resells from them. I can confirm, as my SEA-1 dedi is OneProvider, yet shows up as WowRack.
+
+In addition, please make sure you DM me anything you see wrong with Orbit Nodes. I will either start bothering the hell out of Rectrox until it is done, or will do it myself. 
+
+My Discord is Sydney#2290
+MysteriousK69 - Sydney Alright, thanks.
+Jedrik - Merged. Same Owner
+Vanquish - Hye is making his return, can't wait for this to go up in flames.
+
+https://www.youtube.com/watch?v=aRtVQ8C256c
+
+
+
+
+banned me from the discord after this 
+
+clearly violates the pterodactyl license (copyright portion) in the video and current production "Panel": 
+https://github.com/pterodactyl/panel/blob/develop/LICENSE.md
+
+https://hyehosting.com
+https://discord.gg/nXeMVBXeps - https://drama.gg/assets/files/2021-05-25/1621918539-495867-image.png
+Vanquish - Hye is making his return, can't wait for this to go up in flames.
+
+https://www.youtube.com/watch?v=aRtVQ8C256c
+
+
+
+
+banned me from the discord after this 
+
+clearly violates the pterodactyl license (copyright portion) in the video and current production "Panel": 
+https://github.com/pterodactyl/panel/blob/develop/LICENSE.md
+
+https://hyehosting.com
+https://discord.gg/nXeMVBXeps - https://drama.gg/assets/files/2021-05-25/1621918546-788769-image.png
+Vanquish - Hye is making his return, can't wait for this to go up in flames.
+
+https://www.youtube.com/watch?v=aRtVQ8C256c
+
+
+
+
+banned me from the discord after this 
+
+clearly violates the pterodactyl license (copyright portion) in the video and current production "Panel": 
+https://github.com/pterodactyl/panel/blob/develop/LICENSE.md
+
+https://hyehosting.com
+https://discord.gg/nXeMVBXeps - https://drama.gg/assets/files/2021-05-25/1621918850-308887-image.png
+Vanquish - Hye is making his return, can't wait for this to go up in flames.
+
+https://www.youtube.com/watch?v=aRtVQ8C256c
+
+
+
+
+banned me from the discord after this 
+
+clearly violates the pterodactyl license (copyright portion) in the video and current production "Panel": 
+https://github.com/pterodactyl/panel/blob/develop/LICENSE.md
+
+https://hyehosting.com
+https://discord.gg/nXeMVBXeps - https://drama.gg/assets/files/2021-05-25/1621918621-255914-image.png
+Cian - Hello, hope you are having a great day.
+
+First of all, the Pterodactyl developers themselves clearly stated that it is not against the licence, it is just frowned upon. 
+
+Secondly, we only banned you as you were being toxic which is against our community policy, as Joseph stated. He gave you a warning, and you continued to be an idiot, so we banned you.
+
+Hope I could clear up some things here.
+
+Kind Regards,
+Cian,
+Assistant of Joseph @ Hye Hosting - https://drama.gg/assets/files/2021-05-25/1621920793-614553-image.png
+Vanquish - Cian 
+That image is from what november 2020? the license states what the license states.
+Quite the professional way to terminate a relationship with a possible customer, "get your ass outta here".
+Tomas - Vanquish bro is he actually using docker Ubuntu images for "VPS"? like I joked about this the other day
+
+I also think this is the wrong thread
+Cian - Vanquish 
+
+"Copyright (c) 2015 - 2021 Dane Everitt dane@daneeveritt.com and Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE."
+
+If I'm not mistaken,  it says here that permission is granted without limitation to modify Pterodactyl Panel.
+
+Also, about the second bit, you should never have brought your ass in there!
+
+Kind Regards,
+Cian,
+Assistant of Joseph @ Hye Hosting
+Vanquish - Cian professional 100
+Vanquish - Cian yes modify however if you read the second line after that it states that the copyright must be present on all significant pages you nitwit
+theMackabu - Tomas correct
+Vanquish - Tomas yes wrong thread oops
+Skie - @toms They don't use docker... They use a different system which i can't about but ill tell you they don't use docker.
+BabyAces - Okay, this is now getting outradges. @luffyy, @eraters, everyone else that is in my development discord is now banned. They are saying I have ruined hostings, I have ruined a FEW but not enough to say I have raid discords and shit. I'll starting taking poeple to court for it. I am done. If there is any other issues you may email me at legal@skiedevelopment.net!
+BabyAces - @eraters , @Chimmy Have both ganged up on me and Raided all discords as well.
+eraters - BabyAces well for a skid who only got it off of github then yeah you kinda deserved it
+BabyAces - @eraters  Does it look like I care?
+eraters - BabyAces yeah i do admit to this, you chargebacked me outside of refund period + consistant abuse reports almost suspending our node, break laws, lots of tos's and more!
+BabyAces - eraters I haven't broke any laws, I haven't broke your TOS, and I have only charged back.
+BabyAces - Plus it wasn't my fault your node almost got suspended.
+eraters - BabyAces yeah, a 12 year old is gonna bring me to court. nice threat.
+BabyAces - I am not 12.. Dumass Ask, Hye rn
+eraters - BabyAces actually it was, you are responsible for whatever damage you do to your clients
+eraters - eraters or clients do to the vps
+BabyAces - I didn't ask on that. But go ask Hye how old I am and He will tell you.
+Cian - BabyAces I don't believe you can take people to court because you're what, eleven or twelve years old? I could be completely wrong, please enlighten me if I am.
+Skie - You are completely wrong.. I am 14 years of age. Plus it is called parents.
+eraters - BabyAces You were outside of refund period, you've blatently ddosed people before, and you've run many scam hosts.
+BabyAces - eraters Who have I ddoesed? Plus I have only ran 2 that were a scammy host. Plus I use a pterodactyl install script when I don't have time to install it by hand. 
+
+https://github.com/VilhelmPrytz/pterodactyl-installer
+BabyAces - So shut the fuck up and stop saying false things you don't now is true.
+BabyAces - If you want to join my Hosting discord here it is.. All I ask is don't cause any drama. (Rememeber this isn't really done. Click Here!
+Jen - BabyAces Wow, you say only 2 scammy hosts as if that's an accomplishment 
+Man shut up
+mtt - BabyAces we dgaf abt ur hosts, stop advertising here and complaining that ur hosts get hoaxed lol
+BrendansAtWork - Skie not another underage skid running another shit company
+R6_ClapZ - GUYS SKI IS A BITCH
+I CO OWNED A HOST CALLED G-Host AND HE HACKED THE OWNER + CHANGED THE HOST INTO JAVACRAFT.BESt the host had more then 600 members
+Skie - R6_ClapZ Wrong, I didn't hack anything or do anything to G-Host. Stop lying your damn ball's off and if you want to tell the truth please do. Cause I can even provide proof I wasn't on my pc at that time.
+SidisLiveYT - Skie kiddo come in real thread , there you have been exposed even torn your skins off lol
+Skie - Lol when I shove it back in your face lmao
+SidisLiveYT - Skie with nothing just telling me you destroyed 2 hosts , okay !
+SidisLiveYT - @Skie  My Poor Kiddo m What have you Done ?? 😆 - https://drama.gg/assets/files/2021-06-19/1624080801-469567-capture.png
+Skie - SidisLiveYT Stop calling me a damn kiddo, and please PUT your periods and shit at the end of the sentence, not like 8 spaces away dumass.
+SidisLiveYT - Skie Why your Moma's balls are sucked up or what ?
+Skie - SidisLiveYT  Your talking to someone who has been in drama.gg since last year, so newbie shut the fuck up and get out of my thread.
+SidisLiveYT - Skie I am talking with a shitbag who doesn't know when to quit lol ! Stinky balls 🤣
+Skie - Your balls are prob baby balls. Plus you shouldn't even be welcome at Drama.gg shit head.
+Deleted User - Skie go cry about it
+HenryH - Skie stonks
+SidisLiveYT - Skie And here Drama.gg speaks something else 🤣 , Kiddo Please say something which may make some sense for others lol
+Cian - Skie Your balls are prob baby balls.
+
+You literally sounded like an 8 year old girl when we used to VC at the old Hye Hosting last year, so I don't think you can talk about "baby balls".
+eraters - Cian yeah the guy hasn't touched a girl, not even his ma
+onyx - Skie how is that even an insult lmfao
+Jen - Skie At least they got balls
+Yo testicles got removed for being too stupid to drop em
+Lucas - Jen what's your discord again?
+Jen - Lucas y?
+Lucas - Jen y not
+Daftscientist - he dm advertised me to join this https://discord.gg/t25Xz3kG
+i think its his new host
+Daftscientist - Skie and your talking to people who moderate drama.gg so newbie shut the fuck up and get out of this thread.
+SidisLiveYT - 🤣 Whenever I saw a thread and Open it , no one supports this dickless kiddo @Skie 🤣 , When you will learn to quit ? Even I get late to reply to your abusive post , some other guys come to abusive and tear you apart in a minute! You are literally a joke for me 🤣
+ShemBane - Daftscientist "luckynodes" host name generator go brr
+Luckie - Guy's I am deleting all of his discord account's right now. Umm he was stupid enough to give me his paypal login info, discord accounts info.  He is not going to be around anymore!
+Luckie - Do any of you guy's want access to any of his account's?
+Doodles - yep
+FatGrizzly - bump!
+Deveroonie - RoseyMC-freehyehostingcom https://javacraft.best - https://drama.gg/assets/files/2021-10-08/1633709160-779521-image.png
+Ricky - HI, Ricky here. I've noticed the drama that's been going around here, and if one of you  with knowledge could please DM me with some insight, that would be great. I'd be able to post the situation in a channel.
+Leafy-ui - Free hosting on discord looks super sus ngl
+TheFisherBoy - Hello, I am officially coming back to Development. I am not coming back to hosting at all. Hosting is just toxic over-all and I am not wanting to do anything scummy anymore. I am going to be nice and develop for people to start gaining my rep back and stuff like that. My first project that I am working on is Tide Development. At Tide development we offer Free/Paid Setups. I have though about my actions and I wouldn't come back to hosting because of it. I think right now I am fine doing development project for small minecraft servers. 
+
+Here is my discord: FrostyDev#0001
+Here is Tide's Discord: https://discord.gg/eWH4nCRgCg
+TheFisherBoy - TheFisherBoy Forgot to add, I want to become friends with the people I screwed over in the past. I want forgiveness, but I know I have to work for it. I'm just really sorry for my actions and I have been gone for about 6 month's thinking about them.
+EdwardSnowde - If you didn't know Bombhost, Snowyhosting/Snowyhost dead and gone.
+Loser - TheFisherBoy Forgot to care...
+Loser - lol
+Sloth - Loser Please avoid foregoing spam necroposting going forward.
+Jen - EdwardSnowde Good
+Loser - Sloth lol
+Deleted User - TheFisherBoy start of with me?
+SamCoThePugg - et moi
+Toki0179 - Hm
+Zark - I think we can unpin this thread? Not longer heard from them
+EdwardSnowde - Zark Unfortunately, I'm still alive. But my host isn't.
+AcesLikesScamming - Hello, I will start this off with saying that Aces#4773 unless not updated is a scammer and will grief your server or will if you are joining any of his servers I recommend not, he has threatened to leak my files on Direct Leaks if I didn't do certain things for him. When meeting him originally I asked him for help, me being new to creating servers I didn't know what bungeecord was and he assisted making it and promised it to be free, I've created over over 4-5 videos on my server. Also to add onto my first statement. He has added trojan malware into my plugins directory and openly admitted about it. Since he originally owned the server dedicated because I was unable to use my pebblehost server as it had malware that he added which got detected and disabled the server we moved over to a pterodactyl panel. He made me a sub user with no admin permissions and went to disney land for a while and I was unable to do anything. Then he just kept forcing me to wait while my server kept restarting. This is when the server grew from my content. He kept taking credit for the content I made on my youtube channe even though that was where the servers growth came from. So when he came back everytime I would ask him for a small request like can you fix crates or, this server is broken. He would say shutup, or like your a kid at a candy shop. I owned the discord but he owned the panel. Then sped up to this time he released a Lifesteal server without my permission even though I only wanted a Survival server. Then we speed up more hes adding servers I never wanted. And then even more up this is where the drama starts. So I go into lifesteal and he usually just pings everyone advertising another server including his recent server MysticWars which he quick sold, also prior to this moment he wanted me to sell my server for more money and insisted it goes to his paypal while 2 days before that he said his paypal was LOCKED because he upgraded our servers ram from 64gb to 128gb. Then I knew he was trying to scam me. Later on in Lifesteal I notice he hires random staff I never asked for which are all his friends and have no experience with staff. He decides to say if he leaves they leave. To be honest I didn't care if any left I just wanted my panel to stay up as from this point I didn't trust him anymore. He would constantly shutdown and make my server decrease even more. One day I saw a ton of dragon eggs around spawn and the admin he was friends with had a sword with KOTH bonuses and sharpness 255. And some other people had shulker boxes with barriers. I tried telling him don't do that. Me now being scared of him as he could shut my server down. So later on he tells me to migrate to this server and then we have a bit of chat. He continues to freeload in my discord server and ping everyone for random things like, I am going on my first date with his handsome guy, or like I just had my first kiss, this is from his pov with an @everyone mention and random things that no one cares about. He also mutes people when he gets offended. Another client of his fired him and charged back because he thought Aces was sketchy. So anyways apparently when I come home one day from eating ice cream he starts talking about how I slandered him or something and then shuts down the panel. Then I say sorry because I have no clue theres no reason to abuse your power. So the server went back up and he said migrate ur stuff before the month. He owned lots so I had to migrate with my new sysadmin and we got a Ryzen 9 5950x and r00t to optimize which is way better. He threatened to nuke my mysql database which I changed the password to and when he was at work since he was at work for around 3 weeks and asking for a pay he agreed on $60. Per month even though he said for free. So I paid him the $60 and now he wanted pay this month while he did nothing but advertise his server etc. So then later he ends up resetting my lifesteal server and making a new season while no one wanted it, so then he ends up being a prick, when he was at work I migrated everything to a new panel and fired him. Then later on he threatens to ddos etc, and the reasoning I am making the post after all that painful dealing with him is because I banned him from the discord and then unbanned him to welcome him
+back as I felt as if its cooled down but hes just a terrible individual so he decided to spam ping in announcements and update logs when I was eating cereal because with corebot it gives you back the roles you had before you left the server. So he spams everyone and still called himself the victim. Please anyone check out his mc-market. Tide Development even all his friends know he quick-sold all his servers. It is not worth it putting in time and playing as it will be a non long term server so I recommend playing my server I own as it has grown significantly and I have the correct people in contact and now have had more of viewable long term server as before I worried with him if he quits anytime he shuts down the server with it. Dont play any of his servers, don't work with him if hes ever offering it. I will be sending picture proof for anyone requesting it.
+Justin - Unpinned due to inactivity.

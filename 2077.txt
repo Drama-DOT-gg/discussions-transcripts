@@ -1,0 +1,32 @@
+MerK2 - Hi guys, I was casually exploring arround drama.gg and i found a lot of posts saying that QloxHost abuse hetzner, does carding, etc. Im here to tell you people why QloxHost ISNT illegal.
+
+Questions.
+-Why QloxHost did go down every 2 or less weeks?
+At first, we didnt know, but after a lot of time, we finally found +15 Crypto miners into the nodes trying to suspend the nodes. We found who sent those miners but i will not say who was it because i dont want to make another hosts war.
+
+-Why our nodes got suspended A LOOOOTTT of times?
+1- Crypto miners (Explained above)
+2- Ddos, some members can remember that we got like 20 ddos per day, well, because of that, hetzner and another DEDIS providers, thought we were auto-dddosing ourselves, and thats illegal so they suspended the nodes.
+3- Before, we had a co-owner (I wont mention him because i dont want hosts war) that was the one who gave us ALLLLL the hetzner vpses, and we didnt know, that the accounts were carded because the old co-owner didnt give us the hetzner account to see the payment method, just the vpses.
+
+
+Some people, werent talking about the host, instead, they were talking about the owner (Alex, Milan, Qloxhost) and yes, he is sometimes rude with the people and gets mad easely, but that doesnt means he is a bad owner, he is just rude when, example, you dont use your common sense, you piss him off when he is playing / working, and another situations.
+
+I just came to explain this because the people is so confused about Qlox and they throw fake info from drama.gg posts without knowing if the info is real or fake.
+
+Telling all this, if you want to throw hate to this post, throw it, I barely open drama.gg.
+If you understood, leave a ✔ or idk.
+Goodbye
+MerK2 - I would like to add this info, QloxHost is no longer 24/7, so that means we have no more crypto miners because they dont want to turn on their cryptominer software every 2 hours, and thats why we are up from like a month right now. I forgot to add the info that our nodes got suspended multiple times, because besides having miners, we had disk fillers and they filled the nodes disk with text files and the providers thought it was an intentional disk fill because of the multiple same files.
+Triassic - Please for god sake, get a better host name.
+Kowone - Triassic they can't, they have no brains
+MerK2 - Triassic Why and why would we care about it
+Koisip - MerK2 
+
+Goes onto drama.gg
+Makes a post that proves nothing and nobody cares about 
+"Why and Why would we care about it"
+
+The fact that you spent so much effort writing a simple essay instead of trying to fix actual problems with your host is very sad and says a lot about the hosting's management...
+TheYeetster - This is amusing ngl
+Imback - @MerK2 why did u even make this thread drama.gg literally gives no shit abt my host 💀

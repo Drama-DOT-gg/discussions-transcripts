@@ -1,0 +1,43 @@
+QuagmireToilet509 - 26th of March 2021, ItsGamingTube officially joined what used to be WinterHoax. That was to defend his old host, Hosticy, that used to run on MOFH (My own free host). ItsGamingTube has been able since his first days in this community to demonstrate his immaturity and sense of skidding projects from other people. 
+This is ItsGamingTube: The rise and fall of a skid: a tale full of ban evasions, skidded projects and advertisements. 
+On 2021's April fools day ItsGamingTube got banned from WinterHoax, for then creating an account on 15/04/2021 on the new Drama.gg! A month later the advertisements began, and he started advertising his new host, Hosticy.ml, basically everywhere. Go ahead, search it on Reddit. Search it on Google. You'll find this thing everywhere, he even advertised that on InfinityFree's forums (https://forum.infinityfree.net/t/itsgamingtube-rant-topic/45423/). 5 months passed, and ItsGamingTube was back: he made a thread exposing a scam website. The poorly made thread even contained a few links with proof, the only issue is that they were links for his own website, that could’ve possibly been an IP grabber.
+After making a low quality few threads he got banned from the platform, along with his threads.
+The next day he was back with his alts again (the user Tomas was the first one to notice, congrats!).
+After this he got banned again, again and again. 
+During his ban period ItsGamingTube experimented the good feeling of joining free hosts on Discord, these include Artiom's Hosting, FalixNodes and DanBot Hosting. I'll only say that he got banned from Artiom's Host for using multiple accounts to get extra servers, he got banned from Falix for his childish behaviour and demonstrated his inability of chatting with someone without offending certain groups of people in DanBot Hosting.
+After that, his bot, StarWatcher, was hacked and nuked the bot's own support server. The bot's MongoDB database was also erased and sold on a dark web forum because of his poor practices at protecting user data. (Source: a leaks Pastebin).
+That confirmed the fall of ItsGamingTube.
+And here we are, today, ItsGamingTube is still ban evading here with the name of "SVR" on the forum and “Sir exploiter Roblox" on the drama Discord. 
+I hope you enjoyed this thread, hopefully you’ll also enjoy discussing about him in the thread's replies. I’ll be posting all the screenshots for proof / references in my next messages. Thanks!
+QuagmireToilet509 - REDDIT advertising evidence: https://www.reddit.com/user/Andreiaxint/ check the second page
+Skidded projects: https://replit.com/@ItsGamingTube his oldest project (his bot) has a 1200 lines index stolen from GitHub, along with all the other projects.
+Ban evading: Some of you already know about this, but just try to @ ItsGamingTube in here, the forum will show you lots of accounts along with his current discord alt's about me (Sir exploiter roblox) saying it’s his alt in the about me.
+QuagmireToilet509 - I have examined his Replit account and found out he has lots of MongoDB connection URLS and Discord bot tokens on there, and they’re publicly available. This gets added to his poor security practices that caused his fall.
+Tomas - Starwatcher was actually originally developed by a team of developers in which he contributed nothing, then claimed it was his code although he did apologize for doing that. A few weeks after the initial release of Starwatcher his original Discord account was banned though I don't remember if he said what for.
+
+ItsGamingTube was originally banned from WinterHoax for being a minor / not complying with both Drama (WinterHoax)'s TOS and Discord's
+QuagmireToilet509 - Tomas Thank you for the info, I didn’t know about some of this. I’m was talking about the current StarWatcher, the one he is hosting.
+Tomas - QuagmireToilet509 It's most likely either still hosted on replit or on some free hosting service if it's still online
+QuagmireToilet509 - Tomas I found a pastebin a while ago with a few links to some screenshots of the bot's support server being nuked by the development bot, I can confirm that the bot is hosted on replit and it’s database URL is still public.
+Tomas - QuagmireToilet509 As expected, he has no money whatsoever
+QuagmireToilet509 - Tomas he needs to understand that he should stop being toxic at people for no reason. Nobody deserves to be hated. I’m sure people would start liking him if he changes his behaviour, and I’m sure he can do this.
+Tomas - QuagmireToilet509 ehhhh
+SVR - Let me live my life in peace. I don't want to deal with these things from now. I just want to be a normal person like everyone else. - https://drama.gg/assets/files/2022-08-28/1661685323-377445-image.png
+SVR - QuagmireToilet509 I'll only change my behavior if you guys stop this war. I stopped developing Starwatcher and making hostings. I started Starwatcher to gain experience with owning a bot. And Hosticy was a fail, it's my fault that I didn't know how to run a hosting.
+SVR - Tomas It was deleted. Have fun now if that's all you wanted.
+Tomas - SVR I do not actually care whatsoever anymore
+ItsGamingTubeDev_Official - Hello everyone.
+This is my last post on this forum that I will ever make. I just want to tell you guys that I just simply don't want to deal with drama anymore. I stopped making hosts and non-secure projects. Right now I am still thinking if it's worth starting an another host, but before I will make sure I have enough experience. I am not a bad person normally, but I don't really know why I went on the wrong way and did all these bad things to people that didn't deserve it. Starwatcher is gone (it has been discontinued and deleted) and I don't think it's worth it to keep it unless I learn code (and this can happen because I really want to learn code from now). Now before leaving, I want to clarify some things that @QuagmireToilet509 said in this thread.
+
+1.. It's true that I joined WinterHoax to defend Hosticy, and it's also true that I was immature and toxic.
+
+2.
+he made a thread exposing a scam website. The poorly made thread even contained a few links with proof, the only issue is that they were links for his own website, that could’ve possibly been an IP grabber.
+  
+  It don't know if it was an IP grabber, I didn't make it and I had 0 intentions to even try to do that.
+3.. It's my fault that I didn't properly secure Starwatcher. Anyone with no experience had access to the source code, and because the database URL wasn't stored securely in ENV, it was extremely easy to hack the bot's database. And even if the database was sold on the dark web, I don't think hackers can do anything with servers IDs.
+I created the account SVR account to expose a recent data leak. It was created 1 year ago anyway and this  forum doesn't allows you to delete accounts manually. I sent staff a message to remove all my alts from the forum.
+   
+
+If you ever need me again (you surely don't) don't forget to send me a private message (in dm) on Discord at the following account: ItsGamingTube#6489, or by email: 7nffttv5@duck.com (to prevent spam and other unwanted people trying to dox me/hack my accounts, I will be using DuckDuckGo email protection).
+I wish only luck to you guys and I hope you understand my decisions.

@@ -1,0 +1,84 @@
+chrissss - Owned by dann#5466 (591865042996297729) on Discord, he runs a very awful hosting company named charged.host.
+
+According to the WHMCS license checker, the site is using a nulled/cracked version of WHMCS (that he hasn't even configured probably kekw).
+
+
+WHMCS License Checker (https://www.whmcs.com/members/verifydomain.php)
+
+
+dann, the owner - https://drama.gg/assets/files/2021-08-07/1628347478-347825-image.png
+chrissss - Owned by dann#5466 (591865042996297729) on Discord, he runs a very awful hosting company named charged.host.
+
+According to the WHMCS license checker, the site is using a nulled/cracked version of WHMCS (that he hasn't even configured probably kekw).
+
+
+WHMCS License Checker (https://www.whmcs.com/members/verifydomain.php)
+
+
+dann, the owner - https://drama.gg/assets/files/2021-08-07/1628347509-377862-image.png
+chrissss - CORRECTION: The company is owned by an imbecile by the name of Bobby :p
+DamonOnYT - Dan is a Staff  Member. Its owned by oBobby#0095 
+Discord Invite: https://discord.gg/db83rMujHY - https://drama.gg/assets/files/2021-08-07/1628347636-531051-image.png
+chrissss - The main machine (162.55.226.159) also appears to be running an unlicensed version of cPanel (didn't even know that was possible, the more you know 😛)
+
+https://verify.cpanel.net/app/verify?ip=162.55.226.159 - https://drama.gg/assets/files/2021-08-07/1628348044-701516-image.png
+chrissss - The main machine (162.55.226.159) also appears to be running an unlicensed version of cPanel (didn't even know that was possible, the more you know 😛)
+
+https://verify.cpanel.net/app/verify?ip=162.55.226.159 - https://drama.gg/assets/files/2021-08-07/1628348053-477030-image.png
+radiobenne - More info - this host is using a hetzner server auction dedicated to sell VPS and Radio Hosting services, both of which closely represent my offerings that i've sold to him before, when he was a close personal friend of mine. He seems to be taking a lot of inspiration from my company
+DamonOnYT - Got quickly banned after that. Bit dodgy for them to ban us simply because we asked about their licensing - http://ben.has-raped.me/DMkMIk8.png
+DamonOnYT - Got quickly banned after that. Bit dodgy for them to ban us simply because we asked about their licensing - https://drama.gg/assets/files/2021-08-07/1628348448-323443-image.png
+dann - All of the licences are legit there is currently a issue with out WHMCS but its legit and all licences have been paid for 🙂)
+chrissss - dann 'tis a bit fishy that BOTH of the providers aren't reporting their license, I could understand MAYBE just WHMCS having a bit of a fit, but both cPanel and WHMCS at the same time?
+
+bit sus luv &lt;333
+dann - chrissss They are both legit and we are taking a look into the issues with the licencing issues right now.
+chrissss - dann yeah that's like saying the Russian government ✨ isn't ✨ corrupt.
+dann - chrissss The reason the issue is happening to both at the same time is because WHMCS was installed through cpanel which could be creating the issue for both. We are in contact with support now for extra help on this though,
+chrissss - dann Well that wouldn't happen, as soon as either the installer finished or the first CRON job finishes, your WHMCS install pings back to the licensing server. In that case your cPanel license would be working though, just not your WHMCS license but neither are 🙂
+Tomas - got banned for simply letting them know, thanks - https://drama.gg/assets/files/2021-08-07/1628353750-770086-image.png
+Tomas - got banned for simply letting them know, thanks - https://drama.gg/assets/files/2021-08-07/1628353761-950591-image.png
+Ibrahim - Tomas lol yeah, I saw on discord
+Kowone - dann did you not insert the license on installation? i'm pretty sure it asks for it on installation. if it's some nulled whmcs, then idk anymore
+Kowone - "not verify from whmcs" lmao - https://drama.gg/assets/files/2021-08-07/1628355295-218369-414b5763-c28f-4c46-86c3-00930bbaba22.png
+Kowone - also - https://drama.gg/assets/files/2021-08-07/1628355443-940019-8edf023e-525a-43f1-9548-235f79ee3852.png
+Ibrahim - Submitted this to WHMCS Piracy Department - https://drama.gg/assets/files/2021-08-08/1628449071-447286-43b7ccb9-48b8-4952-8650-fc4d0a3d8bc4.jpg
+dchu096 - licensefarm uses commands activation which just bypass whmcs license thing.
+
+This image is for directadmin but i think it makes no difference as they possibly gonna use the same method. - https://drama.gg/assets/files/2021-08-08/1628467011-61810-image.png
+Tomas - They just give you a dodgy copy which use their licencing servers instead of WHMCS'
+dchu096 - Tomas 
+
+Well, cant trust their licensing servers. First seems dodgy second its not geniue. Even buana.net is better then them
+FatGrizzly - basically licensefarm uses proxychains to connect to their servers, and reinstall the trial again and again.I have researched on this.
+eg. for cPanel they just reinstall the trial every 14 days, remove the trial message with some simple tricks and tie it to a cPanel Autoscale internal server(meaning you can create unlimited accounts).
+I actually decrypted their licensing scripts but it seems like their api server has the stuff, like the proxychains config(api.licenses.cc)
+
+
+have fun~
+sed -i -e "s/CPANEL.CPFLAGS.item('trial')/False/g" "/usr/local/cpanel/base/frontend/paper_lantern/_assets/master_content.html.tt" &amp;&gt; /dev/null
+echo "" &gt; /usr/local/cpanel/whostmgr/docroot/templates/menu/_trial.tmpl &amp;&gt; /dev/null
+if [ "$action" != "--hide-info" ];then
+printf "${Green}Thank you for using our licensing System ${NC}\n"
+printf "${Green}Our Website: ${domain_show} ${NC}\n"
+printf "${Green}Server IP: ${current_ip} ${NC}\n"
+printf "${Green}Hostname: ${hostname_show} ${NC}\n"
+printf "${Green}License type: ${server_type} ${NC}\n"
+printf "${Green}Expiry date: ${expire_date} ${NC}\n"
+echo ""
+echo ""
+echo ""
+printf "${Green}Copyright Â© 2019-2020 ${brand_show} . All rights reserved${NC}\n"
+echo ""
+echo ""
+printf "${Green}Please Wait...${NC}\n"
+fi
+
+not leaking full script ofc
+frog - You are giving licensefarm.com way too much credit. They are just a reseller of illegal nulled/shared licenses.
+The big fish have a reseller program and sells WHMCS, cPanel, CloudLinux, etc., and is offering installation as an extra service.
+NGX - Tomas ah yes the most legit license provider "licensefarm"
+Robert - If you can't afford a legit WHMCS license (e.g from https://www.whmcs.com/pricing/ ) then don't use it.
+FatGrizzly - frog Ik, the licensepanel.io is the gay who made the api and stuff, all others are resellers
+DefoNotLuna - okay
+DefoNotLuna - dan is quite hot tho

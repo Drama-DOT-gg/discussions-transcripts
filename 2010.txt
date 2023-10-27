@@ -1,0 +1,147 @@
+Parallax - Says everything that needs to be said.
+
+Discord Invite
+https://discord.gg/seByujCvmd - https://drama.gg/assets/files/2022-08-16/1660693298-821739-image.png
+Parallax - If this does not scream scam i really dont know what people are thinking. - https://drama.gg/assets/files/2022-08-16/1660693534-745285-image.png
+Parallax - If this does not scream scam i really dont know what people are thinking. - https://drama.gg/assets/files/2022-08-16/1660693505-698518-image.png
+Parallax - Was banned, heres a new invite 
+
+discord.gg/qZE8379p
+idkk - First up they never give the VPS and as far as i know no one has got a VPS yet. we all know that that tomorrow never comes
+Also there are a lot of Red Flags everywhere
+
+he also uploaded this image somewhere and then deleted it 
+
+Also they seem to be abusing some Cloud Provider but not sure what it is exactly as we dont have a machine yet 
+
+
+For some reason he needs to get 3 euros i am not really sure why but probably to buy a vcc
+
+To conclude this, I don't think this will last for very long as I have seen I other places.
+(this is my first post btw so sry if i was wrong somewhere) - https://drama.gg/assets/files/2022-08-18/1660807883-243999-image.png
+idkk - First up they never give the VPS and as far as i know no one has got a VPS yet. we all know that that tomorrow never comes
+Also there are a lot of Red Flags everywhere
+
+he also uploaded this image somewhere and then deleted it 
+
+Also they seem to be abusing some Cloud Provider but not sure what it is exactly as we dont have a machine yet 
+
+
+For some reason he needs to get 3 euros i am not really sure why but probably to buy a vcc
+
+To conclude this, I don't think this will last for very long as I have seen I other places.
+(this is my first post btw so sry if i was wrong somewhere) - https://drama.gg/assets/files/2022-08-18/1660807898-53901-image.png
+idkk - First up they never give the VPS and as far as i know no one has got a VPS yet. we all know that that tomorrow never comes
+Also there are a lot of Red Flags everywhere
+
+he also uploaded this image somewhere and then deleted it 
+
+Also they seem to be abusing some Cloud Provider but not sure what it is exactly as we dont have a machine yet 
+
+
+For some reason he needs to get 3 euros i am not really sure why but probably to buy a vcc
+
+To conclude this, I don't think this will last for very long as I have seen I other places.
+(this is my first post btw so sry if i was wrong somewhere) - https://drama.gg/assets/files/2022-08-18/1660808356-261605-image.png
+idkk - First up they never give the VPS and as far as i know no one has got a VPS yet. we all know that that tomorrow never comes
+Also there are a lot of Red Flags everywhere
+
+he also uploaded this image somewhere and then deleted it 
+
+Also they seem to be abusing some Cloud Provider but not sure what it is exactly as we dont have a machine yet 
+
+
+For some reason he needs to get 3 euros i am not really sure why but probably to buy a vcc
+
+To conclude this, I don't think this will last for very long as I have seen I other places.
+(this is my first post btw so sry if i was wrong somewhere) - https://drama.gg/assets/files/2022-08-18/1660808559-188381-image.png
+idkk - First up they never give the VPS and as far as i know no one has got a VPS yet. we all know that that tomorrow never comes
+Also there are a lot of Red Flags everywhere
+
+he also uploaded this image somewhere and then deleted it 
+
+Also they seem to be abusing some Cloud Provider but not sure what it is exactly as we dont have a machine yet 
+
+
+For some reason he needs to get 3 euros i am not really sure why but probably to buy a vcc
+
+To conclude this, I don't think this will last for very long as I have seen I other places.
+(this is my first post btw so sry if i was wrong somewhere) - https://drama.gg/assets/files/2022-08-18/1660808062-505160-image.png
+idkk - First up they never give the VPS and as far as i know no one has got a VPS yet. we all know that that tomorrow never comes
+Also there are a lot of Red Flags everywhere
+
+he also uploaded this image somewhere and then deleted it 
+
+Also they seem to be abusing some Cloud Provider but not sure what it is exactly as we dont have a machine yet 
+
+
+For some reason he needs to get 3 euros i am not really sure why but probably to buy a vcc
+
+To conclude this, I don't think this will last for very long as I have seen I other places.
+(this is my first post btw so sry if i was wrong somewhere) - https://drama.gg/assets/files/2022-08-18/1660808152-504059-image.png
+Bogdan1337 - Parallax Hello
+
+I am White Owner of HassleVPS, I would like you to admit that they were fake, but I wouldn't want to give a scam.
+Bogdan1337 - idkk Hey , whats is your discord name?
+idkk - Bogdan1337 uh, u want me to say all of that i wrote was fake? 🤣 
+answer these questions first (with some proof):
+where are you obtaining the servers from.
+why do need that 3 euros (lmao)
+why am i not right with the information i provided above
+
+if you want to talk privately my discord: superfalcon#9999
+Dan1 - Never tried this but for people reading this thread then looking at the proxmox image. You can clearly tell its a VM/VPS. Here's how:
+
+Proxmox always lists cores then CPU. For example under CPU(s) it shows 4x AMD Ryzen 7 2700x Eight-Core Processor. 
+The "4x" is how many cores this proxmox instance has. If this was really a dedicated server it should show either "8x" or "16x" (Sometimes in older versions of proxmox, threads are seen as cores)
+For example: here is theirs  
+And here is one of my proxmox testing dedicated servers: 
+You can see theirs says 4cores for a 8core 16thread processor, while mine shows 64cores for a 64core processor. 
+Also just in case they try to say the system is running things, My proxmox testing dedicated server has 1 VM running,  on a HDD. yet IO delay is still at 0.00% while theirs is at 0.06%
+
+
+Also looking at it, That proxmox install has nothing running on it (Or very little, by the ram usage) yet the IO delay is 0.06%. This amount of load, that IO delay should be 0.00% or 0.01%. meaning its probably running as a VM with a hard drive. 
+
+Following on this, after looking at their discord server, in budget-vps their highest tier VPS has 16cores, on a 32core/64thread system. basically meaning if more than 2people buy that plan, their systems would be so easily overloaded. (If both users were to be power hungry and eat up all the CPU usage)
+Meaning you would be paying for something that is way overallocated and will eventually grind to a hault.
+
+If anyone has a site for this host, please do link it below as i would like to look a bit more into this. 
+
+Please note i have not tried this host, Just wanting to point out some information for users who may pass upon this post later down the line and not know much about how proxmox or system-admin stuff works. - https://drama.gg/assets/files/2022-08-18/1660808559-188381-image.png
+Dan1 - Never tried this but for people reading this thread then looking at the proxmox image. You can clearly tell its a VM/VPS. Here's how:
+
+Proxmox always lists cores then CPU. For example under CPU(s) it shows 4x AMD Ryzen 7 2700x Eight-Core Processor. 
+The "4x" is how many cores this proxmox instance has. If this was really a dedicated server it should show either "8x" or "16x" (Sometimes in older versions of proxmox, threads are seen as cores)
+For example: here is theirs  
+And here is one of my proxmox testing dedicated servers: 
+You can see theirs says 4cores for a 8core 16thread processor, while mine shows 64cores for a 64core processor. 
+Also just in case they try to say the system is running things, My proxmox testing dedicated server has 1 VM running,  on a HDD. yet IO delay is still at 0.00% while theirs is at 0.06%
+
+
+Also looking at it, That proxmox install has nothing running on it (Or very little, by the ram usage) yet the IO delay is 0.06%. This amount of load, that IO delay should be 0.00% or 0.01%. meaning its probably running as a VM with a hard drive. 
+
+Following on this, after looking at their discord server, in budget-vps their highest tier VPS has 16cores, on a 32core/64thread system. basically meaning if more than 2people buy that plan, their systems would be so easily overloaded. (If both users were to be power hungry and eat up all the CPU usage)
+Meaning you would be paying for something that is way overallocated and will eventually grind to a hault.
+
+If anyone has a site for this host, please do link it below as i would like to look a bit more into this. 
+
+Please note i have not tried this host, Just wanting to point out some information for users who may pass upon this post later down the line and not know much about how proxmox or system-admin stuff works. - https://i.imgur.com/LOxcFul.png
+WhiteDreamDev - Dan1
+
+Heyy 👋🏻 , Hello I would like to tell you that that image was from testing, now we have our own server in a special location in Moldova with 16 Cores. Until we have an official website, we want to buy a domain and we will start, if you want to know more about HassleVPS you can enter our discord! Discord.gg/Hasslevps , Thanks You.
+Yegsi - Bogdan1337 hello, why dont i expose ya? I literally am the root of knowing ur scams
+inspiration_Creation - WhiteDreamDev that image was for testing? that looked more like it was for misleading, And tell me where the fuck are people's vps? is it cuz they dont exist?
+LlamaFachera -  - https://drama.gg/assets/files/2022-08-21/1661042264-793077-image.png
+WhiteDreamDev - LlamaFachera 
+
+This is HassleVps No VpsFree, ok?
+Superintendent2521 - kek
+WhiteDreamDev - Parallax No way bro , i own my servers xD
+MaCaKu - they are promoting a scam thats cool
+
+Basically shows that they are not dedicated servers because they say "Vcores" instead of "cores" - https://drama.gg/assets/files/2022-08-27/1661621800-447820-image.png
+MaCaKu - they are promoting a scam thats cool
+
+Basically shows that they are not dedicated servers because they say "Vcores" instead of "cores" - https://drama.gg/assets/files/2022-08-27/1661621846-844063-image.png
+XxMBGxX - Skull
+HeyRoz - Fuck HeyRoz

@@ -1,0 +1,246 @@
+Fanger - (ПА)RussiaNodes
+
+Хотели ли вы когда-нибудь попробовать на вкус самый ужасный хостинг? Нет? Но мы расскажем вам о нём!
+
+RussiaNodes - самый больной и ненормальный хостинг серверов Minecraft за всю историю RU майнкрафта. 
+Чем же он так плох? 
+Пройдёмся по некоторым аргументам:
+
+Владельцы размещают 15000 серверов на 2 узлах Hetzner под free тарифы, а также 1000+ северов на 7 узлах под платные тарифы. Как сообщает сам владелец RussiaNodes (Fanger) - они докупают донатерские узлы, только если SWAP забит на 80% (половина ОЗУ всех узлов - это swap), что же такое SWAP? Swap - файл подкачки, который преобразует дисковое пространство в ОЗУ, однако диск по определению не может быть качественной оперативной памятью, по итогу скорость Swap'а ниже DDR1.
+
+Оплачивают сервера Hetzner через украинца. То есть, если этот украинец уйдёт из состава, то всё, прощай RussiaNodes и все ваши данные.
+Скриншот переписки с сервера хостинга ApexNodes:
+
+Нет никакого собственного AntiDDoS, то есть совсем нету. Протестировав с друзьями мы обнаружили, что VDS на 4 ядра способна положить узел с серверами на их хостинге меньше чем за минуту. Также мы узнали у владельца что у них и правда нет AntiDDoS. Оказывается, по словам владельца, они используют базовую защиту AntiDDOS от OVH. (Хотя на самом деле такой защиты у них нет, на данный момент они её только тестируют, начиная с 15 июля 2022)
+Вот скриншот переписки на сервере ApexNodes:
+
+Все владельцы хостинга еще ходят в школу (от 13-15 лет). Да, именно так. Вы доверяете благополучие своего сервера малолетним имбицилам с манией величия, которые не умеют здраво оценивать ситуацию и разумно мыслить. Пример: Один их клиент скинул консоль сервера не их хостинга (названий, лого хостинга не было видно). Ему выдали мут. Причина: "сторонний хост". Гениально. И таких примеров ОЧЕНЬ и ОЧЕНЬ много.
+
+Панель управления лагает так, что хочется повесится. Вылеты вам обеспеченны. 
+
+Нет никакой официальной регистрации будь то ип или еще что. А значит, что если они вдруг решат закрыться, то подать иск в суд, в полицию или куда либо ещё вы не сможете) Прощайте все ваши данные.
+Именно поэтому когда RussiaNodes v1 закрылся из за дешевого дерьмо-провайдера Contabo, вы просрали все свои сборки. Я был в этом числе, в моей сборке было лобби которое я строил 3 часа. Но потом когда я хотел его скачать, бубум и нет RussiaNodes.
+
+Изменили домен с russianodes.ru на russianodes.com т.к не хотят платить налоги.
+
+Панель даже не переведена (например у ApexNodes аддон на языки) и нет никаких аддонов почти (мелочь но факт) 
+
+Хостинг 2 месяца назад был на грани закрытия. 20 гигабайт озу за 777 рублей думаю всем понятно что бред. 
+
+Кстати, знаете почему так много ОЗУ на тарифах? Это называется SWAP! Они могут купить выделенный сервер на 4 ГБ ОЗУ, много ядер и 4ТБ Диска и от 4 тб диска забрать 252 ГБ для оперативной памяти. Но к счастью они покупают сервера с большим количеством ОЗУ.
+
+Сайт полон уязвимостей, багов и тд. К тому же от дизайна и симетрии сайта глаза болят.
+Дополнительно: нет защиты от ботов, придётся ставить ужасный BotFilter или защиту от TCPShield:
+
+
+Прочее
+
+На сайте расположены доисторические отзывы о RussiaNodes v1 (сейчас RussiaNodes v3)
+
+Также отзывы на сайте будут только самые лучшие. Ведь там написано что плохие отзывы они оставят и снизу кнопка оставить отзыв, которая ведёт в группу ВК. Только вот где там оставлять отзыв? Пёс его знает!
+
+Авторизация только через Discord. То есть если вы просто хотели поиграть с друзьями вам придётся регистрировать аккаунт в Discord чтобы потом создать аккаунт на RussiaNodes.
+
+Оплата через FreeKassa и Qiwi. Оплата через FK работает отлично а вот через QIWI можно просрать деньги
+Во первых после перевода на Qiwi нужно открыть страницу для получения денег и написать идентификатор платежа. Во вторых оплата через Qiwi почти всегда отключена. Узнать об этом можно только в Discord-сервере.
+
+После авторизации через Discord вас автоматически подключит к их Discord-серверу. Без разницы, бесплатный вы клиент или нет. Вы все равно будете иметь желание выйти с этого Discord-сервера. Потому-что постоянно, каждый день вы будете видеть @everyone в количестве миллион, при чём по всякой мелочи. Иногда даже там есть реклама никому не нужных видео Fanger'a с @everyone.
+
+Владельцы хостинга почти ничего не делают. Все уязвимости закрывает MrWarka. Который недавно ушёл с RussiaNodes и Fanger сразу в объявлениях написал чтобы Варке в лс спамили "Вернить на ПарашаНодес".
+
+Дискорд сервер
+
+Как я уже говорил, чрезмерный пинг по @everyone где вам скажут "DONATOR 1 УПАЛА НА 1 СЕК".
+
+Канал с новой панелью? Да зачем он! Это же просто html шаблон. Ведь MrWarka ушёл и панель делать некому.
+
+Тех.Поддержка и состав... Самое худшее... Во первых 70% состава и поддержки украинцы. Если вы напишите 1 раз что-то плохо о них, то всё... Бесконечный мут вам обеспечен. Но если они напишут плохо о вас, всем будет всё-равно.
+
+Мелочи Discord-сервера: перегрузка бесполезными каналами, устаревший дизайн, не нужные боты. - https://media.discordapp.net/attachments/891338946544533556/999061152875171920/unknown.png
+Fanger - (ПА)RussiaNodes
+
+Хотели ли вы когда-нибудь попробовать на вкус самый ужасный хостинг? Нет? Но мы расскажем вам о нём!
+
+RussiaNodes - самый больной и ненормальный хостинг серверов Minecraft за всю историю RU майнкрафта. 
+Чем же он так плох? 
+Пройдёмся по некоторым аргументам:
+
+Владельцы размещают 15000 серверов на 2 узлах Hetzner под free тарифы, а также 1000+ северов на 7 узлах под платные тарифы. Как сообщает сам владелец RussiaNodes (Fanger) - они докупают донатерские узлы, только если SWAP забит на 80% (половина ОЗУ всех узлов - это swap), что же такое SWAP? Swap - файл подкачки, который преобразует дисковое пространство в ОЗУ, однако диск по определению не может быть качественной оперативной памятью, по итогу скорость Swap'а ниже DDR1.
+
+Оплачивают сервера Hetzner через украинца. То есть, если этот украинец уйдёт из состава, то всё, прощай RussiaNodes и все ваши данные.
+Скриншот переписки с сервера хостинга ApexNodes:
+
+Нет никакого собственного AntiDDoS, то есть совсем нету. Протестировав с друзьями мы обнаружили, что VDS на 4 ядра способна положить узел с серверами на их хостинге меньше чем за минуту. Также мы узнали у владельца что у них и правда нет AntiDDoS. Оказывается, по словам владельца, они используют базовую защиту AntiDDOS от OVH. (Хотя на самом деле такой защиты у них нет, на данный момент они её только тестируют, начиная с 15 июля 2022)
+Вот скриншот переписки на сервере ApexNodes:
+
+Все владельцы хостинга еще ходят в школу (от 13-15 лет). Да, именно так. Вы доверяете благополучие своего сервера малолетним имбицилам с манией величия, которые не умеют здраво оценивать ситуацию и разумно мыслить. Пример: Один их клиент скинул консоль сервера не их хостинга (названий, лого хостинга не было видно). Ему выдали мут. Причина: "сторонний хост". Гениально. И таких примеров ОЧЕНЬ и ОЧЕНЬ много.
+
+Панель управления лагает так, что хочется повесится. Вылеты вам обеспеченны. 
+
+Нет никакой официальной регистрации будь то ип или еще что. А значит, что если они вдруг решат закрыться, то подать иск в суд, в полицию или куда либо ещё вы не сможете) Прощайте все ваши данные.
+Именно поэтому когда RussiaNodes v1 закрылся из за дешевого дерьмо-провайдера Contabo, вы просрали все свои сборки. Я был в этом числе, в моей сборке было лобби которое я строил 3 часа. Но потом когда я хотел его скачать, бубум и нет RussiaNodes.
+
+Изменили домен с russianodes.ru на russianodes.com т.к не хотят платить налоги.
+
+Панель даже не переведена (например у ApexNodes аддон на языки) и нет никаких аддонов почти (мелочь но факт) 
+
+Хостинг 2 месяца назад был на грани закрытия. 20 гигабайт озу за 777 рублей думаю всем понятно что бред. 
+
+Кстати, знаете почему так много ОЗУ на тарифах? Это называется SWAP! Они могут купить выделенный сервер на 4 ГБ ОЗУ, много ядер и 4ТБ Диска и от 4 тб диска забрать 252 ГБ для оперативной памяти. Но к счастью они покупают сервера с большим количеством ОЗУ.
+
+Сайт полон уязвимостей, багов и тд. К тому же от дизайна и симетрии сайта глаза болят.
+Дополнительно: нет защиты от ботов, придётся ставить ужасный BotFilter или защиту от TCPShield:
+
+
+Прочее
+
+На сайте расположены доисторические отзывы о RussiaNodes v1 (сейчас RussiaNodes v3)
+
+Также отзывы на сайте будут только самые лучшие. Ведь там написано что плохие отзывы они оставят и снизу кнопка оставить отзыв, которая ведёт в группу ВК. Только вот где там оставлять отзыв? Пёс его знает!
+
+Авторизация только через Discord. То есть если вы просто хотели поиграть с друзьями вам придётся регистрировать аккаунт в Discord чтобы потом создать аккаунт на RussiaNodes.
+
+Оплата через FreeKassa и Qiwi. Оплата через FK работает отлично а вот через QIWI можно просрать деньги
+Во первых после перевода на Qiwi нужно открыть страницу для получения денег и написать идентификатор платежа. Во вторых оплата через Qiwi почти всегда отключена. Узнать об этом можно только в Discord-сервере.
+
+После авторизации через Discord вас автоматически подключит к их Discord-серверу. Без разницы, бесплатный вы клиент или нет. Вы все равно будете иметь желание выйти с этого Discord-сервера. Потому-что постоянно, каждый день вы будете видеть @everyone в количестве миллион, при чём по всякой мелочи. Иногда даже там есть реклама никому не нужных видео Fanger'a с @everyone.
+
+Владельцы хостинга почти ничего не делают. Все уязвимости закрывает MrWarka. Который недавно ушёл с RussiaNodes и Fanger сразу в объявлениях написал чтобы Варке в лс спамили "Вернить на ПарашаНодес".
+
+Дискорд сервер
+
+Как я уже говорил, чрезмерный пинг по @everyone где вам скажут "DONATOR 1 УПАЛА НА 1 СЕК".
+
+Канал с новой панелью? Да зачем он! Это же просто html шаблон. Ведь MrWarka ушёл и панель делать некому.
+
+Тех.Поддержка и состав... Самое худшее... Во первых 70% состава и поддержки украинцы. Если вы напишите 1 раз что-то плохо о них, то всё... Бесконечный мут вам обеспечен. Но если они напишут плохо о вас, всем будет всё-равно.
+
+Мелочи Discord-сервера: перегрузка бесполезными каналами, устаревший дизайн, не нужные боты. - https://media.discordapp.net/attachments/891338946544533556/999061135217152092/unknown.png
+Fanger - (ПА)RussiaNodes
+
+Хотели ли вы когда-нибудь попробовать на вкус самый ужасный хостинг? Нет? Но мы расскажем вам о нём!
+
+RussiaNodes - самый больной и ненормальный хостинг серверов Minecraft за всю историю RU майнкрафта. 
+Чем же он так плох? 
+Пройдёмся по некоторым аргументам:
+
+Владельцы размещают 15000 серверов на 2 узлах Hetzner под free тарифы, а также 1000+ северов на 7 узлах под платные тарифы. Как сообщает сам владелец RussiaNodes (Fanger) - они докупают донатерские узлы, только если SWAP забит на 80% (половина ОЗУ всех узлов - это swap), что же такое SWAP? Swap - файл подкачки, который преобразует дисковое пространство в ОЗУ, однако диск по определению не может быть качественной оперативной памятью, по итогу скорость Swap'а ниже DDR1.
+
+Оплачивают сервера Hetzner через украинца. То есть, если этот украинец уйдёт из состава, то всё, прощай RussiaNodes и все ваши данные.
+Скриншот переписки с сервера хостинга ApexNodes:
+
+Нет никакого собственного AntiDDoS, то есть совсем нету. Протестировав с друзьями мы обнаружили, что VDS на 4 ядра способна положить узел с серверами на их хостинге меньше чем за минуту. Также мы узнали у владельца что у них и правда нет AntiDDoS. Оказывается, по словам владельца, они используют базовую защиту AntiDDOS от OVH. (Хотя на самом деле такой защиты у них нет, на данный момент они её только тестируют, начиная с 15 июля 2022)
+Вот скриншот переписки на сервере ApexNodes:
+
+Все владельцы хостинга еще ходят в школу (от 13-15 лет). Да, именно так. Вы доверяете благополучие своего сервера малолетним имбицилам с манией величия, которые не умеют здраво оценивать ситуацию и разумно мыслить. Пример: Один их клиент скинул консоль сервера не их хостинга (названий, лого хостинга не было видно). Ему выдали мут. Причина: "сторонний хост". Гениально. И таких примеров ОЧЕНЬ и ОЧЕНЬ много.
+
+Панель управления лагает так, что хочется повесится. Вылеты вам обеспеченны. 
+
+Нет никакой официальной регистрации будь то ип или еще что. А значит, что если они вдруг решат закрыться, то подать иск в суд, в полицию или куда либо ещё вы не сможете) Прощайте все ваши данные.
+Именно поэтому когда RussiaNodes v1 закрылся из за дешевого дерьмо-провайдера Contabo, вы просрали все свои сборки. Я был в этом числе, в моей сборке было лобби которое я строил 3 часа. Но потом когда я хотел его скачать, бубум и нет RussiaNodes.
+
+Изменили домен с russianodes.ru на russianodes.com т.к не хотят платить налоги.
+
+Панель даже не переведена (например у ApexNodes аддон на языки) и нет никаких аддонов почти (мелочь но факт) 
+
+Хостинг 2 месяца назад был на грани закрытия. 20 гигабайт озу за 777 рублей думаю всем понятно что бред. 
+
+Кстати, знаете почему так много ОЗУ на тарифах? Это называется SWAP! Они могут купить выделенный сервер на 4 ГБ ОЗУ, много ядер и 4ТБ Диска и от 4 тб диска забрать 252 ГБ для оперативной памяти. Но к счастью они покупают сервера с большим количеством ОЗУ.
+
+Сайт полон уязвимостей, багов и тд. К тому же от дизайна и симетрии сайта глаза болят.
+Дополнительно: нет защиты от ботов, придётся ставить ужасный BotFilter или защиту от TCPShield:
+
+
+Прочее
+
+На сайте расположены доисторические отзывы о RussiaNodes v1 (сейчас RussiaNodes v3)
+
+Также отзывы на сайте будут только самые лучшие. Ведь там написано что плохие отзывы они оставят и снизу кнопка оставить отзыв, которая ведёт в группу ВК. Только вот где там оставлять отзыв? Пёс его знает!
+
+Авторизация только через Discord. То есть если вы просто хотели поиграть с друзьями вам придётся регистрировать аккаунт в Discord чтобы потом создать аккаунт на RussiaNodes.
+
+Оплата через FreeKassa и Qiwi. Оплата через FK работает отлично а вот через QIWI можно просрать деньги
+Во первых после перевода на Qiwi нужно открыть страницу для получения денег и написать идентификатор платежа. Во вторых оплата через Qiwi почти всегда отключена. Узнать об этом можно только в Discord-сервере.
+
+После авторизации через Discord вас автоматически подключит к их Discord-серверу. Без разницы, бесплатный вы клиент или нет. Вы все равно будете иметь желание выйти с этого Discord-сервера. Потому-что постоянно, каждый день вы будете видеть @everyone в количестве миллион, при чём по всякой мелочи. Иногда даже там есть реклама никому не нужных видео Fanger'a с @everyone.
+
+Владельцы хостинга почти ничего не делают. Все уязвимости закрывает MrWarka. Который недавно ушёл с RussiaNodes и Fanger сразу в объявлениях написал чтобы Варке в лс спамили "Вернить на ПарашаНодес".
+
+Дискорд сервер
+
+Как я уже говорил, чрезмерный пинг по @everyone где вам скажут "DONATOR 1 УПАЛА НА 1 СЕК".
+
+Канал с новой панелью? Да зачем он! Это же просто html шаблон. Ведь MrWarka ушёл и панель делать некому.
+
+Тех.Поддержка и состав... Самое худшее... Во первых 70% состава и поддержки украинцы. Если вы напишите 1 раз что-то плохо о них, то всё... Бесконечный мут вам обеспечен. Но если они напишут плохо о вас, всем будет всё-равно.
+
+Мелочи Discord-сервера: перегрузка бесполезными каналами, устаревший дизайн, не нужные боты. - https://media.discordapp.net/attachments/891338946544533556/999060910666678342/unknown.png
+Win - (PA)RussiaNodes
+
+Have you ever wanted to taste the worst hosting? No? But we'll tell you about him!
+
+RussiaNodes is the most painful and abnormal hosting of Minecraft servers in the history of Minecraft RU.
+
+Why is he so bad?
+
+Let's go through some arguments:
+
+Owners place 15,000 servers on 2 Hetzner nodes at free tariffs, as well as 1000+ norths on 7 nodes under paid tariffs. According to the owner of RussiaNodes (Fanger) - they buy additional nodes only if the SWAP is clogged with 80% (half of the RAM of all nodes is swap), what is SWAP? Swap is a swap file that converts disk space into RAM, but the disk by definition cannot be high-quality RAM, as a result, the Swap speed is lower than DDR1.
+
+Hetzner servers pay through a Ukrainian. That is, if this Ukrainian leaves the composition, that's it, goodbye RussiaNodes and all your data.
+
+Screenshot of correspondence from ApexNodes hosting server:
+
+There is no own AntiDDoS, that is, not at all. After testing with friends, we found that VDS on 4 cores is able to put a node with servers on their hosting in less than a minute. We also learned from the owner that they really don't have AntiDDoS. It turns out that, according to the owner, they use basic AntiDDOS protection from OVH. (Although they don't really have such protection, at the moment they are only testing it, starting from July 15, 2022)
+
+Here's a screenshot of the correspondence on the ApexNodes server:
+
+All hosting owners still go to school (from 13-15 years old). Yes, that's right. You trust the well-being of your server to young imbitciles with megalomania, who do not know how to assess the situation sensibly and think wisely. Example: One of their clients dropped the server console not their hosting (names, hosting logo were not visible). He was given a mud. Reason: "third-party host". Brilliant.. And there are VERY, VERY many such examples.
+
+The control panel lags in such a way that you want to hang yourself. The flights are secured for you.
+
+There is no official registration, whether it's an ip or something else. So, if they suddenly decide to close, you can't file a lawsuit with the police or anywhere else) Forgive all your data.
+
+That's why when RussiaNodes v1 closed because of the cheap shit provider Contabo, you fucked up all your assemblies. I was in this number, in my assembly there was a lobby that I built for 3 hours. But then when I wanted to download it, there's no RussiaNodes.
+
+Changed the domain from russianodes.ru to russianodes.com because they don't want to pay taxes.
+
+The panel is not even translated (for example, ApexNodes has an addon into languages) and there are almost no addons (a trifle but a fact)
+
+Hosting 2 months ago was on the verge of closing. 20 gigabytes of ozu for 777 rubles I think everyone understands that it's nonsense.
+
+By the way, do you know why there is so much RAM on the tariffs? It's called SWAP! They can buy a dedicated server with 4 GB of RAM, many cores and 4TB of disk and take 252 GB of RAM from 4 TB of disk. But fortunately they buy servers with a lot of RAM.
+
+The site is full of vulnerabilities, bugs, etc. In addition, the design and symmetry of the site hurts the eyes.
+
+Additionally: there is no protection against bots, you will have to install a terrible BotFilter or protection against TCPShield:
+
+Other things
+
+The site contains prehistoric reviews of RussiaNodes v1 (now RussiaNodes v3)
+
+Also, the reviews on the site will be only the best. After all, it says that they will leave bad reviews and at the bottom there is a button to leave a review, which leads to the VK group. But where to leave a review there? The dog knows him!
+
+Authorisation only through Discord. That is, if you just wanted to play with friends, you will have to register an account with Discord to create an account on RussiaNodes later.
+
+Payment via FreeKassa and Qiwi. Payment via FK works perfectly, but through QIWI you can waste money
+
+First of all, after the transfer to Qiwi, you need to open the page to receive money and write a payment ID. Secondly, payment via Qiwi is almost always disabled. You can only find out about it in the Discord server.
+
+After authorisation through Discord, you will be automatically connected to their Discord server. It doesn't matter whether you're a free client or not. You'll still have a desire to get out of this Discord server. Because all the time, every day you will see @everyone in the amount of a million, and all sorts of trifles. Sometimes even there is an advertisement for anyone who needs Fanger videos with @everyone.
+
+Hosting owners do almost nothing. All vulnerabilities are covered by MrWarka. Who recently left RussiaNodes and Fanger immediately wrote in the ads to spam Varka in HP "Repair to ParashaNodes".
+
+Discord server
+
+As I said, excessive ping on @everyone where you will be told "DONATOR 1 FELL FOR 1 SECOND".
+
+A channel with a new panel? Why him! It's just an html template. MrWarka is gone and there's no one to do the panel.
+
+Technical support and composition... The worst... First of all, 70% of the composition and support are Ukrainians. If you write something bad about them once, that's all... The endless mud is provided to you. But if they write badly about you, everyone won't care.
+
+Discord server trifles: overloading with useless channels, outdated design, unnecessary bots.
+
+
+**Rough Translation **
+Robert - Fanger Heya, just for future reference: it is appreciated if you kept your posts and threads in English, thanks.

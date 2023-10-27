@@ -1,0 +1,259 @@
+Deleted User - He keeps claiming that another website, is using his modification, but both are using the same free template.
+
+Modification's that Chirag says they stole:
+Dark/Light mode switch
+The whole JS code
+One extra box.
+
+http://eggactyl.cloud - Chirag's website
+https://categg.us
+
+The template: https://cruip.com/demos/switch/
+
+The thing that everyone tries to tell him is that he didn't create the template, so he can't own some modifications like the extra feature box which is still based on the template.
+Deleted User - He keeps showing the JS now. Someone said that it's minified and that's what he said. - https://drama.gg/assets/files/2021-08-19/1629350908-293644-captura-de-ecran-din-2021-08-19-la-082814.png
+Chirag - mituishere by that I meant that I didn't save the code which wasn't minified, I only saved the minified version.
+
+
+now then, let's compare the js of the original template and the eggactyl website.
+Here's the js on the eggactyl website (modification by me): https://pastebin.com/FaRCz12n
+Here's the js of the original template: https://pastebin.com/cd9QbrUW
+
+first, go read both the code snippets before saying anything.
+Deleted User - Chirag can't see what ur js code has to do with theirs.
+Deleted User - LMFAO - https://drama.gg/assets/files/2021-08-19/1629351592-723448-captura-de-ecran-din-2021-08-19-la-083854.png
+Chirag - mituishere compare it, it's not the same. it's modified. and the js code categg is using, is the one modified by me.
+Deleted User - Chirag I'm not the one which has to prove that it's not just crying over your competitor using the same theme as you.
+Chirag - mituishere 
+After you've seen the code snippets I've sent above, do this.
+run curl -o categg.js https://categg.us/dist/js/main.min.js
+and then curl -o eggactyl.js https://eggactyl.cloud/dist/js/main.min.js
+Chirag - and then run diff eggactyl.js categg.js, if it doesn't output anything, then it's the same, else it'll output the difference.
+Chirag - Chirag bruh, their js isn't even minified. you might've to unminify (also known as beautify) the js from eggactyl website.
+Chirag - yeah, what you gotta say now @mituishere? - https://drama.gg/assets/files/2021-08-19/1629352767-600386-image.png
+IoNetty - Chirag the thing is, if it's a public template who the fuck cares? it's just lines of damn code that are public on the internet
+Chirag - IoNetty did you compare the original code and the code on the eggactyl website? it ain't the same. it's modified. and that modified code was copied by categg.
+IoNetty - Chirag i didn't and I don't care,  why would you fuss about lines of code on the internet.
+
+quote from me: why the fuck fuss about shit when it just causes drama with no real answer
+IoNetty - if your using someone else's code, okay! you are, give them credit and let it be. always ask for permission, if I want to use someones artwork for an example then i would ask them for use permission
+Chirag - IoNetty read the fucking thread. categg copied the code I modified from the original template.
+IoNetty - Chirag ohh, sorry, he should have asked for permission if they copied it
+Deleted User - Chirag You're dumb because you left ur own website PUBLIC on GitHub and you're the on crying about it LMFAO
+Chirag - mituishere it's private?
+Deleted User - Chirag He just said that he used the template you have on github. - https://drama.gg/assets/files/2021-08-19/1629363427-655718-image.png
+Willypro7 - Hello everyone.
+
+First of all, I have to say that I did not steal any code, I didn't even use the chirag code.
+
+Chirag yeah, what you gotta say now @mituishere?
+
+I said that since you were very toxic and accusing every moment without reason, in short, things of 13-year-old children, and saying that I was a skid without not letting me or explaining
+
+Here is the evidence that it does not use your code:
+
+To add more buttons, just copy the code of a button and paste it, everyone knows how to do it. (I said that in Drama.gg Discord server.)
+
+To add more feature boxes, I just copied and pasted the box code, changing the icon to be varied.
+
+The only part that uses your code is the JS part (Only the dark theme thing), and you cannot consider or steal code since everything is public. I could even recreate it myself. I say only the JS part, because it is only the JS part, even the switch i deleted it and made it default to dark theme.
+
+Please chirag, stop trying to feel special just for 6 public lines of JS.
+
+Now, taking advantage of the fact that there is a thread against you, and you were accusing me, I'm going to have a little fun.
+
+
+(All these referring to me, without letting even explain, begin toxic, getting angry when everyone agrees with me, and a long list of stuff)
+
+
+I though all multieggs got an ascii at start, and even your multiegg has the resource thingy, that means you skidded it? Noob
+
+with this I want to make it clear that the only skid / accuser / person that likes to be mad with literally everyone, is chirag.
+
+Thanks to everyone that helped me. - https://drama.gg/assets/files/2021-08-19/1629365285-308498-image.png
+Willypro7 - Hello everyone.
+
+First of all, I have to say that I did not steal any code, I didn't even use the chirag code.
+
+Chirag yeah, what you gotta say now @mituishere?
+
+I said that since you were very toxic and accusing every moment without reason, in short, things of 13-year-old children, and saying that I was a skid without not letting me or explaining
+
+Here is the evidence that it does not use your code:
+
+To add more buttons, just copy the code of a button and paste it, everyone knows how to do it. (I said that in Drama.gg Discord server.)
+
+To add more feature boxes, I just copied and pasted the box code, changing the icon to be varied.
+
+The only part that uses your code is the JS part (Only the dark theme thing), and you cannot consider or steal code since everything is public. I could even recreate it myself. I say only the JS part, because it is only the JS part, even the switch i deleted it and made it default to dark theme.
+
+Please chirag, stop trying to feel special just for 6 public lines of JS.
+
+Now, taking advantage of the fact that there is a thread against you, and you were accusing me, I'm going to have a little fun.
+
+
+(All these referring to me, without letting even explain, begin toxic, getting angry when everyone agrees with me, and a long list of stuff)
+
+
+I though all multieggs got an ascii at start, and even your multiegg has the resource thingy, that means you skidded it? Noob
+
+with this I want to make it clear that the only skid / accuser / person that likes to be mad with literally everyone, is chirag.
+
+Thanks to everyone that helped me. - https://drama.gg/assets/files/2021-08-19/1629367272-330034-image.png
+Chirag - Willypro7 with this I want to make it clear that the only skid / accuser / person that likes to be mad with literally everyone, is chirag.
+
+Lmao. Being mad at something/someone isn't being a skid.
+Deleted User - This says enough lmfao - https://drama.gg/assets/files/2021-08-19/1629366496-390007-captura-de-ecran-din-2021-08-19-la-124812.png
+Robert - All I can really see from this thread is Chirag being childish and crying about someone copying a JS file that is publically accessible by anyone and that is as far as I am aware not licensed nor copyrighted.
+
+And, about the copying of the code egg itself, having "Starting Server", some big text and hardware information isn't copying the code if he can't even access it in the first place (as far as I am aware he can't, but if he can then I'm wrong).
+Willypro7 - Robert His egg is compiled, you can't access it, so you'r right
+Deleted User - Robert Yah, that's the point of the thread. I did it so anyone can see who owns it lol
+Chirag - Robert I don't care if they copy the format tbh, just don't copy the js ffs. at least, ask for permission?
+AxelNetwork - Eh, I still like Eggactyl and CatEgg lel
+Jerome - Chirag Don't make it open source then....
+ItzJack - Why I saw that only chirag abusing and using bad words like fucking , boomer , etc? Ig all drama.gg community has bad reputation because of toxic kids.
+ItzJack - Chirag itself skidded kill badsk game from there kill chirag game. I don't have a proof for it as I saw it in somewhere in ss in drama.gg or in other server. Chirag should be stop abusing.
+He abuse anyone like if the person is 20 years old then to he abuse.
+FatGrizzly - ItzJack no one cares if it is badsk
+Two - ItzJack this... (no offense anyone) i have to agree
+ItzJack - FatGrizzly Ik but he should stop saying everyone that person skidded anything when he skidded something by anyone.
+Chirag - ItzJack lmao? Skidded the game? Nah, more like his dev gave me the game. Stop lying.
+ItzJack - Chirag Okay then stop calling that " Best game ever I have made."
+Chirag - ItzJack and where did I say that?
+ItzJack - Chirag i saw somewhere and also I dont have proof for it too. But I think in hectix or drama.gg u said coz you edited in dashactyl.
+calcal - ItzJack no proof didnt happen
+ItzJack - calcal bruh. I saw him say "best game ever i had made"
+calcal - ItzJack still no proof of it
+Oliver1234dotdot - ItzJack Ay my guy, just get the fuck off drama.gg.. You're literally as bad as badsk lmfao
+ItzJack - Oliver1234dotdot can just forget past? I don't even on discord now. LMAFO
+ItzJack - calcal Bruh you can sreach it on hectix or drama.gg server he have said that. Imaging a place where chirag removing proofs.
+ItzJack - Oliver1234dotdot oh are you angry on me because I got your scam hosting discord server ownership?
+Oliver1234dotdot - ItzJack I cant forget the past, you're a fucking skid that shouldnt be allowed on the internet.
+Oliver1234dotdot - ItzJack No one will ever forget what you did..
+abdullah - Chirag is also known for going on other drama.gg threads just to troll. It's really annoying, he provides no evidence but just immature comments.
+Oliver1234dotdot - ItzJack Please provide valid proof of scamming. Its a free hosting. You can create a new thread if you want to, this thread is irrelevant to this.
+ItzJack - Oliver1234dotdot how can i be skid?
+ItzJack - Oliver1234dotdot https://drama.gg/d/912-cygnen-nodes-a-scam-lies/2
+ItzJack - Oliver1234dotdot reason is that i only worked for a scammer. Then you also work for him.
+Chirag - abdullah says the one who removes the copyright of a free template when not allowed to.
+Chirag - Chirag here, lemme give some evidence, https://colorlib.com/wp/licence/
+Limitations for FREE versions
+You are not allowed to remove the copyright credit from the footer.
+You are not allowed to sell, resale, rent, and lease our template.
+We don’t provide any technical support for free HTML templates.
+
+
+https://www.floofyhosting.com/
+"© 2021 Sentient Trading LLC t/a Floofy Hosting"
+ZeusNodes - Chirag also try to disk filled our nodes. He did with very hosting who denied to use his shitty egg. - https://drama.gg/assets/files/2021-08-25/1629876568-480546-image.png
+Sydney - ZeusNodes Can you prove it is Chirag? Not saying it is, or isn't, but yea.
+ZeusNodes - Sydney - https://drama.gg/assets/files/2021-08-25/1629877012-220288-image.png
+ZeusNodes - And he also abuse our executive who is 20 year old and chirag is just 13. Chirag say "Hey I am coming to your house in 30 mins be ready I will smash your ass"
+Kowone - ZeusNodes i can see no proof in this screenshot
+Kowone - ZeusNodes where does your shitty "20 years old" executive live in?
+Kowone - not trying to be shitty, but can you prove that it's chirag that disk filled your low-on-resources node?
+ZeusNodes - Kowone India.
+ZeusNodes - Kowone Lmao node Ram:62GB Disk: 274GB. Lmao he does you can ask anybody he does to every node. He used to run miners on nodes.
+ZeusNodes - Kowone Bruh chirag own that server in my host. So we are dicussing over it.
+ZeusNodes - And really? are you taking chirag side? I have lot of proofs that he ddos hosts and abuse.
+babyharpseal - We are just asking for valid proof that Chirag actually owned the server, or you don't have any? If not, then your argument it's pretty much invalid here.
+ZeusNodes - babyharpseal Yes I don't have it at this time but we will find that proofs. Because our staff doesn't take screen shot properly. I will find it soon.
+Chirag - ZeusNodes He did with very hosting who denied to use his shitty egg.
+
+No? you ain't using eggactyl either way, you're blacklisted (if not, you will be blacklisted since you say you're registered in India and Norway, but aren't in any)
+Chirag - ZeusNodes I literally said it's like 5 hours from here and I can come meet him lmao
+ZeusNodes - Chirag Oh idc about ur multi egg. I am using someother egg who is owned by good and nice nature person.
+ExoticalCat - CatEgg or MultiEgg by ExoticalCat?
+europa - who the fuck cares this much about beef between two twelve year olds that used the same theme
+FatGrizzly - europa hi daddy
+europa - FatGrizzly what
+FatGrizzly - europa ok
+DiscordUser - This thread is sexy.
+Chirag - europa 13* and, I don't really care about that anymore
+IoNetty - vouch for chirag, legit gave me a domain. what about you stop arguing like europa said. none of this shit matters at all lmfao..
+
+
+
+https://web.ionetty.tech - https://drama.gg/assets/files/2021-08-25/1629933689-839154-image.png
+ItzJack - IoNetty chirag got his github edu like 2 weeks ago and .tech is free with github edu.
+ItzJack - He should gave you it for 1 year and 2 free email account with 100 mb free storage.
+IoNetty - ItzJack Already know it was from github edu, it's fair. Also I have directadmin hosting, no need for that.
+ItzJack - If he gave you free .tech domain by taking money from you then you got scammed. 😂😂
+IoNetty - ItzJack Didn't cost me money.
+ItzJack - IoNetty Then why voching? You voch him because he give you free thing for free LMAFO 😂😂
+eraters - ItzJack dont you vouch for badsk's hosts? he dont pay for those
+Sydney - eraters I always wondered how he would get so many 126/128GB machines...
+eraters - Sydney ill send a link as to how here
+ItzJack - eraters When I vouch for him?
+eraters - ItzJack i'd pull up every single message of it but im not in the servers for a reason
+ItzJack - eraters bruh i didnt vouch him. I am that guy who mass dms all that he is scammer and comment on his videos lmao.
+ItzJack - eraters He deleted servers.
+ItzJack - eraters vouch for badsk's host
+
+Wym to say? That chirag is scammer like badsk?🙄
+Sydney - ItzJack I have yet to see Chirag scam anyone
+eraters - ItzJack your incompetent ass cant be telling whether people should vouch for who, you are well fuckin known for working with badsk and at this point you're more of a joke than this site
+IoNetty - Sydney i'll go get the domain moved over to me, if chirag can do that i trust em /shrug
+ItzJack - Sydney I didn't said that he totally scammer like badks 😶
+eraters - IoNetty i trust chirag a lot tbh he's proven very trust-worthy in mostly whatever he does
+IoNetty - eraters yea, i'll ask for the register, sec
+eraters - IoNetty if it's gh edu, then https://get.tech/
+Chirag - eraters yes ^
+IoNetty - eraters has to be registered for 60 days
+Chirag - @ItzJack I got something for you, just for you. https://cdn.discordapp.com/attachments/752738544153395271/752738880284786708/special_message_for_you.mp4
+abdullah - Chirag Good job trying to change the subject! I'm sure everyone here cares.
+abdullah - Chirag How professional!
+Chirag - abdullah We don't like to and aren't professional in tickets, you except us to be professional here? Hell nah
+ZeusNodes - ZeusNodes scams. We use ec2 free nodes from amazon.
+ZeusNodes - auth.zuesnodes.xyz ip: 15.206.179.37, abusing: amazon, owner: 運命#0001 proofs: 
+Owner nature: Selfish. - https://drama.gg/assets/files/2021-08-29/1630255068-300206-image.png
+Kowone - ZeusNodes We use ec2 free nodes from amazon.
+
+free trial, yep
+ZeusNodes - Kowone yes we use it. we put nodes from aws in paid plan so we can scam also. 30$ for 12gb ram.
+ZeusNodes - https://discord.gg/fjMrwX54
+Scripted - ZeusNodes hey fucking imposter
+BLACKMARKET - ZeusNodes okay guys time to show who this imposter is
+badsk's best kid spy aka ItzJack aka notyourgodfather aka angro aka  
+currently roaming with this name - https://drama.gg/assets/files/2021-08-30/1630326441-775717-image.png
+Kowone - BLACKMARKET not the thread for that person, go away
+BLACKMARKET - Kowone dude coming to free trial you get to use only aws Ec2 MICRO nodes
+it is clearly mentioned in the user terms of aws free trial
+(you get to use only 750 hours of Ec2 micro instances only.) - https://drama.gg/assets/files/2021-08-30/1630326767-626963-2021-08-30-12-31-19-free-cloud-computing-services-aws-mozilla-firefox.png
+Kowone - BLACKMARKET consider re-reading the thread name again
+Scripted - Kowone Okay, but why are these guys fucking bringing ZeusNodes in here
+Scripted - We do not even use free trial.
+BLACKMARKET - Kowone 
+
+Kowone ig I dint post things first.
+BLACKMARKET - Scripted we need not prove everyone, we know our own difficulties.
+BLACKMARKET - Kowone thats the guy here talking himself as Zeusnodes
+ItzJack - BLACKMARKET 750hrs = 30 days, btw hi destiny(owner of zeusnodes)
+Scripted - ItzJack its t2.micro and t3.micro
+which is not what we use.
+BLACKMARKET - ItzJack Idiot Read what I have marked. aka Circled
+Kowone - BLACKMARKET still wrong thread
+Kowone - this thread is about chirag and eggactyl, not about someone impersonating as your shitty host
+ItzJack - BLACKMARKET stfu kid. Planing toine btc on nodes nice
+ItzJack - Kowone u r cool among ppls in this thread
+ItzJack - Scripted then what you use?
+Scripted - ItzJack Look it up yourself, its 64gb ram. t2.micro and t3.micro is much and i mean very smaller than them.
+ItzJack - Scripted bruh we can create 64gb ram node in aws for free , dumb healer
+IoNetty - ItzJack are you actually dead, you can make it on aws free plan for free for 10 minutes but then you'll get banned for going over free plan usage
+Scripted - IoNetty yeah
+Chirag - why tf is this thread so active and entirely off topic
+Puggo - Ah, Chirag. Chirag. Chirag.. istg everyone in the Drama.gg community is so toxic. Chirag creates an egg then gets a thread about it you can't create or do anything if you're a part of this community lmfao..
+Puggo - mituishere Nothing funny about it, no need to post it here 😀 )
+ZeusNodes - BLACKMARKET is
+
+English op. (Btw using startup credits hmm)
+Deleted User - Puggo That picture is just showing how unprofessional can be. That's enough to just demonstrate that the tags of the thread are properly used.
+
+What about you, don't you have to scam some people with your summerhoaxing? I mean, you aren't even able to get yourself a logo. You literally just stole a stock image from google and put a text with the name and used a trash font.
+Flashop - ItzJack Jack sun mera acc hack hogaya  new account  pe frnd req bhej Beluwuga#1078
+ItzJack - Lul
+ItzJack - Hacked by talibans.
+BreadKitten - why this even exists lmao
+__SECRET__ - BreadKitten cuz dickheads still exist
+BreadKitten - ah yes my bad, i forgot

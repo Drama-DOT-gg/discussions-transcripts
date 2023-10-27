@@ -1,0 +1,464 @@
+babyharpseal - Hello, so today, my friend and I were looking for some hostings to check on, and we found this particular one, which seemed very interesting.
+
+They lie to their members that they "reset" their nodes, but in reality, it's because their Amazon Free Trial ended.
+
+I cannot provide a screenshot of the dates, as they deleted it, but I noted them just in case, here is the list:
+
+USAFREE1 &amp; USAFREE2: 17/7/21
+USAFREE3 &amp; USAFREE4: 10/08/21 
+
+It's a Spanish host, so most of you won't understand the screenshots below, but I'll translate them for you. (I censored my friend's name as he wanted me to do so.)
+
+
+[+] The "resets" of your nodes, are they really reset or is it because your AWS Free Trial ends?
+[-] Hahaha, both
+
+And here's proof that they use AWS Trial servers:
+
+They also allowed bash on their nodes, which allowed us to check more things:
+
+1GB of RAM left on "their node",
+
+They also seemed to have skidded their pterodactyl addons, as they use AWS Free Trial.
+
+
+And this is out of context, but I also doubt they translated the WHOLE pterodactyl installation to Spanish by themselves.
+
+
+There's more, but this is what my friend sent me.
+
+They also removed Pterodactyl credits on the login page, like, lmao. - https://drama.gg/assets/files/2021-07-16/1626459122-531469-captura-de-pantalla-2021-07-15-a-las-220258.png
+babyharpseal - Hello, so today, my friend and I were looking for some hostings to check on, and we found this particular one, which seemed very interesting.
+
+They lie to their members that they "reset" their nodes, but in reality, it's because their Amazon Free Trial ended.
+
+I cannot provide a screenshot of the dates, as they deleted it, but I noted them just in case, here is the list:
+
+USAFREE1 &amp; USAFREE2: 17/7/21
+USAFREE3 &amp; USAFREE4: 10/08/21 
+
+It's a Spanish host, so most of you won't understand the screenshots below, but I'll translate them for you. (I censored my friend's name as he wanted me to do so.)
+
+
+[+] The "resets" of your nodes, are they really reset or is it because your AWS Free Trial ends?
+[-] Hahaha, both
+
+And here's proof that they use AWS Trial servers:
+
+They also allowed bash on their nodes, which allowed us to check more things:
+
+1GB of RAM left on "their node",
+
+They also seemed to have skidded their pterodactyl addons, as they use AWS Free Trial.
+
+
+And this is out of context, but I also doubt they translated the WHOLE pterodactyl installation to Spanish by themselves.
+
+
+There's more, but this is what my friend sent me.
+
+They also removed Pterodactyl credits on the login page, like, lmao. - https://drama.gg/assets/files/2021-07-16/1626459287-890604-image.png
+babyharpseal - Hello, so today, my friend and I were looking for some hostings to check on, and we found this particular one, which seemed very interesting.
+
+They lie to their members that they "reset" their nodes, but in reality, it's because their Amazon Free Trial ended.
+
+I cannot provide a screenshot of the dates, as they deleted it, but I noted them just in case, here is the list:
+
+USAFREE1 &amp; USAFREE2: 17/7/21
+USAFREE3 &amp; USAFREE4: 10/08/21 
+
+It's a Spanish host, so most of you won't understand the screenshots below, but I'll translate them for you. (I censored my friend's name as he wanted me to do so.)
+
+
+[+] The "resets" of your nodes, are they really reset or is it because your AWS Free Trial ends?
+[-] Hahaha, both
+
+And here's proof that they use AWS Trial servers:
+
+They also allowed bash on their nodes, which allowed us to check more things:
+
+1GB of RAM left on "their node",
+
+They also seemed to have skidded their pterodactyl addons, as they use AWS Free Trial.
+
+
+And this is out of context, but I also doubt they translated the WHOLE pterodactyl installation to Spanish by themselves.
+
+
+There's more, but this is what my friend sent me.
+
+They also removed Pterodactyl credits on the login page, like, lmao. - https://drama.gg/assets/files/2021-07-16/1626459324-977516-image.png
+babyharpseal - Hello, so today, my friend and I were looking for some hostings to check on, and we found this particular one, which seemed very interesting.
+
+They lie to their members that they "reset" their nodes, but in reality, it's because their Amazon Free Trial ended.
+
+I cannot provide a screenshot of the dates, as they deleted it, but I noted them just in case, here is the list:
+
+USAFREE1 &amp; USAFREE2: 17/7/21
+USAFREE3 &amp; USAFREE4: 10/08/21 
+
+It's a Spanish host, so most of you won't understand the screenshots below, but I'll translate them for you. (I censored my friend's name as he wanted me to do so.)
+
+
+[+] The "resets" of your nodes, are they really reset or is it because your AWS Free Trial ends?
+[-] Hahaha, both
+
+And here's proof that they use AWS Trial servers:
+
+They also allowed bash on their nodes, which allowed us to check more things:
+
+1GB of RAM left on "their node",
+
+They also seemed to have skidded their pterodactyl addons, as they use AWS Free Trial.
+
+
+And this is out of context, but I also doubt they translated the WHOLE pterodactyl installation to Spanish by themselves.
+
+
+There's more, but this is what my friend sent me.
+
+They also removed Pterodactyl credits on the login page, like, lmao. - https://drama.gg/assets/files/2021-07-16/1626459399-656826-image.png
+babyharpseal - Hello, so today, my friend and I were looking for some hostings to check on, and we found this particular one, which seemed very interesting.
+
+They lie to their members that they "reset" their nodes, but in reality, it's because their Amazon Free Trial ended.
+
+I cannot provide a screenshot of the dates, as they deleted it, but I noted them just in case, here is the list:
+
+USAFREE1 &amp; USAFREE2: 17/7/21
+USAFREE3 &amp; USAFREE4: 10/08/21 
+
+It's a Spanish host, so most of you won't understand the screenshots below, but I'll translate them for you. (I censored my friend's name as he wanted me to do so.)
+
+
+[+] The "resets" of your nodes, are they really reset or is it because your AWS Free Trial ends?
+[-] Hahaha, both
+
+And here's proof that they use AWS Trial servers:
+
+They also allowed bash on their nodes, which allowed us to check more things:
+
+1GB of RAM left on "their node",
+
+They also seemed to have skidded their pterodactyl addons, as they use AWS Free Trial.
+
+
+And this is out of context, but I also doubt they translated the WHOLE pterodactyl installation to Spanish by themselves.
+
+
+There's more, but this is what my friend sent me.
+
+They also removed Pterodactyl credits on the login page, like, lmao. - https://drama.gg/assets/files/2021-07-16/1626459439-792734-image.png
+babyharpseal - Hello, so today, my friend and I were looking for some hostings to check on, and we found this particular one, which seemed very interesting.
+
+They lie to their members that they "reset" their nodes, but in reality, it's because their Amazon Free Trial ended.
+
+I cannot provide a screenshot of the dates, as they deleted it, but I noted them just in case, here is the list:
+
+USAFREE1 &amp; USAFREE2: 17/7/21
+USAFREE3 &amp; USAFREE4: 10/08/21 
+
+It's a Spanish host, so most of you won't understand the screenshots below, but I'll translate them for you. (I censored my friend's name as he wanted me to do so.)
+
+
+[+] The "resets" of your nodes, are they really reset or is it because your AWS Free Trial ends?
+[-] Hahaha, both
+
+And here's proof that they use AWS Trial servers:
+
+They also allowed bash on their nodes, which allowed us to check more things:
+
+1GB of RAM left on "their node",
+
+They also seemed to have skidded their pterodactyl addons, as they use AWS Free Trial.
+
+
+And this is out of context, but I also doubt they translated the WHOLE pterodactyl installation to Spanish by themselves.
+
+
+There's more, but this is what my friend sent me.
+
+They also removed Pterodactyl credits on the login page, like, lmao. - https://drama.gg/assets/files/2021-07-16/1626459495-373215-image.png
+babyharpseal - Screenshot of their panel which I found on their Discord server: - https://drama.gg/assets/files/2021-07-16/1626459882-971308-image.png
+babyharpseal - First of all, where does it say you can remove it's credits?
+Second, there's no proof, but if they don't pay for nodes and abuse AWS, I doubt they bought the addons
+_Caiu_ - Willypro7 It will be because nobody cares, at least I am in it and they give me good support.
+Better notice that they copied the XD host in my profile, you have the thread haha
+RaymondG - Tremendo lo que hacen por querer "tumbar" un host. Y no lo digo dizque porque de cierta manera trabajo alli. Sino porque es cierto, los unicos que se lucran de esta informacion es a otros hostings. Y segun se, vos tenes uno.
+
+Tampoco hay necesidad de poner lo de la firma de Pterodactyl en el Footer, si como dijo alguien de arriba esta permitido.
+
+Al igual que con el tema de AWS. Si lo utilizamos es por el presupuesto que tenemos. Sino ya nos verias con Nodos proporcionados por OVH, Contabo, etc.
+babyharpseal - RaymondG Si, yo tengo un hosting, pero al menos es legal.
+babyharpseal - _Caiu_ Can already tell you some drama.gg people do care lol
+_Caiu_ - babyharpseal hey excuse me, your google translator makes me not understand, what do you mean?
+babyharpseal - Wdym with Google translator
+_Caiu_ - babyharpseal hahahahahah, which is your host? I would like to see it.
+
+hey if it's moonhost that doesn't count as a company or host hahaha, led by kids, not even a stable page with cough hahahahah don't make me laugh
+babyharpseal - 1- https://galaxynodes.xyz
+2- No, it isn't Moonhost.
+_Caiu_ - babyharpseal you are going to tell me what you meant, try to use something better at least if you dont know english v:
+babyharpseal - _Caiu_ I know English wdym, but it's not my first language and I may have some spelling errors
+_Caiu_ - babyharpseal great page, do you have the receipt of purchase of that style 🙂
+babyharpseal - _Caiu_ I currently don't as the other owner bought it but he's currently on vacation
+MaiDub - oh im late lmao
+Willypro7 - RaymondG Al igual que con el tema de AWS. Si lo utilizamos es por el presupuesto que tenemos. Sino ya nos verias con Nodos proporcionados por OVH, Contabo, etc.
+
+Bruh tus nodos son los gratuitos de aws, el mismo owner lo admitió en esa captura
+// 
+Bruh you use aws free nodes, the owner admitted to do it
+Willypro7 - _Caiu_ Learn ingles, and then talk, you have even worst English than me
+CancelledCactus - Willypro7 please can you  translate that to english for me
+Willypro7 - CancelledCactus Bruh you use aws free nodes, the owner admitted to do it, - https://drama.gg/assets/files/2021-07-20/1626812568-503831-image.png
+CancelledCactus - Willypro7 no I said translate the other one
+CancelledCactus - Willypro7 this
+Willypro7 - CancelledCactus 
+[+] The "resets" of your nodes, are they really reset or is it because your AWS Free Trial ends?
+[-] Hahaha, both
+_Caiu_ - Willypro7 hey dont get mad kid 😆
+_Caiu_ - babyharpseal and the proof of the addons? 
+i was watching and i did confirm for myself that they use aws. still, what's the problem? are they paying you to defend them? lmaoo
+and if I am still in doubt about the modifications, I will try to communicate to a staff member on the thread so that he/she can answer .
+AdrianWN - Hola muy buenas, soy el ceo de dicho host. Mi idioma es español y así hablare, al que le importe lo traducirá y se las arregla, pero no me molesto total los que hicieron el hilo son españoles así que entenderán, mi mensaje va para ellos.
+
+Voy a empezar respondiendo la primer línea
+babyharpseal hoy, mi amigo y yo estábamos buscando algunos hostings para revisar
+Al menos si van a mentir, mientan bien. Tu amigo y tu, se unieron el 10/7. Así que wow increíble busqueda de hoy.
+
+
+
+Ahora si comencemos. 
+
+.
+babyharpseal (Censuré el nombre de mi amigo porque él quería que lo hiciera).
+
+Acá revelamos la conversación completa, y desde acá, willy por mi parte sinceramente, me cago en lo que usas tu "con confianza." enserio que contaba con vos y todo, y que te regales así wow, sos como todos los hilos que hay aquí lo dicen. Sin palabras.
+
+Para los que no entiendan que dice, simplemente me esta haciendo la pregunta que leyeron, pero antes de eso me dijo, con confianza. Refiriéndose a que la pregunta es entre nosotros o "amistad".
+
+babyharpseal Y aquí está la prueba de que usan servidores AWS Trial:
+
+Aws usamos, yo no miento. Pero en que te afecta me explicas? Acaso te hago algo teniéndolo? A ya se, acaso te arde ver como crezco y es el único punto débil que tengo y por eso lo usas? Te comento rey, estamos usando ese servicio por que aun no tenemos presupuesto, pero ni te preocupes en nosotros en serio muchísimas gracias por tanta atención, pero si tranquilo ya estamos consiguiendo dinero para comprarnos nuestra propia maquina para no tener problemas, pero enserio gracias por tu preocupación ya no hace falta. 
+
+babyharpseal Y esto está fuera de contexto, pero también dudo que hayan traducido TODA la instalación de pterodáctilo al español por sí mismos.
+
+Enserio me cago de risa al leer esto, acaso no sabes dedicarle todo tu tiempo y cariño para hacer algo bien? Bueno eso hice yo, este proyecto llevaba escondido mas tiempo de lo que piensas, por eso iniciamos tan bien, estaba todo completo, como cualquier empresa tiene que ser, encontraras algo malo? No lo hay cierto? Ese es el resultado de todo mi tiempo trabajando.
+
+babyharpseal También eliminaron los créditos de Pterodactyl en la página de inicio de sesión, como, lmao.
+
+Comencemos con que te informes, es legal cambiar los créditos, reportas y ni sabes eso simplemente dice que solo haces esto por ardido o por que algo te molesta de mi y no la empresa, te delatas solo.
+Y no tranquilo, te comento que les damos créditos aunque no es necesario.
+
+
+babyharpseal Captura de pantalla de su panel que encontré en su servidor Discord:
+
+Gracias por mostrar todo mi trabajo, acaso te enamoraste? 
+
+babyharpseal También parecían haber derrapado sus complementos de pterodáctilo, ya que utilizan la prueba gratuita de AWS.
+
+Y mira rey, yo no tengo ningún derecho a mostrarte en que invirtiendo, pero para que se te acabe el ego y te pongas en tu lugar, todos los plugins los compramos nosotros, y seguiremos haciéndolo, te enseño para que? MEJORAR, y no quedarse estancado. Anota. (El de upload por si tan interesado estas lo compro mi compañero directamente al vendedor, así que te la debo rey).
+ 
+
+Despues de decir esto y cerrarte bien el orto, me retiro y no vuelvo por aca, zona mas toxica imposible, pero que manchen mi empresa con estupideces de niños no lo dejare, gracias y buenas noches. 
+Y gracias a los dos @LlamaradaPhoenix @_Caiu_ que entienden la situación.
+Un gusto despejar dudas, cuídense y baby, suerte en tu host, recomiendo que le des importancia a las cosas que son tuyas y no meterte donde no te llaman. 
+
+@Jedrik Sorry to mention it, if you can then close this unnecessary thread I would be grateful. - https://drama.gg/assets/files/2021-07-21/1626839232-160514-image.png
+AdrianWN - Hola muy buenas, soy el ceo de dicho host. Mi idioma es español y así hablare, al que le importe lo traducirá y se las arregla, pero no me molesto total los que hicieron el hilo son españoles así que entenderán, mi mensaje va para ellos.
+
+Voy a empezar respondiendo la primer línea
+babyharpseal hoy, mi amigo y yo estábamos buscando algunos hostings para revisar
+Al menos si van a mentir, mientan bien. Tu amigo y tu, se unieron el 10/7. Así que wow increíble busqueda de hoy.
+
+
+
+Ahora si comencemos. 
+
+.
+babyharpseal (Censuré el nombre de mi amigo porque él quería que lo hiciera).
+
+Acá revelamos la conversación completa, y desde acá, willy por mi parte sinceramente, me cago en lo que usas tu "con confianza." enserio que contaba con vos y todo, y que te regales así wow, sos como todos los hilos que hay aquí lo dicen. Sin palabras.
+
+Para los que no entiendan que dice, simplemente me esta haciendo la pregunta que leyeron, pero antes de eso me dijo, con confianza. Refiriéndose a que la pregunta es entre nosotros o "amistad".
+
+babyharpseal Y aquí está la prueba de que usan servidores AWS Trial:
+
+Aws usamos, yo no miento. Pero en que te afecta me explicas? Acaso te hago algo teniéndolo? A ya se, acaso te arde ver como crezco y es el único punto débil que tengo y por eso lo usas? Te comento rey, estamos usando ese servicio por que aun no tenemos presupuesto, pero ni te preocupes en nosotros en serio muchísimas gracias por tanta atención, pero si tranquilo ya estamos consiguiendo dinero para comprarnos nuestra propia maquina para no tener problemas, pero enserio gracias por tu preocupación ya no hace falta. 
+
+babyharpseal Y esto está fuera de contexto, pero también dudo que hayan traducido TODA la instalación de pterodáctilo al español por sí mismos.
+
+Enserio me cago de risa al leer esto, acaso no sabes dedicarle todo tu tiempo y cariño para hacer algo bien? Bueno eso hice yo, este proyecto llevaba escondido mas tiempo de lo que piensas, por eso iniciamos tan bien, estaba todo completo, como cualquier empresa tiene que ser, encontraras algo malo? No lo hay cierto? Ese es el resultado de todo mi tiempo trabajando.
+
+babyharpseal También eliminaron los créditos de Pterodactyl en la página de inicio de sesión, como, lmao.
+
+Comencemos con que te informes, es legal cambiar los créditos, reportas y ni sabes eso simplemente dice que solo haces esto por ardido o por que algo te molesta de mi y no la empresa, te delatas solo.
+Y no tranquilo, te comento que les damos créditos aunque no es necesario.
+
+
+babyharpseal Captura de pantalla de su panel que encontré en su servidor Discord:
+
+Gracias por mostrar todo mi trabajo, acaso te enamoraste? 
+
+babyharpseal También parecían haber derrapado sus complementos de pterodáctilo, ya que utilizan la prueba gratuita de AWS.
+
+Y mira rey, yo no tengo ningún derecho a mostrarte en que invirtiendo, pero para que se te acabe el ego y te pongas en tu lugar, todos los plugins los compramos nosotros, y seguiremos haciéndolo, te enseño para que? MEJORAR, y no quedarse estancado. Anota. (El de upload por si tan interesado estas lo compro mi compañero directamente al vendedor, así que te la debo rey).
+ 
+
+Despues de decir esto y cerrarte bien el orto, me retiro y no vuelvo por aca, zona mas toxica imposible, pero que manchen mi empresa con estupideces de niños no lo dejare, gracias y buenas noches. 
+Y gracias a los dos @LlamaradaPhoenix @_Caiu_ que entienden la situación.
+Un gusto despejar dudas, cuídense y baby, suerte en tu host, recomiendo que le des importancia a las cosas que son tuyas y no meterte donde no te llaman. 
+
+@Jedrik Sorry to mention it, if you can then close this unnecessary thread I would be grateful. - https://drama.gg/assets/files/2021-07-21/1626839414-300131-image.png
+AdrianWN - Hola muy buenas, soy el ceo de dicho host. Mi idioma es español y así hablare, al que le importe lo traducirá y se las arregla, pero no me molesto total los que hicieron el hilo son españoles así que entenderán, mi mensaje va para ellos.
+
+Voy a empezar respondiendo la primer línea
+babyharpseal hoy, mi amigo y yo estábamos buscando algunos hostings para revisar
+Al menos si van a mentir, mientan bien. Tu amigo y tu, se unieron el 10/7. Así que wow increíble busqueda de hoy.
+
+
+
+Ahora si comencemos. 
+
+.
+babyharpseal (Censuré el nombre de mi amigo porque él quería que lo hiciera).
+
+Acá revelamos la conversación completa, y desde acá, willy por mi parte sinceramente, me cago en lo que usas tu "con confianza." enserio que contaba con vos y todo, y que te regales así wow, sos como todos los hilos que hay aquí lo dicen. Sin palabras.
+
+Para los que no entiendan que dice, simplemente me esta haciendo la pregunta que leyeron, pero antes de eso me dijo, con confianza. Refiriéndose a que la pregunta es entre nosotros o "amistad".
+
+babyharpseal Y aquí está la prueba de que usan servidores AWS Trial:
+
+Aws usamos, yo no miento. Pero en que te afecta me explicas? Acaso te hago algo teniéndolo? A ya se, acaso te arde ver como crezco y es el único punto débil que tengo y por eso lo usas? Te comento rey, estamos usando ese servicio por que aun no tenemos presupuesto, pero ni te preocupes en nosotros en serio muchísimas gracias por tanta atención, pero si tranquilo ya estamos consiguiendo dinero para comprarnos nuestra propia maquina para no tener problemas, pero enserio gracias por tu preocupación ya no hace falta. 
+
+babyharpseal Y esto está fuera de contexto, pero también dudo que hayan traducido TODA la instalación de pterodáctilo al español por sí mismos.
+
+Enserio me cago de risa al leer esto, acaso no sabes dedicarle todo tu tiempo y cariño para hacer algo bien? Bueno eso hice yo, este proyecto llevaba escondido mas tiempo de lo que piensas, por eso iniciamos tan bien, estaba todo completo, como cualquier empresa tiene que ser, encontraras algo malo? No lo hay cierto? Ese es el resultado de todo mi tiempo trabajando.
+
+babyharpseal También eliminaron los créditos de Pterodactyl en la página de inicio de sesión, como, lmao.
+
+Comencemos con que te informes, es legal cambiar los créditos, reportas y ni sabes eso simplemente dice que solo haces esto por ardido o por que algo te molesta de mi y no la empresa, te delatas solo.
+Y no tranquilo, te comento que les damos créditos aunque no es necesario.
+
+
+babyharpseal Captura de pantalla de su panel que encontré en su servidor Discord:
+
+Gracias por mostrar todo mi trabajo, acaso te enamoraste? 
+
+babyharpseal También parecían haber derrapado sus complementos de pterodáctilo, ya que utilizan la prueba gratuita de AWS.
+
+Y mira rey, yo no tengo ningún derecho a mostrarte en que invirtiendo, pero para que se te acabe el ego y te pongas en tu lugar, todos los plugins los compramos nosotros, y seguiremos haciéndolo, te enseño para que? MEJORAR, y no quedarse estancado. Anota. (El de upload por si tan interesado estas lo compro mi compañero directamente al vendedor, así que te la debo rey).
+ 
+
+Despues de decir esto y cerrarte bien el orto, me retiro y no vuelvo por aca, zona mas toxica imposible, pero que manchen mi empresa con estupideces de niños no lo dejare, gracias y buenas noches. 
+Y gracias a los dos @LlamaradaPhoenix @_Caiu_ que entienden la situación.
+Un gusto despejar dudas, cuídense y baby, suerte en tu host, recomiendo que le des importancia a las cosas que son tuyas y no meterte donde no te llaman. 
+
+@Jedrik Sorry to mention it, if you can then close this unnecessary thread I would be grateful. - https://drama.gg/assets/files/2021-07-21/1626839612-406193-image.png
+AdrianWN - Hola muy buenas, soy el ceo de dicho host. Mi idioma es español y así hablare, al que le importe lo traducirá y se las arregla, pero no me molesto total los que hicieron el hilo son españoles así que entenderán, mi mensaje va para ellos.
+
+Voy a empezar respondiendo la primer línea
+babyharpseal hoy, mi amigo y yo estábamos buscando algunos hostings para revisar
+Al menos si van a mentir, mientan bien. Tu amigo y tu, se unieron el 10/7. Así que wow increíble busqueda de hoy.
+
+
+
+Ahora si comencemos. 
+
+.
+babyharpseal (Censuré el nombre de mi amigo porque él quería que lo hiciera).
+
+Acá revelamos la conversación completa, y desde acá, willy por mi parte sinceramente, me cago en lo que usas tu "con confianza." enserio que contaba con vos y todo, y que te regales así wow, sos como todos los hilos que hay aquí lo dicen. Sin palabras.
+
+Para los que no entiendan que dice, simplemente me esta haciendo la pregunta que leyeron, pero antes de eso me dijo, con confianza. Refiriéndose a que la pregunta es entre nosotros o "amistad".
+
+babyharpseal Y aquí está la prueba de que usan servidores AWS Trial:
+
+Aws usamos, yo no miento. Pero en que te afecta me explicas? Acaso te hago algo teniéndolo? A ya se, acaso te arde ver como crezco y es el único punto débil que tengo y por eso lo usas? Te comento rey, estamos usando ese servicio por que aun no tenemos presupuesto, pero ni te preocupes en nosotros en serio muchísimas gracias por tanta atención, pero si tranquilo ya estamos consiguiendo dinero para comprarnos nuestra propia maquina para no tener problemas, pero enserio gracias por tu preocupación ya no hace falta. 
+
+babyharpseal Y esto está fuera de contexto, pero también dudo que hayan traducido TODA la instalación de pterodáctilo al español por sí mismos.
+
+Enserio me cago de risa al leer esto, acaso no sabes dedicarle todo tu tiempo y cariño para hacer algo bien? Bueno eso hice yo, este proyecto llevaba escondido mas tiempo de lo que piensas, por eso iniciamos tan bien, estaba todo completo, como cualquier empresa tiene que ser, encontraras algo malo? No lo hay cierto? Ese es el resultado de todo mi tiempo trabajando.
+
+babyharpseal También eliminaron los créditos de Pterodactyl en la página de inicio de sesión, como, lmao.
+
+Comencemos con que te informes, es legal cambiar los créditos, reportas y ni sabes eso simplemente dice que solo haces esto por ardido o por que algo te molesta de mi y no la empresa, te delatas solo.
+Y no tranquilo, te comento que les damos créditos aunque no es necesario.
+
+
+babyharpseal Captura de pantalla de su panel que encontré en su servidor Discord:
+
+Gracias por mostrar todo mi trabajo, acaso te enamoraste? 
+
+babyharpseal También parecían haber derrapado sus complementos de pterodáctilo, ya que utilizan la prueba gratuita de AWS.
+
+Y mira rey, yo no tengo ningún derecho a mostrarte en que invirtiendo, pero para que se te acabe el ego y te pongas en tu lugar, todos los plugins los compramos nosotros, y seguiremos haciéndolo, te enseño para que? MEJORAR, y no quedarse estancado. Anota. (El de upload por si tan interesado estas lo compro mi compañero directamente al vendedor, así que te la debo rey).
+ 
+
+Despues de decir esto y cerrarte bien el orto, me retiro y no vuelvo por aca, zona mas toxica imposible, pero que manchen mi empresa con estupideces de niños no lo dejare, gracias y buenas noches. 
+Y gracias a los dos @LlamaradaPhoenix @_Caiu_ que entienden la situación.
+Un gusto despejar dudas, cuídense y baby, suerte en tu host, recomiendo que le des importancia a las cosas que son tuyas y no meterte donde no te llaman. 
+
+@Jedrik Sorry to mention it, if you can then close this unnecessary thread I would be grateful. - https://drama.gg/assets/files/2021-07-21/1626840074-668560-image.png
+AdrianWN - Hola muy buenas, soy el ceo de dicho host. Mi idioma es español y así hablare, al que le importe lo traducirá y se las arregla, pero no me molesto total los que hicieron el hilo son españoles así que entenderán, mi mensaje va para ellos.
+
+Voy a empezar respondiendo la primer línea
+babyharpseal hoy, mi amigo y yo estábamos buscando algunos hostings para revisar
+Al menos si van a mentir, mientan bien. Tu amigo y tu, se unieron el 10/7. Así que wow increíble busqueda de hoy.
+
+
+
+Ahora si comencemos. 
+
+.
+babyharpseal (Censuré el nombre de mi amigo porque él quería que lo hiciera).
+
+Acá revelamos la conversación completa, y desde acá, willy por mi parte sinceramente, me cago en lo que usas tu "con confianza." enserio que contaba con vos y todo, y que te regales así wow, sos como todos los hilos que hay aquí lo dicen. Sin palabras.
+
+Para los que no entiendan que dice, simplemente me esta haciendo la pregunta que leyeron, pero antes de eso me dijo, con confianza. Refiriéndose a que la pregunta es entre nosotros o "amistad".
+
+babyharpseal Y aquí está la prueba de que usan servidores AWS Trial:
+
+Aws usamos, yo no miento. Pero en que te afecta me explicas? Acaso te hago algo teniéndolo? A ya se, acaso te arde ver como crezco y es el único punto débil que tengo y por eso lo usas? Te comento rey, estamos usando ese servicio por que aun no tenemos presupuesto, pero ni te preocupes en nosotros en serio muchísimas gracias por tanta atención, pero si tranquilo ya estamos consiguiendo dinero para comprarnos nuestra propia maquina para no tener problemas, pero enserio gracias por tu preocupación ya no hace falta. 
+
+babyharpseal Y esto está fuera de contexto, pero también dudo que hayan traducido TODA la instalación de pterodáctilo al español por sí mismos.
+
+Enserio me cago de risa al leer esto, acaso no sabes dedicarle todo tu tiempo y cariño para hacer algo bien? Bueno eso hice yo, este proyecto llevaba escondido mas tiempo de lo que piensas, por eso iniciamos tan bien, estaba todo completo, como cualquier empresa tiene que ser, encontraras algo malo? No lo hay cierto? Ese es el resultado de todo mi tiempo trabajando.
+
+babyharpseal También eliminaron los créditos de Pterodactyl en la página de inicio de sesión, como, lmao.
+
+Comencemos con que te informes, es legal cambiar los créditos, reportas y ni sabes eso simplemente dice que solo haces esto por ardido o por que algo te molesta de mi y no la empresa, te delatas solo.
+Y no tranquilo, te comento que les damos créditos aunque no es necesario.
+
+
+babyharpseal Captura de pantalla de su panel que encontré en su servidor Discord:
+
+Gracias por mostrar todo mi trabajo, acaso te enamoraste? 
+
+babyharpseal También parecían haber derrapado sus complementos de pterodáctilo, ya que utilizan la prueba gratuita de AWS.
+
+Y mira rey, yo no tengo ningún derecho a mostrarte en que invirtiendo, pero para que se te acabe el ego y te pongas en tu lugar, todos los plugins los compramos nosotros, y seguiremos haciéndolo, te enseño para que? MEJORAR, y no quedarse estancado. Anota. (El de upload por si tan interesado estas lo compro mi compañero directamente al vendedor, así que te la debo rey).
+ 
+
+Despues de decir esto y cerrarte bien el orto, me retiro y no vuelvo por aca, zona mas toxica imposible, pero que manchen mi empresa con estupideces de niños no lo dejare, gracias y buenas noches. 
+Y gracias a los dos @LlamaradaPhoenix @_Caiu_ que entienden la situación.
+Un gusto despejar dudas, cuídense y baby, suerte en tu host, recomiendo que le des importancia a las cosas que son tuyas y no meterte donde no te llaman. 
+
+@Jedrik Sorry to mention it, if you can then close this unnecessary thread I would be grateful. - https://drama.gg/assets/files/2021-07-21/1626840379-307353-image.png
+exelen - RaymondG A ver, seré sincera. No deberían empezar un hosting sin presupuesto, nunca, esto lo sé por experiencia desde 2017. De todas maneras, conseguir servidores baratos (y buenos) no es tan difícil, echenle un poco de esfuerzo. Hablando de AWS, supongo que es "ilegal"? No sé cómo funcionará lo que hacen, tampoco me importa, pero la cosa es la legalidad de eso. Al menos les doy un punto adicional por no abusar Azure como cualquier ""hosting"" promedio latinoamericano hecho por un niño de 10 años. Les deseo suerte y les recomiendo nuevamente invertir un poquito de plata, será la mejor decisión, se los aseguro.
+
+Ahora es momento de volverme gringa nuevamente.
+GerarGo - exelen haber, para empesar eso lo dice vos por experiencia intentando hacer un host inlegalmente sin pagar y vosotros lo que haces es ponerlos "nodos premiun" que es lo mismo que uno normal
+
+
+"Ahora es momento de volverme gringa nuevamente"
+
+Gringo el que te meto :v
+__SECRET__ - GerarGo translation : 
+There is, to begin with, you say it from experience trying to make a host illegally without paying and what you do is put them "premium nodes" which is the same as a normal one
+
+"Now is the time to go gringo again"
+
+Gringo the one that put you: v
+__SECRET__ - GerarGo please can you communicate in English So other users can understand what u are trying to say
+
+translation : por favor, ¿puede comunicarse en inglés para que otros usuarios puedan entender lo que está tratando de decir?

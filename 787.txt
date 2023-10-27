@@ -1,0 +1,334 @@
+NighMayHigh - Hello all,
+
+Firstly, a little backstory, Proxala had been selling 9900k Dedicated Servers for 72 Euro excluding tax, as this pricing is stupidly low, I decided to purchase a server, to see the flaws in their service, with the intention of verifying if they were legit, or not, and cancelling the server.
+
+
+Questioning Tax Registration
+
+The first red flag to me was the claim that the 90eur included Netherlands sales tax, I asked this to be removed as we were a UK company, and this request was honored. I was then asked 'how much is tax' (screenshot provided). For a host charging sales tax to not know the percentage, yeah that's a massive red flag. 
+
+Proxala (inc)
+
+Upon receiving my stripe link to pay Proxala, the email and my bank statement both said Proxala Inc, as shown here and here . When i questioned Aspect (The owner of Proxala) about this, he blamed my bank and said that it was lying. [upl-image-preview 
+
+Unsecure Dedicated Servers + False Suspension
+
+Once my server was delivered, it was set with an extremely unsecure root password (12345678), and i was not told to change it. Obviously, we should have, but i was more concerned with checking ipmi to make sure the server is legitimate, etc, and gave the infomation to my technician to install virtulizor on it. 
+I awoke at around 3am my time today, to find out that my service had been suspended at 1am today, due to the cpu being maxed for 4h, which firstly id like to point out that its a dedicated server and why was he looking at my server files (he stated he kvmed in), and secondly the fact that he tried to keep it frozen and not issue a refund is questionable. I went back to sleep. 
+
+Additionally, his method of suspending my server is questionable, his suspension method was to unplug the server, rather than disconnecting network, or a safe power down. This suspension method is incredibly alarming, due to the fact that if i was transferring files, or something, it could potentially corrupt something. 
+
+I further probed him on this around 12pm today ish and was told to email in to request a login (i had forgotten he sent the new login via discord due to my tiredness this morning). I emailed in with the following '''Hi bitch give me my login info k ty', not exactly professional, but expresses my frustration at his refusal to reset the password because i asked him on discord, even though I had ordered, and paid via a stripe link on discord. He then stated he had disabled the server again, no reason was provided. 
+
+Refusing Refunds
+
+Aspect stated that i had been refunded for this service
+, however after further probing, he revealed that a refund has not been issued, and that he wanted me to make a ticket on his billing panel
+Which i dont think i even have a login for, i dont know my password, and frankly i dont want to go onto his site. 
+
+Overall Shady Services
+
+The IPs provided for this server are shown as Verizon Residential IPs
+
+(68.132.35.101
+68.132.35.102
+68.132.35.103
+68.132.35.104
+68.132.35.105)
+However, he states that they are DC IPs, and it is 'wrong', which i heavily doubt, he has not provided proof of having any Rackspace in the location the server was delivered to me in (NY), and the ips all match up to be Verizion ips, the only proof of him having Rackspace was a picture of a genetic ass looking rack, with 10 year old storage servers in. - https://drama.gg/assets/files/2021-07-10/1625925023-932657-capture.jpg
+NighMayHigh - Hello all,
+
+Firstly, a little backstory, Proxala had been selling 9900k Dedicated Servers for 72 Euro excluding tax, as this pricing is stupidly low, I decided to purchase a server, to see the flaws in their service, with the intention of verifying if they were legit, or not, and cancelling the server.
+
+
+Questioning Tax Registration
+
+The first red flag to me was the claim that the 90eur included Netherlands sales tax, I asked this to be removed as we were a UK company, and this request was honored. I was then asked 'how much is tax' (screenshot provided). For a host charging sales tax to not know the percentage, yeah that's a massive red flag. 
+
+Proxala (inc)
+
+Upon receiving my stripe link to pay Proxala, the email and my bank statement both said Proxala Inc, as shown here and here . When i questioned Aspect (The owner of Proxala) about this, he blamed my bank and said that it was lying. [upl-image-preview 
+
+Unsecure Dedicated Servers + False Suspension
+
+Once my server was delivered, it was set with an extremely unsecure root password (12345678), and i was not told to change it. Obviously, we should have, but i was more concerned with checking ipmi to make sure the server is legitimate, etc, and gave the infomation to my technician to install virtulizor on it. 
+I awoke at around 3am my time today, to find out that my service had been suspended at 1am today, due to the cpu being maxed for 4h, which firstly id like to point out that its a dedicated server and why was he looking at my server files (he stated he kvmed in), and secondly the fact that he tried to keep it frozen and not issue a refund is questionable. I went back to sleep. 
+
+Additionally, his method of suspending my server is questionable, his suspension method was to unplug the server, rather than disconnecting network, or a safe power down. This suspension method is incredibly alarming, due to the fact that if i was transferring files, or something, it could potentially corrupt something. 
+
+I further probed him on this around 12pm today ish and was told to email in to request a login (i had forgotten he sent the new login via discord due to my tiredness this morning). I emailed in with the following '''Hi bitch give me my login info k ty', not exactly professional, but expresses my frustration at his refusal to reset the password because i asked him on discord, even though I had ordered, and paid via a stripe link on discord. He then stated he had disabled the server again, no reason was provided. 
+
+Refusing Refunds
+
+Aspect stated that i had been refunded for this service
+, however after further probing, he revealed that a refund has not been issued, and that he wanted me to make a ticket on his billing panel
+Which i dont think i even have a login for, i dont know my password, and frankly i dont want to go onto his site. 
+
+Overall Shady Services
+
+The IPs provided for this server are shown as Verizon Residential IPs
+
+(68.132.35.101
+68.132.35.102
+68.132.35.103
+68.132.35.104
+68.132.35.105)
+However, he states that they are DC IPs, and it is 'wrong', which i heavily doubt, he has not provided proof of having any Rackspace in the location the server was delivered to me in (NY), and the ips all match up to be Verizion ips, the only proof of him having Rackspace was a picture of a genetic ass looking rack, with 10 year old storage servers in. - https://drama.gg/assets/files/2021-07-10/1625925137-369233-capture.jpg
+NighMayHigh - Hello all,
+
+Firstly, a little backstory, Proxala had been selling 9900k Dedicated Servers for 72 Euro excluding tax, as this pricing is stupidly low, I decided to purchase a server, to see the flaws in their service, with the intention of verifying if they were legit, or not, and cancelling the server.
+
+
+Questioning Tax Registration
+
+The first red flag to me was the claim that the 90eur included Netherlands sales tax, I asked this to be removed as we were a UK company, and this request was honored. I was then asked 'how much is tax' (screenshot provided). For a host charging sales tax to not know the percentage, yeah that's a massive red flag. 
+
+Proxala (inc)
+
+Upon receiving my stripe link to pay Proxala, the email and my bank statement both said Proxala Inc, as shown here and here . When i questioned Aspect (The owner of Proxala) about this, he blamed my bank and said that it was lying. [upl-image-preview 
+
+Unsecure Dedicated Servers + False Suspension
+
+Once my server was delivered, it was set with an extremely unsecure root password (12345678), and i was not told to change it. Obviously, we should have, but i was more concerned with checking ipmi to make sure the server is legitimate, etc, and gave the infomation to my technician to install virtulizor on it. 
+I awoke at around 3am my time today, to find out that my service had been suspended at 1am today, due to the cpu being maxed for 4h, which firstly id like to point out that its a dedicated server and why was he looking at my server files (he stated he kvmed in), and secondly the fact that he tried to keep it frozen and not issue a refund is questionable. I went back to sleep. 
+
+Additionally, his method of suspending my server is questionable, his suspension method was to unplug the server, rather than disconnecting network, or a safe power down. This suspension method is incredibly alarming, due to the fact that if i was transferring files, or something, it could potentially corrupt something. 
+
+I further probed him on this around 12pm today ish and was told to email in to request a login (i had forgotten he sent the new login via discord due to my tiredness this morning). I emailed in with the following '''Hi bitch give me my login info k ty', not exactly professional, but expresses my frustration at his refusal to reset the password because i asked him on discord, even though I had ordered, and paid via a stripe link on discord. He then stated he had disabled the server again, no reason was provided. 
+
+Refusing Refunds
+
+Aspect stated that i had been refunded for this service
+, however after further probing, he revealed that a refund has not been issued, and that he wanted me to make a ticket on his billing panel
+Which i dont think i even have a login for, i dont know my password, and frankly i dont want to go onto his site. 
+
+Overall Shady Services
+
+The IPs provided for this server are shown as Verizon Residential IPs
+
+(68.132.35.101
+68.132.35.102
+68.132.35.103
+68.132.35.104
+68.132.35.105)
+However, he states that they are DC IPs, and it is 'wrong', which i heavily doubt, he has not provided proof of having any Rackspace in the location the server was delivered to me in (NY), and the ips all match up to be Verizion ips, the only proof of him having Rackspace was a picture of a genetic ass looking rack, with 10 year old storage servers in. - https://drama.gg/assets/files/2021-07-10/1625925189-353787-image0.png
+NighMayHigh - Hello all,
+
+Firstly, a little backstory, Proxala had been selling 9900k Dedicated Servers for 72 Euro excluding tax, as this pricing is stupidly low, I decided to purchase a server, to see the flaws in their service, with the intention of verifying if they were legit, or not, and cancelling the server.
+
+
+Questioning Tax Registration
+
+The first red flag to me was the claim that the 90eur included Netherlands sales tax, I asked this to be removed as we were a UK company, and this request was honored. I was then asked 'how much is tax' (screenshot provided). For a host charging sales tax to not know the percentage, yeah that's a massive red flag. 
+
+Proxala (inc)
+
+Upon receiving my stripe link to pay Proxala, the email and my bank statement both said Proxala Inc, as shown here and here . When i questioned Aspect (The owner of Proxala) about this, he blamed my bank and said that it was lying. [upl-image-preview 
+
+Unsecure Dedicated Servers + False Suspension
+
+Once my server was delivered, it was set with an extremely unsecure root password (12345678), and i was not told to change it. Obviously, we should have, but i was more concerned with checking ipmi to make sure the server is legitimate, etc, and gave the infomation to my technician to install virtulizor on it. 
+I awoke at around 3am my time today, to find out that my service had been suspended at 1am today, due to the cpu being maxed for 4h, which firstly id like to point out that its a dedicated server and why was he looking at my server files (he stated he kvmed in), and secondly the fact that he tried to keep it frozen and not issue a refund is questionable. I went back to sleep. 
+
+Additionally, his method of suspending my server is questionable, his suspension method was to unplug the server, rather than disconnecting network, or a safe power down. This suspension method is incredibly alarming, due to the fact that if i was transferring files, or something, it could potentially corrupt something. 
+
+I further probed him on this around 12pm today ish and was told to email in to request a login (i had forgotten he sent the new login via discord due to my tiredness this morning). I emailed in with the following '''Hi bitch give me my login info k ty', not exactly professional, but expresses my frustration at his refusal to reset the password because i asked him on discord, even though I had ordered, and paid via a stripe link on discord. He then stated he had disabled the server again, no reason was provided. 
+
+Refusing Refunds
+
+Aspect stated that i had been refunded for this service
+, however after further probing, he revealed that a refund has not been issued, and that he wanted me to make a ticket on his billing panel
+Which i dont think i even have a login for, i dont know my password, and frankly i dont want to go onto his site. 
+
+Overall Shady Services
+
+The IPs provided for this server are shown as Verizon Residential IPs
+
+(68.132.35.101
+68.132.35.102
+68.132.35.103
+68.132.35.104
+68.132.35.105)
+However, he states that they are DC IPs, and it is 'wrong', which i heavily doubt, he has not provided proof of having any Rackspace in the location the server was delivered to me in (NY), and the ips all match up to be Verizion ips, the only proof of him having Rackspace was a picture of a genetic ass looking rack, with 10 year old storage servers in. - https://drama.gg/assets/files/2021-07-10/1625925264-274401-capture.jpg
+NighMayHigh - Hello all,
+
+Firstly, a little backstory, Proxala had been selling 9900k Dedicated Servers for 72 Euro excluding tax, as this pricing is stupidly low, I decided to purchase a server, to see the flaws in their service, with the intention of verifying if they were legit, or not, and cancelling the server.
+
+
+Questioning Tax Registration
+
+The first red flag to me was the claim that the 90eur included Netherlands sales tax, I asked this to be removed as we were a UK company, and this request was honored. I was then asked 'how much is tax' (screenshot provided). For a host charging sales tax to not know the percentage, yeah that's a massive red flag. 
+
+Proxala (inc)
+
+Upon receiving my stripe link to pay Proxala, the email and my bank statement both said Proxala Inc, as shown here and here . When i questioned Aspect (The owner of Proxala) about this, he blamed my bank and said that it was lying. [upl-image-preview 
+
+Unsecure Dedicated Servers + False Suspension
+
+Once my server was delivered, it was set with an extremely unsecure root password (12345678), and i was not told to change it. Obviously, we should have, but i was more concerned with checking ipmi to make sure the server is legitimate, etc, and gave the infomation to my technician to install virtulizor on it. 
+I awoke at around 3am my time today, to find out that my service had been suspended at 1am today, due to the cpu being maxed for 4h, which firstly id like to point out that its a dedicated server and why was he looking at my server files (he stated he kvmed in), and secondly the fact that he tried to keep it frozen and not issue a refund is questionable. I went back to sleep. 
+
+Additionally, his method of suspending my server is questionable, his suspension method was to unplug the server, rather than disconnecting network, or a safe power down. This suspension method is incredibly alarming, due to the fact that if i was transferring files, or something, it could potentially corrupt something. 
+
+I further probed him on this around 12pm today ish and was told to email in to request a login (i had forgotten he sent the new login via discord due to my tiredness this morning). I emailed in with the following '''Hi bitch give me my login info k ty', not exactly professional, but expresses my frustration at his refusal to reset the password because i asked him on discord, even though I had ordered, and paid via a stripe link on discord. He then stated he had disabled the server again, no reason was provided. 
+
+Refusing Refunds
+
+Aspect stated that i had been refunded for this service
+, however after further probing, he revealed that a refund has not been issued, and that he wanted me to make a ticket on his billing panel
+Which i dont think i even have a login for, i dont know my password, and frankly i dont want to go onto his site. 
+
+Overall Shady Services
+
+The IPs provided for this server are shown as Verizon Residential IPs
+
+(68.132.35.101
+68.132.35.102
+68.132.35.103
+68.132.35.104
+68.132.35.105)
+However, he states that they are DC IPs, and it is 'wrong', which i heavily doubt, he has not provided proof of having any Rackspace in the location the server was delivered to me in (NY), and the ips all match up to be Verizion ips, the only proof of him having Rackspace was a picture of a genetic ass looking rack, with 10 year old storage servers in. - https://drama.gg/assets/files/2021-07-10/1625925651-743385-capture.jpg
+NighMayHigh - Hello all,
+
+Firstly, a little backstory, Proxala had been selling 9900k Dedicated Servers for 72 Euro excluding tax, as this pricing is stupidly low, I decided to purchase a server, to see the flaws in their service, with the intention of verifying if they were legit, or not, and cancelling the server.
+
+
+Questioning Tax Registration
+
+The first red flag to me was the claim that the 90eur included Netherlands sales tax, I asked this to be removed as we were a UK company, and this request was honored. I was then asked 'how much is tax' (screenshot provided). For a host charging sales tax to not know the percentage, yeah that's a massive red flag. 
+
+Proxala (inc)
+
+Upon receiving my stripe link to pay Proxala, the email and my bank statement both said Proxala Inc, as shown here and here . When i questioned Aspect (The owner of Proxala) about this, he blamed my bank and said that it was lying. [upl-image-preview 
+
+Unsecure Dedicated Servers + False Suspension
+
+Once my server was delivered, it was set with an extremely unsecure root password (12345678), and i was not told to change it. Obviously, we should have, but i was more concerned with checking ipmi to make sure the server is legitimate, etc, and gave the infomation to my technician to install virtulizor on it. 
+I awoke at around 3am my time today, to find out that my service had been suspended at 1am today, due to the cpu being maxed for 4h, which firstly id like to point out that its a dedicated server and why was he looking at my server files (he stated he kvmed in), and secondly the fact that he tried to keep it frozen and not issue a refund is questionable. I went back to sleep. 
+
+Additionally, his method of suspending my server is questionable, his suspension method was to unplug the server, rather than disconnecting network, or a safe power down. This suspension method is incredibly alarming, due to the fact that if i was transferring files, or something, it could potentially corrupt something. 
+
+I further probed him on this around 12pm today ish and was told to email in to request a login (i had forgotten he sent the new login via discord due to my tiredness this morning). I emailed in with the following '''Hi bitch give me my login info k ty', not exactly professional, but expresses my frustration at his refusal to reset the password because i asked him on discord, even though I had ordered, and paid via a stripe link on discord. He then stated he had disabled the server again, no reason was provided. 
+
+Refusing Refunds
+
+Aspect stated that i had been refunded for this service
+, however after further probing, he revealed that a refund has not been issued, and that he wanted me to make a ticket on his billing panel
+Which i dont think i even have a login for, i dont know my password, and frankly i dont want to go onto his site. 
+
+Overall Shady Services
+
+The IPs provided for this server are shown as Verizon Residential IPs
+
+(68.132.35.101
+68.132.35.102
+68.132.35.103
+68.132.35.104
+68.132.35.105)
+However, he states that they are DC IPs, and it is 'wrong', which i heavily doubt, he has not provided proof of having any Rackspace in the location the server was delivered to me in (NY), and the ips all match up to be Verizion ips, the only proof of him having Rackspace was a picture of a genetic ass looking rack, with 10 year old storage servers in. - https://drama.gg/assets/files/2021-07-10/1625925800-863011-capture.jpg
+NighMayHigh - Hello all,
+
+Firstly, a little backstory, Proxala had been selling 9900k Dedicated Servers for 72 Euro excluding tax, as this pricing is stupidly low, I decided to purchase a server, to see the flaws in their service, with the intention of verifying if they were legit, or not, and cancelling the server.
+
+
+Questioning Tax Registration
+
+The first red flag to me was the claim that the 90eur included Netherlands sales tax, I asked this to be removed as we were a UK company, and this request was honored. I was then asked 'how much is tax' (screenshot provided). For a host charging sales tax to not know the percentage, yeah that's a massive red flag. 
+
+Proxala (inc)
+
+Upon receiving my stripe link to pay Proxala, the email and my bank statement both said Proxala Inc, as shown here and here . When i questioned Aspect (The owner of Proxala) about this, he blamed my bank and said that it was lying. [upl-image-preview 
+
+Unsecure Dedicated Servers + False Suspension
+
+Once my server was delivered, it was set with an extremely unsecure root password (12345678), and i was not told to change it. Obviously, we should have, but i was more concerned with checking ipmi to make sure the server is legitimate, etc, and gave the infomation to my technician to install virtulizor on it. 
+I awoke at around 3am my time today, to find out that my service had been suspended at 1am today, due to the cpu being maxed for 4h, which firstly id like to point out that its a dedicated server and why was he looking at my server files (he stated he kvmed in), and secondly the fact that he tried to keep it frozen and not issue a refund is questionable. I went back to sleep. 
+
+Additionally, his method of suspending my server is questionable, his suspension method was to unplug the server, rather than disconnecting network, or a safe power down. This suspension method is incredibly alarming, due to the fact that if i was transferring files, or something, it could potentially corrupt something. 
+
+I further probed him on this around 12pm today ish and was told to email in to request a login (i had forgotten he sent the new login via discord due to my tiredness this morning). I emailed in with the following '''Hi bitch give me my login info k ty', not exactly professional, but expresses my frustration at his refusal to reset the password because i asked him on discord, even though I had ordered, and paid via a stripe link on discord. He then stated he had disabled the server again, no reason was provided. 
+
+Refusing Refunds
+
+Aspect stated that i had been refunded for this service
+, however after further probing, he revealed that a refund has not been issued, and that he wanted me to make a ticket on his billing panel
+Which i dont think i even have a login for, i dont know my password, and frankly i dont want to go onto his site. 
+
+Overall Shady Services
+
+The IPs provided for this server are shown as Verizon Residential IPs
+
+(68.132.35.101
+68.132.35.102
+68.132.35.103
+68.132.35.104
+68.132.35.105)
+However, he states that they are DC IPs, and it is 'wrong', which i heavily doubt, he has not provided proof of having any Rackspace in the location the server was delivered to me in (NY), and the ips all match up to be Verizion ips, the only proof of him having Rackspace was a picture of a genetic ass looking rack, with 10 year old storage servers in. - https://drama.gg/assets/files/2021-07-10/1625925807-777879-capture1.jpg
+Deleted User - Proxola using photo's from Eurovision for their landing header - https://media.discordapp.net/attachments/730023081489203241/863389324266176533/Captura_de_ecran_din_2021-07-10_la_15.00.50.png?width=1644&amp;height=1028
+Aspect - Dear customer,
+
+We've disabled your dedicated server in the first place for a consistent CPU usage of 100% for more then 4 hours, whilst you were "claiming" you were asleep. You could reply in the other discords where you were in tho. We've disabled your contact with us due to that email, and multiple refusals to go to your clientarea to make support requests. We do not feel like Discord is a perfect place to share those kinds of details on, and are working hard on our clientarea to make it a easy experience for the user. The excuses you gave for not wanting to go to our clientarea to make support requests were actually very bad: "I dont want to leak the static ip of my wework office" and "i dont feel like it". No, if you want us to refund or be official whilst saying "we're going to sue you" but wanting to handle things via discord is not the case in here. We do colocate with FirstLight (NET) with their FIOS network, and that's why the IPs might be showing up as residential. We're moving away soon to a Corespace Datacenter in New York with a own asn and more network capacity as Verizon simply doesn't offer us enough space to grow. We did not refuse your refund, we only asked you to make a ticket for it in our clientarea, what you did actually refuse a few times. We also changed our passwords to be more secure in the future, and we are active working on new automatic provisioning with so automatic passwords and management to make it more easier for our customers. We also decided to remove the possible copyrighted hero banner from our website. The fact that you can never be professional, screaming at other hosts / kids / people that they are bad whilst you can't even pay your own customers their refunds and employee's is a big thing to say so. We also shouldn't be called poor whilst having working owned hardware who can reach to it's max capacity not speaking about the facts that your RAM failed. We're disappointed with the service you might have experienced from us, and we're always searching for a solution. About our registration with Stripe, this has been resolved and "Inc." is removed from our creditcard statements until further notice. If you would like your refund to be made please create a ticket or e-mail us at support@proxala.io / hello@proxala.io. 
+
+Sincerely,
+Aspect
+NighMayHigh - Aspect 
+
+'claiming' I was asleep?
+
+No, i was asleep.
+
+Additionally, ive already sent you multiple refund requests, that you ignored. - https://drama.gg/assets/files/2021-07-10/1625928496-375407-capture.jpg
+Aspect - NighMayHigh Without further notice you couldn't proof you were asleep, but without that claim we'll refund or come to a solution with you within a few workdays. 
+
+If there's anymore questions we'll be glad to hear it from you.
+
+Sincerely,
+Aspect
+NighMayHigh - Aspect you were "claiming" you were asleep. You could reply in the other discords where you were in tho
+
+
+Aspect without further notice you couldn't proof you were asleep
+
+Attached is logs from my apple watch, providing the fact that i was actually asleep. Idiot.
+NighMayHigh -  - https://drama.gg/assets/files/2021-07-10/1625928779-424468-image06416.png
+Aspect - Dear customer,
+
+Thanks for attaching a kind of "proof" to your message, we'll be investigating without further notice. 
+You can expect to hear from us within a few workdays.
+
+Sincerely,
+Aspect
+NighMayHigh - Aspect 
+
+Not acceptable.
+
+You terminated my service, refund me.
+
+I will begin legal proceedings and a chargeback if you do not refund me for a service you terminated, because i called you 'bitch'
+_MrKnight_ - Aspect why u need to use "" for no reason doe
+SamCoThePug - On the image, it says he has GIGABIT, but the graphs are perfectly the same. Seems like 100/100 to me. User has not sent a link to the speedtest result and is full-on ignoring me when i ask for it. - https://drama.gg/assets/files/2021-07-10/1625932659-330793-image.png
+BaconHead - On the image, it says he has GIGABIT, but the graphs are perfectly the same. Seems like 100/100 to me. User has not sent a link to the speedtest result and is full-on ignoring me when i ask for it.
+
+Caught in 4K lying to us, because the difference between 729 and 996 mbps would obviously be more than as depicted in the graph. - https://drama.gg/assets/files/2021-07-10/1625932659-330793-image.png
+BaconHead - Also, he asked me in my DM if he could hire me in his host. It's not a good practice to recruit someone randomly like this, as you never know much about the person you're recruiting. The proper way is to setup a staff application, then see what skills the applicant has and finally assess wether the applicant would be of use to your hosting service or not. Trust is also an issue, as you never know what type of person you're taking into your staff team and you can't guarantee that he/she will stay loyal and never ruin your work. - https://drama.gg/assets/files/2021-07-10/1625943395-556516-33bf8c05-dd87-4103-ba5a-53dec55e192f.jpg
+Justin - bbrrrrrr
+Z3nWar3 - Cancerous host, was hosting a DirectAdmin instance and he had to ''Switch panels"' my guess is he can't afford the dedicated anymore. I've had it with his shit and i'm never hosting anything with him ever again. I've had the vm for over 14 days, now he refuses to refund me. Fucking scammer which can't keep his servers up, if anyone ever hosts with him he's a retarded TWAT!
+anonymous0 - Aspect refund him you dumb fuck
+Toki0179 - Aspect Refund nigh dickhead
+Triassic - a
+Sydney - It's a dedicated server. Why do you care if it has been hitting max CPU?
+Aspect - Sydney Overloading of our hardware is not accepted, please read our ToS before replying.
+Chirag - Aspect it's a dedi, not a vps or a docker container.
+Aspect - Chirag We've mentioned multiple times before that it's not allowed.
+Z3nWar3 - Z3nWar3  Currently resolved, he provided me with a refund and it's settled.
+Sydney - Aspect a TOS is a TOS, I suppose. Just, understand that it is a stupid TOS, and you are being assholes. I mean , why the fuck do you demand he shows proof he was sleeping?
+Chirag - lmao - https://drama.gg/assets/files/2021-11-30/1638288097-813616-screenshot-2021-11-30-21-29-31-98-df198e732186825c8df26e3c5a10d7cd.jpg
+Iceey - What's that defamation claim? 😂 Let me fight that
+DramaNerd - Update on modern proxala.io
+
+Proxala.io is now claiming to own hardware and are located in Serverius, The Netherlands
+Hereby i can confirm their not. 
+
+He is renting and reselling from RoyaleHosting &amp; Hetzner.
+Thereby, They a framework (messages) from ServerNode B.v.
+BijenKorf - yes i know the owner of proxala hosting he wanted to tem me on station and i did NOT like it so i asked freek if he could beat him up on station snapje maar in secret just temming him on station but then olivier showed up and wanted to logeer bij tobias of andersom weet ik veel and then things started to go all sideways when the owner of proxala spawned in a house WITH WORLD EDIT??? IN MINECRAFT and personnaly i think that's really unfair

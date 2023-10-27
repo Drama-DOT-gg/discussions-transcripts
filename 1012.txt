@@ -1,0 +1,89 @@
+Oliver1234dotdot - I decided to write a thread about this host called Powelt.com. I bought 6 Minecraft servers from them and they had so many issues with their Pterodactyl Panel that it was literally impossible to access my servers.
+
+I'm sorry but, when you don't report fucking issues with the panel.. And we don't have issues on OUR side, any other clients, It's a little impossible to fucking know that you have errors?
+Dubs - Oliver1234dotdot I did report the issue about your panel. But you and your "management team" are too blind to see my messages.
+Oliver1234dotdot - Dubs You reported one error with the panel not working, after switching to another browser it did work. As you clearly stated too,
+
+
+And your server was working fine after you fixed your bungeecord config
+
+
+
+After that, we got NO reports of the panel being broken, from any of our clients. - https://drama.gg/assets/files/2021-09-16/1631830288-640043-image.png
+Oliver1234dotdot - Dubs You reported one error with the panel not working, after switching to another browser it did work. As you clearly stated too,
+
+
+And your server was working fine after you fixed your bungeecord config
+
+
+
+After that, we got NO reports of the panel being broken, from any of our clients. - https://drama.gg/assets/files/2021-09-16/1631830313-124610-image.png
+Oliver1234dotdot - You got your refund, so why create a ticket?
+
+This should've been resolved as he got an refund, so this should be closed.
+Dubs - Dubs Forgot to add that his discord tag is Oliver...#0001 and link to the Powelt discord server is https://discord.com/invite/82SZvvRPFu
+Dubs - Oliver1234dotdot I just wanted people to know about how you needed to be threatened to be put on drama.gg until you eventually gave the refund. If i didnt threaten or even mention drama.gg, I am almost 100% sure you wouldnt have refunded me.
+Oliver1234dotdot - Dubs I would've refunded you, I just wanted to see what errors you had any WHY you DID NOT report all of them, as you said there were ALOT of errors, but only 2 were reported, and both on your side. Powelt.com had nothing to do with these errors. As you also say in my screenshot, it's your cache.
+Oliver1234dotdot - Dubs You forgot to add my discord id; 512995345618173960
+Oliver1234dotdot - @Sloth Could this thread get deleted/removed or add a resolved tag to it? The user @Dubs has gotten his refund, and therefor there are no errors.
+Oliver1234dotdot - @Dubs If you wish to contact me further about this, contact me in DMs.
+Dubs - Oliver1234dotdot Your company is shit and owned by a scummy 12 year old so no, It wont be removed.
+Oliver1234dotdot - I threatened to put him on drama.gg
+
+Also sorry, but last time I checked? It was illegal to threaten people?
+Oliver1234dotdot - Dubs I'm sorry, but I'm not 12.
+Dubs - Oliver1234dotdot How old are you then? You definitely act 12
+Dubs - Oliver1234dotdot "Illegal to threaten people" thats actually kinda funny that you think that.
+Oliver1234dotdot - Also can I ask why 
+Scammers tag was added? I did clearly not scam you as you recieved your refund? Didn't you?
+I can show all the proof right here if you want.? - https://drama.gg/assets/files/2021-09-16/1631831048-776281-image.png
+Oliver1234dotdot - Also sorry to say, but don't you think it's a bit childish to be sitting on a forum fucking arguing? You could've contacted me in DMs, but no..
+Dubs - Oliver1234dotdot I know for a fact I would not have gotten a refund if I did not threaten you with putting you on drama.gg
+Oliver1234dotdot -  - https://drama.gg/assets/files/2021-09-16/1631831167-347555-image.png
+Dubs - Oliver1234dotdot I dont see how I could contact someone that has blocked me.
+Oliver1234dotdot - As that picture CLEARLY states, I was trying to give you a refund BEFORE you threatened me.
+Dubs - Oliver1234dotdot Yeah, You werent going to do a full refund, Just the like 2$ out of the 10 i sent you that you actually got becuase of fees..
+Oliver1234dotdot - I would kindly ask for the "Scammers" tag to be removed from this thread, since I did not scam anybody.
+Here is the proof of the money sent back. - https://drama.gg/assets/files/2021-09-16/1631831268-53406-image.png
+Oliver1234dotdot - Dubs Actually, I might've have said it wrong, as I'm danish, and not english. So if you would excuse what I said and listen to what I meant, "I meant that I did not KNOW if paypal would let me refund with fees, and I actually never USED the refund button on paypal, so I thought I needed to send the money manually, but as it turns out, I don't need to send it manually as there is a refund button."
+Dubs - Oliver1234dotdot Your problem, Not mine.
+Oliver1234dotdot - So again, I am asking for this thread to be closed/removed as this has been resolved. I will no longer respond to this.
+Dubs - Oliver1234dotdot It will not be closed/resolved. I would like people to see how much of a scummy host it is. Thanks.
+Dubs - Want to talk about the law breaking tos you have now?
+Dubs -  - https://drama.gg/assets/files/2021-09-16/1631831957-73404-image.png
+eraters - why the fuck it named brach pterodactyl
+Dubs - eraters tbh idk they said something about they wanted the domain panel.whatever to be for vps panel idk kinda stupid
+TTEG_Unbox - @Dubs  I know Oliver for the past 5-6 Months and I also remember that he was one of the most polite host owners. I have bought a lot of services from Powelt.com and was never scammed. I know the support in the tickets were a bit slow but I think it is improved now. So, I think it will be ok for you to remove the scammer tag ig as he has given you the refund.
+VenixDev - eraters 
+We wanted to use another name instead of just panel. 😅
+Dubs - VenixDev Kinda stupid ngl
+VenixDev - Dubs
+What is this? - https://drama.gg/assets/files/2021-09-17/1631875850-94840-a298de8a-6862-4e00-b79c-b9c64470f8bf.jpg
+Dubs - It was when i thought the host was good. Replacing with 1 star right now.
+Shershah - TTEG_Unbox saying the one who have thread on himself.
+Giyu - Dubs kinda sus but ok
+Dubs - Shershah Okay? You dont got shit on me in that thread kek
+SumUne - Oh so Oliver is a scammer? Or not?
+Dubs - No. Not a scammer but he wouldnt have refunded me if I didnt threaten to put him on drama.gg
+TME - Damn, dubs that websocket error can happen to anyone. Also that is a client side error and not a freaking backend error, that you are getting mad on. TBH this is not at all oliver's fault and you should try fixing your browser. The same issue happens to me sometimes, but it gets fixed when I follow some guidance on clearing cache of browser.
+
+Dubs
+Oliver1234dotdot - Dubs I would've as said, and you can't predict the future. So you must go with what I say in this case, that I was gonna give you a refund or not.. If you wanna know why I got so mad after, was because you threatened me with drama.gg, which in my mind, only small children threatens people with making threads and stuff like that
+Sorry if I offended someone in this sentence.
+Oliver1234dotdot -  - https://drama.gg/assets/files/2021-09-17/1631899938-22545-image.png
+Jamie_ - He offered you a full refund and then really pettily threatened to put him here because of paypal fees? - https://drama.gg/assets/files/2021-09-18/1631965299-652723-image.png
+Jamie_ - And thats a client websocket error. Oliver literally said you didn't report anything to him so what else is he supposed to do? I don't think he is a mind reader, do you?
+Oliver1234dotdot - Jamie_ To be fair I didn't just say he didn't report anything, he states that he does.. But out of the 2 tickets he made, I see NO reports, only 1 that he fixed by switching browsers/clearing cache. Which I also provided screens of more up on this thread
+Oliver1234dotdot - Also @Dubs 
+
+What do you mean by slow support??? I LITERALLY replied on your ticket BEFORE you could even type anything seconds after you opened it. So stop with these false claims lmfao
+
+And also, the one about not knowing what we do? I'm sorry but wasnt it your host that closed down? Wasnt it you creating tickets because you couldnt access the panel because of your cache? - https://drama.gg/assets/files/2021-09-18/1631968396-418381-image.png
+Slayer - Jamie_ does he even deserve or deserved a refund with that retarded attitude?
+eraters - Slayer if you went to a company and said "give me my fucking refund" and they said "no because your attitude is retarded" would you see that as a valid reason
+Jamie_ - Slayer Not at all, but my point was that his pettiness made this post even after getting a refund with that attitude. I think they need to rethink themselves.
+Jamie_ - eraters I get your side, but imagine if someone came into your host like he did when you have tried your very best to make your host the best it can be and make sure everything is working. He just came in there, bitched about everything he could blaming the host on a client error, then demanded a refund.
+TTEG_Unbox - Shershah Ha ha i had forgotten about it as i do not open drama.gg tgat frequently. But ig that thread is now solved and it was for a pretty stupid reason as well. No to offend rtk. But he is my friend now 🙂
+Razes - Dubs thats a error for u and why u blame the owner
+BreadKitten - one of the the reasons why u shouldnt open a host lmfao
+DubsGotBumFuckedByAChicken - a

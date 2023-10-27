@@ -1,0 +1,4135 @@
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629630639-660512-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629630650-140311-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629630656-973285-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629630663-26286-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629630674-98070-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629631032-732077-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629630950-270297-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629631316-289767-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629630707-467324-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629630827-800120-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629635043-892660-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629635181-154225-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629637410-749377-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629637494-536588-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629638156-534341-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629638066-908525-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629638234-577621-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629638266-874790-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629631399-440204-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629631417-194221-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629643461-818438-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629632047-929923-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629632067-473952-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629632084-380910-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629632117-226897-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629632166-116516-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629632181-387123-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629632230-395505-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629632248-914546-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629632283-267121-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629631843-706005-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629642340-654117-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629642345-581365-image.png
+Jamie_ - I have made a thread about this guy way in the past, but it was nothing compared to what he has been doing now.
+
+His discord: abdullah.#0001
+
+DDoSing
+
+So this has been going on for a while now and I think it needs to be addressed. He is a massive DDoSer and I have quite a few screenshots of what he has taken down. Here are some examples: 
+
+
+
+
+
+
+
+Admitting to paying for DDoSers and bypasses:
+
+
+Now apparently, his knowledge is limited to stress them according to him.
+
+
+Wow, stress them must have gotten a remodel and been renamed.
+
+
+
+Then after many many times of telling him to stop, he went for one of my websites. (https://robopanel.io).
+
+
+
+
+He also has admitted to DDoSing WISP a lot. Proof:
+
+
+
+He was also the cause of this by DDoSing his own panel to take down wisp: 
+https://www.notion.so/06-04-2021-0302da6b029940cb9ca504f8ae4df69f
+and this: 
+
+
+He admitted to those in a call so I don't have screenshots or anything ^^
+
+He is also a COO at WitherHosting and in their trust pilot reviews, they have even said how this guy is a known DDoSer:
+
+
+This review has also been very helpful in displaying his maturity levels too:
+
+
+And this seperate review: 
+
+
+
+More people saying he is a DDoSer:
+
+
+
+
+
+Doxing Threats
+
+He has threatened to dox me many times before and here is a couple screenshots.
+
+
+
+He thinks he has my address from an old PayPal invoice sent to him, he doesn't. I wouldn't be surprised if he had shown it to his little "gang" which includes unseen acoustics and some others I can't remember the names of.
+
+
+
+As you can see from the above screenshot, he is extremely immature.
+
+When I started colournodes back in February, I remember an old logo he had for his company and asked to use it. He said yes and we added it to all our branding and the logo is now our companys face. Yesterday, he said he revoked all right we had to use it and claimed he would take us to court if we didn't take it down. He said the reason was "he wanted to use it for another company". I then had to remind him that he doesn't have the right to a logo he stole off of online lol. 
+
+
+
+
+
+The guy then went on to saying I was lying about colournodes registration status and later said he would bring that up in court too.
+
+
+
+And below is where I showed him his logo he "had the right to" all over the internet.
+
+
+
+
+Then attempted scaring me.
+
+
+
+Bad uptime
+
+He owns the company named FloofyHosting (https://floofyhosting.com) and started it with me before kicking me out (That was his decision, so I don't have an issue with that). He was one of the people who helped with a test free host me and Two and Daft made called CrystalHost and he provided us with the VPSs. This was when I realised I should not have trusted him. There was constant panel downtime and the VPSs didn't work half the time. When they went off and I messaged him, he would blame it on DNS issues and say he SSHd in and fixed it. I could tell his VPS panel (Solus something) was installed in a big rush as half of the things on the VPS page had permission issues or just flat out didn't work.
+
+He also admitted to me that to push his uptime up on his status page, he set the timings to 15 minutes per ping to make it look like they were constantly online.
+
+
+
+I will let everyone else do some more digging about his company.
+
+It is also very ironic that after I block the DDoSer, our main node at colournodes is under attack. https://us01.colournodes.com:8080. It is resolving in over 20 seconds at the time of writing this so wisp cannot contact it to use it. He must be really butt hurt that I blocked him.
+
+This is the netstat logs for our node. This has ironically started right after I blocked the DDoSer: - https://drama.gg/assets/files/2021-08-22/1629642357-932814-image.png
+CaveMan98765 - Dude your service just sucks, no need to take it out on other people.
+![
+
+
+](https://) - https://drama.gg/assets/files/2021-08-22/1629648866-921401-4f203858-ddd5-466f-9658-ced70ec43fc7.png
+CaveMan98765 - Dude your service just sucks, no need to take it out on other people.
+![
+
+
+](https://) - https://drama.gg/assets/files/2021-08-22/1629648867-5611-9359d292-bd0f-467c-a4bb-dbf8a4ea5360.png
+CaveMan98765 - Dude your service just sucks, no need to take it out on other people.
+![
+
+
+](https://) - https://drama.gg/assets/files/2021-08-22/1629648867-44120-d43a12ec-14fe-4295-815f-b1e7a72213de.png
+Jamie_ - Every other site like http://us01.colournodes.com/ (Our test site) runs perfectly fast. Just conveniently not https://us01.colournodes.com:8080/ (The one our daemon listens on). I have spoken with our provider and he agrees it is a DDoS attack. You can also believe all you want that they are photoshopped images, he knows the screenshots are real and so do I. He is just butt hurt that I exposed his ass and so did trustpilot reviews. Also if you have "tried" my service and it is "teribble", why haven't you told us? You can't just say something is terrible, cry about it and then never tell someone so it can be fixed. Also if you look in the screenshots at the end of the post it shows Netstat and Nethogs logs to prove it is under attack.
+
+CaveMan98765
+Jamie_ - Also about floofy, I was talking about the VPS services they have. It was always down for us when he offered VPSs. That may have just been because they were free and on a cheaper node or something but I am stating my experience I have had with him.
+Jamie_ - I can guarantee all of the screenshots posted here are raw, and if anyone I know wants to see the messages via screenshare, just DM me on discord.
+Jamie_ - If you wanna see the reviews: https://www.trustpilot.com/review/witherhosting.com?stars=1&amp;stars=2
+
+Do ctrl + f and search for DDos and COO
+Jamie_ - He got scared lmao and is deleting every message: - https://drama.gg/assets/files/2021-08-22/1629649812-693091-image.png
+Jamie_ - LMAO Still deleting - https://drama.gg/assets/files/2021-08-22/1629649906-932617-image.png
+Chirag - Lemme also kick his ass, - https://drama.gg/assets/files/2021-08-22/1629650062-880852-screenshot-2021-08-22-22-03-45-67.jpg
+Jamie_ - Oh man, you really got me. Sooo photoshopped:
+
+https://streamable.com/hp8dpf
+https://streamable.com/rqyfe7
+Jamie_ - Him removing the messages and someone telling me the logo is online:
+
+https://streamable.com/z8osv0
+Kowone - Jamie_ LMAO
+Jamie_ - Chirag thats just a breach of privacy
+Jamie_ - https://www.floofyhosting.com/tos/
+
+Nowhere in their TOS does it say they can do that either
+Jamie_ - He is also using our logo for his tos page... nice. I mean it isn't a bought logo but why use the one we use and not your own lol. - https://drama.gg/assets/files/2021-08-22/1629651401-164818-image.png
+abdullah - None of what you're saying is true, all you're doing is intentionally taking my messages out of context to show me as some evil character, I didn't threaten to dox you, you were claiming the address you gave me was fake, and I was saying ohh so if I go to doxbin you won't mind? Don't take people out of context, you have 5 threads on drama.gg about your company. It just shows how incredibly immature you are and how you can't move on.
+
+Regarding DDoS, I don't know if you know or not but there used to be someone named TBN, who happened to be my best friend. He quit DDoSing and stuff in May, I never DDoSed anyone myself, and I'm not DDoSing your company.
+
+About your logo, I actually paid someone $5 or $10 to make it, but I guess that's what you get for that price. He assured me the "rights" to it but oh well.
+
+And regarding the HetrixTools refresh rate, this is because HetrixTools "heart rate monitor" has serious bugs, and it's not advised to be used, but it's the only one that shows the CPU, RAM, storage usage. Setting the refresh rate to 5 minutes or above will fix the 99.x% uptime bug. I explained this to you but you decided to intentionally take me out of context, just like a lot of other things here 🙂
+
+Also, the TrustPilot reviews have no evidence behind them, just feel free to ask any of them for evidence 🙂  They're just people who either got denied for staff applications (as I used to run that, and notify the applicant if he's either accepted or denied) or just people like you, who have never even tried the services but still find the audacity to leave 1-star reviews on other peoples' hard work.
+
+The fact that you're spending more time on "exposing" me and less time working on your broken company just shows why it hasn't taken off. You can probably fix the issue with your daemon in less than 30 minutes if you actually put in the times. ColourNodes is just a WinterHoax literally, and lies about legal registration, etc.
+
+The fact that ColourNodes management is sitting on drama.gg all day instead of fixing their broken servers and setup should show you guys how good their services actually are, and how much they care about their customers.
+
+I am deleting my messages because I want to stop being taken out of context. And are we not going to talk about how you and your father genuinely tried to take me to court and get me arrested for firing you from my company? The constant threats I used to receive from both your father and yourself and accusations over things I never did?
+
+I think it's time that you grow up and start focusing on more important things, rather than things that have no value to you.
+Jamie_ - abdullah you have 5 threads on drama.gg about your company. It just shows how incredibly immature you are and how you can't move on.
+
+Which were all fake.
+
+abdullah I never DDoSed anyone myself
+
+So why are there screenshots of you logging into a booter and showing me the "power"?
+
+abdullah has serious bugs
+
+Nobody has reported any at all. Mine works fine and so does every body elses.
+
+abdullah I explained this to you
+
+Well, you didn't. And even if you wanted to try to "prove" this, you deleted every message in our DMs.
+
+abdullah Also, the TrustPilot reviews have no evidence behind them
+
+Apart from all the screenshots I have?
+
+abdullah or just people like you, who have never even tried the services but still find the audacity to leave 1-star reviews on other peoples' hard work.
+
+"never tried the services" - I think me and @Two and Daft can agree that when we used you for crystalhost, we had constant lagg with only a couple servers on the node, slow internet speeds (Panel proves that) and constant downtime.
+
+abdullah on your broken company
+
+Broken company? ok
+
+abdullah just shows why it hasn't taken off.
+
+Well we are making our money back and making profit. So I don't actually mind. Besides, I enjoy running colournodes and the comunity it has.
+
+abdullah ColourNodes is just a WinterHoax literally, and lies about legal registration, etc.
+
+Look at every single other post about us, they were all proven wrong. And lying about registration? Just because you don't understand what a Sole Trader is, doesn't mean like you have to pretend like it doesn't exist.
+
+abdullah The fact that ColourNodes management is sitting on drama.gg all day instead of fixing their broken servers and setup should show you guys how good their services actually are, and how much they care about their customers.
+
+We care about our customers a lot. We give a lot of downtime credit when needed and credit when something happens that wasn't the customers fault. We have a lot of happy customers thank you.
+
+abdullah I am deleting my messages because I want to stop being taken out of context.
+
+You weren't taken out of context, you are just so butt hurt that me and other people are telling the world what you are doing and have done.
+
+abdullah father genuinely tried to take me to court and get me arrested for firing you from my company?
+
+Pardon? Even if he tried, he has no clue how to. I am gonna be real here. That never happened smh
+
+abdullah I think it's time that you grow up and start focusing on more important things, rather than things that have no value to you.
+
+What things have no value to me? Making this post? You are right. But it will have a lot of value to your customers whos packets you are sniffing and the people who you have threatened to DDoS.
+SkyWatcher_2019 - Abdullah is my best friend, he is a very good and helpful person. After reading this post, I also came to the conclusion that all messages are taken out of context. ColourNodes should spend more time improving services than empty skirmishes.
+Chirag - abdullah you got some explaining to do - https://drama.gg/assets/files/2021-08-22/1629652619-419271-screenshot-2021-08-22-22-03-45-67.jpg
+Jamie_ - abdullah It just shows how incredibly immature you are and how you can't move on.
+
+Like a lot of things here have proved, your maturity levels are so low not even you can compete.
+Jamie_ - SkyWatcher_2019 ColourNodes should spend more time improving services than empty skirmishes.
+
+Improving services that work perfectly fine? That makes sense.
+abdullah - @Jamie_ I'm going to stop responding to you, you're just being salty and immature for no reason. There's no reason to be annoying for no reason, you need to grow up.
+Jamie_ - SkyWatcher_2019 I also came to the conclusion that all messages are taken out of context.
+
+You came to that conclusion as you are defending him because he is your best friend and thats fine, because all best friends will do that. He has deleted a ton of messages now so I don't know how you would know if they have been taken out of contex or not.
+abdullah - Chirag This was a joke, if you don't have the ability to comprehend that then that's just sad.
+Jamie_ - abdullah I'm going to stop responding to you, you're just being salty and immature for no reason. There's no reason to be annoying for no reason, you need to grow up.
+
+Just stop being butt hurt because people know what you have been doing now. What about the packet sniffing, no response?
+abdullah - Jamie_ Because he has a brain and anyone with one of those will be able to see how you've deliberately cropped screenshots.
+Jamie_ - abdullah This was a joke, if you don't have the ability to comprehend that then that's just sad.
+
+That in no way sounds like a joke. And knowing you for the year I have now, it sounds very much like something you would do.
+Jamie_ - abdullah I cropped them because there was no context to take them out of. Look at the videos. It shows my entire screen.
+abdullah - Jamie_ I've already responded to that, we encrypt traffic from our Edgerouter to Path's network, there's no way for us to even see the traffic if we wanted. Only basic stuff such as outgoing and incoming traffic volumes.
+Jamie_ - abdullah You have only just recently installed path and you told me that. You sent that message in July.
+abdullah - @Jamie_ Do you want to grow up and talk about this in DMs? Or do you want to stay like this forever?
+Jamie_ - abdullah I am done with talking to you in DMs as it always ends with you hurling insults at me, grabbing my IP somehow and DDoSing me or DDoSing my websites. That is how it as always ended before.
+Jamie_ - And I have spoken to a number of people and they fid it very very ironic we experience an attack after I block you as they also know your history as I have screenshared a lot of DMs with them.
+Jamie_ - Are we not going to talk about the time you thought it would be hillarious to leak my IP in colournodes general chat? Callum saw that so I am sure he could back me up.
+Jamie_ - XXX999XXX What are you on about?
+SkyWatcher_2019 - Jamie_ why would he do it? I see no motive.
+abdullah - Jamie_ Even before Path, and with our last mitigation provider (Corero), we had traffic encrypted with the SAME routers.
+abdullah - @Jamie_ Your stuff is breaking and your company is tanking I think you have other things to worry about.
+Jamie_ - SkyWatcher_2019 I see no motive either. That is why is baffles me every time he does it.
+Jamie_ - abdullah You didn't have your datacenter before then. Well i say datacenter, I mean closet.
+SkyWatcher_2019 - Jamie_ do you think he does it just like that? why would he need it?
+Jamie_ - abdullah Your stuff is breaking and your company is tanking I think you have other things to worry about.
+
+Oh please do enlighten me about how it is breaking
+Jamie_ - SkyWatcher_2019 As you can see in the screenshots in the original post, he just took down my website for no reason.
+SkyWatcher_2019 - Jamie_ I see no proofs that it was he who did it.
+Jamie_ - abdullah What if your clients saw that without knowing it was a "joke", you would have more cancellation requests than you can imagine.
+Chirag - SkyWatcher_2019 seems like you can't read
+Jamie_ - SkyWatcher_2019 Apart from the screenshots of him saying he did it...
+Jamie_ - @SkyWatcher_2019 - https://drama.gg/assets/files/2021-08-22/1629653584-250347-image.png
+SkyWatcher_2019 - Jamie_ at a minimum, the text in the screenshots can be changed using the developer tools. Let's say I write here that DDoS you, but this will not be proof.
+HellRayy - With Abdullah I met at the beginning of this year, I am from Russia I used to use hosting, which was lagging a lot and I paid a lot of money for it, with the transition to witherhost, and then to Abdullah on his own hosting all changed, I began to pay 3 times less while receiving a good performance and good support which responds in 5 minutes, while Abdullah even encourage customers and often gives all sorts of bonuses if you have long been using his services. If you have a problem he will definitely answer and help you. I remember him firing some employees for poor performance, and I think you were on that list, I don't think people get fired for nothing. - https://drama.gg/assets/files/2021-08-22/1629653739-294850-image.png
+Jamie_ - SkyWatcher_2019 I have screen recorded me jumping to the message which would reset any developer tools edits.
+Jamie_ - abdullah It is quite obvious you are making accounts to make yourself feel better. They are all conveniently from "russia" and have nothing better to say while you are replying.
+Jamie_ - abdullah Some people can be just really immature... 🙁
+
+Tell me about it
+SkyWatcher_2019 - Jamie_ 
+
+Jamie_ He has deleted a ton of messages now
+Jamie_ - SkyWatcher_2019 He didn't get as far as in the recording, which you can later see. Stop messaging and take the time to read, look at and watch everything I have posted.
+abdullah - @Jamie_ Just check the creation dates on Discord and just friend them 🙂
+
+They're real people.
+HellRayy - Check my discord 
+Jamie_ - https://drama.gg/assets/files/2021-08-22/1629653983-214096-image.png
+SkyWatcher_2019 - Jamie_ are u seriosly? Loool
+abdullah - Jamie_ With this much disrespect towards others, it is no wonder your company has literally no clients.
+SkyWatcher_2019 - HellRayy - https://drama.gg/assets/files/2021-08-22/1629654022-546360-image.png
+Jamie_ - abdullah I have many clients and they are a hell of a lot happier than yours as I don't joke about breaching their privacy, or threaten to DDoS them.
+Jamie_ - SkyWatcher_2019 
+
+HellRayy 
+
+Thats nice.
+Jamie_ - abdullah 2 people out of how many clients you have. You just keep talking to these two. The proof is out there of what you have done and have been doing.
+Robert - For everyone who's saying "[name] is my best friend", "hang in there", etc (which creates a lot of spam). This is not the place for that. This is a forum to expose fraudulent people and companies, not cheer them on. I get that you might be bothered by this thread, but please keep that stuff in a private chat or something.
+abdullah - @Robert I have committed no fraud and Jamie can't provide any proof 🙁
+
+Don't you think this is a bit unfair?
+Robert - abdullah He is at least providing actual evidence, all you're doing is getting your mates in here and providing allegations.
+SkyWatcher_2019 - yea
+Jamie_ - abdullah It isn't just for fraud, it is for DDoSers, Bad companies. That is why this thread has been made and there is plenty of proof. Even @Chirag has some.
+Jamie_ - Robert Just shows the maturity of the guy.
+abdullah - Jamie_ Oh so that's why ColourNodes is all over here? Makes sense.
+Jamie_ - abdullah Oh so that's why ColourNodes is all over here? Makes sense.
+
+All over here? It has 3 threads which were proven wrong and we had actual people who weren't even customers know of us.
+SkyWatcher_2019 - Jamie_ can provide something other than screenshots of DMs?
+Jamie_ - SkyWatcher_2019 What do you mean other than DMs? The DMs show everything. Sites down, him admitting to it.
+Robert - Okay so again, for everyone reading this, this is not a review site nor is it a site to cheer people on.
+abdullah - Jamie_ I haven't admitted to DDoSing your server, nor am I actually ddosing it. Your status page also says it's up?? - https://drama.gg/assets/files/2021-08-22/1629654625-538432-image.png
+SkyWatcher_2019 - Jamie_ I can find a screenshot of a site under a DDoS attack, send it to someone, write I arranged a DDoS attack, and what will it give?
+Jamie_ - abdullah Like I explained, every other website works but conveniently not the one our daemon talks to. I also said you DDoSed my home servers and other websites.
+abdullah - @Jamie_ If you want to actually fix this issue just DM me and I could probably fix it for you. You clearly haven't put any time into the issue.
+HellRayy - Jamie_ Where's the pruf that you didn't edit the screenshot? They are at least cropped - this already means that you have somehow edited them, you can fake screenshots in 5 minutes, confirm that they are not edited
+Jamie_ - HellRayy The videos I made and uploaded.
+Jamie_ - abdullah How can you fix this issue then.
+HellRayy - Jamie_ ok - https://drama.gg/assets/files/2021-08-22/1629655133-842401-image.png
+HellRayy -  - https://drama.gg/assets/files/2021-08-22/1629655153-933317-image.png
+Two - i'm about to expose and give comments to all of you, if you are going to keep acting childish-
+HellRayy - It's definitely not photoshopped, why did you do that?
+Jamie_ - HellRayy Yes, because that is exactly how I type.
+Jamie_ - HellRayy works fine for me and other people. Use a VPN or something
+HellRayy - @Jamie_ Your hosting is so bad that 4 people wrote about it review here, I would not be surprised if we can find more on other resources
+Jamie_ - HellRayy Go ahead, find more. While your at it, learn how to click on another post and read it. It was all proved wrong and closed on all of them.
+Jamie_ - HellRayy also how would you know of my hosting was bad or not? As far as I know you have never purchased a service from us.
+HellRayy - Jamie_ 
+Intel Xeon for 10$ nice - https://drama.gg/assets/files/2021-08-22/1629655743-12870-image.png
+Jamie_ - HellRayy What is wrong with a Xeon? There are so many versions, you have no clue which one so you just assume?
+SkyWatcher_2019 - HellRayy $10 ???
+HellRayy - At least I can't find out which one, that is, I pay $10 for 5 Gb and don't know which processor
+HellRayy - SkyWatcher_2019 yea lol
+HellRayy - And check Abdullah hosting 
+
+
+9.50$ for 8Gb of ram and 6 cores of ryzen - https://drama.gg/assets/files/2021-08-22/1629655997-764685-image.png
+Jamie_ - HellRayy If you ask in a pre-sales ticket or in the discord, we would be more than happy to tell you.
+Jamie_ - HellRayy And? Other companies have different prices. This is also not relevant to the original thread.
+HellRayy - @Jamie_  Okay I don't want to waste time on you as well as others, close the thread so you don't embarrass yourself, better spend your time developing your "Cool Company"
+SkyWatcher_2019 - HellRayy I completely agree
+Jamie_ - HellRayy I will not close this thread as people like @Chirag obviously have more to add to this.
+SkyWatcher_2019 - Jamie_ then why doesn't he add anything?
+Robert - HellRayy what Ryzen cpu + that is most definitely overallocated
+Two - i may have missed some stuff because this stupid drama.gg textbox is so small
+I wrote more stuff about abdullah though, cuz it's about you anyways (I don't hate you abdullah, please don't hate me from this post I sent, this is just my personal comments and opinions) 
+
+may have messed up some sentences and etc
+
+(first off, abdullah)
+
+Personally, I think he's a pretty cool guy, except I'm not surprised abdullah would actually be the one to ddos. DDoSing is a bad thing, and abdullah shouldn't do it. To be fair, a ton of people are on drama.gg has or can ddos, so most of you can really say anything about it. It seems like abdullah does have a rep for being a ddoser and immaturity as shown on the screenshots. I don't care if you ddosed or not, but please just don't do it next time. 
+
+Second of all, the doxing threats are straight-up bad. Next time, you should check whoever you bought that logo from scammed you or not. If you want, you should report the logo designer for art theft. (basically, the lesson here is don't assume)
+
+Third of all, Jamie doesn't need to legally show any documents or etc that he's a sole trader. (I think)
+
+Fourth of all, I can confirm all the colournodes threads are invalid here.
+
+Fifth, it is kinda suspicious you are deleted your messages with Jamie on DMs.
+
+Chirag Sixth, this is actually really suspicious.
+
+abdullah Seventh, and you keep responding.
+
+abdullah Eighth, you should mention if it's a joke or not always. sh*tty people will always use jokes against you, so I always say "jk" (just kidding) *or "/j" (joking) when it's a joke.
+
+abdullah a ton of evidence though
+
+(now jamie)
+
+abdullah First of all, you (Jamie) should've really talked to abdullah more about it on DMs, before you made this thread. 
+abdullah 
+
+Second of all, it could be abdullah ddosing you, but it might not be him. Don't jump to conclusions.
+
+Jamie_ Third, yah- don't assume, they could be real people
+
+
+
+(now other people)
+
+CaveMan98765 hey! guess what? you have no say here! you just came here, because abdullah showed you this. let me define you as an "abdullah stan". have a great day.
+
+SkyWatcher_2019 well, you don't belong here either "abdullah stan". 
+
+SkyWatcher_2019 get the fuck out of here, he (Jamie) literally gave proof
+
+SkyWatcher_2019 I know that Jamie doesn't fake screenshots, so I can (90%) 'guarantee' all his screenshots are legit and not edited.
+
+HellRayy yah ig abdullah is pretty kewl (this also goes for you should've dmed him before you blocked him, jamie)
+
+HellRayy account age doesn't really give proof you are real, since people could have old alts, but I do believe you are real
+
+Robert THANK YOU
+
+HellRayy you are clearly untrustworthy here, because jamie doesn't talk like that
+
+HellRayy that's your problem, works for me
+
+HellRayy i wonder if lying can get you banned here. how old are you?
+
+HellRayy ALL PROVED WRONG, CAN YOU GUYS READ?
+
+HellRayy what's wrong with overpriced servers?
+
+HellRayy you have no say in this
+
+SkyWatcher_2019 neither do you know what is exactly happening. even if you do, you don't belong here
+Two - Jamie_ "never tried the services" - I think me and @Two and Daft can agree that when we used you for crystalhost, we had constant lagg with only a couple servers on the node, slow internet speeds (Panel proves that) and constant downtime.
+
+it wasn't slow but it kept failing to communicate with discord/etc sometimes, it was annoying
+servers werent that bad
+Two - seems like i accidentally wrote the wrong words for some sentences/text on my post, sorry (rereading it rn)
+EDIT: too lazy to read through every single one, not like I'm really part of this either
+luffyy - Jamie did fake screenshots with me before
+Jamie_ - luffyy Not true what so ever.
+luffyy - It is true and you know it but I believe you have changed since that time
+luffyy - I will not refer to what happened at that time since I don't want to bring that up again
+Jamie_ - luffyy exactly as that is sorted and done with
+Jamie_ - luffyy it isn’t but that is done with now.
+luffyy - Yeah but the fact remains that you have done that before
+luffyy - But pretty sure not this time
+luffyy - Oh and floofy host became kinda like hye they bought the Unix theme pasted it on their panel started calling it fully custom panel
+Jerome - @Jamie_ The best thing you can do is to protect your server from DDoS attack, you can't stop someone from DDoS you even though you exposed them.
+FatGrizzly - @abdullah did you promise your stans a free vps if they come up and support you on drama.gg?
+well enough.
+@Jamie_  better go and register a complaint at bitninja.io(ig he ddosed the cp server, If I am wrong, ignore this)
+YungArtik - Two oops... I want to disappoint you, but Hellray is actually a real person, since I've been in contact with him for over a year, have seen his face and played video games together.
+I can tell you that I'm a mill abdulah, but since he owns the hosting where our server is, I personally know how to pay and bonuses from abdulah for us. (Screenshots below)  (Abdullah gave us 2 gigabytes of RAM and added another 1 gigabyte in the lobby) - https://drama.gg/assets/files/2021-08-23/1629705040-571749-image.png
+YungArtik - Two oops... I want to disappoint you, but Hellray is actually a real person, since I've been in contact with him for over a year, have seen his face and played video games together.
+I can tell you that I'm a mill abdulah, but since he owns the hosting where our server is, I personally know how to pay and bonuses from abdulah for us. (Screenshots below)  (Abdullah gave us 2 gigabytes of RAM and added another 1 gigabyte in the lobby) - https://drama.gg/assets/files/2021-08-23/1629705210-553389-image.png
+ApexCandy - You can clearly see that some of the screenshots are fake (inspect elemented) and you just took the bad stuff about him and made a disspost about abdullah which is wrong, how would you feel if you said bad stuff and people went against you? you would feel offended, i know abdullah really well, he is a nice guy, but you are just fake person im disgusted of you im ashame of people like you who are trying to make other people look bad and horrible when in reality they not bad. think twice next time before making posts like this again.
+
+Abdullah's host is by far the best host i ever saw, good CEO and good friend.
+ApexCandy - Jamie_ the add reaction makes it sooo obvious that its fake
+Two - Two HellRayy account age doesn't really give proof you are real, since people could have old alts, but I do believe you are real
+
+YungArtik 
+you clearly didn't read what I wasted 30 minutes of my time writing 
+
+EDIT: if you can't read the reply I sent, I wrote "but I do believe you are real"
+Two - just saying i dont hate abdullah and I'm friends with him and I'm just pointing out what I think so don't call out on me pls
+Two - ApexCandy tbf jamie doesnt fake screenshots (if he did, he doesn't anymore, so I doubt he did fake it here) + what you are saying is kinda invalid, since you are just claiming all his evidence is fake just because 
+
+(I'm not saying it can't be fake though, but I'm saying it is most likely real.)
+ApexCandy - Two its obviously fake. jamie used to fake evidence in the past wont be surprised that he done it again this time
+FatGrizzly - ApexCandy just asking, you just joined this forum 10 hours ago, how do you know him faking in the past?
+ApexCandy - FatGrizzly of course. talked to some people too
+Chirag - ApexCandy @abdullah mind asking your dogs to get out of here I guess?
+FatGrizzly - ApexCandy ok, now tell did abdullah promise you a free vps/minecraft server?
+Jamie literally provided a video, and abdullah is just crying "i didn't do it"
+ApexCandy - FatGrizzly what you mean by "free"
+ApexCandy - nothing is free.
+FatGrizzly - ApexCandy he prolly promised you a free stuff to go and support him on drama.gg
+better shutdown your laptop/desktop and go get a life
+ApexCandy - FatGrizzly says you.
+ApexCandy - anyhow i stated my point, dont want to continue discussing this any further.
+FatGrizzly - ApexCandy lmao, you are just 10 hours into this forum and you tell "Jamie has faked screenshots in the past"
+ApexCandy - 10 hours i registered sure, but i been looking at this forum for a while.... and decided to register today
+Jamie_ - ApexCandy You got me, I photoshopped the videos.
+Jamie_ - ApexCandy Nobody is who you talked to because it has never happened. Go and touch some grass.
+Two - ApexCandy so, you are accusing him of faking screenshots "again" for no reason... and I doubt you can even find 1 image of jamie faking a screenshot and claiming it was 100% legit... oh wait, the screenshot you were probably going to think of sending is fake... get out of here kid
+
+ApexCandy what people? just random people who've been asked to stan abdullah? (no offense abdullah, why the heck did someone bring kids here)
+
+Chirag please, they don't belong here... their maturity level is worse than everyone else here
+
+ApexCandy may not be free for someone else, but it could be free for you 
+
+ApexCandy this is you just admitting you are wasting your time here, and all that you said is wrong... "iTs oBvIoUsLy fAkE. yOu uSeD tO fAkE eViDeNcE iN tHe pAsT wOnT bE sUrPrIsEd tHaT hE dOnE iT aGaIn tHiS tImE. oF cOuRsE. tAlKeD tO sOmE pEoPlE tOo" you have no say here. stop wasting your life, and do your schoolwork, before you even try to argue or figure out what's happening here, even if you already know
+
+ApexCandy ok, nobody asked. ill act like you annoying kids to 'win every argument' if you make me lose my negative braincells again... the fact I've never seen you until this post while knowing jamie (and abdullah ig, but I don't talk to him as much as I do to jamie) for a while/long time shows that you don't even belong in this conversation
+
+Jamie_ with anyone without common sense, this is obviously a joke
+Two - you fucking kids probably wont even read what I wrote so I stopped trying, and even if you did, you clearly didn't listen to what I wrote aka:
+
+get out of here, you don't belong in this argument
+
+i might not belong either, but the nerve of you kids make me need to address what I know and feel about this argument
+
+you guys clearly don't know how to reply the way I'm writing, so please go get a life and don't end up on drama.gg... this site is just filled with child's play because of the people who just don't belong in an argument
+Chirag - @abdullah imagine a place where Abdullah removes colorlib's copyright without paying for the template, https://www.floofyhosting.com/ © 2021 Sentient Trading LLC t/a Floofy Hosting
+check https://www.floofyhosting.com/js/main.js for template info
+
+https://colorlib.com/wp/licence/
+Limitations for FREE versions
+You are not allowed to remove the copyright credit from the footer.
+You are not allowed to sell, resale, rent, and lease our template.
+We don’t provide any technical support for free HTML templates.
+Jerome - Chirag What if he did pay for it?
+Chirag - Jerome - https://drama.gg/assets/files/2021-08-28/1630124794-382135-image.png
+Two - apexcandy putting unnecessary clown emotes on my replies, when he's clearly the clown here, please... get out of here
+Jamie_ - ApexCandy jamie used to fake evidence in the past
+
+actually sir, I would like to see some evidence please
+SteveCos - Jamie_ Nice to hear that since you're complaining SomeHost don't have great uptime. Seem you you can't even fix your uptime
+
+Damn, I never knew I will thanks a ddoser.
+Jamie_ - SteveCos So because I call you out for no TOS, you come to a post I made... 👀
+
+Everything went online weeks ago, look at our uptime page. And I am sorry, "fix your uptime" he says, then thank a DDoSer for trying to ruin it... At least we had an actual cause that was fixable.
+Two - SteveCos 
+
+First of all, the evidence in this post has been proven wrong if you can read.
+Second of all, you brought no actual evidence, nor you belong here. 
+
+Have a great day.
+SteveCos - Jamie_ it's not my company, its just you don't have patience at all when people ask you to wait. Its funny on how you react
+SteveCos - Two ye, colournodes still sucks
+Jamie_ - Seeing as Mr Jerome man thought he would carry this on in someone elses post, here we go. @Jerome 
+
+"I wouldn't be surprise you are here, both of you still being exposed by me, wonder how dumb you been doing lately. SLA is stands for Service Level Agreement, it clearly says it's an agreement in the short form. I wouldn't mind if you call me a law expert but you sounds like a dumb saying it since it's pretty common sense and falsely claiming it on multiple websites." - Jerome.
+
+"both of you still being exposed by me" That just shows your maturity levels in a nutshell. You are exposing nobody. Meerely calling them out and 90% of them you haven't looked jack shit into.
+
+This guy closed his host, and then you still feel the need to make a post about it. It didn't even take me a minute to find this message saying they were closed. 
+
+"I am sure you have been busy lately since you couldn't wait for other host for their ToS and create a post for it. It's funny how you handle DDoS attack for calling the DDoS guy out instead of protecting your server from DDoS." - Jerome
+
+Well, if you took the time to look through (Which we established you don't do), the attack stopped weeks ago now and all customers were credited. We also have makde sure this won't happen again by adding extra protection protocols. Also I called the guy out for DDoSing, because it is illegal. And you say I couldn't even wait for another company to finish their TOS? Mate, they were operating without one. That 👏 is 👏 illegal 👏.
+
+"Would you like to share more about that? Like what's the outcome lol." - Jerome
+
+What are you on about, people can go to the post I made and clearly see what you did. You just got butt hurt that I called you out for it and then go and try to attack every company you can find my guy. It is sad. Extremely. Go touch some grass.
+
+Message big man jerome sent: - https://drama.gg/assets/files/2021-09-11/1631361185-947289-image.png
+Jamie_ - Seeing as Mr Jerome man thought he would carry this on in someone elses post, here we go. @Jerome 
+
+"I wouldn't be surprise you are here, both of you still being exposed by me, wonder how dumb you been doing lately. SLA is stands for Service Level Agreement, it clearly says it's an agreement in the short form. I wouldn't mind if you call me a law expert but you sounds like a dumb saying it since it's pretty common sense and falsely claiming it on multiple websites." - Jerome.
+
+"both of you still being exposed by me" That just shows your maturity levels in a nutshell. You are exposing nobody. Meerely calling them out and 90% of them you haven't looked jack shit into.
+
+This guy closed his host, and then you still feel the need to make a post about it. It didn't even take me a minute to find this message saying they were closed. 
+
+"I am sure you have been busy lately since you couldn't wait for other host for their ToS and create a post for it. It's funny how you handle DDoS attack for calling the DDoS guy out instead of protecting your server from DDoS." - Jerome
+
+Well, if you took the time to look through (Which we established you don't do), the attack stopped weeks ago now and all customers were credited. We also have makde sure this won't happen again by adding extra protection protocols. Also I called the guy out for DDoSing, because it is illegal. And you say I couldn't even wait for another company to finish their TOS? Mate, they were operating without one. That 👏 is 👏 illegal 👏.
+
+"Would you like to share more about that? Like what's the outcome lol." - Jerome
+
+What are you on about, people can go to the post I made and clearly see what you did. You just got butt hurt that I called you out for it and then go and try to attack every company you can find my guy. It is sad. Extremely. Go touch some grass.
+
+Message big man jerome sent: - https://drama.gg/assets/files/2021-09-11/1631361259-133610-image.png
+Jamie_ - Seeing as Mr Jerome man thought he would carry this on in someone elses post, here we go. @Jerome 
+
+"I wouldn't be surprise you are here, both of you still being exposed by me, wonder how dumb you been doing lately. SLA is stands for Service Level Agreement, it clearly says it's an agreement in the short form. I wouldn't mind if you call me a law expert but you sounds like a dumb saying it since it's pretty common sense and falsely claiming it on multiple websites." - Jerome.
+
+"both of you still being exposed by me" That just shows your maturity levels in a nutshell. You are exposing nobody. Meerely calling them out and 90% of them you haven't looked jack shit into.
+
+This guy closed his host, and then you still feel the need to make a post about it. It didn't even take me a minute to find this message saying they were closed. 
+
+"I am sure you have been busy lately since you couldn't wait for other host for their ToS and create a post for it. It's funny how you handle DDoS attack for calling the DDoS guy out instead of protecting your server from DDoS." - Jerome
+
+Well, if you took the time to look through (Which we established you don't do), the attack stopped weeks ago now and all customers were credited. We also have makde sure this won't happen again by adding extra protection protocols. Also I called the guy out for DDoSing, because it is illegal. And you say I couldn't even wait for another company to finish their TOS? Mate, they were operating without one. That 👏 is 👏 illegal 👏.
+
+"Would you like to share more about that? Like what's the outcome lol." - Jerome
+
+What are you on about, people can go to the post I made and clearly see what you did. You just got butt hurt that I called you out for it and then go and try to attack every company you can find my guy. It is sad. Extremely. Go touch some grass.
+
+Message big man jerome sent: - https://drama.gg/assets/files/2021-09-11/1631361686-875811-image.png
+Jamie_ - SteveCos ye, colournodes still sucks
+
+As far as I am aware, you aren't a paying customer so I am not quite sure how you could come to this conclusion.
+Jamie_ - SteveCos If I have to reiterate this one more time, I am going to loose my shit. IT IS ILLEGAL FOR A COMPANY TO OPERATE WITHOUT A TOS. Did that get it in your head that time? I sure hope so.
+Jerome - Jamie_ This guy closed his host, and then you still feel the need to make a post about it. It didn't even take me a minute to find this message saying they were closed.
+
+Closed so what? They still illegally using WHMCS, the site is still live, it's still against WHMCS EULA. Also, you realise you sent this respond in the wrong thread.
+
+Jamie_ Well, if you took the time to look through (Which we established you don't do), the attack stopped weeks ago now and all customers were credited. We also have makde sure this won't happen again by adding extra protection protocols. Also I called the guy out for DDoSing, because it is illegal.
+
+A host who tried to promise 99% SLA without DDoS Protection and causing many downtime, how funny is that? I suggest you gotta increase the price more so you could credit your customer more refund for more downtime. Calling out the guy for DDoS, are you kid or something? He DDoS your company and the best action you did is exposing him, nice solution! Keep saying his action are illegal won't work, I heard it thousand times but you can't even send a lawyer letter to him and fine/put him in jail. Stop acting professional if you aren't. Kids running company, haizz.
+
+Jamie_ What are you on about, people can go to the post I made and clearly see what you did. You just got butt hurt that I called you out for it and then go and try to attack every company you can find my guy. It is sad. Extremely. Go touch some grass.
+
+I am sure you did the same, couldn't laugh more. 
+
+Jamie_ And you say I couldn't even wait for another company to finish their TOS? Mate, they were operating without one. That 👏 is 👏 illegal 👏.
+
+I should reply this with your own words "As far as I am aware, you aren't a paying customer so I am not quite sure how you could come to this conclusion."
+Jamie_ - Jerome Closed so what? They still illegally using WHMCS, the site is still live, it's still against WHMCS EULA. Also, you realise you sent this respond in the wrong thread.
+
+They sent proof of payment in the post. 
+
+Jerome without DDoS Protection and causing many downtime,
+
+"Without DDoS protection" Our nodes use a mix of Corero and Hivelocity. Just they weren't designed for a massive scale Layer 7 attack like it was. It was confirmed by our providers that it was a massive attack and they even focused their protection to our IPs to stop it.
+
+Jerome A host who tried to promise 99% SLA
+
+That issue was sorted a long time ago and was an easy fix. Grabbing peoples IPs, sending your customers to a rickroll video, making a post about every host you set your eyes on and having a broken brain isn't an easy fix. I am supprised at this point someone hasn't made a post on you for how much of a nuisance you are.
+
+Jerome I am sure you did the same, couldn't laugh more.
+
+Did I? Again using my hand and moving my mouse proves that instantly wrong.
+
+Jerome I should reply this with your own words "As far as I am aware, you aren't a paying customer so I am not quite sure how you could come to this conclusion."
+
+My guy, are you telling me that I need to be a paying customer to view a companys TOS? I sure hope not for your sake.
+
+Oh yeah, BTW from reading all your responses, thought you could do with this: https://www.amazon.co.uk/English-Ages-Collins-Easy-Learning/dp/0007559844/ref=asc_df_0007559844/?tag=googshopuk-21&amp;linkCode=df0&amp;hvadid=310850997089&amp;hvpos=&amp;hvnetw=g&amp;hvrand=6718730258351745715&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=1007040&amp;hvtargid=pla-333222169435&amp;psc=1&amp;th=1&amp;psc=1
+Jamie_ - Lmaooo @Jerome my guy, atleast my company doesn't crack WHMCS to save money 🤣 
+
+https://drama.gg/d/731-clinkhostcom-no-tos-and-pp-admits-to-using-nulled-whmcs
+Two - SteveCos this doesn't bring any evidence... dont be like one of those skids who say stuff on posts without any evidences
+
+SteveCos this world is biased and fulled with drama, and your statement is an opinion. you have not brought any evidence... dont just say the host sucks because jamie exposed you/something you like
+Two - Jerome stop trying... this thread has already been proven wrong with the 3 failed posts against colournodes. (this would be the wrong place to say this but: fix your own host first before you complain) have a great day.
+Jerome - Jamie_ That issue was sorted a long time ago and was an easy fix.
+
+Yea, and in my case solved in hours and just because for your misunderstood and stupidness. 
+
+Jamie_ Grabbing peoples IPs, sending your customers to a rickroll video
+
+Getting visitors IP is in our Privacy Policy, which you meant to agree on when you enter our sites. Sending customers to rickroll video? Most likely to be you since my customer didn't use that link lmfao. Btw you asked for it.
+
+Jamie_ Oh yeah, BTW from reading all your responses, thought you could do with this: https://www.amazon.co.uk/English-Ages-Collins-Easy-Learning/dp/0007559844/ref=asc_df_0007559844/?tag=googshopuk-21&amp;linkCode=df0&amp;hvadid=310850997089&amp;hvpos=&amp;hvnetw=g&amp;hvrand=6718730258351745715&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=1007040&amp;hvtargid=pla-333222169435&amp;psc=1&amp;th=1&amp;psc=1
+
+I don't need that but I could buy that for your future studies, good luck with your education.
+Jamie_ - Jerome Btw you asked for it.
+
+I asked for your cPanel link to grabbify me and send me to a rickroll?
+Jamie_ - Jerome Getting visitors IP is in our Privacy Policy
+
+It may well be, but doing it with a grabify link is extremely unprofessional and just retarded
+abdullah - FINAL NOTE
+
+Jamie realized somebody else was DDoSing his company, not me. I helped him fix the issue free of charge. You can DM him to confirm this.
+Jamie_ - Chirag check https://www.floofyhosting.com/js/main.js for template info
+
+Not to drag out this thread, but I found this incredibly funny. He has removed the hashed out copywrite from the JS file too lmfao. Also his TOS is still using my companies logo.
+Jamie_ - Oop, he's back at it again.
+
+He first emailed me about his AMD server line up. I quickly realized it was because I had an old account with him from a long time ago and I politely asked him to remove my data. He then quickly replies asking me to make a ticket. I do so and ask him to ask someone to view it as I do not feel comfortable with my data on his systems at all. He then accused me of using the VPSs for DDoSing out of the blue. This is not true and they were instead for a Discord Bot project named Tyro (Which I am still developing). I then just wait and get a reply asking why I wanted my data to be removed. See attached images below for my response.
+
+
+(Don't worry about the IP, its my openVPN servers IP.)
+
+And I kid you not, I cannot make this up, the operator replies with the following:
+
+Either they have extremely unexperienced and uneducated operators, or they are just straight up lying. 
+
+Here is my reply to this:
+
+Attached image on the ticket reply:
+
+
+So now we wait. Will they refuse to delete my data again? I will keep this post updated. I also wait to point out that when this account was made, I put N/A for the address as I would trust a hitman more with my address than this guy, and again, I cannot make this up, he proceeded to change the address on my account to the address he thinks I live at. It again makes his maturity shine through.
+
+I have also just found that he was confronted about his website having the colorlib copywrite removed, he ignored it. He accused chirag of changing the subject but actually did himself.
+
+
+
+
+Link to messages: https://drama.gg/d/894-chirag-eggactyl/103
+
+I will update when I get a reply from them. - https://drama.gg/assets/files/2021-11-29/1638226451-857439-image.png
+Jamie_ - Oop, he's back at it again.
+
+He first emailed me about his AMD server line up. I quickly realized it was because I had an old account with him from a long time ago and I politely asked him to remove my data. He then quickly replies asking me to make a ticket. I do so and ask him to ask someone to view it as I do not feel comfortable with my data on his systems at all. He then accused me of using the VPSs for DDoSing out of the blue. This is not true and they were instead for a Discord Bot project named Tyro (Which I am still developing). I then just wait and get a reply asking why I wanted my data to be removed. See attached images below for my response.
+
+
+(Don't worry about the IP, its my openVPN servers IP.)
+
+And I kid you not, I cannot make this up, the operator replies with the following:
+
+Either they have extremely unexperienced and uneducated operators, or they are just straight up lying. 
+
+Here is my reply to this:
+
+Attached image on the ticket reply:
+
+
+So now we wait. Will they refuse to delete my data again? I will keep this post updated. I also wait to point out that when this account was made, I put N/A for the address as I would trust a hitman more with my address than this guy, and again, I cannot make this up, he proceeded to change the address on my account to the address he thinks I live at. It again makes his maturity shine through.
+
+I have also just found that he was confronted about his website having the colorlib copywrite removed, he ignored it. He accused chirag of changing the subject but actually did himself.
+
+
+
+
+Link to messages: https://drama.gg/d/894-chirag-eggactyl/103
+
+I will update when I get a reply from them. - https://drama.gg/assets/files/2021-11-29/1638226532-741245-image.png
+Jamie_ - Oop, he's back at it again.
+
+He first emailed me about his AMD server line up. I quickly realized it was because I had an old account with him from a long time ago and I politely asked him to remove my data. He then quickly replies asking me to make a ticket. I do so and ask him to ask someone to view it as I do not feel comfortable with my data on his systems at all. He then accused me of using the VPSs for DDoSing out of the blue. This is not true and they were instead for a Discord Bot project named Tyro (Which I am still developing). I then just wait and get a reply asking why I wanted my data to be removed. See attached images below for my response.
+
+
+(Don't worry about the IP, its my openVPN servers IP.)
+
+And I kid you not, I cannot make this up, the operator replies with the following:
+
+Either they have extremely unexperienced and uneducated operators, or they are just straight up lying. 
+
+Here is my reply to this:
+
+Attached image on the ticket reply:
+
+
+So now we wait. Will they refuse to delete my data again? I will keep this post updated. I also wait to point out that when this account was made, I put N/A for the address as I would trust a hitman more with my address than this guy, and again, I cannot make this up, he proceeded to change the address on my account to the address he thinks I live at. It again makes his maturity shine through.
+
+I have also just found that he was confronted about his website having the colorlib copywrite removed, he ignored it. He accused chirag of changing the subject but actually did himself.
+
+
+
+
+Link to messages: https://drama.gg/d/894-chirag-eggactyl/103
+
+I will update when I get a reply from them. - https://drama.gg/assets/files/2021-11-29/1638226621-874169-image.png
+Jamie_ - Oop, he's back at it again.
+
+He first emailed me about his AMD server line up. I quickly realized it was because I had an old account with him from a long time ago and I politely asked him to remove my data. He then quickly replies asking me to make a ticket. I do so and ask him to ask someone to view it as I do not feel comfortable with my data on his systems at all. He then accused me of using the VPSs for DDoSing out of the blue. This is not true and they were instead for a Discord Bot project named Tyro (Which I am still developing). I then just wait and get a reply asking why I wanted my data to be removed. See attached images below for my response.
+
+
+(Don't worry about the IP, its my openVPN servers IP.)
+
+And I kid you not, I cannot make this up, the operator replies with the following:
+
+Either they have extremely unexperienced and uneducated operators, or they are just straight up lying. 
+
+Here is my reply to this:
+
+Attached image on the ticket reply:
+
+
+So now we wait. Will they refuse to delete my data again? I will keep this post updated. I also wait to point out that when this account was made, I put N/A for the address as I would trust a hitman more with my address than this guy, and again, I cannot make this up, he proceeded to change the address on my account to the address he thinks I live at. It again makes his maturity shine through.
+
+I have also just found that he was confronted about his website having the colorlib copywrite removed, he ignored it. He accused chirag of changing the subject but actually did himself.
+
+
+
+
+Link to messages: https://drama.gg/d/894-chirag-eggactyl/103
+
+I will update when I get a reply from them. - https://drama.gg/assets/files/2021-11-29/1638226633-852918-image.png
+Jamie_ - Oop, he's back at it again.
+
+He first emailed me about his AMD server line up. I quickly realized it was because I had an old account with him from a long time ago and I politely asked him to remove my data. He then quickly replies asking me to make a ticket. I do so and ask him to ask someone to view it as I do not feel comfortable with my data on his systems at all. He then accused me of using the VPSs for DDoSing out of the blue. This is not true and they were instead for a Discord Bot project named Tyro (Which I am still developing). I then just wait and get a reply asking why I wanted my data to be removed. See attached images below for my response.
+
+
+(Don't worry about the IP, its my openVPN servers IP.)
+
+And I kid you not, I cannot make this up, the operator replies with the following:
+
+Either they have extremely unexperienced and uneducated operators, or they are just straight up lying. 
+
+Here is my reply to this:
+
+Attached image on the ticket reply:
+
+
+So now we wait. Will they refuse to delete my data again? I will keep this post updated. I also wait to point out that when this account was made, I put N/A for the address as I would trust a hitman more with my address than this guy, and again, I cannot make this up, he proceeded to change the address on my account to the address he thinks I live at. It again makes his maturity shine through.
+
+I have also just found that he was confronted about his website having the colorlib copywrite removed, he ignored it. He accused chirag of changing the subject but actually did himself.
+
+
+
+
+Link to messages: https://drama.gg/d/894-chirag-eggactyl/103
+
+I will update when I get a reply from them. - https://drama.gg/assets/files/2021-11-29/1638226819-691900-image.png
+Jamie_ - Oop, he's back at it again.
+
+He first emailed me about his AMD server line up. I quickly realized it was because I had an old account with him from a long time ago and I politely asked him to remove my data. He then quickly replies asking me to make a ticket. I do so and ask him to ask someone to view it as I do not feel comfortable with my data on his systems at all. He then accused me of using the VPSs for DDoSing out of the blue. This is not true and they were instead for a Discord Bot project named Tyro (Which I am still developing). I then just wait and get a reply asking why I wanted my data to be removed. See attached images below for my response.
+
+
+(Don't worry about the IP, its my openVPN servers IP.)
+
+And I kid you not, I cannot make this up, the operator replies with the following:
+
+Either they have extremely unexperienced and uneducated operators, or they are just straight up lying. 
+
+Here is my reply to this:
+
+Attached image on the ticket reply:
+
+
+So now we wait. Will they refuse to delete my data again? I will keep this post updated. I also wait to point out that when this account was made, I put N/A for the address as I would trust a hitman more with my address than this guy, and again, I cannot make this up, he proceeded to change the address on my account to the address he thinks I live at. It again makes his maturity shine through.
+
+I have also just found that he was confronted about his website having the colorlib copywrite removed, he ignored it. He accused chirag of changing the subject but actually did himself.
+
+
+
+
+Link to messages: https://drama.gg/d/894-chirag-eggactyl/103
+
+I will update when I get a reply from them. - https://drama.gg/assets/files/2021-11-29/1638226863-456230-image.png
+Jamie_ - Their own system doesn’t even work??? 😂 - https://drama.gg/assets/files/2021-11-29/1638229347-332432-f8edf727-e80a-4155-a86f-5411d20853c3.png
+abdullah - Jamie_ Rather than messaging me for help, you deciding to come here and accuse us of yet more things clearly shows your lack of professionalism and maturity. Can you send some screenshots of me accusing you of the things mentioned?
+
+The button is blocked because we have had issues with a group of people using stolen credit cards and PayPal accounts. We do not support this activity, and work with the owners and banks involved to make sure they get their money back. We keep all account data as it includes logs of actions performed and IP addresses involved. This helps us block these fraudulent orders.
+
+Also what were you trying to delete? The fake address you used to sign up? Because that's what you told me in DM's. I forgot we implemented that, and Marcos obviously was not aware of the situation. If you want your account deleted just message me. I really have no problem deleting your account with your fake address and Fortnite related email.
+
+Grow up.
+Jamie_ - abdullah Can you send some screenshots of me accusing you of the things mentioned?
+
+
+
+abdullah The button is blocked because we have had issues with a group of people using stolen credit cards and PayPal accounts.
+
+That should be detected by a fraud system (if you even have one). Your Privacy Policy clearly states that I can have my data removed, yet you refuse to do it. I also have the legal right to request for my data to be removed, you refuse to.
+
+abdullah Also what were you trying to delete? The fake address you used to sign up? Because that's what you told me in DM's.
+
+Show me these DMs. I would trust a hitman more with my address than you, so that's why I signed up with the entire address as N/A.
+
+abdullah If you want your account deleted just message me. I really have no problem deleting your account with your fake address and Fortnite related email.
+
+So you are called out and switch up your attitude? 
+
+
+
+What about the colorlib copywrite being removed aswell? There is so much in this post you haven't addressed. - https://drama.gg/assets/files/2021-11-30/1638231243-828561-image.png
+Jamie_ - abdullah Can you send some screenshots of me accusing you of the things mentioned?
+
+
+
+abdullah The button is blocked because we have had issues with a group of people using stolen credit cards and PayPal accounts.
+
+That should be detected by a fraud system (if you even have one). Your Privacy Policy clearly states that I can have my data removed, yet you refuse to do it. I also have the legal right to request for my data to be removed, you refuse to.
+
+abdullah Also what were you trying to delete? The fake address you used to sign up? Because that's what you told me in DM's.
+
+Show me these DMs. I would trust a hitman more with my address than you, so that's why I signed up with the entire address as N/A.
+
+abdullah If you want your account deleted just message me. I really have no problem deleting your account with your fake address and Fortnite related email.
+
+So you are called out and switch up your attitude? 
+
+
+
+What about the colorlib copywrite being removed aswell? There is so much in this post you haven't addressed. - https://drama.gg/assets/files/2021-11-30/1638231388-382216-image.png
+Jamie_ - abdullah Can you send some screenshots of me accusing you of the things mentioned?
+
+
+
+abdullah The button is blocked because we have had issues with a group of people using stolen credit cards and PayPal accounts.
+
+That should be detected by a fraud system (if you even have one). Your Privacy Policy clearly states that I can have my data removed, yet you refuse to do it. I also have the legal right to request for my data to be removed, you refuse to.
+
+abdullah Also what were you trying to delete? The fake address you used to sign up? Because that's what you told me in DM's.
+
+Show me these DMs. I would trust a hitman more with my address than you, so that's why I signed up with the entire address as N/A.
+
+abdullah If you want your account deleted just message me. I really have no problem deleting your account with your fake address and Fortnite related email.
+
+So you are called out and switch up your attitude? 
+
+
+
+What about the colorlib copywrite being removed aswell? There is so much in this post you haven't addressed. - https://drama.gg/assets/files/2021-11-30/1638231403-921361-image.png
+Jamie_ - Do these conditions seem reasonable to everyone else? - https://drama.gg/assets/files/2021-11-30/1638231614-357185-image.png
+abdullah - Your data was marked for deletion, stop pushing it for no reason.
+Jamie_ - abdullah Thank you, maybe tell me this instead of saying that it wasn't gonna happen and I am obsessing over you. Isn't that professional if you ask me.

@@ -1,0 +1,55 @@
+Ash - https://www.youtube.com/watch?v=aRtVQ8C256c, Docker VPS...
+Ash - https://drama.gg/d/83-hye-hosting-snowyhosting-bombhosting-orbitnodes-rectroxroseymc/286 (Explains a bit and Credit to Vanquish)
+Ash777 - another ash
+Ash - Ash777 I'm not a clown like you
+Vanquish - L
+Ash777 - Ash but you lack respect
+Skie - Ash, is just a dick over all. He thinks he is always disrespectful to people around him. This thread is not nessary. If there a issue or a problem you can contact him.
+Ash777 - Skie i am not
+Skie - Not you. The other ash.
+Ash777 - oh
+Vanquish - badsk and hye working together, our worst nightmare. - https://drama.gg/assets/files/2021-05-26/1622056348-630614-image.png
+Ash - Ash777 You lack a brain
+Ash - Skie Rosey/Rectorx/Ace (now Skie) all I have to say lmao
+Ash - Vanquish Hye down bad went from "non hoaxable" to badsk
+Skie - Plus Hye Hosting runs on really old hardware but there systems make it run like there i9's.
+Skie - I got banned for getting bad banned on Hye Hosting discord. Don't you think that's hella dumb for me getting banned for getting someone that is a scammer/ddoeser/underage person banned from a discord I'll start to leak everything i now.
+eraters - Skie stop complaining mr chargeback abuser
+Skie - Want me to charge back all of them?
+Vanquish - Skie "their systems"
+Jedrik - kasper Ararat is just themed panels with a few plugins :/
+
+Their latest video, it's literally just skinned ptero with some plugins lmao "Best control panel" or whatever my ass
+Jedrik - Everything they say are just marketing tactics to make everything seem fancier than it is
+Jedrik - Dude seems chill, he just bullshits a lot, I mean, "smart" marketing ig
+BabyAces - Some proof Hye &amp; Cian is a dick: - https://drama.gg/assets/files/2021-05-28/1622210574-124060-image.png
+BabyAces - Some proof Hye &amp; Cian is a dick: - https://drama.gg/assets/files/2021-05-28/1622210598-695268-image.png
+BabyAces - Some proof Hye &amp; Cian is a dick: - https://drama.gg/assets/files/2021-05-28/1622210624-441845-image.png
+BabyAces - Vanquish They use Heimsnet's old panel...
+Neon - nvps is just pure linux
+Cian - BabyAces We banned you for being a retard and spreading false information. You told us badsk was twelve when he's thirteen. Get over it.
+Lucas - lol - https://drama.gg/assets/files/2021-06-02/1622596097-772869-image.png
+Jedrik - Lucas I didn't even get to say ararat was just themed ptero with some plugins 👀
+Hye - Hello. There are few misconceptions I would like to address throughout this thread. 
+
+Firstly, it seems to be widely believed N-VPS utilizes docker in order to achieve its non-virtualized state, I do truly understand why people would jump to that conclusion as Ararat is Pterodactyl-based, and utilizes Pterodactyl's frontend, however, the backend in Ararat (for N-VPS's, not Minecraft) is fully custom and does not utilize Docker in any way, shape, or form. In fact, KVM support is coming to Ararat soon.
+
+Secondly, we do not have any official affiliation with badsk. In fact, this one's a funny story, before our Discord bot sent the welcome gifs, I would manually send them, and badsk wanted to see if I could send a ton of welcome gifs at the same time, so he tried to get a lot of people in at the same time to troll me 😂.
+
+Thirdly, we do not use any of Heimsnet's software in any way, shape, or form. I'm not sure where you concluded that from but that statement is just inaccurate.
+
+Finally, Hye Hosting does not run on older hardware which our system "makes run like on i9's". We use genuine Intel Core i9-9900K hardware.
+
+Hope this clears up any misconceptions about our service,
+
+Joseph - Hye Hosting Director
+KIVOX - Hye No one ever said you used docker containers, you and your staff just assume everyone means docker containers whenever the word "container" is mentioned.
+KIVOX - KIVOX Correction: People did but no one did it after they were told it wasn't.
+Hye - KIVOX Unfortunately I think you are mistaken. After us repeatedly coming out and stating N-VPS is not powered by docker, people continued to push, and still continue to push the false narrative which N-VPS utilizes docker.
+KIVOX - Hye Can you name the people that have referred to them as "docker" containers. Because everyone in drama.gg and who I've talked to about the matter has called them containers.
+Hye - KIVOX eraters, ash, and a couple of people who joined my discord randomly and left still believe to this day that it uses docker.
+Jen - bump
+Deleted User - Jen bump
+Deleted User - Hye nothing its just for no reason
+Deleted User - we are just huge fans of your work
+Soyabn9 - Another thread of the same fucking thing yay. Can we put all of the same fucking threads in one fucking category?

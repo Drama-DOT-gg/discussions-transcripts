@@ -1,0 +1,837 @@
+GamerOmega - Very Bad Service, I Paid For it, The Staff was arguing, demoting each other, muting random members purging random channels(mostly the owner itself) and etc., I've DMed the owner that nuking a channel is easier than constantly purging it, they've replied with "k", banned me, blocked me and deleted all my servers. they've also deleted my account on their host, I have lost all my data. They also had a donator node I used before, it was overloaded and it was very slow, all bots were very laggy on there, it took over 32 seconds just to reply with "Pong!" on a bot hosted on there. I have no idea how this host has over 3000 members.
+Their webites are https://sweplox.se/, https://client.sweplox.net/ and https://game.panel.sweplox.net/
+Image Proof:
+
+Update 1: The Owner Refuses to Tell the Proper Ban Reason. - https://media.discordapp.net/attachments/853646865161256970/877317513367662602/Screenshot_20210818-012613_Discord-Canary.png
+Cnnn666 - You better keep away from them. They're shady. Banning and removing accounts for no reson. Also cant afford more nodesand are keeping 2 overloaded nodes lmao
+
+Edit: I'm gonna post the message that I was sending but it was being deleted and ignored by toxic, here it is:
+So, the whole argument started because of the problems with the roles. Someone had the role "Swedish" and got warned because of it meanwhile no one else got warned for having a Turkish role while not being turkish. Then the war started. Community manager was literally dong nothing to the community for the whole time. Simply, mods were doing the dirty job for him when it comes to moderating or taking care of the community. Scoopy and aaron were saying what he was doing. Both of them were trying to improve this server. They were treatning everyone equally. If someone wasn't turkish they werent warning him. If someone wasnt swedish they werent warning him. I even took all of the roles and after 1 day only role swedish was removed from me meanwhile turkish stayed. Okay, they might've done some things without your permission but these things were to help the server and not do destroy it. When scoopy became and admin he wanted to make this server look more user-friendly. They put all they could to help this server. They were constantly active. Swedish role is like a "vip" role because most of your paying customers are from there. Sure, they can be but make a special role for them like @Payer or @Supporter or something and then make this role "exclusive" instead of making a public role. Scoopy offered a change in of text in #roles-roller but nothing has changed. @Gamer Omega#1234 and @KA1 were told to make their nicknames "mentionable" meanwhile they were. Every single nickname is mentionable. Not our problem that you dont know that you can do right click -&gt; mention or &lt;@user_id&gt;. But then, what about the other people being "unmentionable" and still nothing is being done to them? @! furki#2336 for example or @.LilNoya#2021. This is really unfair to users and everyone should be treated equally. Target only 1 country and do with them whatever you want but if you're also targetting other countries treat everyone equally. That were my last words, do whatever you want to me now but dont delete this message
+
+Also "community manager" was so much caring about the community that didnt even know what hashtag #UserRightsMatter meant. Not talking about how you dont exactly know what you can do or not since they'll come up with the last "rule" that says "staff are the law"
+Kowone - GamerOmega They also had a donator node I used before, it was overloaded and it was very slow, all bots were very laggy on there, it took over 32 seconds just to reply with "Pong!" on a bot hosted on there.
+
+do you remember the ip of the donator node? i want to see the provider of the node..
+GamerOmega - Kowone the provider of the node was NextArray(owner sent a maintenance email to the donator chat once), https://nextarray.com/ with 6gb of RAM
+BlackCat - Wtf 6gb of ram for donator node
+
+dies of cringe
+BlackCat - do they have 6gb ram vps with 40gb disk? if yes then cring
+Kowone - GamerOmega 6gb ram donator node? cringe
+Kowone - uh oh* - https://drama.gg/assets/files/2021-08-18/1629268444-411769-2cb06632-986d-450b-bffa-087de184ef11.jpg
+GamerOmega - Kowone yep, it was overloaded 24/7 before it got completely removed
+Kowone - GamerOmega i was wondering, why did he choose a vps instead of a dedicated server for donator node? lol
+GamerOmega - Kowone the owner is poor, I wonder why did he even start a host if he can't maintain it properly and most nodes are overloaded, also status page screenshot I found from some time ago - https://media.discordapp.net/attachments/853646865161256970/877440801225981992/Screenshot_20210708-040944_Discord-Beta.png
+Kowone - GamerOmega the owner is poor
+
+i bet the owner had these words on his mind: "if i make a hosting, i'll get to earn money to grow my hosting bigger" lmao
+Kowone - GamerOmega 
+
+omg, overloaded as fuck - https://media.discordapp.net/attachments/853646865161256970/877440801225981992/Screenshot_20210708-040944_Discord-Beta.png
+IoNetty - rule 1 of making a host. If you can't maintain don't make it.
+Kowone - IoNetty true true
+GamerOmega - Kowone most of these nodes had 50% CPU usage and 500mb RAM free
+IoNetty - It would only have a little bit of ram free because of swap, and that ram left would be slow.
+Kowone - GamerOmega as expected from low resources vps's
+Kowone - IoNetty yea
+IoNetty - If you can't fork 10$ for a contabo dedi you can't succeed.
+
+
+413 started with a few thousand, do you see what they are now?
+IoNetty - VPS, not dedi.
+GamerOmega - IoNetty I remember thay had a Contabo US VPS with 32gb RAM, it wasn't so overloaded, but it was kinda slow, it had many downtimes and got Discord API ratelimits every single day, and had like 700 bots on it. After some time theyve just deleted the vps and moved all servers to other nodes
+IoNetty - Getting over 16gb is a ripoff from contabo, period. Also, contabo had lag spikes randomly from what I have heard.
+GamerOmega - Also, some time ago they've discontinued free hosting(You can have your old free server if you actually use it) and left only 2 nodes, node03 and node05, they deleted over 2,000 servers for no reason
+Kowone - Tooxic why open a free hosting when you know it's definitely not profitable lol
+GamerOmega - Staff were arguing because of some stuff in literally public general chat anyone can see, they were talking about rules(some staff don't get their own rules properly and change people's nicknames to remove tha hashtag "#UsersRightMatter" and rename people when they have nicks they dont like, you have an emote in your nick? Random staff is going to remove it from your nickname.), demoting good staff for no proper reason(they didnt ask permissions(even tho the member they demoted was an admin), they did something other staff didnt like and more), the owner was purging the channels because he wanted to hide the drama happening but that didnt happened, random muting members(they muted random people from global general but their perms didnt work and people weren't actually muted, but they had the role). I don't why was I banned because of a DM.
+GamerOmega - Tooxic I used node-os-utils to see it and it was shown right on your nodes channel
+Kowone - Tooxic since 2017????? didn't knew that
+GamerOmega - Tooxic I paid for pterodactyl hosting, after i left and joined back my donator role was never added back, you deleted all my servers and my account on pterodactyl so technically you scammed me
+GamerOmega - Tooxic You banned me, not any other staff
+GamerOmega - GamerOmega all other staff was playing with the roles, arguing in a public chat and etc.
+Kowone - GamerOmega great staff!!
+IoNetty - Kowone This is just cringe, can someone just cancel this person and get it over with please.
+GamerOmega - Kowone here are some chat screenshots
+
+
+You can see that some staff are trying to mute random people for no proper reason. - https://media.discordapp.net/attachments/853646865161256970/877452920789020732/Screenshot_20210817-221333_Discord-Canary.png
+GamerOmega - Kowone here are some chat screenshots
+
+
+You can see that some staff are trying to mute random people for no proper reason. - https://media.discordapp.net/attachments/853646865161256970/877452994772357140/Screenshot_20210817-235735_Discord-Canary.png
+Kowone - GamerOmega these staff members looks shitty tbh
+GamerOmega - Kowone I literally got warned one time because a staff bot had a vulnerability to ping everyone and i did it, people's vulnerabilities aren't my problems.
+GamerOmega - GamerOmega I was just trying to have some fun with bots... - https://media.discordapp.net/attachments/853646865161256970/877454847845216336/Screenshot_20210818-103119_Discord-Canary.png
+Cnnn666 - GamerOmega Here's the text that I was writing and kept being deleted:
+
+So, the whole argument started because of the problems with the roles. Someone had the role "Swedish" and got warned because of it meanwhile no one else got warned for having a Turkish role while not being turkish. Then the war started. Community manager was literally dong nothing to the community for the whole time. Simply, mods were doing the dirty job for him when it comes to moderating or taking care of the community. Scoopy and aaron were saying what he was doing. Both of them were trying to improve this server. They were treatning everyone equally. If someone wasn't turkish they werent warning him. If someone wasnt swedish they werent warning him. I even took all of the roles and after 1 day only role swedish was removed from me meanwhile turkish stayed. Okay, they might've done some things without your permission but these things were to help the server and not do destroy it. When scoopy became and admin he wanted to make this server look more user-friendly. They put all they could to help this server. They were constantly active. Swedish role is like a "vip" role because most of your paying customers are from there. Sure, they can be but make a special role for them like @Payer or @Supporter or something and then make this role "exclusive" instead of making a public role. Scoopy offered a change in of text in #roles-roller but nothing has changed. @Gamer Omega#1234 and @KA1 were told to make their nicknames "mentionable" meanwhile they were. Every single nickname is mentionable. Not our problem that you dont know that you can do right click -&gt; mention or &lt;@user_id&gt;. But then, what about the other people being "unmentionable" and still nothing is being done to them? @!                          furki#2336 for example or @.LilNoya#2021. This is really unfair to users and everyone should be treated equally. Target only 1 country and do with them whatever you want but if you're also targetting other countries treat everyone equally. That were my last words, do whatever  you want to me now but dont delete this message
+Cnnn666 - Kowone agreed on this one. Admin and mod role are really useless. There were 2 guys that wanted to make this server better but ended up being a shit to owner and "community mananger"
+Cnnn666 - Tooxic then your automatic system is shit. He paid for hosting so he should've get a chance for backuping files
+OscarFrid - So you mean that this is a better? Spamming me to unmute you when you couldn't tell me first? ![
+
+](https://) - https://drama.gg/assets/files/2021-08-18/1629281568-901807-a0dc66ff-f214-480d-bfc2-41c780525cd8.png
+OscarFrid - So you mean that this is a better? Spamming me to unmute you when you couldn't tell me first? ![
+
+](https://) - https://drama.gg/assets/files/2021-08-18/1629281569-77581-c8320ea6-9b98-45a9-9bca-42cf4c9dd6ec.png
+OscarFrid - Cnnn666  they were hired to be support staff. And it is Tooxic server so if he said no it is a no. Basic ruling of a server. But they did stuff that they wasn't supposed to do and with out asking us. So u mean we should be happy if someone is changing things on your own server whit out you knowing anything?
+OscarFrid - They had set permissions so they couldn't do many stuff to provent them of changing things but scoopy had is his bot on the sevrer whit more affiritys and used it for his own wining.
+Cnnn666 - OscarFrid I was saying why all of these happeneded days ago, not my problem that you and tooxic are lazy to scrool up messages
+Scoopy - GamerOmega I am one of the ex staff who got demoted and kicked out of the staff team. Me and my other mate, Aaron. We both got demoted even tho we were the only ones truly working and doing effort. This "company" forced us as staff to treat members who dont pay with no equality and in an unfair way. The community manager does NOTHING for the community. All of our suggestions are denied. All of the members' suggestions are denied too. They even told me after I asked to fix their crap server "Listen, you do what we tell you to do or you get demoted. Consider your self an employee or even a slave". This is really ridiculous and unbelievable. I'm soon going to be moving all of my bots hosted on there and leave their shitty server. After I've served the community and the server more than they did.
+FatGrizzly - Scoopy "Listen, you do what we tell you to do or you get demoted. Consider your self an employee
+  
+That's a generic message, but very rude.
+I mean, staff can't do anything they wish right?
+But yea, that thing was so rude tho.
+GamerOmega - Scoopy damn
+Cnnn666 - FatGrizzly ofc they cant but why promote them to admins if they're not trustable enoguh and will have ask owners for everything?
+Aaron_ - Hey! One Of The Ex Moderators From Sweplox Hosting AKA A Bullshit Host. I Can Confirm That GamerOmega Is Right. The Owner Has Been Silencing Us. ( Me And One Of My Good Friend Who Was A Admin He Goes By The Name Scoopy Or Scopes Was Experiencing The Same Type Of Judgement. ) They Don't Care About The Quality Nor Customer Service. Full Of Fuckers Who Thought Hosting Was Cool And It Would Make Them Famous. Smh.
+GamerOmega - Cnnn666 they dont trust their staff
+Aaron_ - Both @OscarFrid And @Tooxic Are Both Just Scamming People. I Have No Words That Can Describe How Much They Love Providing Shit Service.
+Aaron_ - GamerOmega, Right, Whenever We Have Tried Fixing It We Would Get Threats Regarding Our Position On the Server.
+Aaron_ - Can Confirm With Scoopy. The Manager Learnt Nothing But To Demote In His Entire Carrier.
+Aaron_ - Gamer Omega And Others Are Absoulutely Correct. We Were Arguing There To Show How Much Trustworthy Our Owner And Manager Is.
+Cnnn666 - Not even saying that they're targetting all countries but their tos is still only in swedish lmao
+https://sweplox.se/tos.pdf
+Aaron_ - What An Epic Excuse To Not Give Me A Backup Of My Files. - https://drama.gg/assets/files/2021-08-18/1629285206-768739-screenshot-2021-08-18-17-06-12-1.png
+Cnnn666 - Aaron_ you wont get them coz they dont care about their customers lmao
+Aaron_ - Cnnn666 True
+Aaron_ - KA1 It Was An Agreement On As Long As People Keep Joining From The Advertisement That My Friend Made On His Tiktok ( It Got About 8k+ Views And A Lot Of Attraction ) He Would Get To Host His Bot.
+BrendansAtWork - Aaron_  Why Do You Capitalise Every Word This Is A Legitimate Question
+GamerOmega - BrendansAtWork probably they got used to do that
+Cnnn666 - BrendansAtWork Because Why Not
+Cnnn666 - Tooxic and you're not scamming?
+now thats the best joke of 2021
+GamerOmega - Tooxic I'm pretty sure they won't care
+GamerOmega - Tooxic not scamming is deleting a donators account?
+Cnnn666 - Aaron_ It Was An Agreement On As Long As People Keep Joining From The Advertisement That My Friend Made On His Tiktok ( It Got About 8k+ Views And A Lot Of Attraction ) He Would Get To Host His Bot.
+
+definitely not scamming
+AxelNetwork - ah damn, the panel takes 16 seconds to load for me
+Cnnn666 - AxelNetwork this is what you get for shitty host lmao
+GamerOmega - GamerOmega I have the transaction image still - https://media.discordapp.net/attachments/844331609205112863/877483598574419999/Screenshot_20210818-122615_One_UI_Home.png
+AxelNetwork - Cnnn666 what
+AxelNetwork - Cnnn666 I dont own this
+GamerOmega - AxelNetwork I'm Pretty Sure They Meant "from" instead of "for"
+Cnnn666 - GamerOmega ye i meant that, my bad
+AxelNetwork - GamerOmega ok
+typicalGta - How about reporting you to the European Union for failing to be in compliance with the GDPR?
+
+I failed to find any Privacy Policy. I highly doubt your TOS is valid anyways from the looks of it but sadly I can't read Swedish.
+Chirag - Tooxic No, that means you can't do anything smh. get a brain kid.
+Cnnn666 - Tooxic you basically just proved that making a partnership in any way is just not worth it lmao
+Cnnn666 - Tooxic doubt
+GamerOmega - Tooxic right for what lmao? I lost over 3 servers with source code I forgot to download, all I did is just said nuke is faster than purge and you immediately blocked and banned Me, what is the logic here?
+typicalGta - Tooxic What about the Privacy Policy? surely they told you about that?
+Cnnn666 - Tooxic you still need a privacy policy mh
+typicalGta - Tooxic Sole Proprietorship businesses still require a Privacy Policy, I'm not a commerce major but my lawyer sure is!
+Cnnn666 - Tooxic you still require a privacy policy since you're running a hosting service and not a youtube channel
+typicalGta - Tooxic You are as long as you're selling/offering services, storing user data and making revenue.
+Kowone - Tooxic you made a hosting, and hosts users servers, and you also has a billing panel (whmcs), so privacy policy is fairly needed, you can stop your hosting if you think it's unnecessary
+GamerOmega - Tooxic you literally told that you are a business in your Discord server
+Aaron_ - Tooxic Not A Company???? Didn't You Say You Are Running This Host As A Company Is Sweden??
+Cnnn666 - Tooxic you're targetting all countres and not only sweden
+typicalGta - Tooxic My ass! Sweden is part of the european union last time I checked. You are in no position to tell  me that, I pride my ego very much and with very good reason.
+Cnnn666 - Tooxic you said that many times in you discord server
+Aaron_ - Tooxic Even Your Manager Has Mentioned Sweplox Hosting Is a Company In Sweden Selling VPSes To Users
+Aaron_ - Cnnn666 Exactly
+typicalGta - Tooxic Kindly refer to the the GDPR paper under Article 12, 13, and 14.
+GamerOmega - Tooxic oh really? - https://drama.gg/assets/files/2021-08-18/1629289369-257811-screenshot-20210818-152156-samsung-internet.png
+Cnnn666 - Tooxic omega did that for him 🙂
+Cnnn666 - well, business == company so
+Kowone - Tooxic for example, if you don't have a fucking business, how the fuck you're running one?
+Cnnn666 - Tooxic you're still supposed to have privacy policy.
+Start tragetting only your country and then dont have it. As long as you're not only targetting it you're forced to have it
+typicalGta - Tooxic Okay, Thank you for your statement! I'll be processing this within the next 48hrs.
+Kowone - god knows what happens to the host's user data when there's no privacy policy, probably getting sold to some random user in discord
+Cnnn666 - Also from what I'm seeing, sweplox.se supports many languages
+
+
+but tos is only in swedish - https://drama.gg/assets/files/2021-08-18/1629289753-315163-image.png
+GamerOmega - Cnnn666 but tos is only in swedish
+
+it was targeted to be Swedish only but tooxic made it global
+Cnnn666 - GamerOmega so he should translate tos to other languages aswell
+Aaron_ - GamerOmega 
+Only He Has Access To Everything And Wont Give Any Of Us Access Which Is Fishy Af
+GamerOmega - Cnnn666 I'm pretty sure he'll answer "Use Google Translate" or something like this
+Cnnn666 - Tooxic I'm pretty sure you can't run this host if you can't have basic law things
+Cnnn666 - GamerOmega probably
+GamerOmega - Tooxic if you can afford running this host, then why are all nodes overloaded?
+Kowone - Tooxic sounds sus, since there's no privacy policy, no one will know what will happen to user data
+GamerOmega - Tooxic so why did you start the host then if you just "waste" money on nodes?
+typicalGta - Tooxic "selling" makes you a business I'm afraid! 😄
+GamerOmega - Tooxic you delete paid users for no reason tho?
+Aaron_ - GamerOmega His Manager / Friend Has Nothing To Say Except "Its Your Fault That You Didnt Create A Backup" Which Is Totally Dumb
+Cnnn666 - Tooxic how many times do we have to tell you that swedish law isnt the only law applies to you
+BrendansAtWork - Tooxic When our company did commercial hosting in 2016 we started off with a secure suite in a site costing us 24kGBP/mo and that was just for the space to place our hardware.
+
+If you can't afford to do it properly don't do it.
+OscarFrid - GamerOmega but why is it our problem if don't have any backup of eny of you work. It doesn't say that we support free backup in this case. Always always have two backups of a project. I have it on all of my projects
+GamerOmega - Aaron_ me who created a backup but didnt download it: bruh
+GamerOmega - OscarFrid you said exactly what Aaron said you will say
+Cnnn666 - OscarFrid it is your pproblem coz scamming, we got banned with not even knowing that we'll be banned
+Aaron_ - GamerOmega As A Paid User You Totally Deserve A Backup Given Right To You In Private Messages Which The Owner Is "Too Busy" To Do.
+GamerOmega - OscarFrid you did not:
+• provide a valid ban reason
+• warned anyone about an incoming ban for them
+OscarFrid - BrendansAtWork but we own our own hardware to some part. But we rent the donation nodes
+Kowone - Aaron_ the owner isn't "too busy", just too lazy ig
+OscarFrid - GamerOmega I didn't ban anyone?
+GamerOmega - OscarFrid well if you did not why do you say its my problem?
+Cnnn666 - Tooxic i remember when donator was a paying customer
+GamerOmega - Tooxic ok so donator node isnt for paying customers then
+OscarFrid - GamerOmega  if you pay 2$ 3 month ago how should we be able to pay the monthly fee ??
+Cnnn666 - Tooxic i remember something else
+GamerOmega - GamerOmega you changed that and said "if you paid once before youll keep your paid services and no need to subscribe"
+GamerOmega - OscarFrid magically it was a paying customer several months ago
+OscarFrid - GamerOmega  if I maka any projects I at least make two copies of it. And that is basic logic to do? How old are you?
+GamerOmega - GamerOmega and i paid 6$
+GamerOmega - Tooxic you did not.
+Cnnn666 - Tooxic you never said that
+GamerOmega - OscarFrid 20. I do not make backups on my phone because I'm low on storage and I relied on you before you did that.
+OscarFrid - GamerOmega be said it in server information like 5 times bruh
+Cnnn666 - GamerOmega he'll say that its not his problem
+GamerOmega - OscarFrid show me a screenshot then?
+GamerOmega - GamerOmega it never said that its not forever, maybe only because owner edited it after 1 day
+OscarFrid - GamerOmega 20 and you don't owns a computer or more storage? Always have backup on everything. Always. It's the same of making a backup of your phone
+GamerOmega - OscarFrid i do have a pc but it was at night and i was testing something
+Cnnn666 - OscarFrid so the only argument you have is "have enough storage for backup or we'll fuck you"?
+Kowone - OscarFrid even if the customer doesn't make a backup/forgot to make a backup, the host should do anything in power to help them getting/making backup, i'm pretty sure that's common for paid hosts to do so.
+GamerOmega - OscarFrid its the same logic as "you did not request data from discord servers before you got banned from discord"
+Kowone - Kowone if paid host doesn't do this, that's a sign that the host is a shit host
+OscarFrid -  - https://drama.gg/assets/files/2021-08-18/1629291415-270783-4f9eb653-4791-4c51-96bc-c204acc79da4.jpg
+GamerOmega - Kowone i remember my friend ddosed a website hosted on there as a joke(i cant imagine ddos being a joke tho) and literally EVERYTHING got down, panel, client, node and more
+Kowone - Tooxic and for what he donated?
+GamerOmega - Tooxic it did not tell that it will expire
+OscarFrid - GamerOmega it is a different between a paying customers how often have another role like @kunder but u are a donator who have the @donator role
+GamerOmega - OscarFrid I'm sorry, what? I did not understand a single word
+OscarFrid - GamerOmega different benefits and you are a DONATOR not a customer. A customer is someone who pays monthly
+GamerOmega - OscarFrid ok? so that's how you treat donators?
+Cnnn666 - OscarFrid still i remember that donator was literally the same as customer not so long ago
+OscarFrid - Cnnn666  ye but we changed that month ago
+OscarFrid - GamerOmega treat? U did only get more severs and resorses? Aka you did get more from us when you we're supposed to pay every month. But we didn't remove your benefits. And treated you as if you were a paying customer
+Aaron_ - OscarFrid He Is Someone Who DONATED Not Someone Who Just Used The Host
+GamerOmega - OscarFrid oh so you ban all donators for a dm?
+OscarFrid - OscarFrid just to be kind. But now you are mad because we gave you same benefits as a customer, but we got nothing from. U 👏
+OscarFrid - GamerOmega what no?
+OscarFrid - GamerOmega I didn't ban anyone -.-
+Cnnn666 - OscarFrid not our problem. someone from staff banned him for that so
+GamerOmega - OscarFrid you said "we"
+Aaron_ - Cnnn666 It Was The Owner Himself I Think
+Cnnn666 - Cnnn666 you're a staff there so you're also responsible for bans with no reason
+GamerOmega - and i cant imagine a host that does that - https://media.discordapp.net/attachments/853646865161256970/877538328730300426/Screenshot_20210410-182115.png
+GamerOmega - and i cant imagine a host that does that - https://media.discordapp.net/attachments/853646865161256970/877538603302027374/Screenshot_20210708-040715.png
+GamerOmega - and i cant imagine a host that does that - https://media.discordapp.net/attachments/853646865161256970/877538675850887198/Screenshot_20210511-131159.png
+GamerOmega - and i cant imagine a host that does that - https://media.discordapp.net/attachments/853646865161256970/877538882235813888/Screenshot_20210410-182327.png
+OscarFrid - Aaron_  can't you read? We gave him more when we was suppose to pay monthly. But we let him slide so he crept his resorses
+Willypro7 - Gamer Omega? 😮
+Aaron_ - OscarFrid And Failed To Give Him A Few Backups Of His Servers?
+GamerOmega - Willypro7 yo
+Cnnn666 - OscarFrid where was it written that he's supposed to pay monthly
+OscarFrid - So u mean they your own ISP is more reliable? Everything can crash?
+GamerOmega - OscarFrid well have you ever seen a host that does this
+GamerOmega - GamerOmega webpage barely loads, servers barely open, files barely save/upload
+OscarFrid - Cnnn666  everyone that what's access to the donation note needs to pay monthly. So he was one of them who kind of got it for free after the change 3-4 month ago
+GamerOmega - OscarFrid tooxic said you can keep it indefinitely
+OscarFrid - GamerOmega but we're does it say that we have a 100% uptime and can garanty a 100% stable server.
+GamerOmega - OscarFrid ahh so you guarantee 0% uptime and 0% stability?
+OscarFrid - GamerOmega ye but new people who need donator node access do have to pay monthly.
+GamerOmega - Tooxic it did the exact same for my friends
+Cnnn666 - OscarFrid like there is a donator node
+GamerOmega - OscarFrid "new", i paid over 4 months ago
+OscarFrid - GamerOmega no but why do the site always work for me?
+GamerOmega - OscarFrid maybe because you dont refresh it 24/7
+GamerOmega - GamerOmega it always crashed when i tried to edit a file, like imagine a spam of 503 when you just try to find a file
+OscarFrid - GamerOmega ye exactly so you do not even pay monthly. So u get premium access basically but everyone else who have monthly plan pays for you...
+GamerOmega - OscarFrid other people got the exact same
+Aaron_ - Tooxic It Doesn't Load For Me Aswell. Happens All The Time.
+Cnnn666 - OscarFrid he paid before this was a thing so he had free access to it. not his fault that you didnt think twice before making donator so op
+OscarFrid - OscarFrid I cept your donation after the change to be nice. But now you are mad at us? We could reduce your benefits to nothing if we wanted
+Cnnn666 - OscarFrid mad at you coz he got banned for no reason and couldnt make a backup
+GamerOmega - GamerOmega random errors appearing from nowhere is a sign of garbage servers
+OscarFrid - May I ask why all of you are so mad at the host but like 2 weeks ago you love it?
+Cnnn666 - OscarFrid are u blind or stupid? coz i think both
+OscarFrid - GamerOmega  but why didn't you tell us about this before ?
+GamerOmega - OscarFrid do that! i dont care about your crap anymore, you just ban people who use your host for no actual reason, you delete people's servers and accounts for no reason, your servers go down randomly without a reason or a warning, and now you say its my problem i didnt make a backup, lets report your Discord server and if it gets deleted, I'll say "it's your problem you didn't backup your members"
+Cnnn666 - GamerOmega gold
+OscarFrid - Cnnn666 but you gotta band from our service. So why should we treat you nice when you treated us like shit before we band you??
+Cnnn666 - OscarFrid you guys treated he whole community as shit
+GamerOmega - OscarFrid ok - https://media.discordapp.net/attachments/853646865161256970/877543448306155620/Screenshot_20210818-162358_Discord-Canary.png
+OscarFrid - GamerOmega  bruh, why is it always other people problem if you don't have any backup of your own project
+OscarFrid - Cnnn666 how? We give free stuff to people? How is that shit?
+GamerOmega - OscarFrid i did not, you just banned me for the reason "k" and now youre telling its my problem i didnt backup my files
+Cnnn666 - OscarFrid you're making a service that is responsible for user backups. He should've been warned to make his backup before banning hm for no reason
+Aaron_ - OscarFrid Because He Is A Paid User And He Deserves Extra Perks From You
+GamerOmega - OscarFrid ok then how is the my problem? its your problem you didnt backup our files and didnt warn anyone before a ban without any reason
+Kowone - OscarFrid excuse me, what does the word "band" supposed to mean there?
+OscarFrid - GamerOmega  but I said way you won't get anything. U treated us like shit and didn't listen and then we band you. Why should we be nice to customers how call us shit?
+Aaron_ - The Owner Even Deleted Files With 0 Warnings, Is This FalixNodes 2.0
+Cnnn666 - Kowone banned, he's prob too lazy to write the whole word lmao
+OscarFrid - Aaron_ does it mean he can call us shit then? Because he pays?
+Cnnn666 - Aaron_ FalixNodes Premium Edition
+OscarFrid - Kowone ban **  autocorrect
+Cnnn666 - OscarFrid you treated the whole community as shit before us
+GamerOmega - OscarFrid ah yes 🖼 is an unpingable name, i did not threat you like shit before you became too aggressive, you literally banned people for no reason and now telling its our problem! what do you think is treating like shit means?
+OscarFrid - Cnnn666 who? Tell me? Who did I treat the community like shit?
+Cnnn666 - OscarFrid everyone in the server
+OscarFrid - GamerOmegaI DIDN'T BAN ANYONE tooxic did
+GamerOmega - OscarFrid you said that "if you wont say ill mute you", you change members nicknames without any permission from them
+GamerOmega - OscarFrid by "you" i mean the entire scamplox staff
+OscarFrid - Cnnn666  WHO? Tell me some fact. Instead of ""eVeRYting""
+Cnnn666 - OscarFrid i did, scroll up messages even there you lazy ass
+OscarFrid - GamerOmega but it literally says that in the rules and you accepted it whit out reading them...
+GamerOmega - OscarFrid you removed the hastag #UserRightsMatter because yes, you changed people's(KA1, Gamer Omega, Cnn666 and much more) nicknames because you wanted to
+OscarFrid - OscarFrid 
+
+GamerOmega - https://drama.gg/assets/files/2021-08-18/1629293669-984860-e4951058-c68c-482b-9651-3dc4cd9f42a1.jpg
+OscarFrid - Cnnn666 u can't even tell me why. 😂 Serious answer
+GamerOmega - OscarFrid you dont mention anyone when they change, i accepted only the first rules that were simple 2 things: dont use commands in chats and dont spam
+Cnnn666 - GamerOmega he was too afraid that people will know truth about them but somehow failed
+Aaron_ - OscarFrid Everyone
+GamerOmega - OscarFrid you can mantion ANYONE, there is no "unpingable" names
+OscarFrid - GamerOmega because no one of you could explain what that even ment
+Cnnn666 - OscarFrid LMFAO i see you're an lazy ass
+Ima bring that text for you coz maybe you'll die from scrolling up
+Aaron_ - OscarFrid My Nickname Was Pingable, It Wasn't NSFW. It Was Pure Facts.
+OscarFrid - Aaron_ everyone? Somme examples please? One thing.
+Cnnn666 - Cnnn666 
+@OscarFrid So, the whole argument started because of the problems with the roles. Someone had the role "Swedish" and got warned because of it meanwhile no one else got warned for having a Turkish role while not being turkish. Then the war started. Community manager was literally dong nothing to the community for the whole time. Simply, mods were doing the dirty job for him when it comes to moderating or taking care of the community. Scoopy and aaron were saying what he was doing. Both of them were trying to improve this server. They were treatning everyone equally. If someone wasn't turkish they werent warning him. If someone wasnt swedish they werent warning him. I even took all of the roles and after 1 day only role swedish was removed from me meanwhile turkish stayed. Okay, they might've done some things without your permission but these things were to help the server and not do destroy it. When scoopy became and admin he wanted to make this server look more user-friendly. They put all they could to help this server. They were constantly active. Swedish role is like a "vip" role because most of your paying customers are from there. Sure, they can be but make a special role for them like @Payer or @Supporter or something and then make this role "exclusive" instead of making a public role. Scoopy offered a change in of text in #roles-roller but nothing has changed. @Gamer Omega#1234 and @KA1 were told to make their nicknames "mentionable" meanwhile they were. Every single nickname is mentionable. Not our problem that you dont know that you can do right click -&gt; mention or &lt;@user_id&gt;. But then, what about the other people being "unmentionable" and still nothing is being done to them? @! furki#2336 for example or @.LilNoya#2021. This is really unfair to users and everyone should be treated equally. Target only 1 country and do with them whatever you want but if you're also targetting other countries treat everyone equally. That were my last words, do whatever you want to me now but dont delete this message
+Cnnn666 - there you go lazy ass
+GamerOmega - OscarFrid you didnt give people rights by your growing rules that are annoying as fuck, when will you add the rule "don't chat unless you are a staff member"?
+OscarFrid - Cnnn666  bruh you can't even tell me. Who is the lasy as
+Cnnn666 - OscarFrid it meant what it said, not our problem that you dont know english
+Cnnn666 - OscarFrid you're so stupid, even cheaters in every single game are better than you
+Cnnn666 - GamerOmega probably now
+OscarFrid - GamerOmega  but who is forcing you to not leave the sevrer?
+Aaron_ - OscarFrid The Fear Of Getting Our Servers Deleted Because That's What Albin Is Good At
+OscarFrid - If you don't like the sevrer and the host why using it?
+GamerOmega - OscarFrid i cant use it, lmao, this dumbass called tooxic banned me with the reason "k" and deleted all my servers, without any way to restore my shit
+I'm literally getting mad
+Cnnn666 - @OscarFrid @Tooxic you can say whatever you want, you'll appear shady to people tho
+OscarFrid - GamerOmega  but I think he banned you for a reason. And it is like kicking out a customer from a store. They aren't allowed to shop and they aren't allowed the get anything from the store
+GamerOmega - Aaron_ dont worry, scamplox staff is already deleting your account 😉
+GamerOmega - OscarFrid so what was the reason?
+Aaron_ - GamerOmega Bitch Asses Did It Without Even Warning
+OscarFrid - GamerOmega  I don't know. Ask tooxic
+Aaron_ - Cnnn666 Exactly.
+Cnnn666 - OscarFrid you ask him since you're his friend
+OscarFrid - Aaron_  but u were staff and u wanted to continue to be staff all along 🤭
+GamerOmega - OscarFrid @Tooxic can you explain my "very proper and really detailed" ban reason
+Cnnn666 - OscarFrid he wanted to make this server a better place meanwhile you were fucking him
+Cnnn666 - GamerOmega they should explain everyones ban reasons very detailed
+Aaron_ - OscarFrid Looks Like Someones Too Proud Of Their Shit Work
+GamerOmega - GamerOmega it appears he died, how sad
+Cnnn666 - GamerOmega he got afraid bcoz we're telling facts
+OscarFrid - I don't have time to talk to children's. Who behaving like they're 12
+Cnnn666 - OscarFrid tbh you're acting like 10
+GamerOmega - OscarFrid do you behave any better? all you did is said "its your problem" in 80 messages
+Cnnn666 - @Tooxic you talking with your "lawyer"?
+OscarFrid - Cnnn666  how old are you then? 😂 I'm 20
+OscarFrid - Cnnn666  about you 2$ in donations
+Cnnn666 - OscarFrid if youre 20 then im already a father with 18 y/o kids
+OscarFrid - Cnnn666  bruh I'm 20 I'm born 7 September 2001
+Cnnn666 - OscarFrid then stop acting like a kid
+OscarFrid - OscarFrid  so technically 19 now but 20 in some weeks
+GamerOmega - OscarFrid i dont get it but i dont see a reason to say "your problem" when a customer wants to get their files back, also can you please explain me how is "k" a proper ban reason?
+Cnnn666 - GamerOmega he won't lol
+OscarFrid - Cnnn666  kid in what why? It's not me who is crying about a code
+Cnnn666 - OscarFrid if youre not a kid then start behaving like adult but i dont think its going to happen
+OscarFrid - GamerOmega  I think that you said something and his response what K
+Cnnn666 - OscarFrid still its not a reason
+OscarFrid - Cnnn666  I at least have a real job and my own apartment
+GamerOmega - OscarFrid so can you explain why did he ban in a second after he said "k"
+Cnnn666 - OscarFrid and im living in space
+OscarFrid - Cnnn666 how old are you even?
+GamerOmega - OscarFrid inagine youre writing an application on your phoe on scamplox, you worked on it for a week but someone called "tooxic" decides to do "k" and bans you for "k", you lose your files and get mad on him, what would you do?
+Cnnn666 - OscarFrid i dont need to tell my age to some weirdos
+Kowone - OscarFrid i don't even need a full-time
+jobs to own two bungalow
+OscarFrid - GamerOmega but if the code are so important why doesn't you have any copy of it? But he banned you because you did start to argue about shit yesterday
+OscarFrid - Cnnn666  but u are 12-14 I'm I right?
+Cnnn666 - OscarFrid we started to argue coz the staff is shit
+Cnnn666 - OscarFrid not your business how old i am
+GamerOmega - OscarFrid how is arguing a reason to ban?? not everyone wants to download every single edit of the code
+OscarFrid - Cnnn666 ye and then he banned you. What do you expect
+Cnnn666 - OscarFrid to fix the staff and treat everyone equally
+i sent a long text there and in the server. not my problem that youre blind and cant read it
+GamerOmega - OscarFrid i expect to get my stuff back after i just wanted to have some fun
+OscarFrid - GamerOmega  but doese you ever ever take backups of you projects?
+GamerOmega - OscarFrid i do but i was testing something, imagine that happens to you and unlike you, you dont take every character update to your pc
+GamerOmega - OscarFrid instead of trying to help your user, you try to say that they're a dumbass because they didn't do what you would do
+Cnnn666 - GamerOmega he doesnt know how to run something properly
+GamerOmega - GamerOmega yeah youve immediately magically disappeared, what should've i expect..
+Cnnn666 - GamerOmega he cant accept the facts lmao
+Cnnn666 - @Tooxic @OscarFrid you have last chance to give us access to our servers to backup files
+Cnnn666 - Tooxic if my files are gone then you shouldn't do the hosting in the first place
+Aaron_ - What About Me? Why Did Mine Get Deleted? Demoted = Servers Deleted?
+Cnnn666 - Tooxic then ur system is shit. J don't know any host that had something like that
+Aaron_ - Cnnn666 No Warning No Nothing. Cool System
+Cnnn666 - Aaron_ money hungry people 🤷‍♂️
+GamerOmega - Tooxic so will you explain my very proper ban reason "k"?
+Aaron_ - GamerOmega I Have Been Waiting For A Reply To That Aswell
+GamerOmega - Tooxic then why not format all your nodes hard drives and put "@everyone Your files are gone." in the announcements
+Cnnn666 - GamerOmega this would be the best thing he could've done
+Cnnn666 - Aaron_ he won't explain that coz he has no valid reason lmao
+Cnnn666 - I'm glad that they are powerless there
+Aaron_ - Cnnn666 Omg Same, If It Was The Server We Would've Been Banned Ages Ago
+Cnnn666 - Aaron_ our message would've kept being deleted lmao
+OscarFrid - Cnnn666 why should we ceep files from someone who are banned from the server?
+GamerOmega - OscarFrid tooxic is ignoring so he has no explanation of his ban
+Cnnn666 - OscarFrid because you're a business + we should've been warned before getting banned about our server getting deleted
+HARDY_SLICE - Look no offense
+but what you guys did was really childish, I mean the staff team.
+HARDY_SLICE - Cnnn666 it was me lol 🤡
+Cnnn666 - HARDY_SLICE i remmeber lol but its gooad that someone pointed that out. if not you no one would ever know how their staf team is stupid
+Cnnn666 - HARDY_SLICE cry babys in short
+HARDY_SLICE - Cnnn666 Lol oscar pinged everyone in turkish chat and said to "not" take other roles. I clearly said im about to get it removed but he still warned me without a reason
+HARDY_SLICE - Let me get a backup before they ban me lol
+altho i didn't do anything, just like all of us
+Cnnn666 - HARDY_SLICE yeah, better do it. You'll never know what they decide to do. Literally FalixNodes Premium Edition
+HARDY_SLICE - Cnnn666 i think i had an account in Falix Nodes but never used it.
+
+Tbh the host ain't "that" bad, but the staff team is especially the community manager😩
+Cnnn666 - HARDY_SLICE meanwhile 2 overloaded nodes
+Aaron_ - Cnnn666 It's Just Not That. The Staff Chat Was A Total Mess For The Last 2 Months
+Aaron_ - HARDY_SLICE Oscar Already Told Us How Kindhearted He Is By Telling Us That He Does Not Care About What's Fair And What's Not. You Better Take Backups Before They Delete Their Only Node 🤡
+Aaron_ - HARDY_SLICE Falix Got Better Staffs Than Sweplox. And Better Customer Service. Change My Mind
+Aaron_ - Cnnn666 And Node04 Wasn't Even For The Public 🤡
+GamerOmega - Aaron_ i had a server on it
+Aaron_ - GamerOmega Only For Paid Users I Think
+Cnnn666 - Aaron_ it was used for game servers if I'm right
+Aaron_ - Cnnn666 But A Few Of Them Were Being Moved To Something Called mc.node.02, Atleast That What My Server Was Moved To.
+OscarFrid - Aaron_ but u were staff so u say that you were a bad staff to..
+Cnnn666 - OscarFrid he was a good member from staff unlike you
+OscarFrid - GamerOmega and of you hate our host and management why did you donate to the server and give it + rep?
+OscarFrid - Cnnn666 in what way was he a good staff then? We have 7-8 different staff member and two of them didn't listen to what me and Tooxic said.
+OscarFrid - OscarFrid  and both scoop and Aron did get a proper explanation on why they got demoted. Scoopy said to me that he understands why, but Aron are still denying everything and won't accept it. Even Lilldogy that have been staff longer then both of them tired to explain why.
+Aaron_ - OscarFrid I Have Already Said I Don't Care About My Position On The Server More Than Thrice And lildogi And I Got Promoted On The Same Day I Think.
+Cnnn666 - OscarFrid if you just cant accept the fact that 2 people were much more friendly to the community more than you then you shouldnt be a community manager
+OscarFrid - Cnnn666 it is like saying to a owner of a server to not be the owner? What? And what did they two do better the all of the other staff like Lilldogy and Cooky
+OscarFrid - Cnnn666  and how is I unfriendly when I only say stop to people who not following the rules and not listen. ??
+Cnnn666 - OscarFrid scoopy did a lot to server and aaron too, you just proved that youre not even caring abotu the server but only about warning mhos
+OscarFrid - Cnnn666  I have a real work and I can't work whit the sevrer full-time if I wanted. If I didn't have real job or more free time I will use it for the server. But I have to babysit Aron and scoopy and teel them to stop changing things on the server. Because they treated the server if it was there own. That why I'm so inactive sometimes. I work nearly everyday 6-16 and 12-20.
+OscarFrid - OscarFrid they changed some settings on the actual server. They did come up with many ideas but moste of then didn't tooxic like so we said no. But they changed it anyway when we said no.
+OscarFrid - OscarFrid is that a good staff ? Doing this anyway when even the owny says no.
+Aaron_ - OscarFrid Hmmmmmmm, I think A Moderator Had Permissions To Kick/Ban And Check Audit Logs. What Did I Change? 🤔
+Yoski - should show us the mod chat lmfao
+Aaron_ - OscarFrid Name One Thing Scoopy Did That Wasn't For The Servers Wellfare. He might Have Not Asked For Consent Once But It Was Still For THe Servers Good
+Aaron_ - Yoski @OscarFrid If You Still Have Kindness Left Inside You Send Us Some Screenshots And Let The Users Get To Know You Better 🙂
+Cnnn666 - Yoski they wont coz they're afraid lmao
+GamerOmega - OscarFrid you weren't so shit before
+Cnnn666 - Aaron_ he will send them but tooxic will purge this channel 5k times
+Aaron_ - Cnnn666 lmao
+Yoski - Cnnn666 not surprised
+OscarFrid - Aaron_ screenshot of what?
+OscarFrid - Aaron_ everything can be for the servers best but I tooxic said no it will always be a no. And he got mad because no one of you didn't listen to ether him me or Lilldogy yesterday. And there for he had enough
+Yoski - OscarFrid mod chat, i heard theres more drama
+Cnnn666 - @OscarFrid explain that:
+
+and that: - https://drama.gg/assets/files/2021-08-18/1629322817-768795-image.png
+Cnnn666 - @OscarFrid explain that:
+
+and that: - https://drama.gg/assets/files/2021-08-18/1629322833-400108-image.png
+OscarFrid - Cnnn666 explain what exactly?
+OscarFrid - OscarFrid - https://drama.gg/assets/files/2021-08-18/1629322983-133734-a90649df-c915-4154-8b35-426a7a420b75.jpg
+Cnnn666 - OscarFrid thats all you can say lmao
+Cnnn666 - literally does nothing for the community but except to be treated like a god
+GamerOmega - OscarFrid ahh, unban me, ill apply for staff and will ping everyone and will say to leave
+OscarFrid - But what do you want? U won't get your files because they are gone. And you are banned from us. What exactly do you want?
+Cnnn666 - OscarFrid get my files back, i dont fking care if they're gone or not
+OscarFrid - Cnnn666 but u say this now and not before when you we're active on the sevrer?
+OscarFrid - Cnnn666  no because they are gone
+GamerOmega - OscarFrid you scammed me, you treat members like shit, you don't follow your own rules and much more, i don't want for any random people to join this "host" and get scammed and banned for no reason.
+Cnnn666 - OscarFrid i said i dont care, its ur fault that you have such a shitty system and i want to get my files back
+OscarFrid - Cnnn666 and what exactly do you want me to do? Give everyone free admin and do what ever they want?
+OscarFrid - Cnnn666 why should we ceep data from banned people?
+Cnnn666 - OscarFrid it was without warning and i want my files back. no need to repeat myself million times just bcoz youre blind
+Cnnn666 - OscarFrid fix ur rules and make ur own server and call it oscars slaves lmao
+Cnnn666 - btw discord bans the ip and not hardware mh
+OscarFrid - GamerOmega how is the host a scam? U was treated as if you were playing for the premium plan but u only donated 2$ one time like 4 month ago
+GamerOmega - OscarFrid dont you think that paying and not getting the guaranteed service anymore after some time is a scam
+OscarFrid - Cnnn666  we don't have the files they are gone.. how did you even made the codes in the first place. Did you make it and upload it to the host and then delete the files of your computer? That is just dumb
+OscarFrid - Cnnn666 but the host is linked to your account
+GamerOmega - OscarFrid ill tell you a secret, pterodactyl 
+allows to edit, create and delete files 🤯
+OscarFrid - Cnnn666 slave 😂😂😂
+Cnnn666 - OscarFrid do you even know what panel u use on your host?
+OscarFrid - GamerOmega but we made so if we banned someone the server will be deleted
+Cnnn666 - OscarFrid so? i can still create alts on different ip's and join mh
+Cnnn666 - OscarFrid where is it written. when were we warned about that?
+OscarFrid - OscarFrid because why should we ceep them?
+Yoski - Cnnn666 lmfao
+GamerOmega - OscarFrid why? it's useless
+GamerOmega - OscarFrid people use the host still, maybe they needed more server slots or they were forced to leave
+OscarFrid - Cnnn666 
+
+Cnnn666 but why act like shit and except us to be cind back?
+OscarFrid - GamerOmega 
+
+GamerOmega  why should we ceap data of something that are banned from the sevrer? Just taking up space on the server. But you files are gone and it is nothing that I can do about it
+GamerOmega - OscarFrid how is discord related to peoples files?
+Cnnn666 - OscarFrid do i have to repeat myself?
+Cnnn666 - OscarFrid we dont care how you'll do it, we want our files back
+OscarFrid - GamerOmega are you dumb?How do you get access to the panel? Yes with your discord account
+OscarFrid - Cnnn666  THEY ARE GONE. Phofffff g o n e
+GamerOmega - OscarFrid why? make your own auth system if youre so smart
+Cnnn666 - OscarFrid I SAID I DONT CARE. AS A CUSTOMER I EXCEPT TO GET THEM BACK
+GamerOmega - OscarFrid partition recovery tool :SmugCat:
+OscarFrid - Cnnn666  but u are not a customer anymore you are banned from our service
+Cnnn666 - OscarFrid I used this hosting and was a member of your discord so I am still a customer
+OscarFrid - Cnnn666 no you are banned so you are not a customer of us anymore.
+GamerOmega - OscarFrid is their ban reason "k" too?
+Cnnn666 - GamerOmega probably lmao
+GamerOmega - OscarFrid what if your discord server gets banned
+Cnnn666 - OscarFrid tell me where it says that if im banned im not a customer
+Cnnn666 - GamerOmega he will cry and will ban discord developers lmao
+Yoski - Cnnn666 lmfao
+Cnnn666 - @OscarFrid you there?
+Aaron_ - OscarFrid You And Fucking Cookie Have Learnt Nothing But to Make Yourselves "The Law"
+Aaron_ - GamerOmega Cookie, Oscar And Tooxic When Theres A Problem: k
+IoNetty - Aaron_ quick question, can you provide some proof your over 13? that grammar looks really bad, did you not listen in 1st grade?
+Aaron_ - IoNetty I Don't Know What Kind Of Proof I Could Possibly Send You. 🤷‍♂️
+Cnnn666 - IoNetty quick question - do you know that not everyone is fluent in english?
+GamerOmega - IoNetty did you know that not everyone knows english
+Aaron_ - Recently One Of My Classmate Got This And Whoever Is Doing Respect ++ - https://drama.gg/assets/files/2021-08-19/1629390166-490326-screenshot-2021-08-19-21-26-42.png
+Techout - Tooxic If you're collecting data, you're required to have a privacy policy by law.
+OscarFrid - Techout  what data som we collect? And it also depends on what country. And we operate in Sweden so we follows the swedish laws
+Aaron_ - OscarFrid Ooooo! So This Is For Fun Only 😃 - https://drama.gg/assets/files/2021-08-19/1629398968-277909-1.png
+Aaron_ - I Will Be Sure To Put A Lot Of Funny Information There!
+Yoski - Aaron_ lmfao
+Yoski -  - https://drama.gg/assets/files/2021-08-19/1629405037-734766-image.png
+Daftscientist - Aaron_ ofc it's for fun! What else?!? I love when companies harvest your data without a privacy policy!!
+Cnnn666 - Aaron_ 
+Mission passed
+      Respect+
+Cnnn666 - OscarFrid you dont operate only in sweden + you're a business so you're required to have a privacy policy
+Cnnn666 - Aaron_ im gonna give them my home address without privacy policy
+Vecto - I'm just going to put this here;
+
+"On May 25, 2018, the GDPR replaced the existing data protection law i.e. the Data Protection Directive that has been in effect since 1998. If your company collects or processes the data of EU citizens, you are required to comply with this regulation. Non-compliance can result in hefty fines of up to €20 million or four percent of annual revenues, whichever is higher.
+
+One of the key aims and requirements of the GDPR is to keep EU citizens informed of how businesses collect, use, share, secure and process their personal data.
+
+Under the GDPR, you are required to inform your customers about why you are processing their data and for how long will you store it. You must tell them in plain and clear words how you use their data." Quote from This Website
+
+This means that even tho you operate from Sweden you have to obey this law (On the Website is a Picture from the exact law so go look there if you want)@Tooxic
+Cnnn666 - Vecto also if @Tooxic or @OscarFrid are reading this translate privacy policy to other langs aswell lmao
+Vecto - Cnnn666 They can do it themself with this
+Cnnn666 - Vecto they will probably act like this doesn't exist coz tos still isn't translated to other languages
+Techout - OscarFrid First of all, for your free services you use dashactyl which collects the following:
+
+Discord Account Email
+Discord Username and discriminator 
+Discord User ID
+IP Address
+
+You need to have a privacy policy just for the emails and IPs according to GDPR since you operate in the EU. Further more, your paid billing panel is WHMCS which asks for the following data when signing up:
+
+Full name
+Email
+Address
+Phone Number
+
+Which all require a privacy policy, when ordering it also graps the user's IP so that's another thing.
+IoNetty - Techout you spelled address wrong
+Techout - IoNetty No one is perfect, deal with it.
+OscarFrid - Cnnn666 but we can't translate it to all 30+ language .😂 and this is a hobby Operation and in Swedish law we are doing everything right. we have even talked to a representative from the authorities about what we should think about and so on. so everything we do is within legal limits.
+GamerOmega - OscarFrid many people know english, but your tos is only swedish and there is no english
+Cnnn666 - OscarFrid no you're not operating only in sweden and you are a business. You guys said that several times in discord
+Cnnn666 - IoNetty like someone would give a shit about that
+OscarFrid - GamerOmega have you heard about Google translate? And the tos is in Swedish because 90% of our paying customers are swedish
+Cnnn666 - OscarFrid you still operate outside sweden
+GamerOmega - OscarFrid so you dont give a single fuck about hte other 10%?
+OscarFrid - Cnnn666  no we are a swedish basted operation. Do you even know anything on how it works? We try to treat our host as if it were a company. But we aren't a company. So it a huge difference.  
+
+It is the same that you are using discord right know. And discord is a US based company. And you are also concerned to servers that discord OWNS in the EU. So they have to follow the EU rules. But our service aren't a registered company in EU term so we don't have the same rules That a registered company do
+OscarFrid - GamerOmega bruh it is over 6500 language in the world. And if you decide to use a swedish based service then how is it our problem? Use translate then. It is free.
+Cnnn666 - OscarFrid you said several times there that you're not a business and you're not required to have privacy policy because of that but in discord you guys were saying a lot of times that you are a business.
+Cnnn666 - OscarFrid you can use translator too, it's free for you too
+OscarFrid - Cnnn666  and no we don't operate out side of Sweden. The servers are in Sweden and the service are in Sweden and we are based in Sweden. So how are we besed out side when people come to us?
+Kowone - Cnnn666 plot twist, he only have two braincells, one working in discord, one commenting in drama.gg 😉
+Cnnn666 - OscarFrid well few months ago donator node was in us and if i remember right vps servers are also located on the us
+Kowone - @OscarFrid one question, what's your vps provider?
+Cnnn666 - Kowone his braincell in discord only works when someone breaks non-existent rules
+OscarFrid - Cnnn666  but we aren't a business. We treated the server if it was a business can't you read? And also we may start a real registered business in the future. But it will be a swedish registered business then.
+OscarFrid - Cnnn666  but we hired them to our service so  they are still going tru us? What is that doesn't you understand? We are still a swedish based operation.
+Cnnn666 - OscarFrid if 9nly treated it as business you should've say that several times in discord too
+Cnnn666 - OscarFrid but vps is located in the us and not in sweden
+OscarFrid - Fun example: if I'm "working" in another country temporarily on my computer. Am I required to open up a business in that country only to be working on my vacation for example? No
+Cnnn666 - OscarFrid there's a difference between having a node and a pc to work on
+OscarFrid - Cnnn666 but the service is still via Sweden? You aren't buying a host from someone in the US? U are buying from us I'm I right? How old are you? U act as a child
+Cnnn666 - OscarFrid fun fact: u acted as a child way more earlier mh
+Cnnn666 - OscarFrid but you still have a node located in us and not in sweden
+OscarFrid - Cnnn666 but you are talking about things that you don't know anything about. My parents for example owns two different companies and I know a bit more in how it works then you
+Aaron_ - Daftscientist Yes!
+Cnnn666 - OscarFrid if your parents have a company than you should ask them if you're required to have a privacy policy while collecting customer data
+OscarFrid - Cnnn666 I already asked them and because this is a hobby operation in Sweden law we are not required to have it. Only a TOS that we have
+Scoopy - OscarFrid an international company needs to follow the federal law not the swedish law. Otherwise make your company only in Sweden.
+Kowone - Tooxic colocated? fr?
+Aaron_ - OscarFrid Then Why Not operate In Sweden Only?
+Kowone - Tooxic so, what's your server specs??
+Kowone - Tooxic pretty small i'd say
+Cnnn666 - Tooxic 400tb storage but can't save 200mb of user files
+Kowone - Tooxic yeah, too cheap i'd say
+Aaron_ - Cnnn666 Here Comes Oscar With Several Excuses
+Aaron_ - Just Got Banned For Talking About This Thread. LMAO
+Aaron_ - And Yes The Ban Reason Wasnt Even Mentioned
+Cnnn666 - Aaron_ they cant accept facts lmao
+GamerOmega - Tooxic ok then can you explain the reason "k"?
+youre refusing todo that for 2 days already and just ignoring my messages about the reason
+GamerOmega - Tooxic im pretty sure 80% of your free customers are teenagers under 15 and youre not banning them
+Aaron_ - Tooxic For Talking About The Thread?
+Cnnn666 - Tooxic seems like a very valid and very well explained reason
+GamerOmega - Aaron_ he wants to avoid his hosting getting fucked up by someone sending the thread link/talking about it, he doesnt want for someone to know that he scams his customers
+GamerOmega - GamerOmega if it would be a legitimate hosting service that does not scam their customers and has proper servers to host people's stuff, he wouldnt care about anyone talking about the thread
+Kowone - GamerOmega he probably couldn't afford the cheap machine specs he mentioned earlier too
+GamerOmega - GamerOmega also I've never seen a bad review in their reviews channel, I'm pretty sure he deletes all bad reviews and bans their authors
+Cnnn666 - GamerOmega wouldn't be surprised
+GamerOmega - Cnnn666 hosting service that is 100% good for everyone and has 100% uptime after 3 years after launch doesnt exist, all proper hosts I've seen in discord have never deleted bad reviews and tried to help the customer instead of saying "fuck you" and banning them
+OscarFrid - Scoopy  what does it say that we are a international company. Only because we are connected thru the internet will mean that we are a international company. We are private own hobby operation and follows all the swedish laws for it. Even if someone outside of Sweden buys from us
+Cnnn666 - OscarFrid you are international since you're not providing services for only sweden
+OscarFrid - OscarFrid a international company have signed companys in respective country and we doesn't have any of that . Please leran how companies and private own hobby operation works. We have talked to people who work whit similar service as us and owns real companies, And they say that all we do are correctly done.
+GamerOmega - OscarFrid then how tf does your discord server have english and turkish roles? why tf do you allow changing the country in your payment page?
+GamerOmega - OscarFrid you havent told them the ban reasons and how you talk with your customers
+OscarFrid - GamerOmega  because we have many English members? What does a server role to do whit what we do 😂😂
+GamerOmega - OscarFrid thats the thing, your "hosting" isnt Sweden only
+OscarFrid - Cnnn666  no but we are still following all the laws and rules. It is the same thing whit online casinos. They are often based in countries that have other rules and regulations. Think about that
+Cnnn666 - OscarFrid - https://drama.gg/assets/files/2021-08-20/1629457295-128081-image.png
+OscarFrid - GamerOmega yes it does the servers still goes thru our swedish DNS
+OscarFrid - Cnnn666 and? I just explain why we can do as we do
+Cnnn666 - OscarFrid if your hosting is sweden only remove the country field in checkout
+Aaron_ - GamerOmega Yep, He Deleted Most Of My Bad Reviews
+GamerOmega - Aaron_ lmao
+Cnnn666 - Tooxic if you really think that you're not scamming people why haven't you made privacy policy yet?
+OscarFrid - Cnnn666  but we have our TOS and I have already told you about why we do as we do.... But apparently you can't read
+OscarFrid - Haha who does we sell user data to?😂 To who and why should we do that? 😂
+Cnnn666 - Tooxic I'm learning from you, you haven't answered some of our questions neither
+Cnnn666 - You can't even request data deletion in sweplox and complain about it in their server but in other host you can do that - https://drama.gg/assets/files/2021-08-20/1629472344-817852-image.png
+OscarFrid - Cnnn666 but why do you ask so many questions but you don't even answer our? So this conversation is pointless.
+AxelNetwork - what
+OscarFrid - OscarFrid and yes we have answer many of you questions. What is the point of the whole conversation? When you aren't answering our. If you think we are scamming why haven't you reported us to the swedish police. https://polisen.se/
+Cnnn666 - OscarFrid pointless coz arguments gone?
+GamerOmega - Tooxic you are the one not answering the question, why was i banned with the reason "k"???
+Cnnn666 - GamerOmega I think that they won't comeback lol
+Cnnn666 - @Tooxic @OscarFrid You're afraid of saying the truth on trustpilot? - https://drama.gg/assets/files/2021-08-21/1629557115-388089-image.png
+GamerOmega - Cnnn666 
+
+Cnnn666 yeah they died
+Aaron_ - Cnnn666 I Would Be Happy To Terminate Their Trustpilot
+Cnnn666 - GamerOmega they prob got scared
+OscarFrid - Cnnn666 I like that you contacted Trust pilot and they even asked you to provide with some fact but u can't even provide them that. 😂😂
+Cnnn666 - OscarFrid can you read properly or not? If not then bring glasses and read this again
+GamerOmega - OscarFrid you banned us for a very proper reason "k" so i cant screenshot to prove
+Cnnn666 - GamerOmega he wont even come here since they have no arguments lyao
+Pajsen - typicalGta We follow GDPR. We follow Swedish laws as we are located in Sweden
+Pajsen - GamerOmega You should maybe talk about how you started attacking users because they used a different library then you
+Pajsen - GamerOmega We are located in Sweden and their for we need to follow Swedish laws. Discord follows US laws as they are located in the US
+Pajsen - GamerOmega You broke a total of 6 different rules, and I don't even know how many in total
+Pajsen - Cnnn666 Do you know how expensive servers are? We got donor 2 when donor 1 was overloaded. I've also tried to improve the server. But we have a voting system for changed we want to make. They changed stuff without permission. We have a role called Kunder (it means Costumers). We didn't just target the Swedish role. But it says "Pick your region" and not "Pick any role you want". Our community manger was working and wasn't online very much. The "#UsersRightsMatter" is a very rude comparison against "#BlackLifeMatters", it's very disrespectful how you dare compare racism to a role.
+Pajsen - Cnnn666 He is using is personal NAS for backups.
+Pajsen - Cnnn666 We are located in Sweden, our owner lives in Sweden. We follow Swedish law and that's what we are required to do. Discord follows US law, they are located in the US
+Pajsen - Aaron_ I don't just say K
+Pajsen - IoNetty there is nothing wrong with the grammar. The only thing wrong is There's and the capital letters.
+Pajsen - Aaron_ Do I? I try to do something, I do it in DM's or in voice chat with them.
+Pajsen - GamerOmega for what? For you breaking our rules and breaking discords rules?
+Pajsen - GamerOmega We suspend servers that haven't been online for a while. Once they ae suspended the owner has 7 days to open a ticket and get in unspended, if the user doesn't the server gets deleted. We also deleted servers that breaks discord TOS
+GamerOmega - Pajsen your rules are shit, when will you add a rule "dont join the server unless youre a staff" btw?
+Pajsen - GamerOmega How are they shit?
+GamerOmega - Pajsen magically all my servers were deleted in a second without any warnings
+GamerOmega - Pajsen your rules are basically "our staffs fault is your fault"
+Pajsen - GamerOmega it's automatic, if you get banned it deleted all servers. You broke 6 different rules many times
+GamerOmega - Pajsen you are an admin and you was rude, you sent useless warnings and you was annoying
+GamerOmega - GamerOmega - https://drama.gg/assets/files/2021-08-28/1630195154-40987-screenshot-20210829-025825-screenshotgo.png
+Pajsen - GamerOmega I wasn't rude, you didn't stop when I asked you nicely so I told you off in a firm way. You stated to attack users because they didn't use the same library as you.
+Pajsen - GamerOmega you broke the rules and didn't stop when I asked you nicely. Now excuse me  as I want to sleep, It's 02:06 and I've been awake since 06
+GamerOmega - Pajsen ram inefficient library+overloaded nodes are very cool ikr
+Pajsen - GamerOmega No
+Aaron_ - Pajsen It's Called Being Sarcastic. I Have Never Seen Anyone Complain About Him Except You.
+Aaron_ - Pajsen #UsersRightsMatter Was A VALID Thing That We Created Because Oscar And Albin Described How They Rule The Server And What's Fair Or Not Doesn't Matter To Them. Please Explain How His Act Was Not Rude.
+Aaron_ - Pajsen They Also Keep Track Of A Lot Of Things When You Create A New Account From Other Countries And Many More. Like Serbia, They Have To Be 15 To Be Able To Use Discord Because Of The Government And Other Shit. This May Be A Little Off Topic But I Think It Goes With How A Company Just Can't Simply Follow The Regulations Of Where They Based Off
+Aaron_ - Pajsen Then You Probably Just Ignore It Like Your Masters
+Aaron_ - Pajsen How Epic, Makes The Rules Includes The Sentence And Then Says This.
+Aaron_ - Pajsen He Paid And His Servers Still Got Deleted, Very Fair. And Your Rules Are Shit.
+Aaron_ - GamerOmega Exactly, He Was Fucking Annoying.
+Aaron_ - Pajsen Attacked How? Ordered Jeff Bezos To Blow Their House Up? Reported Them To Discord? Or Maybe..... He Just Said "lmao"!!! omg he attacked others in such a bad way!!!
+Aaron_ - Pajsen Nobody Asked, It Does Not Make You Cool. Staying Awake For 20 Hours Or So Is Nothing
+Aaron_ - Pajsen Omg Don't Lie! That Makes You A Bad Slave!!! Be Nice To Daddy @OscarFrid !
+Aaron_ - I Would Say It Again, Both Oscar And Pajsen Are Shit At Managing The Server. Like The Recent Incident. A User Wanted Support And He Got A Reply Which Was Totally Off Topic. Scoopy Even Got Warned And Everything Was Purged. It Was Still A Good Job As A Slave I Gotta Say.
+Aaron_ - What Took You So Long To Join Drama.gg Pajsen?
+Cnnn666 - Aaron_ traffic issues i think :kekw:
+Cnnn666 - Pajsen well, if you cant say that someone is being sarcastic then you shouldnt be a admin... oh, wait, i forgot we're talking about scamplox staff
+Cnnn666 - Pajsen if you cant afford nodes then dont make hosting, problem solved
+Cnnn666 - Pajsen hmmm, how can they be... let me guess.... YOU DONT FKING KNOW WHAT YOU CAN DO AND WHAT YOU CAN ON YOUR SHITTY "support" server
+Cnnn666 - also I might be kinda offtopic to the few replies now, they recently blacklisted drama.gg links while other links are working lyaoo
+Cnnn666 - Pajsen then where are my files that got deleted instantly after ban?
+Cnnn666 - Pajsen The "#UsersRightsMatter" is a very rude comparison against "#BlackLifeMatters", it's very disrespectful how you dare compare racism to a role.
+
+how the hell in the earth do i compare those 2 hashtags?
+Cnnn666 - Pajsen what rules exactly did he break?
+Aaron_ - Cnnn666 
+Simple As Hell. 
+
+Argued With A Discord Mod
+Argued With A Discord Mod
+Argued With A Discord Mod
+Argued With A Discord Mod
+Argued With A Discord Mod And Lastly
+Argued With A Discord Mod
+Cnnn666 - Aaron_ with a discord staff*
+Aaron_ - Cnnn666 Ikr
+Pajsen - Aaron_ no
+Pajsen - Cnnn666 do you know what deleted means?
+Pajsen - Aaron_ I'm have school
+Pajsen - Aaron_ How am I managing the server? I'm a admin, not a manger
+Cnnn666 - Pajsen i dont care, they got deleted without any warning and i demand to get my files back
+Aaron_ - Pajsen You Don't Have To Tell Us We Already Know 😉
+Aaron_ - Pajsen Yay Dude Had School And Still Managed To Do A Shit Job At Scamplox In The Last Few Days Clap Clap Everyone 👏 👏
+Triassic - @Aaron_ Why do you capitalize every word in your sentences?
+Aaron_ - Pajsen Then You Are Shit At Being A Managers Slave And You Don't Manage The Server You Rule It
+Aaron_ - Pajsen I Have Never Seen Something Getting Deleted Without A Warning. Have You Seen Your Files Getting Deleted And Being Removed From The Recycle Bin Without The OS Warning You? I Have Not.
+Aaron_ - Triassic Maybe Because I'm Too Retarded To Type Like Others 🤷‍♂️
+Triassic - Aaron_ oh ok
+Cnnn666 - Aaron_ i wonder if he even knows what os means
+GamerOmega - Cnnn666 apparently not, all he knows is that hes owner of everything, he can ignore rules, their nodes arent overloaded and he should warn anyone for a shitty reason
+Aaron_ - GamerOmega True
+Aaron_ - They Got Banned After This, Why Did You Ban Them And What Was The Reason Our Lovely @OscarFrid - https://drama.gg/assets/files/2021-09-03/1630671420-295028-unknown.png
+Aaron_ - They Got Banned After This, Why Did You Ban Them And What Was The Reason Our Lovely @OscarFrid - https://drama.gg/assets/files/2021-09-03/1630671420-247939-unknown-1.png
+Aaron_ - They Got Banned After This, Why Did You Ban Them And What Was The Reason Our Lovely @OscarFrid - https://drama.gg/assets/files/2021-09-03/1630671420-214195-unknown-2.png
+eraters - IoNetty o you see what they are now
+
+retarded
+tan_playz - all white theme pics be making me blind lol
+Raxo11527 - Aaron_  
+
+"Racism is the scientifically false belief that groups of humans possess different behavioral traits corresponding to physical appearance and can be divided based on the superiority of one race over another" 
+
+And how is  "Scoopy is Gay 🙂 " rasist?? 
+
+We have answered all tens of thousands of questions but now you call me a racist. What the hell is wrong with you.
+
+ Do you have no life or what? You can not do anything useful with it. This conversion has been going on for almost a month, and you still have nothing meaningful to do whit your life? What do you want?
+Aaron_ - Raxo11527 Rule 3 A Joke? "Any hate speech"
+Raxo11527 - Aaron_ You fucking called me a racist! And why is that hate speech when scoopy was okey whit it at the time?
+Raxo11527 - This host started more as a project to help people code and host your discord bot for free! We knew it would be difficult but we did everything because we know that many of you can not always afford to pay for a host. So that's why we made it free for a start.
+
+Time goes by and we get more and more users that we did not expect. The servers that we had the hosting on we owned privately for the most part and were server computers that we did not use directly and put down our private time to do for free to you.
+
+But they became tough and we ended up renting a server in the US in the hope of lower ping because Discords Api is based in the US. And it happened in the end (Donator node 1) To take part in Donator node in the beginning, you needed to donate over 2 dollars. but time passed and the US node became overloaded. And we decided to keep everyone who had donated and instead introduce a one-month plan. Because we got no income at all anymore. So instead of shutting down US Node 1, we tried to keep it running by getting people to subscribe every month. But to still keep all existing on US Node 1.
+
+We also shut down so that it was no longer possible to create servers.
+
+We also received complaints from some of our staff members that we did not care as a community. But we have so much else to do than just the server and we did not trust to just give out the effort to take care of what we have created and committed to someone else. So we set up drawing lines for how the server would be handled. (Exat like any other server)
+
+The rules are simple. 
+*Do not change the server, Channels or server settings or utilize bots that may have more privileges. The server would be built in such a way that nothing would need to be changed and that it would just work.
+
+*The staff were largely responsible for the community itself, more or less moderating the chat. As well as working with support issues.
+
+The rules were broken quite often by the same staff members and they were greeted time and time again but did not listen. And instead threatened and ignored what the Owner of the server said to them. They in turn started a type of movement with #UseRightMater that would more or less try to silence the Owners and get members to say bad things about the Owners and without proof to a large extent.
+
+We who have founded Sweplox Hosting have many other things we do during the day that do not mean being in front of the computer. Many of us go to school and others have jobs. So we usually do this in our spare time. We wanted to create a free host for people. Follow all regulations that Swedish hobby businesses require and treat it as if this were a company to a greater extent. But to see people that we do not care and think that what we do is bad. Is not fun at all. We have given you a platform to meet other people, we have given you a place where you can have your host for FREE! What more do you want from us. If you now hate our hosting why have you continued to use it all the time.
+Aaron_ - Why Are You Replying Back To Me And Not To The Others?
+GamerOmega - Raxo11527 We have given you a platform to meet other people
+
+did you invent discord?
+Cnnn666 - GamerOmega lmaooo
+better dont say that coz his dad probably works at discord and will ban you
+Cnnn666 - Raxo11527 We have answered all tens of thousands of questions
+
+uhh no. you still didnt answer many of our questions.
+
+Raxo11527 now you call me a racist. What the hell is wrong with you.
+
+nononoon, what the hell is wrong with you? You're acting like a 2 years old kid that thinks that he can do whatever he wants. You dont even follow your own rules. Just accept the fact that you shouldnt be community manager or even be in this server if you cant respect your own users until they give you money
+Cnnn666 - Raxo11527 They in turn started a type of movement with #UseRightMater that would more or less try to silence the Owners and get members to say bad things about the Owners and without proof to a large extent.
+
+without a proof? you think that where you are isnt the truth?
+
+Raxo11527 They in turn started a type of movement with #UseRightMater that would more or less try to silence the Owners and get members to say bad things about the Owners
+
+how was it supposed to silecen owners? you didnt care about the community. aaron and scoopy were the ones caring the most. u got jealous bcoz they got more respect in the server than you or what?
+
+Raxo11527 Follow all regulations that Swedish hobby businesses require and treat it as if this were a company to a greater extent.
+
+I'm still waiting for my files back and pp since youre not targetting only sweden atm
+
+Raxo11527 We have given you a platform to meet other people
+
+you basically made a discord server lmao, anyone can do that
+
+Raxo11527 we have given you a place where you can have your host for FREE!
+
+its kind of outdated so u shouldnt say that
+
+Raxo11527 What more do you want from us
+
+to finally start listening to the community and see your mistakes?
+
+Raxo11527 If you now hate our hosting why have you continued to use it all the time.
+
+bcoz when u werent that active it was a bit better?
+Raxo11527 - Cnnn666  The files are gone....
+Cnnn666 - Raxo11527 I said I dont care and I want to get them back since I wasnt ever warned that if I get banned my files are gone
+Cnnn666 - @Raxo11527 maybe you'll start answering my other questions?
+Pajsen - Aaron_ In some OSes it does.
+Pajsen - Cnnn666 Operating System, I've made my own basic OS. And Tooxic also has
+Aaron_ - Pajsen Sadly I Have Not Used Any Non Popular OSes So I Cant Tell.
+Cnnn666 - Pajsen and I created my very basic own cpu
+GamerOmega - Cnnn666 and i made my own very basic gpu
+Edziu - I connected the card to their site. I bought a VPS. I could not connect to the server I tried to log in to their site also failed because it showed that the password is not correct I wanted to reset the password but the mail to me came. And on their discord was banned
+Aaron_ - Edziu I believe creating tickets on their server might help.
+Edziu - Aaron_ I believe creating tickets on their server might help.
+
+I have a ban on their server
+Edziu - and the e-mail as it writes back after 2 days and tells me that I do not know why the server can not join
+Aaron_ - LMFAO.
+Cnnn666 - Edziu what did you except from them lol
+why did u buy vps from them in the first place
+GamerOmega - Tooxic yea ban them if they didnt reply
+HARDY_SLICE - The host deleted my web server even tho it was running fine and not suspended.
+They also removed their client page where we could modify our servers. The owner also claimed that we cannot modify it anymore. I want a refund for my 9k idling coins which cost me more than 150 hours - https://drama.gg/assets/files/2021-09-19/1632055524-833296-unknown.png
+Aaron_ - HARDY_SLICE 😱 Arc.io is fake guys!!!!!! 150 Hours of idling is worth nothing! Omg!!
+GamerOmega - Tooxic so you just wasted peoples time?
+Cnnn666 - HARDY_SLICE you cant modify your servers now? Lmao
+HARDY_SLICE - Cnnn666 no lol
+Aaron_ - In 8 more days this thread will be 2 months old. Pog or unpog?
+Cnnn666 - Aaron_ pog i guess but unpog coz scamplox still isnt shut down
+vermium - HARDY_SLICE I have had servers there for over 6 months, have not had any hassles and have had excellent support, even tailor-made plans. Their client side is still there it has just been moved to their shop, here you have CHILDREN. https://client.sweplox.net/
+GamerOmega - vermium you didnt prove any of your words, pretty sure a masked staff
+vermium - 👍
+Aaron_ - vermium Hello Verimium, long time no talk. Support will be excellent anywhere as long as you have connections with the owners or employees. You and albin are good friends and I don't expect someone to act bad with their friends.
+Aaron_ - I also remember you being so good friends with him that you got a vps with decent specs from him without paying.
+Aaron_ - Atleast got the 666 post lol - https://drama.gg/assets/files/2021-10-16/1634406475-145688-image.png
+GamerOmega - Aaron_ fun fact that i was a friend with him and he still scammed me
+Aaron_ - GamerOmega Ikr Vermium probably got lucky by being swedish lmao
+HARDY_SLICE - vermium LOL THEY JUST SUSPENDED MY BOT'S SERVER BECAUSE IT WENT OFFLINE. AND IT WENT OFFLINE BECAUSE THEIR NODE WAS OVERLOADED ASF. 
+I MEAN DUDE IF YOUR NODE IS OVERLOADED AND MIGHT CAUSE SERVERS TO GO OFFLINE ON ITS OWN STOP THE FUCKING SUSPENDING SERVERS RULE
+Cnnn666 - Aaron_ you summoned me
+Cnnn666 - Aaron_ bet
+Cnnn666 - HARDY_SLICE Stop making hosting service*
+Cnnn666 - I wonder when will scamplox staff come here and start lying again
+Aaron_ - Cnnn666 They already quit I guess
+Pajsen - GamerOmega Um, no. He us a paying user. We don't have any masked accounts
+Pajsen - Aaron_ No? He is paying.
+Pajsen - Cnnn666 We closed free hosting a while ago. So why should you be able to edit free servers?
+Pajsen - HARDY_SLICE Do you know how much we made of you AFK:ing? Like nothing. You're not even allowed to transfer that amount of money on ANY bank. We removed the client page as we have STOPED free hosting. So if we stoped free hosting then why would you be able to edit your servers?
+Aaron_ - Pajsen We had vc'ed few months ago and he told me that he don't pay for nodes.
+Pajsen - Aaron_ He does. I know this as I helped him with upgrading his VPS stuff. He had a low tierd sponserd VPS for a projekt, but that's not in use anymore.
+Aaron_ - Pajsen If I'm not wrong he had a really good spec'ed dedi. I remember him telling me that he resells vps from that.
+GamerOmega - Pajsen i see - https://drama.gg/assets/files/2021-11-01/1635752563-591445-screenshot-20211101-104020-discord-canary.png
+Pajsen - Aaron_ 1. We were sponsoring him with it for a project. 2. He didn't resell it as the rules was that the could only use it for the project. 3. It was not good specs, it was like 2 cores, 20 GB disk and 2 or 4 GB ram
+Pajsen - GamerOmega what?
+Aaron_ - Pajsen When did you guys sponsor him?
+Pajsen - Aaron_ The free VPS he had was just a sponsor, we are not sponsoring him anymore. We stoped that a while back.
+Aaron_ - Pajsen Okay, and from when did you guys start providing him the vps?
+Pajsen - Aaron_ I don't know, but around 2 months after I became staff I think
+Aaron_ - Pajsen I honestly do not remember him talking to me about a small vps.
+Cnnn666 - Pajsen because technically it's still his server? I couldn't find anything in your ToS about taking away access to server from your user
+Cnnn666 - now we gotta wait another 5 years
+Cnnn666 - or maybe even 10 years
+Aaron_ - I have already lost hope
+HARDY_SLICE - lmao
+Aaron_ - bump
+HARDY_SLICE - bump(2)
+Zark - bump(3)
+Cnnn666 - bump(4)
+GamerOmega - a friend of mine sent me this from scamploxs server
+GamerOmega - GamerOmega - https://drama.gg/assets/files/2022-05-10/1652179686-367008-screenshot-20220510-134442-discord.jpg

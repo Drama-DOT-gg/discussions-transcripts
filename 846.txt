@@ -1,0 +1,82 @@
+Two - This guide is still WIP, and the latest updated guide is probably going to be on the Dashactyl server because that's where I originally wrote it.
+
+
+
+What is considered a good hosting provider?
+
+First of all, any hosting provider in general should:
+have common sense.
+have mature and professional staff. 
+should have properly setup servers that are handled by people who know what they are actually doing. (like system administrators know how to setup Pterodactyl Panel)
+have knowledge on how a business role model should be.
+has a support team of people who actually know how to do their job. These people should not get toxic, or mad at people for not knowing how to do things. They should professionally reply to any support tickets. They should at least have care for their consumers. This also means you wouldn't just make your friends staff.
+a proper format on how everything in the hosting provider, including how they would distribute servers and manage staff.
+uses a stable billing panel and does not use something, like a Discord bot, to distribute servers.
+have a proper budget and not be a budget host.
+not do illegal activities.
+have proper terms of services and privacy policy.
+
+What are unrecommended things that shouldn't be done on a 'good hosting provider'?
+
+Overallocated resources are highly discouraged if you want to make a 'good hosting provider'. In fact, it would be a better practice to not overallocate, even on a free hosting provider, and leave some resources free of space. 
+Don't give your friends permission or staff, unless they applied. This would be fine if you are making a hosting provider with friends (not encouraged), but don't just give your friends staff, even if they are professional. Let them follow through the normal process of becoming staff, and don't treat them biasedly 'better'. 
+Try your best to let your hosting provider only have 1 owner. If there's any drama that comes up, there could be some betrayal and drama that occurs in the future.
+Don't use Dashactyl. It's unstable af.
+Don't punish (ex: mute, kick, temp-ban, ban, etc.) people just because you don't like them. This is completely biased and stupid.
+Don't steal other people's rules (ex: Discord server rules, Terms of Services/Usage, Privacy Policy, etc.) for anything. Don't use a generator to generate these rules, and such. This rule applies for something that isn't your hosting provider. 
+Don't make a hosting provider for the sake of popularity. 
+Don't tell people that your hosting provider is amazing, and/or perfect. No, it isn't. Every hosting provider has it's own flaws, and advantages. Even though this would be a good marketing strategy, no sh*t... ofc you'll say your hosting provider is good, unless you really know it sucks.
+Don't let people under 13 use your hosting provider. If you do, good luck handling COPPA. 🙂
+Don't make a hosting provider if you under 16. You probably don't know what you are doing.
+Don't be an asshole.
+
+Keep in mind, sometimes rules aren't meant to be followed.
+
+Don't take this guide for legal advice, nor take this whole guide and follow it thoroughly. There could be flaws on what I'm writing, and there's always going to be things that may as well end up better by not taking my advice.
+Harrib - Yep, I wish I knew all of this when I started up my first blog (davidHost)
+FatGrizzly - simple rule is not to be a dick
+Fallen_ - Just don't start a hosting provider because you think you're going to get rich easily. It's a passion for people that do it well and a money-grab for people that suck, that's just the reality. 
+
+If you want to do it, go ahead, give it a shot, but know what you're getting in to and do it properly. Doing it properly takes a lot more time, effort, and most importantly money. But only when done properly it can become a success.
+
+And as soon as you find some success, expect people to come around trying to ruin it  for you, they come from nowhere, and take over everything if you don't understand exactly what their intentions are, which is a hard thing to foresee. 
+
+So my advice:
+Plan upfront, a good plan builds a good business.
+Be an extrovert to clients, but an introvert to anyone you don't know the intention of.
+Don't assume anyone wants the best for you, because they don't.
+Have fun, but not too much, and don't do it for the money. 
+Be careful, working with money can and must only be done in a legal way.
+Superintendent - Also, don't Mess with other Hosts clients. all it does is make you look like a Idiot who is trying to get more clients. when in most cases when your doing that. you most likely don't have enough resources if for some reason they do move to you. 
+also 2.
+Make your own panel. or atleast try to make additions to premade panels, Make a custom theme. TELL YOUR CLIENTS THAT YOUR USING A PREMADE PANEL (unless you made one)
+
+
+Never owned a host, just had shitty experiences with Bad hosts Who poached people from Good hosts, with good panels. good specs and good owners
+FatGrizzly - Superintendent TELL YOUR CLIENTS THAT YOUR USING A PREMADE PANEL
+
+so should i email my clients that "yo people I AM USING BLESTA BWHAHAHAHAHA" ?
+FatGrizzly - Superintendent Make your own panel. or atleast try to make additions to premade panels, Make a custom theme. TELL YOUR CLIENTS THAT YOUR USING A PREMADE PANEL (unless you made one)
+
+using a premade panel is much better than making some ass shit and getting exploited, custom additions to the premade panel? you want me to like decode whmcs and do shit in it or smth like that?
+
+from your ass response, i feel like you have no experience in running a host.
+Zark - FatGrizzly blesta is shit
+FatGrizzly - What should I use then? The fucked up whmcs?
+Timanttikuutio - Superintendent why did you bump a 7 month old thread...
+Zark - FatGrizzly Use something modern, Clientexec or Hostbill
+Superintendent - Timanttikuutio i didnt see the date of when the thread was created, sorry
+iiChxrlly_ - Fallen_ Atleast save money to make a host. Or it could just bankrupt within a month
+Korbs - First of all, any hosting provider in general should:
+ Have Korbs in their team
+Korbs - and don't use Discord as your only login option, that is getting very annoying.
+Kowone - Korbs wow, korbs really do love flexing korbs
+derpi - Korbs don't have korbs in their team* (joke)
+Jellz - nice
+Two - Superintendent eh nothing's wrong about using a open source panel as long as it's secure and in production
+NGX - FatGrizzly 
+
+FatGrizzly from your ass response, i feel like you have no experience in running a host.
+
+no shit m8 he said he never ran a host
+FatGrizzly - Zark clientexec is good, but deffo not hostbill.

@@ -1,0 +1,950 @@
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597252870-621304-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597253024-494809-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597254030-409922-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597254259-166179-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597254344-63273-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597254363-177399-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597254776-875349-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597255003-613345-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597255085-173885-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597254558-282219-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597256192-830004-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597256389-369561-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597256668-723418-image.png
+Rezo - Where to start ... I guess I'll start from when he was first trying to start a host 
+
+
+
+
+He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that? Also doesn't "care" about what anyone thinks. He's also told that if he goes to a hospital, his customers will have no idea what is going to happen to him. He's told here to be transparent on his condition too, so customers will know. He does have a "business partner" though... more on that later.
+
+
+
+He claims his business is registered in California early on. However, later on, when people ask him, he's very evasive about it ... and it's also not registered in California. He claims he has an LLC, but he hasn't given a filing number, or a state to tie it to.
+
+
+... no response
+
+
+... and no response again.
+
+
+... and again.
+
+Sketchy I guess, but not hard proof, but he's also refusing to give information on his registration. 
+
+Let's move on to ddos protection then, shall we?
+
+So on his website, you're greeted with how you can Begin your journey with the most powerful Minecraft platform available... Not going to comment on that I guess, let's look at what he offers.
+
+oh hey!, 20 gbps ddos protection.
+
+except... he uses hetzner and webNX, and not proxied...
+
+
+
+There's nothing wrong with using these two companies, especially because they're very cheap. However, blatantly advertising something as a feature is just wrong. WebNX has absolutely zero ddos protection listed on their site, while hetzner doesn't gives numbers.
+
+
+It seems like they're from experience on ddos attacks on their own machine. 
+Sure ... A 20gbps attack exactly, on both his hetzner and webnx machines... does he think ddos protection just magically applies to all his machines or something?
+
+Back to that business partner of his I guess 
+
+seems like he doesn't have one anymore I guess
+
+... except he still does? It's a silent co-owner, lives on the other side of the united states, and isn't in his discord. I guess if tony has to go to the hopsital one day, and the nodes go down and support tickets aren't being answered in the discord, his silent co-owner will know about it. In all seriousness though, how does he expect us to believe this? He's also not at all transparent about his heart condition, and how he's "dying". Seems like there's a high chance of him just going up and vanishing. 
+
+More unfounded accusations that I believe, but I have no proof of:
+
+Upvote botting: 
+
+Tony's response? 
+
+Someone posing as a customer a couple days after he starts his hosting company in order to get him banned? God people must really be out to get him. Strange how they aren't doing it to larger hosting companies like pebblehost...
+
+One last thing, his nodes are strangely empty, and very uneconomical to host
+
+His nodes have 64gb of RAM, and they're all running a 12 core CPU. 
+
+If he wanted to fill that up, he'd have to start selling 4/5gb plans. Each machine costs $140 to host, from webNX. 
+The most profit he can possibly make on the machine with his 6gb plans($16 a month) is going to be $160, which after taxes and fees + the offsite backups he has, means that he's running at a loss, even with the most amount of profit he'll be taking from each server. 
+
+Not to mention that his servers are strangely empty ... there's 0.42% cpu usage on this node, and it's been running for fourteen weeks now.
+https://status.phoenixnodes.com/report/uptime/028663e18418fd1edbecc3f3758c3289/
+3.1% cpu usage on this node, and it's been running for 15 weeks now.
+https://status.phoenixnodes.com/report/uptime/4262585e542e01e37fe57965f708ec33/
+
+???????? Not exactly sure what's up with this, but it's extremely strange. - https://winterhoax.com/assets/files/2020-08-12/1597256715-191079-image.png
+AYS - So about that whmcs thing, I can't do anything as it might be just a whmcs misconfiguration or something. Nodes being empty is not sketchy AT ALL. This means he doesn't have customers yet or whatever. About that registration thing, I am going to ask him about that.
+Rezo - AYS 
+Except he's been getting customers, as you can tell from his discord, yet his usage stats seem to have stayed consistent. Also, any host that has a brain operates on a simple principle:
+Node no make money, node go bye bye. 
+Not to mention that he can't be making a profit on his nodes, even when they're filled up.
+AYS - Rezo when you start a hosting company you cant expect any profit at the beginning
+Rezo - AYS 
+Yep, but you don't position your prices so that you're bleeding money, even in the best case scenario. Not to mention that his plans make no sense given the node that he's buying(12 cores 64GB). It also makes no sense to buy and pay for four nodes, especially when they're quick to deploy, and it also makes no sense to have half full nodes.
+AYS - Right, but this isn't illegal or scummy, right?
+Rezo - Yep, not illegal, not scummy, but as I said, it's extremely strange and makes no sense. Also means that that company isn't positioned to survive long term.
+Jedrik - Rezo He has a heart condition, is on disability, and his thoughts are to start a host? What's up with that?
+
+From being on the internet I've learned to not question things like this cause you never know.. Unless they're like BLATANTLY lying where if you used half of your brain you'd realize it
+Rezo - Jedrik 
+Blatantly lying would be:
+DDOS protection
+the "silent" business partner of his
+Claiming that he won't vanish off the face of the earth and using that as a selling point..... (not a good one, but even worse if it's the opposite)
+Jedrik - I don't think any of what you just said related to the point I was making about the chances of the health of the dude actually being bad
+justarandomperson - I will say after I asked he DMed me the LLC link: https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=186188167105227026039179207134184208038029184057
+Jedrik - Their mailing address and principals office js a liquor store? 🤭 - https://winterhoax.com/assets/files/2020-08-13/1597289933-511018-screenshot-2020-08-13-11-38-31-70.jpeg
+Aiden - Jedrik The Registered Agent is a company called Registered Agents Inc. which I’m guessing is who he went thru. Most likely their offices is in that plaza? Just a guess.
+
+EDIT: I’m wrong. That isn’t their offices. It’s the address by the organizer who is named Tanner Benuzzi apparently, not sure if that’s the owner but 🤷‍♂️
+Jedrik - Jedrik nah nvm but why a liquor store
+Aiden - Jedrik Dunno. Don’t think most hosts have real office space, so I’m guessing it’s a random area.
+Aiden - Mailing addresss actually Tony told me, https://i.phxno.de/FxlbabaoKl.png
+phoenixnodes - #1. WHMCS Nulled: Our WHMCS installation has been valid since we originally started the company as lamehosting.com. The issue that arose was our IP for our installation changed which caused our license to appear as invalid. Here is a screenshot of our invoices on WHMCS.com: https://i.phxno.de/C0R3cxKZJQ.png
+
+#2. Health condition: Yes, I do have a health condition that affects my heart which is why I am on disability and I stay home. I am not going to post photos of proof of my diagnosis for personal reasons.
+
+#3. Business partners: Originally the hosting company started under lamehosting.com and Lame, LLC, formed in Texas first, then moved to California, my business partner was the original owner of the Lame, LLC and found it wasn't in his best interest to continue using the Lame name for the company and we parted ways. Once that happened another associate and I formed Gray Matter Technologies which is based out of Wyoming. This is where people may be confused that my business partner left but the partner only changed.
+
+#4. DDoS Protection: Yes, the two hosts I use do not actively advertise that they offer a specific number for DDoS protection but based on previous attacks we've seen, we were comfortable stating that our servers were capable of handling 20Gbps DDoS attacks, after review of this, we have decided that this will be removed shortly from the website as we do not actually know the specific value and feel that it is dishonest towards our customers.
+
+#5. Node Utilization: Yes, our nodes do not have high utilization, this is due to a spike in customers we saw originally which caused us to purchase more nodes than necessary. Why do we continue to operate the nodes? We acquire and lose customers each day which causes fluctuation in the amount of users assigned to each node and we cannot consolidate customers every time a node isn't 100% allocated. Here are our nodes and how our customers are spread across the nodes: https://i.phxno.de/IdnV4AXWwT.png
+
+#6. Reddit Vote Manipulation: Yes, positive posts were made about our company and votes were manipulated to bring the posts to the top. We have speculated that this could have been a previous staff member or even another host that had also started selling at the same time but we will not be commenting on it as we do not have concrete proof of who did it.
+
+No further comments will be made.

@@ -1,0 +1,32 @@
+SamCoThePug - Hi all,
+
+Due to the recent passing of @Sloth, me and @Two have took a archive of the Drama.gg site. This is due to where the site is predicted to go offline soon where the bills for the server hosting will be unpaid. The links to the archive are as follows:
+
+https://github.com/Drama-DOT-gg/assets
+Images from posts
+Avatar images
+
+https://github.com/Drama-DOT-gg/users-json
+Every user's data the way the API sends it
+
+https://github.com/Drama-DOT-gg/discussions-json
+Discussions, pagination, and posts responses the way the API sends it
+
+https://github.com/Drama-DOT-gg/discussions-text
+
+Every post, but you can read it in a text file easily
+
+If there is anything else we forgot to archive, please let me know.
+
+Rest in peace @Sloth, may he have all of our condolences.
+
+Warm regards,
+Sam.
+ast3risk - https://github.com/Drama-DOT-gg/assets leads to a 404.
+SamCoThePug - ast3risk Resolved.
+ast3risk - SamCoThePug I may back these repos up onto my personal server, github can't be relied upon too well.
+SamCoThePug - Note: This is not finished yet but still accessible.
+
+Current archive website: https://dramadata.com/
+
+any feedback plz let me know
